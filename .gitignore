@@ -205,4 +205,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-/corpus/bnc_archive/bnc_xml_edition.zip
+corpus/bnc_archive/bnc_1994/bnc_xml_edition.zip

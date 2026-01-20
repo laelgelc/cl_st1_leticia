@@ -2,32 +2,8 @@
 
 ## Phase 1: Corpus Download and Integrity Check
 
-This phase involves downloading the British National Corpus (BNC) XML edition from the Oxford Language Archive and verifying its integrity.
+It was believed that the data source to be used was the [British National Corpus (BNC) 1994](corpus/bnc_archive/bnc_1994/bnc_1994.md) but it was clarified that the correct one was the [British National Corpus (BNC) 2014](https://cass.lancs.ac.uk/bnc2014/).
 
-- [British National Corpus 1994](https://llds.ling-phil.ox.ac.uk/llds/xmlui/handle/20.500.14106/2554)
-- [Download URL](https://llds.ling-phil.ox.ac.uk/llds/xmlui/bitstream/handle/20.500.14106/2554/2554.zip?sequence=4&isAllowed=y)
-- [British National Corpus - Documentation page](https://www.natcorp.ox.ac.uk/corpus/)
+This phase involves downloading the [BNC 2014 Spoken](http://corpora.lancs.ac.uk/bnc2014/):
 
-The corpus archive was downloaded and successfully verified. Here is an except of its contents:
-
-```aiignore
-(my_env) eyamrog@eyamrog-iMac:~/PycharmProjects/cl_st1_leticia/corpus/bnc_archive$ python -c "import zipfile; \
-z = zipfile.ZipFile('bnc_xml_edition.zip'); \
-print('\n'.join(z.namelist()[2500:2515]))"
-download/Texts/H/HS/HSF.xml
-download/Texts/H/HS/HSA.xml
-download/Texts/H/HS/HSN.xml
-download/Texts/H/HS/HSE.xml
-download/Texts/H/HS/HSM.xml
-download/Texts/H/HS/HSY.xml
-download/Texts/H/HS/HSK.xml
-download/Texts/H/HS/HSL.xml
-download/Texts/H/HV/
-download/Texts/H/HV/HV2.xml
-download/Texts/H/HV/HVE.xml
-download/Texts/H/HV/HVB.xml
-download/Texts/H/HV/HVH.xml
-download/Texts/H/HV/HV3.xml
-download/Texts/H/HV/HV0.xml
-(my_env) eyamrog@eyamrog-iMac:~/PycharmProjects/cl_st1_leticia/corpus/bnc_archive$ 
-```
+- [Sign up for access](http://corpora.lancs.ac.uk/bnc2014/signup.php)
