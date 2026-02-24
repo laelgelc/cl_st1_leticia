@@ -1,0 +1,29 @@
+SPEAKER METADATA FIELDS: ORDER, XML TAG, TITLE OF METADATA ITEM 
+#	XML tag	Metadata Title
+
+1	exactage	Exact age
+2	age1994	Age (BNC1994 groups)
+3	agerange	Age range
+4	gender	Gender
+5	nat	Nationality
+6	birthplace	Place of birth
+7	birthcountry	Country of birth
+8	l1	First language
+9	lingorig	Linguistic origin
+10	dialect_rep	Accent/dialect as reported
+11	hab_city	City/town living
+12	hab_country	Country living
+13	hab_dur	Duration living (years)
+14	dialect_l1	Dialect at Level 1
+15	dialect_l2	Dialect at Level 2
+16	dialect_l3	Dialect at Level 3
+17	dialect_l4	Dialect at Level 4
+18	edqual	Highest qualification
+19	occupation	Occupation: title
+20	socgrade	Class: Social grade
+21	nssec	Class: NS-SEC
+22	l2	L2 (if bilingual)
+23	fls	Foreign languages spoken
+24	in_core	Part of core set of speakers
+
+

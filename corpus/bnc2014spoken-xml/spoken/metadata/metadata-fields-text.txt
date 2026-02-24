@@ -1,0 +1,17 @@
+TEXT METADATA FIELDS: ORDER, XML TAG, TITLE OF METADATA ITEM 
+#	XML tag	Metadata Title
+1	rec_length	Recording length
+2	rec_date	Recording date
+3	rec_year	Year of recording
+4	rec_period	Recording period
+5	n_speakers	Number of speakers
+6	list_speakers	List of speaker IDs
+7	rec_loc	Recording location
+8	relationships	Inter-speaker relationship
+9	topics	Topics covered
+10	activity	Activity description
+11	conv_type	Selected characterisations of conversation type
+12	conventions	Transcription conventions used
+13	in_sample	Sample release inclusion
+14	transcriber	Transcriber
+
