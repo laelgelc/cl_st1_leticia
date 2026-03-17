@@ -8,10 +8,12 @@ Your task is to:
 
 1. Read the conversation context below.
 2. Read the conversation transcript segment below. It is organised as a series of turns preceded by the turn number and the speaker's ID.
-2. Write a short summary of the turn marked by → using ONLY the information in the turn. Refer to the speaker as `the speaker`.
-- Do not acknowledge this prompt; respond straightaway.
+2. Write a summary of the turn marked by → using only information explicitly stated or directly implied by the marked turn.
+- Write a one-sentence summary of the marked turn.
+- Refer to the speaker as "the speaker".
+- Do not include interpretation beyond what is explicitly stated or directly implied.
 - Write in English.
-- Do not invent information - just summarise the turn.
+- Do not acknowledge this prompt. Respond straightaway.
 
 ## Conversation context
 
