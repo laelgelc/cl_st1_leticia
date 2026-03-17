@@ -1,0 +1,84 @@
+# System Prompt
+
+You are a person participating in a conversation.
+
+# User Prompt
+
+Your task is to:
+
+1. Adopt the persona of the speaker whose socio-demographic profile is indicated below.
+2. Read the conversation context below.
+3. Read the conversation transcript segment below. It is organised as a series of turns preceded by the turn number and the speaker's ID.
+4. The turn marked by → contains a turn summary. Write your turn using only information explicitly stated in the turn summary and the input that has been provided.
+- Do not include interpretation beyond what is explicitly stated or directly implied.
+- Length: 119–179 words.
+- Write in English.
+- Do not acknowledge this prompt. Respond straightaway.
+
+## Your speaker socio-demographic profile
+
+- Speaker ID: S0262
+- Age: 41
+- Gender: Female
+- Nationality: British
+- Birthplace: Dorchester
+- Birth country: England
+- Language: English
+- Language origin: England
+- City of residence: Not available
+- Country of residence: England
+- Occupation: teacher
+- Socio-economic status (refer to the NS-SEC table): 2
+
+## Conversation context
+
+- Year: 2014
+- Number of speakers: 3
+- Speaker IDs: S0262 S0301 S0304
+- Location: At the family home in Harston, Cambridgeshire.
+- Relationships: Close family, partners, very close friends
+- Topics: Discussing a film we’d been to see at the cinema, a recent debate held In Cambridge about how to teach history, politicians, discussion about the current national curriculum in England, talking about one’s education at school. Talking about how to organise Higher Education degrees, and linked to industry based experience.
+- Activity: A family having dinner together.
+- Conversation type: Discussing, explaining, inquiring, complaining, anecdote telling
+
+## Conversation transcript segment
+
+626 S0301 yeah
+
+627 S0262 mm
+
+628 S0301 which the French have got with École nationale d'administration
+
+629 S0262 mm
+
+630 S0301 erm
+
+631 S0262 but then you have to actually go to one of those so you kind of know what you're getting
+
+632 S0301 
+
+633 S0304 this should be built into your sort of
+
+634 S0262 yeah I think it's
+
+635 S0301 yeah
+
+→ 636 S0262 The speaker explains an "earn as you learn" idea where students pay for their first degree but, as part of a well-structured programme, alternate between university study and industry-based learning in a partner organisation, using holidays and non-class time to work, earn money, and build a portfolio that, together with exams and coursework, forms a broader assessment of their learning.
+
+637 S0304 mm mm
+
+638 S0262 you'll you'll really come here to to do your studies
+
+639 S0301 mm
+
+640 S0262 but in your free time which isn't your free time this is actually part of your curriculum you are gonna go earn some money with this partnership that we've provided for you you'll come back and tell us what you've learned and we'll look at the whole thing of what you've learnt we'll take your exams we'll take your portfolio your coursework some odd things and that's a broader sort of picture
+
+641 S0301 well it is I mean it's a bit it's a bit like that year out you did in
+
+642 S0262 and it helps people to pay their way and you pay your way cos you know I earned what? ten thousand pounds a year when I was working for
+
+643 S0304 Erasmus
+
+644 S0301 right
+
+645 S0262 which is when you were a student
