@@ -98,6 +98,40 @@ def write_text(path: Path, content: str) -> None:
     path.write_text(content, encoding="utf-8")
 
 
+def candidate_keys_for_path(path: Path) -> list[str]:
+    """
+    Generate possible lookup keys for a prompt file.
+
+    Example:
+        S24A_57_S0261_prompt_profiled.md
+    candidates:
+        S24A_57_S0261_prompt_profiled
+        S24A_57_S0261_prompt
+        S24A_57_S0261
+        S24A_57
+        S24A
+    """
+    stem = path.stem
+    parts = stem.split("_")
+
+    candidates = [stem]
+    for i in range(len(parts) - 1, 0, -1):
+        candidates.append("_".join(parts[:i]))
+
+    return candidates
+
+
+def resolve_file_id(path: Path, file_index: dict[str, str]) -> str | None:
+    """
+    Resolve a prompt filename to a file_id using several fallback keys.
+    """
+    for key in candidate_keys_for_path(path):
+        file_id = file_index.get(key)
+        if file_id:
+            return file_id
+    return None
+
+
 def load_file_index(index_path: Path) -> dict[str, str]:
     """
     Parse file_index.txt lines of the form:
@@ -132,7 +166,6 @@ def call_api(client: OpenAI, model: str, prompt_text: str, max_output_tokens: in
         raise RuntimeError("API returned empty output.")
     return out
 
-
 # ---------------------------------------------
 # Worker
 # ---------------------------------------------
@@ -148,7 +181,7 @@ def process_prompt(
         print(f"[WORKER] Reading prompt: {path.name}")
         prompt_text = read_text(path)
 
-        file_id = file_index.get(path.name) or file_index.get(path.stem)
+        file_id = resolve_file_id(path, file_index)
         if not file_id:
             raise KeyError(f"No file_id found in file_index.txt for {path.name}")
 
@@ -169,7 +202,6 @@ def process_prompt(
     except Exception as e:
         print(f"[ERROR] {path.name}: {e}")
         return False
-
 
 # ---------------------------------------------
 # Main
