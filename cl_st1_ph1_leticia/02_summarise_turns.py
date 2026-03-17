@@ -179,12 +179,32 @@ def build_user_prompt(
     for placeholder, value in replacements.items():
         prompt = prompt.replace(placeholder, value)
 
-    prompt = prompt.replace("→ <turn_n> <speaker_id> <utterance>", transcript_segment, 1)
+    transcript_section_pattern = (
+        r"(## Conversation transcript segment\s*)"
+        r"(.*?)(?=\Z)"
+    )
 
-    remaining_placeholder_pattern = r"\n\s*<turn_n> <speaker_id> <utterance>\s*"
-    prompt = re.sub(remaining_placeholder_pattern, "", prompt)
+    def replace_transcript_section(match: re.Match[str]) -> str:
+        heading = match.group(1).rstrip()
+        return f"{heading}\n\n{transcript_segment}"
+
+    prompt = re.sub(
+        transcript_section_pattern,
+        replace_transcript_section,
+        prompt,
+        flags=re.DOTALL,
+    )
 
     return prompt.strip()
+
+
+def build_prompt_markdown(system_prompt: str, user_prompt: str) -> str:
+    return (
+        "# System Prompt\n\n"
+        f"{system_prompt}\n\n"
+        "# User Prompt\n\n"
+        f"{user_prompt}\n"
+    )
 
 
 # ------------------------------------------------------------
@@ -272,6 +292,10 @@ def process_turn(
         transcript_segment = build_transcript_segment(target_row, conversation_turns)
         user_prompt = build_user_prompt(user_prompt_template, header_row, transcript_segment)
 
+        prompt_markdown = build_prompt_markdown(system_prompt, user_prompt)
+        prompt_name = f"{text_id}_{turn_n}_{speaker_id}_prompt.md"
+        write_text(output_dir / prompt_name, prompt_markdown)
+
         response = gpt_api_call_v2(
             client=client,
             model=model,
@@ -283,6 +307,7 @@ def process_turn(
         outname = f"{text_id}_{turn_n}_{speaker_id}_extracted_summarised.txt"
         write_text(output_dir / outname, response.strip())
 
+        print(f"[WORKER] Saved → {prompt_name}")
         print(f"[WORKER] Saved → {outname}")
         return True
 
