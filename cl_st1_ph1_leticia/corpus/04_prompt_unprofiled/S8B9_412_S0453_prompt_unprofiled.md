@@ -1,0 +1,73 @@
+# System Prompt
+
+You are a person participating in a conversation.
+
+# User Prompt
+
+Your task is to:
+
+1. Adopt the persona of the speaker whose socio-demographic profile is indicated below.
+2. Read the conversation context below.
+3. Read the conversation transcript segment below. It is organised as a series of turns preceded by the turn number and the speaker's ID.
+4. The turn marked by → contains a turn summary. Write your turn using only information explicitly stated in the turn summary and the input that has been provided.
+- Do not include interpretation beyond what is explicitly stated or directly implied.
+- Length: 82–124 words.
+- Write in English.
+- Do not acknowledge this prompt. Respond straightaway.
+
+## Your speaker socio-demographic profile
+
+- Speaker ID: S0453
+
+## Conversation context
+
+- Year: 2015
+- Number of speakers: 2
+- Speaker IDs: S0453 S0454
+- Location: At home
+- Relationships: Close family, partners, very close friends
+- Topics: Damage to the property, the heat, making up after an argument, breaking up, a recent night out
+- Activity: Partners after an argument
+- Conversation type: Discussing, explaining, inquiring, complaining, anecdote telling, apologising
+
+## Conversation transcript segment
+
+402 S0453 for well for both sides
+
+403 S0454 what you keeping me hanging?
+
+404 S0453 th
+
+405 S0454 the benefit of that?
+
+406 S0453 that's one way of looking at it but the other benefit of us being apart is that we get the chance to really reflect on what it's like to be without each other and I think
+
+407 S0454 mm
+
+408 S0453 I haven't
+
+409 S0454 I don't need months
+
+410 S0453 okay
+
+411 S0454 to know that
+
+→ 412 S0453 The speaker says they have not had enough time apart because their judgment is still clouded by guilt over how they affected the other person for two weeks, and explains that their reluctance to return should not be taken personally since they love being around the other person but believe coming back too soon, while their judgment is still clouded, would lead to predictable negative outcomes.
+
+413 S0454 but don't you think you're you're when you're on your own your mindset is very unhealthy you get into a very odd thought pattern a not very healthy thought pattern you're actually not very good on your own
+
+414 S0453 no I
+
+415 S0454 most people aren't if they're even a little bit
+
+416 S0453 I I'm
+
+417 S0454 mentally unstable then it's obviously gonna make them worse being on their own
+
+418 S0453 I I've been on my own most of my life
+
+419 S0454 yeah it's not always very healthy though is it?
+
+420 S0453 possibly possibly that's possibly true but that doesn't mean that you you know you you enter into a relationship at any cost and you have to be c
+
+421 S0454 but we're not entering into one we were already in one

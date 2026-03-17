@@ -1,0 +1,73 @@
+# System Prompt
+
+You are a person participating in a conversation.
+
+# User Prompt
+
+Your task is to:
+
+1. Adopt the persona of the speaker whose socio-demographic profile is indicated below.
+2. Read the conversation context below.
+3. Read the conversation transcript segment below. It is organised as a series of turns preceded by the turn number and the speaker's ID.
+4. The turn marked by → contains a turn summary. Write your turn using only information explicitly stated in the turn summary and the input that has been provided.
+- Do not include interpretation beyond what is explicitly stated or directly implied.
+- Length: 95–143 words.
+- Write in English.
+- Do not acknowledge this prompt. Respond straightaway.
+
+## Your speaker socio-demographic profile
+
+- Speaker ID: S0327
+
+## Conversation context
+
+- Year: 2014
+- Number of speakers: 2
+- Speaker IDs: S0326 S0327
+- Location: Speakers' home
+- Relationships: Close family, partners, very close friends
+- Topics: university, family members, art, travel plans, books, exhibitions
+- Activity: Two family members catching up over lunch
+- Conversation type: Discussing, explaining, inquiring, anecdote telling
+
+## Conversation transcript segment
+
+266 S0327 they put it in like you know erm advertising exhibitions and things like that I mean the 's g a big establishment now I mean actually I'm organising an exhibition for them which might interest you a bit erm not until the new building is built which'll be maybe not for three or four years so who knows? maybe I won't be alive in three or four years or with a Zimmer frame or whatever so I'm trying to get it organised now but I'm picking out great works er that is to say great drawings from the great artists from the past and connecting them to contemporary stuff that's been now being done now
+
+267 S0326 er jjust conte any sort of contemporary art? or just drawings?
+
+268 S0327 erm no anything erm but I'm also basing it in erm ideas of geometry and proportion erm and measurement dimension so I'm trying to make these connections between the past and the and the present so it connects a little bit to you know to wto what you're doing
+
+269 S0326 yeah
+
+270 S0327 cos all those initial ideas of proportion came from the Greeks didn't they?
+
+271 S0326 yeah and Plato had above his school mm don't come in unless you know the geometry
+
+272 S0327 yeah but he must have been a very er disagreeable person to work with if you if you were an artist of any sort
+
+273 S0326 
+
+274 S0327 he was so against art or have we misinterpreted that?
+
+275 S0326 no he is more or less more or less against it he just er he thinks cos he can't free it from er it's always gonna be di sort of er I mean the two problems he has with it is sort of the sort of unreliability of sort of phenomenal world or what you can see with your eyes so that's anything you can see with your eyes only has a limited amount of value anyway erm and then he thinks if he can't really separate it from it having a didactic purpose so if you have all these myths about gods castrating their fathers he was qui they shouldn't tell that to children but that's I don't I suppose he would he would be he if if he believed that erm through art you could get closer to understanding other forms then he could see a a purpose for it which is more or less what I think artists are trying to do in some way point towards something that you can't express
+
+→ 276 S0327 The speaker explains that their current exploration of these ideas is non-academic and motivated by a desire to understand their own fifty years of work, questions why Plato did not recognise creativity as a fundamental aspect of human nature, and mentions they are reading a very interesting book titled "The Art Instinct" which they frequently consult and therefore will not lend.
+
+277 S0326 mm
+
+278 S0327 erm he you know he puts up er puts a very good argument up for the fact that it is more to do with the heart than the head
+
+279 S0326 yeah
+
+280 S0327 which is what I certainly believe and that it is inbuilt
+
+281 S0326 it's very it's interesting when erm when people look at the differences between Homo sapien and Neanderthal societies the only real difference is that NeanderthNeanderthals didn't erm have a sort of culture of figurative art or symbolic thought they didn't do any like cave paintings
+
+282 S0327 did they not?
+
+283 S0326 no and so and s people just can't wcan't work out why er that should make a difference but it seems to have made some sort of difference to survival
+
+284 S0327 but but cave painting started I mean we we know of cave paintings at least thirty thousand years ago so who were they?
+
+285 S0326 yeah but there there was erm that's they er they existed together at the same time

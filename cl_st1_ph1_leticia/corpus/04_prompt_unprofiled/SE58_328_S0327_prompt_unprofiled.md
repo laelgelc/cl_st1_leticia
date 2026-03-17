@@ -1,0 +1,73 @@
+# System Prompt
+
+You are a person participating in a conversation.
+
+# User Prompt
+
+Your task is to:
+
+1. Adopt the persona of the speaker whose socio-demographic profile is indicated below.
+2. Read the conversation context below.
+3. Read the conversation transcript segment below. It is organised as a series of turns preceded by the turn number and the speaker's ID.
+4. The turn marked by → contains a turn summary. Write your turn using only information explicitly stated in the turn summary and the input that has been provided.
+- Do not include interpretation beyond what is explicitly stated or directly implied.
+- Length: 98–148 words.
+- Write in English.
+- Do not acknowledge this prompt. Respond straightaway.
+
+## Your speaker socio-demographic profile
+
+- Speaker ID: S0327
+
+## Conversation context
+
+- Year: 2014
+- Number of speakers: 2
+- Speaker IDs: S0326 S0327
+- Location: Speakers' home
+- Relationships: Close family, partners, very close friends
+- Topics: university, family members, art, travel plans, books, exhibitions
+- Activity: Two family members catching up over lunch
+- Conversation type: Discussing, explaining, inquiring, anecdote telling
+
+## Conversation transcript segment
+
+318 S0327 to measure things and you you see it very clearly in art
+
+319 S0326 oh right
+
+320 S0327 erm
+
+321 S0326 I did actually write an essay last time about erm the naked male body in art and I spent most of it trying to work out why people was er fixated by using the nnaked male body in Greece and but people do say about columns ssort of Doric columns and er Ionic columns and Vitru like the sort of Vitruvian theory about male Doric columns and and based on the male body er
+
+322 S0327 well I mean er those are all good theories I mean well I don't suppose we'll ever know erm but it seems to me perfectly obvious that that this is the way any creature relates the worl relates to the world you know if you're an ant presumably you have a very different understanding of the world of the size and the scale erm assuming they have brains and things like that which I dare say they don't erm you know and if we were if we were giants we would see it all scale is incredibly important I don't mean size
+
+323 S0326 yeah
+
+324 S0327 I actually mean scale which is the relationship of large and small erm Jacquetta Hawkes I seem to remember in a book one of those first books that came out in the fifties or sixties don't eat too much cos I've got a big pudding for you
+
+325 S0326 okay
+
+326 S0327 erm
+
+327 S0326 it's nice the salad though
+
+→ 328 S0327 The speaker enthusiastically agrees that the salad is delicious, explains they eat it every day and consider it very good for them, describes it as pickled vegetables made from whatever is available, then shifts back to discussing remembered images of sheaves of corn influencing early dwelling construction, mentions a famous archaeology book by Jacquetta Hawkes they gave their father for Christmas in the 1950s, and trails off trying to recall its title.
+
+329 S0326 not a novel?
+
+330 S0327 no no no it's an ar a book on archaeology erm and so er you know they made the same things except in stone and so they gradually they gradually emerged but I suppose they will and of course the Egyptians did come first didn't they?
+
+331 S0326 yeah what is very strange about only about the Egyptian sort of visual culture that it doesn't change really once it's there it ststays the same for three thousand years
+
+332 S0327 that is interesting isn't it?
+
+333 S0326 when you look at Greek visual culture within two hundred years it's totally transformed
+
+334 S0327 yeah well it's the same er thing with Islamic art actually you know that they won't allow that to change erm I noticed when I was in Morocco that you know it's well it's really been downhill all the way since about eleventh or twelfth century I remember in in Marrakesh there's a f a wonderful building I can't remember what it's called now erm all that's left is just stone one portion and bit by bit you know the Ottoman's came and that was lovely all that stuff
+
+335 S0326 yeah
+
+336 S0327 er and now they don't know er of course they haven't a clue what to do now now modernism has taken over erm they're still not supposed to do anything figurative everything's held back so those cultural comparisons are are terribly interesting but I know that you know I think I'm not one that's always asking myself what is it one's trying to do? cos as an artist you never really honestly know because as I said
+
+337 S0326 thank you

@@ -1,0 +1,73 @@
+# System Prompt
+
+You are a person participating in a conversation.
+
+# User Prompt
+
+Your task is to:
+
+1. Adopt the persona of the speaker whose socio-demographic profile is indicated below.
+2. Read the conversation context below.
+3. Read the conversation transcript segment below. It is organised as a series of turns preceded by the turn number and the speaker's ID.
+4. The turn marked by → contains a turn summary. Write your turn using only information explicitly stated in the turn summary and the input that has been provided.
+- Do not include interpretation beyond what is explicitly stated or directly implied.
+- Length: 83–125 words.
+- Write in English.
+- Do not acknowledge this prompt. Respond straightaway.
+
+## Your speaker socio-demographic profile
+
+- Speaker ID: S0015
+
+## Conversation context
+
+- Year: 2015
+- Number of speakers: 2
+- Speaker IDs: S0015 S0281
+- Location: Speakers' home, Brighton
+- Relationships: Close family, partners, very close friends
+- Topics: Bringing my daughter from abroad to live here
+- Activity: Talking with my sister about my present personal situation
+- Conversation type: Discussing, Explaining, Inquiring
+
+## Conversation transcript segment
+
+636 S0015 you can't remember everything that's said
+
+637 S0281 mm
+
+638 S0015 but if by in an email people go back to it and read it again and it will be a a reminder to her that they're you know right now it seemed like a good idea to her but what is the reality? and she may not wanna tell you if he's got a family or not
+
+639 S0281 mm
+
+640 S0015 what his financial situation but if you ask her she doesn't have to answer but she'll be thinking well it's really bad I can't tell him or it's really good I'll tell him so but I I think to be honest the only way people remain you can stop and think about it properly is if it's in writing because it's all in the heat of the moment you remember snippets of conversation but not all of it
+
+641 S0281 mm
+
+642 S0015 not the fine detail erm and you've you've only remembered the bit that you try to bat off you know if you say on well you know it's either she'll remember what her retaliation is but later on and she might be angry at it but when she's got an email she can't be angry and retaliate she might be angry about it but she'll go back and look at it she'll go back and chew it over in her mind and it's all there everything you said so you do have to carefully word it
+
+643 S0281 mm
+
+644 S0015 so I'd if I was you I'd emai er er do it in a erm word a word
+
+645 S0281 draft
+
+→ 646 S0015 The speaker advises drafting the email in a Word document until it says exactly what they want in simple form, so it will make the recipient think deeply about her actions and their long-term consequences, and suggests opening it by referring to their earlier conversation about renting a place and mentioning that they have now looked into it and found several possible places.
+
+647 S0281 mm
+
+648 S0015 erm so end that bit then say I'm happy that you are you know gonna have someone that you're happy with erm I hope he's you know a nice person who'll look after you and and erm be able to keep you erm but I don't understand if he is able to why you're moving to
+
+649 S0281 well that's cos the money for the school
+
+650 S0015 I know why
+
+651 S0281 mm
+
+652 S0015 I know cos he can't afford to pay for the school
+
+653 S0281 mm she would expect me to
+
+654 S0015 but what I'm saying hm?
+
+655 S0281 she'll expect me to I'm surprised she hadn't asked me already

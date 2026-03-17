@@ -1,0 +1,73 @@
+# System Prompt
+
+You are a person participating in a conversation.
+
+# User Prompt
+
+Your task is to:
+
+1. Adopt the persona of the speaker whose socio-demographic profile is indicated below.
+2. Read the conversation context below.
+3. Read the conversation transcript segment below. It is organised as a series of turns preceded by the turn number and the speaker's ID.
+4. The turn marked by → contains a turn summary. Write your turn using only information explicitly stated in the turn summary and the input that has been provided.
+- Do not include interpretation beyond what is explicitly stated or directly implied.
+- Length: 125–187 words.
+- Write in English.
+- Do not acknowledge this prompt. Respond straightaway.
+
+## Your speaker socio-demographic profile
+
+- Speaker ID: S0336
+
+## Conversation context
+
+- Year: 2015
+- Number of speakers: 2
+- Speaker IDs: S0336 S0362
+- Location: Speaker's home
+- Relationships: Friends, wider family circle
+- Topics: Friends, family, work, holidays, festivals, houses
+- Activity: Friends catching up
+- Conversation type: Discussing, explaining, inquiring, complaining, advising, anecdote telling, making arrangements
+
+## Conversation transcript segment
+
+1519 S0336 big jobby erm and er like I said I'd already done loads of research so I knew that their their prices for like pretty much every model they were like the cheapest by like quite a long way like they were all really really cheap cars erm so I went and I like I said just I I actually test drove two cos I like I had my heart set on getting a Fiesta I really wanted a Fiesta like a new shaped Fiesta
+
+1520 S0362 I know 's mother's got one really nice
+
+1521 S0336 they're really nice I really wanted one but they were just a little bit out of my price range like I would have had to go up nearer six which I just didn't have erm I didn't really have five me and managed to like cobble the money together erm er I ended up having to like get extend my loan and all that kind of stuff but like I could not stretch to a Fiesta so I saw I looked at that one cos it was like similar kind of details like the Fiesta I looked at was a one point six but it was diesel and a similar age similar mileage et cetera et cetera erm and that one just made more financial sense so I went with that one in the end but like
+
+1522 S0362 that's an unbelievable deal
+
+1523 S0336 if you are ever looking for cars I couldn't recommend like more like aside from the fact that they they er all the cars are of a very good like price they're really good value like their people there were just so lovely like really really nice like one guy
+
+1524 S0362 you didn't feel like they were like pushing you into anything?
+
+1525 S0336 not at all like the guy I obviously test drove both cars like the whole time we were chatting and we weren't he wasn't he wasn't selling the car to me at all he was literally just like chatting to me and just sort of saying like like you know how do you feel? like what do you like? what do you not like? blah-blah-blah erm and then as we walked in he was like do you have a preference? and I'm like well I actually think the the Clio's nicer inside like cos the other one was a five-door as well I was like the three-door actually feels like roomier in front and I'm not likely to have people in the back very often so like I almost feel like it's better to have more room for me and like my one passenger than I am likely to have
+
+1526 S0362 and by the way he's big
+
+1527 S0336 yeah
+
+1528 S0362 
+
+→ 1529 S0336 The speaker explains that they chose the Clio over the Fiesta because it had a nicer trim and interior and was a higher spec for less money, describes how the salesperson kindly negotiated the price by fairly valuing their old car at £650 while listing its problems, and notes that they actually received £900 for it and felt happy with the deal.
+
+1530 S0362 you listed it all?
+
+1531 S0336 no he did cos they'd already done a check on that car erm I knew there was problems like every time
+
+1532 S0362 
+
+1533 S0336 I turned a corner like one of there's definitely like there was definitely a like axel problems cos like every time I turned a corner it made flooding noises so like I knew it was dodgy as fuck anyway erm but yeah he managed to get he managed to get me like nine hundred pound for that car so I was dead happy with that and then he went off and then like they obviously had somebody else who actually like closes it all closes the deal and like sorts all the payment and all that kind of
+
+1534 S0362 so you came back with a new car?
+
+1535 S0336 erm I could have done they wanted me to drive it away there and then but I kind of like panicked cos I was a bit like I can't I didn't really think it was very fair to to like do it all without speaking to him so I kind of agreed and then I signed whatever I needed to sign and I took all the paperwork away and then I came home and spoke to about it and also I needed time to like sort out my insurance and all that kind of stuff so we went back the next day then to pick it up
+
+1536 S0362 yeah cos I bet you're thinking erm so you had to drive yours?
+
+1537 S0336 yeah so I was like
+
+1538 S0362 driving yours going this is the last fucking time
