@@ -11,3 +11,11 @@ python 03_build_prompts_unprofiled.py
 
 python 04_generate_human.py
 
+python 04_generate_gpt.py \
+    --input corpus/04_prompt_profiled \
+    --output corpus/05_profiled_gpt \
+    --file-index file_index.txt \
+    --model gpt-5.1 \
+    --workers 4 \
+    --test 10
+

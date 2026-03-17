@@ -12,7 +12,7 @@ Parallel workers included.
 Usage:
     python 04_generate_gpt.py \
         --input corpus/04_prompt_profiled \
-        --output corpus/05_gpt \
+        --output corpus/05_profiled_gpt \
         --file-index file_index.txt \
         --model gpt-5.1 \
         --workers 4 \
@@ -44,7 +44,7 @@ except ImportError:
 # ---------------------------------------------
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Send oral-history prompts to GPT."
+        description="Send prompts to GPT."
     )
     parser.add_argument(
         "--input", "-i",
