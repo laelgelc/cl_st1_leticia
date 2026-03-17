@@ -2,17 +2,18 @@
 """
 04_generate_gpt.py
 
-Reads prompt files (t001.txt, t002.txt, ...) from an input directory,
-extracts system and user prompts from the file text,
-submits them to GPT,
-and saves the model output to corpus/05_persona_gpt with the SAME filename.
+Reads prompt files from an input directory,
+looks up the corresponding file_id in file_index.txt based on filename,
+submits the prompt to GPT,
+and saves the model output to the output directory as <file_id>_gpt.txt.
 
 Parallel workers included.
 
 Usage:
-    python generate_gpt.py \
-        --input corpus/04_prompt \
+    python 04_generate_gpt.py \
+        --input corpus/04_prompt_profiled \
         --output corpus/05_gpt \
+        --file-index file_index.txt \
         --model gpt-5.1 \
         --workers 4 \
         --test 10
@@ -23,7 +24,6 @@ import os
 import sys
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
-import re
 from dotenv import load_dotenv
 
 # Load environment variables from env/.env
@@ -44,17 +44,22 @@ except ImportError:
 # ---------------------------------------------
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Send oral-history persona prompts to GPT."
+        description="Send oral-history prompts to GPT."
     )
     parser.add_argument(
         "--input", "-i",
         required=True,
-        help="Directory containing tXXX prompt files (e.g., corpus/04_prompt)."
+        help="Directory containing prompt files (e.g., corpus/04_prompt_profiled)."
     )
     parser.add_argument(
         "--output", "-o",
         required=True,
-        help="Output directory (e.g., corpus/05_persona_gpt)."
+        help="Output directory (e.g., corpus/05_gpt)."
+    )
+    parser.add_argument(
+        "--file-index",
+        default="file_index.txt",
+        help="Path to file_index.txt (default: file_index.txt)."
     )
     parser.add_argument(
         "--model", "-m",
@@ -93,52 +98,31 @@ def write_text(path: Path, content: str) -> None:
     path.write_text(content, encoding="utf-8")
 
 
-def extract_system_and_user(full_text: str):
+def load_file_index(index_path: Path) -> dict[str, str]:
     """
-    Extract:
-
-    SYSTEM PROMPT:
-    <system text>
-
-    USER PROMPT:
-    <user text>
-    (everything after "USER PROMPT:" up to end of file)
+    Parse file_index.txt lines of the form:
+        t000001 S24A_57_S0261
+    and return:
+        {"t000001": "S24A_57_S0261", ...}
     """
-
-    # Extract system prompt
-    sys_match = re.search(
-        r"SYSTEM PROMPT:\s*(.+?)\nUSER PROMPT:",
-        full_text,
-        re.DOTALL
-    )
-    if not sys_match:
-        raise ValueError("Could not locate SYSTEM PROMPT block.")
-
-    system_prompt = sys_match.group(1).strip()
-
-    # Extract user prompt (from USER PROMPT to end)
-    user_match = re.search(
-        r"USER PROMPT:\s*(.+)",
-        full_text,
-        re.DOTALL
-    )
-    if not user_match:
-        raise ValueError("Could not locate USER PROMPT block.")
-
-    user_prompt = user_match.group(1).strip()
-
-    return system_prompt, user_prompt
+    mapping: dict[str, str] = {}
+    for line in read_text(index_path).splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        parts = line.split(maxsplit=1)
+        if len(parts) != 2:
+            continue
+        file_name, file_id = parts
+        mapping[file_name] = file_id
+        mapping[Path(file_name).stem] = file_id
+    return mapping
 
 
-def call_api(client: OpenAI, model: str, system_prompt: str,
-             user_prompt: str, max_output_tokens: int) -> str:
-
+def call_api(client: OpenAI, model: str, prompt_text: str, max_output_tokens: int) -> str:
     response = client.responses.create(
         model=model,
-        input=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt},
-        ],
+        input=prompt_text,
         max_output_tokens=max_output_tokens,
         temperature=0.7,
     )
@@ -158,30 +142,25 @@ def process_prompt(
         client: OpenAI,
         model: str,
         max_tokens: int,
+        file_index: dict[str, str],
 ):
-
     try:
         print(f"[WORKER] Reading prompt: {path.name}")
-        full_text = read_text(path)
+        prompt_text = read_text(path)
 
-        system_prompt, user_prompt = extract_system_and_user(full_text)
+        file_id = file_index.get(path.name) or file_index.get(path.stem)
+        if not file_id:
+            raise KeyError(f"No file_id found in file_index.txt for {path.name}")
 
-        print(f"[WORKER] Calling API for {path.name} …")
+        print(f"[WORKER] Calling API for {path.name} → {file_id}")
         result = call_api(
             client=client,
             model=model,
-            system_prompt=system_prompt,
-            user_prompt=user_prompt,
+            prompt_text=prompt_text,
             max_output_tokens=max_tokens,
         )
 
-        # -------------------------------
-        # NEW: Write as t001_gpt.txt
-        # -------------------------------
-        stem = path.stem                       # "t001"
-        outname = f"{stem}_gpt.txt"            # "t001_gpt.txt"
-        outpath = output_dir / outname
-
+        outpath = output_dir / f"{file_id}_gpt.txt"
         write_text(outpath, result)
         print(f"[WORKER] Saved → {outpath}")
 
@@ -190,6 +169,7 @@ def process_prompt(
     except Exception as e:
         print(f"[ERROR] {path.name}: {e}")
         return False
+
 
 # ---------------------------------------------
 # Main
@@ -201,7 +181,17 @@ def main():
     output_dir = Path(args.output)
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    files = sorted(input_dir.glob("t*.txt"))
+    file_index_path = Path(args.file_index)
+    if not file_index_path.exists():
+        print(f"Error: file index not found: {file_index_path}")
+        sys.exit(1)
+
+    file_index = load_file_index(file_index_path)
+
+    files = sorted(
+        p for p in input_dir.iterdir()
+        if p.is_file() and p.name != file_index_path.name
+    )
     if not files:
         print("No prompt files found.")
         sys.exit(0)
@@ -233,6 +223,7 @@ def main():
                     client,
                     args.model,
                     args.max_output_tokens,
+                    file_index,
                 )
             )
 
