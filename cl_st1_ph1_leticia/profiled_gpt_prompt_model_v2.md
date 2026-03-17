@@ -11,24 +11,24 @@ Your task is to:
 3. Read the conversation transcript segment below. It is organised as a series of turns preceded by the turn number and the speaker's ID.
 4. The turn marked by → contains a turn summary. Write your turn using only information explicitly stated in the turn summary and the input that has been provided.
 - Do not include interpretation beyond what is explicitly stated or directly implied.
-- Length: 33–49 words.
+- Length: <+/-20% band (rounded) of <utterance_word_count>> words.
 - Write in English.
 - Do not acknowledge this prompt. Respond straightaway.
 
 ## Your speaker socio-demographic profile
 
-- Speaker ID: S0261
-- Age: 41
-- Gender: Male
-- Nationality: British/New Zealand
-- Birthplace: Wellington
-- Birth country: New Zealand
-- Language: English
-- Language origin: England/NZ
-- City of residence:
-- Country of residence: England
-- Occupation: Entrepreneur
-- Socio-economic status (refer to the NS-SEC table): 1_2
+- Speaker ID: <speaker_id>
+- Age: <exactage>
+- Gender: <"Male" if <gender>=="M", "Female" if <gender>=="F", "Other" if <gender>=="n/a (multiple)">
+- Nationality: <nat>
+- Birthplace: <birthplace>
+- Birth country: <birthcountry>
+- Language: <l1>
+- Language origin: <lingorig>
+- City of residence: <hab_city>
+- Country of residence: <hab_country>
+- Occupation: <occupation>
+- Socio-economic status (refer to the NS-SEC table): <nssec>
 
 ### NS-SEC table (National Statistics Socio-economic Classification)
 
@@ -48,53 +48,53 @@ Your task is to:
 
 ## Conversation context
 
-- Year: 2014
-- Number of speakers: 2
-- Speaker IDs: S0261 S0262
-- Location: Modern Art Museum, London
-- Relationships: Close family, partners, very close friends
-- Topics: The art
-- Activity: A couple discussing modern art at a museum
-- Conversation type: Discussing, explaining, inquiring
+- Year: <rec_year>
+- Number of speakers: <n_speakers>
+- Speaker IDs: <list_speakers>
+- Location: <rec_loc>
+- Relationships: <relationships>
+- Topics: <topics>
+- Activity: <activity>
+- Conversation type: <conv_type>
 
 ## Conversation transcript segment
 
-1 S0261 so it's getting good sounds I'm going to turn it up okay so let's just see how this goes so erm I I think that he had a very rounded message that er had some interesting things in it that one could explore
+<turn_n> <speaker_id> <utterance>
 
-2 S0262 mm
+<turn_n> <speaker_id> <utterance>
 
-3 S0261 and you know when you see some of his pictures and think erm you know with Jenny's interest in in laser and that kind of thing
+<turn_n> <speaker_id> <utterance>
 
-4 S0262 mm
+<turn_n> <speaker_id> <utterance>
 
-→ 5 S0261 The speaker suggests that the outfit she works with is likely interested in that kind of exposure and would probably encounter those people through their work.
+→ <turn_n> <speaker_id> <corresponding summary in `<text_id>_<turn_n>_<speaker_id>_extracted_summarised.txt`>
 
-6 S0262 mm
+<turn_n> <speaker_id> <utterance>
 
-7 S0261 erm I'll be surprised if it's all done in isolation
+<turn_n> <speaker_id> <utterance>
 
-8 S0262 I mean it's a network isn't it?
+<turn_n> <speaker_id> <utterance>
 
-9 S0261 mm
+<turn_n> <speaker_id> <utterance>
 
-10 S0262 so I think they actually call it network in the title
+<turn_n> <speaker_id> <utterance>
 
-11 S0261 they call it traffic one's called traffic and the other one's erm erm trace network
+<turn_n> <speaker_id> <utterance>
 
-12 S0262 mm
+<turn_n> <speaker_id> <utterance>
 
-13 S0261 mm I'm writing this down this is just shocking
+<turn_n> <speaker_id> <utterance>
 
-14 S0262 this is exactly why I said do you want to sit here?
+<turn_n> <speaker_id> <utterance>
 
-15 S0261 oh did you see that coming?
+<turn_n> <speaker_id> <utterance>
 
-16 S0262 yeah so anyway it's all gonna be on your
+<turn_n> <speaker_id> <utterance>
 
-17 S0261 mm
+<turn_n> <speaker_id> <utterance>
 
-18 S0262 on your
+<turn_n> <speaker_id> <utterance>
 
-19 S0261 I'm interested to see how it pans out
+<turn_n> <speaker_id> <utterance>
 
-20 S0262 mm
+<turn_n> <speaker_id> <utterance>
