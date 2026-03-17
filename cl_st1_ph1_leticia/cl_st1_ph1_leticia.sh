@@ -1,0 +1,11 @@
+python 01_import_bnc2014sp.py
+
+python 02_summarise_turns.py \
+    --model gpt-5.1 \
+    --workers 4 \
+    #--test 10
+
+python 03_build_prompts_profiled.py
+
+python 03_build_prompts_unprofiled.py
+

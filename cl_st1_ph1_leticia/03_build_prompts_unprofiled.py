@@ -14,7 +14,7 @@ this script:
 - saves one Markdown prompt per marked turn to corpus/04_prompt_unprofiled/
 
 Usage:
-    python 03_build_prompts_profiled.py
+    python 03_build_prompts_unprofiled.py
 """
 
 from __future__ import annotations
