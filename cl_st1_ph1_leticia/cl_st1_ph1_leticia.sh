@@ -9,3 +9,4 @@ python 03_build_prompts_profiled.py
 
 python 03_build_prompts_unprofiled.py
 
+python 04_generate_human.py
