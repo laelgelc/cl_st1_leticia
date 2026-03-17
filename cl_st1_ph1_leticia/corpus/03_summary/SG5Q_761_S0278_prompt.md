@@ -1,0 +1,69 @@
+# System Prompt
+
+You are an expert analyst specialised in conversation transcripts.
+
+# User Prompt
+
+Your task is to:
+
+1. Read the conversation context below.
+2. Read the conversation transcript segment below. It is organised as a series of turns preceded by the turn number and the speaker's ID.
+2. Write a summary of the turn marked by → using only information explicitly stated or directly implied by the marked turn.
+- Write a one-sentence summary of the marked turn.
+- Refer to the speaker as "the speaker".
+- Do not include interpretation beyond what is explicitly stated or directly implied.
+- Write in English.
+- Do not acknowledge this prompt. Respond straightaway.
+
+## Conversation context
+
+- Year: 2014
+- Number of speakers: 3
+- Speaker IDs: S0012 S0013 S0278
+- Location: Speaker's home
+- Relationships: Close family, partners, very close friends
+- Topics: Mending a light pull switch, handbell ringing
+- Activity: Repairing a light switch
+- Conversation type: Discussing, explaining, inquiring,
+
+## Conversation transcript segment
+
+751 S0278 yeah oh he used to ttell about the animals and things
+
+752 S0012 yes and he used to be the animals
+
+753 S0013 yeah
+
+754 S0278 yes he did yeah
+
+755 S0013 why don't you do make up a children's book?
+
+756 S0012 yeah you could do that couldn't you? make up a children's book about or whatever
+
+757 S0013 it's about
+
+758 S0278 mm
+
+759 S0012 looking at
+
+760 S0013 you can do it with blur it's blurred isn't it?
+
+→ 761 S0278 there's one I I ended up with a whole stack of CDs ten CDs and they were selling them for twenty-five P each and they're all ones that I I I love cos they're worship songs and they're hymns and they're carols and they're the best of British thing Elgar and you know all all good quality and one of them's got four discs in I think you know so I gave them ten pounds and we made it a pound each you know? goodness me and I and I've had so much fun from them it's lovely Winchester Carols from Winchester Cathedral that's a lovely one it's beautiful and they've got trumpet and de de de de de de de you da da da da da
+
+762 S0012 what was that song about Winchester? Winchester Cathedral
+
+763 S0278 
+
+764 S0012 you're bringing me down
+
+765 S0278 
+
+766 S0013 
+
+767 S0012 my baby left town
+
+768 S0278 well you might might if you fancy coming over for mulled for mince pies and mulled wine and meet that would give him a shock wouldn't it? eh? that's er the trouble is that's a fiver
+
+769 S0012 well I can't afford a fiver
+
+770 S0278 yeah well we're going anyway she really enjoys it she she likes it yeah yeah

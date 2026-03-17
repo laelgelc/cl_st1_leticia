@@ -1,0 +1,69 @@
+# System Prompt
+
+You are an expert analyst specialised in conversation transcripts.
+
+# User Prompt
+
+Your task is to:
+
+1. Read the conversation context below.
+2. Read the conversation transcript segment below. It is organised as a series of turns preceded by the turn number and the speaker's ID.
+2. Write a summary of the turn marked by → using only information explicitly stated or directly implied by the marked turn.
+- Write a one-sentence summary of the marked turn.
+- Refer to the speaker as "the speaker".
+- Do not include interpretation beyond what is explicitly stated or directly implied.
+- Write in English.
+- Do not acknowledge this prompt. Respond straightaway.
+
+## Conversation context
+
+- Year: 2014
+- Number of speakers: 3
+- Speaker IDs: S0190 S0192 S0227
+- Location: In father's car between Bedford and Northamptonshire
+- Relationships: Close family, partners, very close friends
+- Topics: Greetings, the children's home, recordings, ex-husbands, friends, my brother, university, heating, truth and lies, cheating, smoking, master's degrees, modules, plagiarism, plants, curry, birthday cards, cats, train journeys, ANON's family, dentures, swimming, snacks, weather, cooking, satellite navigation, Brighton, linguistics course, mature students, cycling, Christmas, laptops, pidgins & creoles, teaching, Christmas day arrangements, my brother's girlfriend, assessment, work, travel, childhoods, international universities, Ann's children, moving house, money, mortgages & rent, homeless people, South Korea
+- Activity: Returning home for my father's 55th birthday
+- Conversation type: Discussing, explaining, inquiring, complaining, advising, anecdote telling, making arrangements
+
+## Conversation transcript segment
+
+621 S0190 yeah
+
+622 S0192 or something or other it's horrible
+
+623 S0227 you could write your dissertation on the way up here
+
+624 S0192 actually I did do some work on my laptop on the on the train
+
+625 S0227 if you use use the time
+
+626 S0192 but it got quite busy
+
+627 S0190 who was that from?
+
+628 S0227 it was that was from your mum and dad
+
+629 S0190 mm
+
+630 S0227 I've got to phone and thank obviously at some time
+
+→ 631 S0192 there was quite a rude lady on the train I thought I mean she she was seemingly disabled so I can't really judge she was in a wheelchair but she definitely got out of the wheelchair and like stood up and walked around and did some stuff but she was in the gantry where people get on and she sat in this like electric wheelchair but she proceeded to recline it as far back as it went and then people at Gatwick airport were trying to squeeze past her bags and she's just lying there with a book like just full recline just taking up the whole thing
+
+632 S0190 that's ignorant isn't it?
+
+633 S0192 I thought it was a bit
+
+634 S0190 by people that
+
+635 S0227 yeah
+
+636 S0192 it's a bit I don't know she just looked kind of fat to me I don't know if she was actually if anything was wrong with her I had to laugh
+
+637 S0227 multitask I'm getting pictures of monkeys or gorillas
+
+638 S0190 oh perhaps you remind them of something
+
+639 S0227 maybe
+
+640 S0192 oh has he got lots of monkeys?

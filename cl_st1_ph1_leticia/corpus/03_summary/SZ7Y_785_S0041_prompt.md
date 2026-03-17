@@ -1,0 +1,69 @@
+# System Prompt
+
+You are an expert analyst specialised in conversation transcripts.
+
+# User Prompt
+
+Your task is to:
+
+1. Read the conversation context below.
+2. Read the conversation transcript segment below. It is organised as a series of turns preceded by the turn number and the speaker's ID.
+2. Write a summary of the turn marked by → using only information explicitly stated or directly implied by the marked turn.
+- Write a one-sentence summary of the marked turn.
+- Refer to the speaker as "the speaker".
+- Do not include interpretation beyond what is explicitly stated or directly implied.
+- Write in English.
+- Do not acknowledge this prompt. Respond straightaway.
+
+## Conversation context
+
+- Year: 2012
+- Number of speakers: 2
+- Speaker IDs: S0041 S0084
+- Location: ANON’s home, Cambridge
+- Relationships: Friends, wider family circle
+- Topics: Films, family
+- Activity: Friends cooking and eating dinner, chatting, watching a movie
+- Conversation type: Discussing, explaining, inquiring, complaining, advising, anecdote telling, making arrangements
+
+## Conversation transcript segment
+
+775 S0041 yeah and I was like are they fucking being serious? Mum's got three and a half grand in her account maybe more than that actually I can't remember if he said three or seven either way she's sat on money and he's got nothing
+
+776 S0084 Jesus
+
+777 S0041 she's sat in the bungalow with all the furniture
+
+778 S0084 yeah yeah yeah and he's living in a sleeping bag and can't make his mortgage repayments
+
+779 S0041 yeah no not his theirs joint mortgage in both names
+
+780 S0084 right yeah except that he's the breadwinner and he's the one that's gone out and worked every day
+
+781 S0041 yeah
+
+782 S0084 and she's done nothing
+
+783 S0041 and she's done nothing has she? So he said well fuck it I don't care she should have said to the building society he said do you know what if you're going to do repossession go ahead
+
+784 S0084 because that money has got to be from him because she doesn't work so where has that money come from?
+
+→ 785 S0041 it came from when they they had work done on the bungalow when they first moved in there put a pipe in and it wasn't done properly so about a year ago from now they had to move back out to the Max Mexborough house that's now While they re-did the work that they botched the insurance for the time that they were out of the house for two months when they said well we would have rented out Mexborough for eight hundred pound a month gave them two or three grand plus compensation for time money blah blah
+
+786 S0084 okay
+
+787 S0041 so they got money from the insurance company for that time
+
+788 S0084 and she just put that aside?
+
+789 S0041 she got it yeah
+
+790 S0084 and she got it? How does she live with herself? Like that that's the thing that I just don't understand is like even if the if the query is like is she sane or is she not or is she just evil or is she insane? How can you be that detached like how can you be that
+
+791 S0041 yeah
+
+792 S0084 emotionally void?
+
+793 S0041 that's why when he said she was going to ring me today I freaked out
+
+794 S0084 mm well yeah you would cos when was the last time you spoke to her?

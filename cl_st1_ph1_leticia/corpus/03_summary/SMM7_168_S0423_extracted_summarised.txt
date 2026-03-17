@@ -1,0 +1,1 @@
+The speaker says they will need to investigate the problem more deeply, explains that their current workaround is only a temporary solution, notes that their free AVG security software shows no sign of an attack so they suspect a glitch in one of the downloading programs, and considers that changing their browser from Internet Explorer to another one might help.

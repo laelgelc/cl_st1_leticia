@@ -1,0 +1,53 @@
+# System Prompt
+
+You are an expert analyst specialised in conversation transcripts.
+
+# User Prompt
+
+Your task is to:
+
+1. Read the conversation context below.
+2. Read the conversation transcript segment below. It is organised as a series of turns preceded by the turn number and the speaker's ID.
+2. Write a summary of the turn marked by → using only information explicitly stated or directly implied by the marked turn.
+- Write a one-sentence summary of the marked turn.
+- Refer to the speaker as "the speaker".
+- Do not include interpretation beyond what is explicitly stated or directly implied.
+- Write in English.
+- Do not acknowledge this prompt. Respond straightaway.
+
+## Conversation context
+
+- Year: 2012
+- Number of speakers: 2
+- Speaker IDs: S0084 S0157
+- Location: ANON’s home, Cambridge
+- Relationships: Friends, wider family circle
+- Topics: Fashion, language, work
+- Activity: Friends watching television together discussing fashion
+- Conversation type: Discussing, explaining, inquiring, making arrangements
+
+## Conversation transcript segment
+
+1 S0084 okay recorded so basically what happens is that they um They collect native speakers' conversations and they put it into the corpus And it goes in and then um and then it means that when they're actually um uh you know like looking like writing books and they can look at how people actually speak like native English speakers speak
+
+2 S0157 mm
+
+→ 3 S0084 and then compare that to how learners speak English and the mistakes that they make so it all sort of sits in the corpus so basically um what I do is I record our conversations should've done it all last night I just totally forgot so with like she was like oh can you record all your conversations I said yes so sh so she said oh okay and then you get paid some money for it and I was like oh brilliant well okay that's fine But I have to get everyone to sign this stupid form today's date please write the month in words so basically you just have
+
+4 S0157 
+
+5 S0084 to like sign your soul to me and then everyone um everyone gets paid which is quite good so yes I think you just have to I dunno if I can fill this in and you just have to sign it if you want to or we can just delete all your conversations if you don't want your voice to be in a corpus
+
+6 S0157 
+
+7 S0084 for all of the world to hear I'm basically just gonna record all my conversations from now on
+
+8 S0157 today?
+
+9 S0084 for a for a the foreseeable future they're like w for every hour of conversation then then you see you have to do it that sort of I don't know really know how it works they sort of say oh uh every hour of conversation but I think you could sort of talk for ten minutes press stop and then you know talk for t for like however long but I think today's date boobidy boobidy boo yeah I think I can fill all this in for you
+
+10 S0157 hello
+
+11 S0084 it is actually recording and I'm still going up aren't I yeah But it's basically so that they can hear like what our like colloquialisms are you know like uh the words that we use now
+
+12 S0157 Jay jay

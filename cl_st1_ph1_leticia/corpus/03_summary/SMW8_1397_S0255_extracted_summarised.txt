@@ -1,0 +1,1 @@
+The speaker explains how the BookBub service works, describing that you register for free via an app, select preferred genres and notification frequency, link it to your book provider (such as Amazon Kindle), and then receive lists of free or 99p recommended books in your chosen genres that you can click on to purchase directly through Amazon, which the speaker has been using.

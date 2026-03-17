@@ -1,0 +1,1 @@
+The speaker explains that while in Tunisia they set up the small laptop with a dual-boot system for Windows and Linux, but it did not work well because certain functions like adjusting the screen brightness did not work, whereas the Linux Mint system they use now works very well.

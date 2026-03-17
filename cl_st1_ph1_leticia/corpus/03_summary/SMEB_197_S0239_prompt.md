@@ -1,0 +1,69 @@
+# System Prompt
+
+You are an expert analyst specialised in conversation transcripts.
+
+# User Prompt
+
+Your task is to:
+
+1. Read the conversation context below.
+2. Read the conversation transcript segment below. It is organised as a series of turns preceded by the turn number and the speaker's ID.
+2. Write a summary of the turn marked by → using only information explicitly stated or directly implied by the marked turn.
+- Write a one-sentence summary of the marked turn.
+- Refer to the speaker as "the speaker".
+- Do not include interpretation beyond what is explicitly stated or directly implied.
+- Write in English.
+- Do not acknowledge this prompt. Respond straightaway.
+
+## Conversation context
+
+- Year: 2014
+- Number of speakers: 2
+- Speaker IDs: S0238 S0239
+- Location: ANON's kitchen, Swansea
+- Relationships: Friends, wider family circle
+- Topics: breakfast, a visit to New York, flying lessons, plans for the day (ANON is staying overnight in ANON's home), social media, living in Japan (where they met), refuse collection, letter writing
+- Activity: Conversation over breakfast
+- Conversation type: Discussing, anecdote telling, making arrangements
+
+## Conversation transcript segment
+
+187 S0239 but then this was like oh well I'm gonna try and make it and I thought oh oh I thought I'll try and make it as well and it was back in 2009 so we did go but it was very difficult because it was right in the middle of exam boards you know
+
+188 S0238 mm
+
+189 S0239 so I had to bet my boss I had to move move one of my exam boards really begged him then I had a Welsh exam on the Thursday no first of all Tuesday we went to a Take That concert
+
+190 S0238 mm
+
+191 S0239 then Wednesday was revising for my Welsh exam and in work as well you know
+
+192 S0238 mm
+
+193 S0239 then I did the Welsh exam on Thursday and then I left Saturday morning I think it was flew over went on Friday er she picked me up from the airport and we went straight to the rehearsal dinner you know that thing they do in America the night before they have a do you know?
+
+194 S0238 I don't really no I'm not
+
+195 S0239 oh okay so ththey
+
+196 S0238 I'm not big on wedding customs er even in this country let alone in other countries
+
+→ 197 S0239 er well I only know through friends really that's that's the only reason I knew what they were talking about but anyway you'd go and they have like a a get together the night before so maybe it's in a restaurant or it could be a barbecue or something you know so we went there and it was absolutely hammering it down in the fog luckily had a sat nav so I think we'd still be driving round now you know so we got there and then I think I came back on Monday morning and went straight to another exam board when I
+
+198 S0238 mm
+
+199 S0239 when I got back like literally from the airport so erm but it was really good I'm glad I went
+
+200 S0238 mm
+
+201 S0239 and you know I got back in touch with and I've seen a fair bit recently erm and we went over there to New York the following year because
+
+202 S0238 right
+
+203 S0239 you know the
+
+204 S0238 
+
+205 S0239 only had a weekend for the wedding so we thought well we'll go over for a longer stretch and catch up properly so
+
+206 S0238 mm

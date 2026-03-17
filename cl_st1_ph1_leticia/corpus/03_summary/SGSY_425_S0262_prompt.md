@@ -1,0 +1,69 @@
+# System Prompt
+
+You are an expert analyst specialised in conversation transcripts.
+
+# User Prompt
+
+Your task is to:
+
+1. Read the conversation context below.
+2. Read the conversation transcript segment below. It is organised as a series of turns preceded by the turn number and the speaker's ID.
+2. Write a summary of the turn marked by → using only information explicitly stated or directly implied by the marked turn.
+- Write a one-sentence summary of the marked turn.
+- Refer to the speaker as "the speaker".
+- Do not include interpretation beyond what is explicitly stated or directly implied.
+- Write in English.
+- Do not acknowledge this prompt. Respond straightaway.
+
+## Conversation context
+
+- Year: 2014
+- Number of speakers: 2
+- Speaker IDs: S0261 S0262
+- Location: House-sitting in Australia
+- Relationships: Close family, partners, very close friends
+- Topics: social networking, social relationships, communication strategies,learning materials and development of moving images case studies for educational purposes.
+- Activity: A couple brainstorming ideas for a small business in the education sector.
+- Conversation type: Discussing, explaining, inquiring, advising, requesting, anecdote telling
+
+## Conversation transcript segment
+
+415 S0262 yeah
+
+416 S0261 and all we were thinking about was sharing a conversation we weren't trying to present any particular learnings from it
+
+417 S0262 yeah
+
+418 S0261 but there is something valuable in there to learn about but immediately he was trying to attract our information which we would provide him for free into to provide more value to the community and to his product
+
+419 S0262 yeah
+
+420 S0261 yeah
+
+421 S0262 yeah of course
+
+422 S0261 so he he's he's cleverly allowing his community to build his own product for him
+
+423 S0262 yeah well my initial reaction is what I was asking you to do before you went off and did the other thing but it was to make
+
+424 S0261 what other thing?
+
+→ 425 S0262 erm Ula is to do the case studies so wh the reason why a case study is useful is because case files studies normally involve erm characters they use usually involve a situation that needs some managing or if there's some kind of problem that's arisen the characters need to organise themselves that they can start to align or something or group themselves so that they can resource something or they've been given a task where they have to solve a problem so the case study is always pitching up with something that needs to be done and then you take this characters in the story from Monday to Friday and then you say okay actually this has got enough meat on it to become a case story a case study do you wanna co-create a case study which has also got moving images in the case study? so the case study is not just a boring old text with some answers to some questions at the end the case study is a a real life case study where they have agreed to co-create and act and be in this in this case study so it's not imaginary it's real
+
+426 S0261 mm
+
+427 S0262 and the reason why you would do that is because you s you believe in the case study enough because it's real it's not made up and secondly you would do it because you could sell it and earn money from selling it to higher education institutions that can't keep up and can't keep adapting to the new themes that are coming through all the time and higher education institutions don't know how to make moving image case studies they wouldn't fucking know how to do one if it bloody well bit them on the arse so this is an innovative way of saying you know your textbooks and how boring they are? well you could show this case study in your tutorial which has already got some teaching materials connected to it and some learning materials connected to it and therefore you can even put this online you don't even need to show it in a tute you can put it in an actual unit of study and this is a way to engage your your learners so if you're learning about collaboration but you can't collaborate because you're physically not able to you're an online student and you you need to learn about it this is a moving images case study which is a real life example of collaboration and you pepper it around teaching materials and learning materials so that basically the instructor knows how to use it and the learner knows how to get the most out of it
+
+428 S0261 mm
+
+429 S0262 and you sell this at a premium
+
+430 S0261 mm
+
+431 S0262 because it's real
+
+432 S0261 who are you selling it to?
+
+433 S0262 higher education institutions
+
+434 S0261 right okay
