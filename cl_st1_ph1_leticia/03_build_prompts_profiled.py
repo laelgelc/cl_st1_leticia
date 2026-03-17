@@ -2,13 +2,13 @@
 """
 03_build_prompts_profiled.py
 
-Builds profiled GPT prompt markdown files from BNC2014 Spoken NDJSON data.
+Build profiled GPT prompt Markdown files from BNC2014 Spoken NDJSON data.
 
 For each marked turn in:
     corpus/01_bnc2014sp_dataset/bnc2014sp_conversation_selected_top_talker_94plus.ndjson
 
 this script:
-- loads the relevant conversation, header, and speaker metadata
+- loads the relevant selected-turn, conversation, header, and speaker metadata
 - reads the corresponding turn summary from corpus/03_summary/
 - fills profiled_gpt_prompt_model_v2.md
 - saves one Markdown prompt per marked turn to corpus/04_prompt_profiled/
@@ -50,10 +50,14 @@ def parse_args() -> argparse.Namespace:
 
 
 def load_ndjson(path: Path) -> pd.DataFrame:
+    if not path.exists():
+        raise FileNotFoundError(f"Missing input file: {path}")
     return pd.read_json(path, lines=True)
 
 
 def read_text(path: Path) -> str:
+    if not path.exists():
+        raise FileNotFoundError(f"Missing text file: {path}")
     return path.read_text(encoding="utf-8", errors="ignore")
 
 
@@ -70,7 +74,7 @@ def safe_str(value: object, fallback: str = "Not available") -> str:
 
 
 def format_gender(value: object) -> str:
-    if pd.isna(value) or value is None:
+    if value is None or pd.isna(value):
         return "Not available"
     value_str = str(value).strip()
     if value_str == "M":
@@ -80,15 +84,30 @@ def format_gender(value: object) -> str:
     return "Other"
 
 
+def pick_first_available(row: pd.Series, candidates: list[str]) -> object:
+    for col in candidates:
+        if col in row.index:
+            val = row[col]
+            if val is not None and not pd.isna(val) and str(val).strip():
+                return val
+    return None
+
+
 def format_turn(turn_n: object, speaker_id: object, utterance: object, marked: bool = False) -> str:
     prefix = "→ " if marked else ""
     return f"{prefix}{safe_str(turn_n)} {safe_str(speaker_id)} {safe_str(utterance, fallback='')}"
 
 
 def parse_prompt_template(prompt_text: str) -> str:
-    match = re.search(r"## Conversation transcript segment\s*(.*)\Z", prompt_text, flags=re.DOTALL)
-    if not match:
-        raise ValueError("Could not locate transcript section in profiled_gpt_prompt_model_v2.md")
+    required_sections = [
+        "## Your speaker socio-demographic profile",
+        "### NS-SEC table (National Statistics Socio-economic Classification)",
+        "## Conversation context",
+        "## Conversation transcript segment",
+    ]
+    for section in required_sections:
+        if section not in prompt_text:
+            raise ValueError(f"Missing required template section: {section}")
     return prompt_text.strip()
 
 
@@ -103,16 +122,9 @@ def compute_length_band(utterance_word_count: object) -> str:
     return f"- Length: {low}–{high} words."
 
 
-def pick_first_available(row: pd.Series, candidates: list[str]) -> str:
-    for col in candidates:
-        if col in row and not pd.isna(row[col]) and str(row[col]).strip():
-            return str(row[col]).strip()
-    return "Not available"
-
-
 def build_speaker_profile(target_row: pd.Series, speaker_info_df: pd.DataFrame) -> str:
     speaker_id = safe_str(target_row.get("speaker_id"))
-    speaker_rows = speaker_info_df[speaker_info_df["speaker_id"] == speaker_id]
+    speaker_rows = speaker_info_df[speaker_info_df["speaker_id"].astype(str) == speaker_id]
     speaker_row = speaker_rows.iloc[0] if not speaker_rows.empty else pd.Series(dtype=object)
 
     return "\n".join(
@@ -164,9 +176,7 @@ def build_transcript_segment(
     for _, row in preceding.iterrows():
         lines.append(format_turn(row["turn_n"], row["speaker_id"], row["utterance"]))
 
-    lines.append(
-        f"→ {safe_str(target_row['turn_n'])} {safe_str(target_row['speaker_id'])} {summary_text}"
-    )
+    lines.append(f"→ {safe_str(target_row['turn_n'])} {safe_str(target_row['speaker_id'])} {summary_text}")
 
     for _, row in following.iterrows():
         lines.append(format_turn(row["turn_n"], row["speaker_id"], row["utterance"]))
@@ -183,10 +193,17 @@ def build_prompt_markdown(
 ) -> str:
     prompt = template_text
 
+    prompt = prompt.replace(
+        "- Length: <+/-20% band (rounded) of <utterance_word_count>> words.",
+        compute_length_band(target_row.get("utterance_word_count")),
+    )
+
     replacements = {
         "<speaker_id>": safe_str(target_row.get("speaker_id")),
-        "<exactage>": safe_str(target_row.get("exactage")) if "exactage" in target_row else "Not available",
-        "<gender>": format_gender(target_row.get("gender")),
+        "<exactage>": safe_str(target_row.get("exactage")),
+        '<"Male" if <gender>=="M", "Female" if <gender>=="F", "Other" if <gender>=="n/a (multiple)">': format_gender(
+            target_row.get("gender")
+        ),
         "<nat>": safe_str(target_row.get("nat")),
         "<birthplace>": safe_str(target_row.get("birthplace")),
         "<birthcountry>": safe_str(target_row.get("birthcountry")),
@@ -207,12 +224,11 @@ def build_prompt_markdown(
         "<utterance_word_count>": safe_str(target_row.get("utterance_word_count")),
     }
 
-    prompt = prompt.replace("- Length: <+/-20% band (rounded) of <utterance_word_count>> words.", compute_length_band(target_row.get("utterance_word_count")))
     for placeholder, value in replacements.items():
         prompt = prompt.replace(placeholder, value)
 
     prompt = re.sub(
-        r"## Your speaker socio-demographic profile\s*.*?(?=## Conversation context)",
+        r"## Your speaker socio-demographic profile\s*.*?(?=### NS-SEC table)",
         f"## Your speaker socio-demographic profile\n\n{speaker_profile}\n\n",
         prompt,
         flags=re.DOTALL,
@@ -246,6 +262,11 @@ def main() -> int:
     df_header = load_ndjson(HEADER_PATH)
     df_speaker_info = load_ndjson(SPEAKER_INFO_PATH)
 
+    required_selected_cols = {"text_id", "turn_n", "speaker_id", "utterance", "utterance_word_count"}
+    missing_selected = required_selected_cols - set(df_selected_top_talker_94plus.columns)
+    if missing_selected:
+        raise ValueError(f"Missing required columns in selected top-talker file: {sorted(missing_selected)}")
+
     if args.test is not None:
         if args.test <= 0:
             raise ValueError("--test must be a positive integer")
@@ -258,8 +279,9 @@ def main() -> int:
     }
 
     turns_by_text_id = {
-        text_id: group.sort_values("turn_n").reset_index(drop=True)
+        str(text_id): group.sort_values("turn_n").reset_index(drop=True)
         for text_id, group in df_selected.groupby("text_id", sort=False)
+        if not pd.isna(text_id)
     }
 
     processed = 0
@@ -274,9 +296,6 @@ def main() -> int:
             raise KeyError(f"Missing selected turns for text_id={text_id}")
 
         summary_path = SUMMARY_DIR / f"{text_id}_{turn_n}_{speaker_id}_extracted_summarised.txt"
-        if not summary_path.exists():
-            raise FileNotFoundError(f"Missing summary file: {summary_path}")
-
         summary_text = read_text(summary_path).strip()
 
         speaker_profile = build_speaker_profile(target_row, df_speaker_info)

@@ -19,7 +19,7 @@ Your task is to:
 
 - Speaker ID: UNKMALE
 - Age: Not available
-- Gender: Other
+- Gender: Not available
 - Nationality: Not available
 - Birthplace: Not available
 - Birth country: Not available
@@ -29,6 +29,22 @@ Your task is to:
 - Country of residence: Not available
 - Occupation: Not available
 - Socio-economic status (refer to the NS-SEC table): Not available
+
+### NS-SEC table (National Statistics Socio-economic Classification)
+
+| NS-SEC | Description                                                          |
+|--------|----------------------------------------------------------------------|
+| 1      | Higher managerial, administrative and professional occupations:      |
+| 1_1    | Large employers and higher managerial and administrative occupations |
+| 1_2    | Higher professional occupations                                      |
+| 2      | Lower managerial, administrative and professional occupations        |
+| 3      | Intermediate occupations                                             |
+| 4      | Small employers and own account workers                              |
+| 5      | Lower supervisory and technical occupations                          |
+| 6      | Semi-routine occupations                                             |
+| 7      | Routine occupations                                                  |
+| 8      | Never worked and long-term unemployed                                |
+| *      | Students/unclassifiable                                              |
 
 ## Conversation context
 
