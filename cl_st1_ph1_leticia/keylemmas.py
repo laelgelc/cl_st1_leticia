@@ -14,7 +14,10 @@ import argparse
 from collections import defaultdict
 
 # POS tags to keep: nouns, main verbs, adjectives (NO ADVERBS)
-VALID_TAG_PREFIXES = ("NN", "NP", "VV", "AJ")
+#VALID_TAG_PREFIXES = ("NN", "NP", "VV", "AJ")
+
+# POS tags to keep: nouns, main verbs, adjectives (NO ADVERBS)
+VALID_TAG_PREFIXES = ("NN", "NNS", "VB", "VBD", "VBG", "VBN", "VBP", "VBZ", "JJ", "JJR", "JJS")
 
 # stopwords (lowercase)
 #STOPWORDS = {
