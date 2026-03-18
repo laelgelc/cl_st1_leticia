@@ -13,9 +13,11 @@ import math
 import argparse
 from collections import defaultdict
 
+# Case 1 (Issues: "NP" tag is for proper nouns; "VV" and "AJ" tags do not exist)
 # POS tags to keep: nouns, main verbs, adjectives (NO ADVERBS)
 #VALID_TAG_PREFIXES = ("NN", "NP", "VV", "AJ")
 
+# Case 2 (Excluded proper nouns; Corrected the errors)
 # POS tags to keep: nouns, main verbs, adjectives (NO ADVERBS)
 VALID_TAG_PREFIXES = ("NN", "NNS", "VB", "VBD", "VBG", "VBN", "VBP", "VBZ", "JJ", "JJR", "JJS")
 
@@ -27,7 +29,9 @@ VALID_TAG_PREFIXES = ("NN", "NNS", "VB", "VBD", "VBG", "VBN", "VBP", "VBZ", "JJ"
 #}
 
 STOPWORDS = {
-
+    "be",
+    "have",
+    "do"
 }
 
 def ll(a, b, c, d):

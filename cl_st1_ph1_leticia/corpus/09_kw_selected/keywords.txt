@@ -16,7 +16,6 @@ clear
 cos
 decide
 different
-do
 em
 end
 er

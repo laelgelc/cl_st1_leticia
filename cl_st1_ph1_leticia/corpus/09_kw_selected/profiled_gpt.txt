@@ -43,8 +43,8 @@ pick
 chat
 expect
 awful
-start
 full
+start
 push
 horrible
 big

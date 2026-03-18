@@ -41,7 +41,7 @@ python select_kws_stratified.py \
     --max-total 1200
 # Output: corpus/09_kw_selected
 
-# Case 1 (Issues: "NP" tag is proper noun; "VV" and "AJ" tags do not exist)
+# Case 1 (Issues: "NP" tag is for proper nouns; "VV" and "AJ" tags do not exist)
 # POS tags to keep: nouns, main verbs, adjectives (NO ADVERBS)
 #VALID_TAG_PREFIXES = ("NN", "NP", "VV", "AJ")
 "
@@ -65,7 +65,6 @@ Final unique keywords written: 38
 # Case 2 (Excluded proper nouns; Corrected the errors)
 # POS tags to keep: nouns, main verbs, adjectives (NO ADVERBS)
 #VALID_TAG_PREFIXES = ("NN", "NNS", "VB", "VBD", "VBG", "VBN", "VBP", "VBZ", "JJ", "JJR", "JJS")
-
 "
 === Keyword Quotas ===
 human           → 500 keywords (max)
@@ -73,17 +72,19 @@ profiled_gpt    → 250 keywords (max)
 unprofiled_gpt  → 250 keywords (max)
 =======================
 
-human           → selected 35/500 keywords
+human           → selected 34/500 keywords
 profiled_gpt    → selected 54/250 keywords
 unprofiled_gpt  → selected 45/250 keywords
 
-Total consolidated keywords (incl. duplicates): 134
-Unique keywords (used downstream): 107
+Total consolidated keywords (incl. duplicates): 133
+Unique keywords (used downstream): 106
 Duplicates removed later: 27
 
-Final unique keywords written: 107
+Final unique keywords written: 106
 "
 
-
+rm -rf columns columns_clean
+python columns.py
+# Output: columns, columns_clean, file_ids.txt, index_keywords.txt
 
 

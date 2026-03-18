@@ -24,7 +24,6 @@ able
 reason
 last
 speak
-do
 lot
 year
 think
