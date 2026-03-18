@@ -10,12 +10,12 @@ sit
 stand
 kind
 explain
-big
 place
+big
 make
 moment
-bit
 anyone
+bit
 single
 sense
 own
@@ -37,9 +37,9 @@ idea
 someone
 build
 leave
-look
 stay
+look
 turn
+one
 wrong
 least
-one
