@@ -37,10 +37,10 @@ DATA &project;
 
   LENGTH
       filename      $7
-      prompt  $15      /* generic / summary_guided / human */
+      prompt  $15      /* unprofiled / profiled / human */
       model   $20      /* gpt, human */
       source  $5       /* ai / human */
-      v000001 - v000140 3
+      v000001 - v000106 3
   ;
 
   INPUT
@@ -48,7 +48,7 @@ DATA &project;
       prompt  :$15.
       model   :$20.
       source  :$5.
-      v000001 - v000140
+      v000001 - v000106
   ;
 RUN;
 
