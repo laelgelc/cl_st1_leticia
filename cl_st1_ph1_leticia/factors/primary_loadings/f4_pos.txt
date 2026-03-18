@@ -1,0 +1,2 @@
+variables loading on this pole = 7
+build (.71), fact (.67), become (.61), great (.41), change (.37), set (.32), somebody (.32)

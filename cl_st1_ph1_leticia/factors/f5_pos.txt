@@ -1,0 +1,2 @@
+variables loading on this pole = 6
+em (.93), (odd (.71)), (shit (.40)), (carry (.34)), (bother (.30)), reason (.30)

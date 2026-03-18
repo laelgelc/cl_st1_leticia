@@ -1,0 +1,2 @@
+variables loading on this pole = 4
+odd (-.78), sense (-.62), seem (-.33), pick (-.32)

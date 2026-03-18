@@ -1,0 +1,2 @@
+variables loading on this pole = 4
+single (-.84), thinking (-.56), manage (-.45), full (-.34)

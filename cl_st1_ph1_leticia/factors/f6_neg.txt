@@ -1,0 +1,2 @@
+variables loading on this pole = 6
+pound (-.62), (fact (-.52)), (least (-.39)), (month (-.38)), able (-.31), (clear (-.31))
