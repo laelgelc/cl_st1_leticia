@@ -1,0 +1,8 @@
+Text ID: t001383
+Group: human
+Model: human
+File:   corpus/05_human/t001383_human.txt
+
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: shit, minute
+so I took her to the cinema and we we got erm the bus back into town cos you had to go like twenty minutes out of town to the something called the where all the cinema complex were and stuff like that and I took her out we came back and we got dropped off in the middle of town and it were like a Friday night and we were walking up this street and my ex boyfriend came up to me and like swung for me cos er he were a violent shit and I'd

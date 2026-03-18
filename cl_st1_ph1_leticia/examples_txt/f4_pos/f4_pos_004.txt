@@ -1,0 +1,8 @@
+Text ID: t000417
+Group: human
+Model: human
+File:   corpus/05_human/t000417_human.txt
+
+Score (f4_pos): 3
+Loading words (f4_pos), N=3: fact, great, somebody
+but I've often found I said to my first year students whether they were mature students or first year students put your hand up when you're really genuinely confused okay or genuinely excited anything that's going on within you in terms of like you feel something put your hand up in a right kind of breath of you know pause and just say but what are the mismisconceptions about this? that gets people thinking even if you don't know fuck all and if you know shitloads because everyone's got a contribution to make I think the misconception about human geography is about this I think the misconception is about somebody's sitting there going what is a misconception? but they'll learn because you'll be having a three four five way dialogue so they'll go the misconception is that I've actually got this wrong I was tell you about that earlier but I think that's a really good way of rather than saying tell me what I want to hear you're actually asking the lecturer to do the reverse of that is like tell me what I don't want to hear tell me something that I don't actually understand and I think for you that would be great because you need challenging you need to not be bored with the fact that a lot of people you're studying with are gonna know nothing about this

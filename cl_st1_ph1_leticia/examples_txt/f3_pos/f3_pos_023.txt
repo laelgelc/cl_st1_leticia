@@ -1,0 +1,8 @@
+Text ID: t004816
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001406_gpt.txt
+
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: god, gonna
+I just instinctively feel really sorry for her, though, because her life is nothing like what I’d want for myself. When I found out she was pregnant I just cried, I was devastated, like, “oh my god, that’s it, you’re never gonna go travelling, you’re never gonna do this or that.” In my head it was like all these doors had just shut for her. But then I have to step back and think, maybe she never wanted any of those things anyway, and it’s just me projecting what I want onto her.

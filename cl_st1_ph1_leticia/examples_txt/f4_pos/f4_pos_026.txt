@@ -1,0 +1,10 @@
+Text ID: t001947
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000242_gpt.txt
+
+Score (f4_pos): 3
+Loading words (f4_pos), N=3: build, become, set
+so what I'm thinking is that your bit, really, would be doing the hard graft of actually finding the right people and testing them out properly. You’d be the one working out who’s reliable, who hits the quality we need, who can deliver on time, and then building those ongoing working relationships so they’re solid and dependable.
+
+By doing that, you’re not just getting the work done for our own projects; you’re learning how to manage that whole outsourcing process end‑to‑end. And once you’ve got that nailed, you’ve effectively got a skill set you can sell. You become the middleman: you bring in outside business that needs things done, you farm that work out to your trusted people, and you take a fee for putting it all together.

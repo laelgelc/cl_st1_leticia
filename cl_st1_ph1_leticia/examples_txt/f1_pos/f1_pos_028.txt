@@ -1,0 +1,8 @@
+Text ID: t003891
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000481_gpt.txt
+
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): everything
+she was like well instead of getting you something for your birthday I’ll just give you some money because it’ll help with the car and I was like yeah okay fine and I took it but I just feel really crap about it you know I’m twenty‑five I shouldn’t be having to rely on people giving me cash like that especially when I’ve worked so hard and studied and everything and I know I’m capable it just feels wrong that I’m still in this position where I need that kind of help and can’t really stand on my own two feet financially

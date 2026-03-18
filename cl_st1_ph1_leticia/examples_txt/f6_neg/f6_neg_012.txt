@@ -1,0 +1,8 @@
+Text ID: t000063
+Group: human
+Model: human
+File:   corpus/05_human/t000063_human.txt
+
+Score (f6_neg): -1
+Loading words (f6_neg), N=1: pound
+but because had got his own business which the university had funded well they'd given him two thousand pounds to help set him up he went to them and said look I've got this business and I'd like to work in it for the year off rather than so an internship in another company as part of the course and they said yes he could do so I mean he's he's got his own business but the reason he's working with is that erm that also gave it a bit more credence because working with and 's business partner eh actually supervises so it's not his dad sort of telling him what to do but he reports to erm he's doing a good job by all accounts they gave him a bonus last month so he was

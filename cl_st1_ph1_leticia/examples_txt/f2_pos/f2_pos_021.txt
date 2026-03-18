@@ -1,0 +1,14 @@
+Text ID: t001864
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000159_gpt.txt
+
+Score (f2_pos): 1
+Loading words (f2_pos), N=1: okay
+hi darling, you all right? Listen, could you do me a favour? Could you pick up a little box of Branflakes for me? Just a small one, Co-op own brand’s fine. I just want something really plain, you know, no bits in it. 
+
+No, not All Bran, that’s too much, and I don’t want that fake Special K stuff either. And Apri Wheats, no, that’s got bits as well, I don’t want anything like that. Just Branflakes, really plain, that’s the only thing that’s sort of safe. 
+
+Have you got enough money on you to get it? Are you sure? I don’t want you to be short. Okay, brilliant, thank you. 
+
+All right, I’ll let you go then. See you in a bit, yeah? Bye, love.

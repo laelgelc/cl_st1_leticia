@@ -1,0 +1,8 @@
+Text ID: t002579
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000874_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: odd, seem
+I just find it unbelievable, really, and very hard to accept, the way the church as an institution seems to have separated itself from Christianity. That fashion show in the church sticks in my mind, you know. I was absolutely amazed at the time, seeing them strutting up and down over the pews on those boards. I did buy a skirt there, a patchwork skirt somebody local had made, and I wore it for years and years, it was lovely. But I often say to my husband, “Would they have allowed that at your church?” I can’t quite imagine it, somehow. It just all feels rather at odds with what a church is meant to be.

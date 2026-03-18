@@ -1,0 +1,8 @@
+Text ID: t002219
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000514_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: sense, pick
+In my experience, the students were generally quite conscientious and you were known well enough that any skiving or sudden disappearance tended to be noticed and followed up. The tutorial system, with its small groups, made it very obvious if someone didn’t turn up or hadn’t produced an essay. You couldn’t really vanish without it being picked up sooner or later. At the same time, there wasn’t a strict register being taken in a formal way. It all relied much more on our own sense of self-discipline and responsibility.

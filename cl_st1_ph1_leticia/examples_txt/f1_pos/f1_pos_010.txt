@@ -1,0 +1,8 @@
+Text ID: t000322
+Group: human
+Model: human
+File:   corpus/05_human/t000322_human.txt
+
+Score (f1_pos): 1
+Loading words (f1_pos), N=1: um
+and she refused to give up her seat to a white person and I don't think she was abused but I think you know she was certainly shouted at and that was the start when people would then sort of get involved and start having you know um sta started rioting and started protest movements and that was nineteen fifty-nine so that was really late and it wasn't until um JFK um abolished segregation and brought in the Civil Rights Act that um that that sort of thing was sort of made illegal but that wasn't until nineteen sixty-five

@@ -1,0 +1,8 @@
+Text ID: t004765
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001355_gpt.txt
+
+Score (f6_neg): -1
+Loading words (f6_neg), N=1: able
+so when I went to the physio she actually said, yes, the stiffness is really quite acute, which was oddly reassuring, because I so often feel a bit dismissed when I complain about it, like I’m making a fuss. she was really clear that I’ve got to be very careful with the exercises though, because the wrong ones will just set my back off again, so I’m sort of edging into it quite cautiously. but she seems to think that with the right plan we could actually stop the knee pain. apparently my kneecaps have shifted outwards a bit and there’s a muscle imbalance, so everything’s being pulled the wrong way. if we can correct that, we might be able to sort out the stress on the joint, especially as the arthritis itself is only mild.

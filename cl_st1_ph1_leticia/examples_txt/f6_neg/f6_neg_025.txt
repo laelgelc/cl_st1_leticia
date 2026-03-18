@@ -1,0 +1,8 @@
+Text ID: t004923
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001513_gpt.txt
+
+Score (f6_neg): -1
+Loading words (f6_neg), N=1: able
+They want your dad to go over to Ireland to look at various things, check the post, talk to people, and make sure the security system and the house are all right. So it’s more of a general check-up on everything there. He doesn’t have to go to Scotland yet, but there’s been a lot of communication with Scotland. Now it looks like someone who was recently made redundant from Barton Willmore, and who’s been involved from the beginning, will be able to carry on acting for them.

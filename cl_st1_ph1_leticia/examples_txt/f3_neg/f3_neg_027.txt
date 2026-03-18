@@ -1,0 +1,8 @@
+Text ID: t004812
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001402_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: odd, sense
+well it would be quite fun if he did conk out, you know, like that other one the other day, as long as he could just sort of glide down somewhere safe. we could make friends with a couple of pilots and then just go off on little Saturday afternoon flights, “oh yeah, just popping up for a quick loop,” that kind of thing. anyway, coming in from that other direction really does work quite well. those roads aren’t nearly as used as the more direct route, and you avoid that massive roundabout that’s always completely jammed. so we decided to go up that way instead and sort of loop in, and it was much less stressful. it feels a bit odd at first because it’s not the obvious way in, but actually it makes a lot of sense once you’ve tried it.

@@ -1,0 +1,8 @@
+Text ID: t003860
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000450_gpt.txt
+
+Score (f3_pos): 1
+Loading words (f3_pos), N=1: god
+no let me just finish what I was trying to say right if there *was* a god I really don’t think it’d be this big thinking person up in the sky listening to everyone praying in different languages and going “okay I’ll grant this wish, I’ll bring this person back to life, ta‑dah.” it wouldn’t be smart like us or even conscious at all it’d be more like existence itself like the universe it would just be there not answering prayers not reviving the dead just existing and that’s it

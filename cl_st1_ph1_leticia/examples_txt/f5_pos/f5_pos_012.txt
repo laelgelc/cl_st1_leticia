@@ -1,0 +1,8 @@
+Text ID: t001650
+Group: human
+Model: human
+File:   corpus/05_human/t001650_human.txt
+
+Score (f5_pos): 1
+Loading words (f5_pos), N=1: reason
+it was ovarian okay alright so mine was endometrial cancer which is erm a cancer of the lining of the womb and erm it is most prevalent in women post-menopause so the way usually what happens is that I think or I gather is a women will have her menopause and her periods will stop and then after menopause she'll have an unexpected bleed which is either a one-off thing erm which my mother actually had when she was in her seventies just all of a sudden a cascade of blood out of nowhere after years and years of having been you know post-menopause or else persistent bleeding so erm so I think that's probab the reason cos I was er gosh how old was I? fifty-three or something and I hadn't finished my periods I think that's the reason why the doctor didn't think that there was anything sinister about me just having this persistent bleeding but in retrospect I hit fifty and when I hit fifty I didn't I wa I wa just wasn't well in this really weird kind of unaccountable kind of way and I couldn't work out what was wrong with me but I was just distinctly out of sorts and then erm I started to get erm my periods having sort of tailed off and got lighter and lighter and lighter started to get slightly heavier periods and a bit of pain and erm and then they sort of tailed off again and then I started spotting and then the spotting became permanent erm so it was happening all the time erm and then later on it got more persistent so there was more blood and

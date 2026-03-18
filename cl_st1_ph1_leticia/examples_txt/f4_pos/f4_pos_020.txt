@@ -1,0 +1,8 @@
+Text ID: t001570
+Group: human
+Model: human
+File:   corpus/05_human/t001570_human.txt
+
+Score (f4_pos): 2
+Loading words (f4_pos), N=2: great, change
+you know as you go through life you might think I'll I'll take a course in that and either add something to it or you can have a change of of direction completely because you've got enough up there to be able to to alter it midstream sort of thing and all that you know you can take it in yes so er you don't know where these things lead you but so long as you're enjoying it and going along that's er that's great thank you then hey I like these dishes as well hey?

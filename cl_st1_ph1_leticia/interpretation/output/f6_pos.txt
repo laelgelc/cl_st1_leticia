@@ -1,0 +1,158 @@
+Interpretation of Factor 6 (positive pole)
+
+1. **Which group drives this pole?**
+
+- Mean scores:
+  - profiled_gpt: **0.131**
+  - unprofiled_gpt: **0.128**
+  - human: **-0.008**
+
+Both LLM conditions are clearly higher than humans, and the **profiled_gpt** texts are marginally highest. So this pole is **LLM‑driven**, especially by the profiled GPT outputs, with humans slightly on the opposite side of the factor.
+
+---
+
+2. **Linguistic profile of the positive pole**
+
+High positive loadings:
+
+- **bloke (.61)** – strongly colloquial, British, male‑referential, often evaluative (“big bloke”, “this bloke”).
+- **anyone (.47)** – indefinite human reference, often in stance/assessment (“hardly ever have anyone in the back”, “don’t get greedy… if you see anyone missing”).
+- **(massive (.46))** – colloquial intensifier/evaluator (“massive”, “massive difference”, “massive queue” – not in excerpts but implied).
+- **stand (.43)** – overwhelmingly used as **physical stance / spatial positioning** (“standing there”, “stood there”, “stand back”).
+- **chat (.42)** – informal talk, both as verb and noun (“chatting away”, “chatted to me”, “having a chat”).
+- **(odd (.42))** – evaluative stance, mild negative (“odd”, “nothing odd had happened”).
+- **(thinking (.42))** – internal cognition, reflective stance (“I’m just stood there thinking…”, “I keep thinking…”).
+- **(minute (.31))** – temporal granularity, often in narrative pacing (“for a minute”, “in a minute”).
+
+Taken together, these loadings point to:
+
+- **Informal, colloquial lexis** (bloke, chat, massive, odd).
+- **Embodied, spatially anchored narration** (stand).
+- **Subjective stance and evaluation** (odd, thinking, massive, anyone).
+- **Interpersonal / conversational framing** (chat, anyone).
+
+---
+
+3. Evidence from the high‑scoring excerpts
+
+Across the 10 examples (all profiled_gpt), several consistent discourse features emerge.
+
+a) **Embodied, scene‑setting narration**
+
+“Stand/stood/standing” is used to anchor the speaker or others in space:
+
+- “I was just **standing there**, feeling increasingly anxious…”
+- “They were **standing there** watching…”
+- “we walked past this tea **stand**…”
+- “I was just **standing there** yesterday, opposite the X‑ray department, in my little booth…”
+- “I’m just **stood there** thinking what’s the point?”
+
+This creates **vivid, in‑the‑moment scenes**, often with the narrator as an onlooker or participant physically located in the space.
+
+b) **Informal, colloquial social world**
+
+“Bloke” is frequent and strongly loaded:
+
+- “this **bloke**, going on and on…”
+- “a couple of **blokes** who were very sceptical”
+- “big **bloke**, you’d look at him and think…”
+- “Another **bloke** clocked the whole thing…”
+- “this big, fat American **bloke**…”
+
+This, plus “lad”, “chap”, “fellow”, “lads”, “keeper”, “shopping channel”, “minions” (gaming), football talk, nights out, etc., constructs a **casual, everyday, often male‑centred social milieu**.
+
+c) **Conversational, chat‑framed activity**
+
+“Chat/chatting” is central:
+
+- “carried on **chatting away** with this bloke”
+- “I’d been **chatting** loads about tea with this woman”
+- “I was in with my tutor, **chatting through** what I’m doing”
+- “he just sort of **chatted** to me…”
+
+The core activity is **talk about talk**: recounting who chatted to whom, what was said, how relaxed or awkward it was. This is meta‑conversational narrative.
+
+d) **Subjective stance and evaluation**
+
+The texts are rich in stance markers and evaluations, often mild and colloquial:
+
+- “nothing **odd** had happened at all”
+- “feeling increasingly anxious”
+- “it’s like a grand a session, which is **mad money**”
+- “the whole business is just **mental** when you think about it”
+- “it just hit me… it really brought home how fragile everything is”
+- “It’s just this **horrible feeling** of knowing before you even start…”
+- “Proper **frustrating** and you just feel **helpless** with it.”
+- “it was just really **blatant** and made the whole thing feel even more **awkward**.”
+
+The loading word **thinking** is reflected in explicit metacognition:
+
+- “I keep **thinking** what someone properly famous must be on…”
+- “I’m just stood there **thinking** what’s the point?”
+- “just trying to get it all straight in my head really, working out the next steps…”
+
+So the discourse is not just recounting events; it foregrounds **how the speaker feels and thinks about them**.
+
+e) **Indefinite human reference and generalisation**
+
+“Anyone” appears in ways that generalise or background specific people:
+
+- “I hardly ever have **anyone** in the back anyway…”
+- “don’t get greedy. If that enemy comes close… you can kill them easy… Back off if you see **anyone** missing…”
+
+This supports a discourse style that moves between **specific scenes** and **generalised advice or reflection**.
+
+---
+
+4. Integrating loadings and examples: what discourse is encoded?
+
+If we give equal weight to the loadings (whole corpus) and the examples (top texts), the positive pole of Factor 6 can be characterised as:
+
+- **Colloquial, British, socially grounded narrative**:
+  - Lexis like “bloke”, “chat”, “massive”, “odd” indexes informal, often UK‑English conversation.
+  - Situations: pubs/nights out, football, gaming, shopping channel gigs, hospital corridors, car test drives.
+
+- **Embodied, scene‑based storytelling**:
+  - Frequent “stand/stood/standing” plus spatial detail (“opposite the X‑ray department”, “in front of a couple of blokes”, “standing there watching”, “stand back a bit”) anchor the narrator and others physically.
+  - This gives a **cinematic, ‘I was there’** quality.
+
+- **Reflexive, evaluative stance**:
+  - “thinking”, “odd”, “massive”, plus rich evaluative language show speakers **interpreting** events, not just listing them.
+  - Emotional and moral evaluations (awkwardness, frustration, admiration, anxiety) are foregrounded.
+
+- **Talk‑about‑talk and interpersonal dynamics**:
+  - “chat/chatting” and the narrative focus on who said what, who interrupted, who flirted, who ignored whom.
+  - The discourse is about **social interaction itself**: being ignored at a help desk, being coached in a game, being hit on in a bar, being sold a car, being heckled at a show.
+
+- **LLM amplification of colloquial narrative style**:
+  - The fact that **profiled_gpt** drives this pole suggests that when given socio‑demographic profiles, the model tends to **over‑produce this kind of colloquial, stance‑rich, scene‑based storytelling**, especially with British colloquialisms like “bloke”.
+
+---
+
+5. Possible labels for the positive pole of Factor 6
+
+Any label should capture:
+
+- informality and colloquial British lexis,
+- embodied, spatially anchored scenes,
+- interpersonal talk and meta‑conversation,
+- subjective stance and evaluation.
+
+Plausible labels (for this pole only):
+
+1. **“Colloquial, stance‑rich social storytelling”**  
+   - Highlights informality (“colloquial”), the heavy use of evaluation and internal states (“stance‑rich”), and the narrative focus on social encounters (“social storytelling”).
+
+2. **“Embodied, chat‑centred everyday narrative”**  
+   - “Embodied” reflects the centrality of “stand/stood” and physical positioning;  
+   - “chat‑centred” foregrounds “chat/chatting” and talk‑about‑talk;  
+   - “everyday narrative” captures the mundane, non‑specialist, lived‑experience content.
+
+3. **“Informal British interpersonal anecdote style”**  
+   - Emphasises the British colloquial flavour (“bloke”, “lad”), the interpersonal focus, and the anecdotal, story‑like structure.
+
+Any of these would be defensible. If a single label is required, I would prioritise:
+
+**Colloquial, stance‑rich social storytelling**
+
+because it best integrates the lexical evidence (colloquial items like bloke/chat/massive/odd), the embodied and cognitive stance markers (stand, thinking, anyone), and the example texts’ clear focus on narrated social encounters and how the speaker feels and thinks about them.

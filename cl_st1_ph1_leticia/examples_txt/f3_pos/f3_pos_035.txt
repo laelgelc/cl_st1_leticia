@@ -1,0 +1,8 @@
+Text ID: t003032
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001327_gpt.txt
+
+Score (f3_pos): 1
+Loading words (f3_pos), N=1: minute
+he he just sort of launched into his life story really you know we were only going to pop in for a moment and next thing you know he'd been talking ten fifteen minutes. he offered me a coffee and i thought oh well never mind the sunshine we'll stay and have a chat. and then he starts telling me he’d been a colonel in the jordanian army, then got transferred to the air force, and at one point he had thirty-two thousand men under him.

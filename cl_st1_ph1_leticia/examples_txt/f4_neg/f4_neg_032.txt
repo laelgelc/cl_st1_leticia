@@ -1,0 +1,8 @@
+Text ID: t000059
+Group: human
+Model: human
+File:   corpus/05_human/t000059_human.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: horrible
+erm yeah I mean j is amazing she's a teacher she works three days a week and she spends the two days a week she's not working preparing food and putting it in the freezer that's stuff that can eat and her mum looks after her the two days that she's the three days that she's working it's so time consuming I don't know how she does it she's still breastfeeding her she she she's a year and a half? And she won't take any of the milk substitutes because they taste horrible so I don't know how long you can go on so she's expressing milk to leave with mum but actually they've had to start giving her vitamins and things cos the milk she's really she's just living on milk and eighteen months is not enough

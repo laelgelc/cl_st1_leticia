@@ -1,0 +1,8 @@
+Text ID: t000183
+Group: human
+Model: human
+File:   corpus/05_human/t000183_human.txt
+
+Score (f4_pos): 2
+Loading words (f4_pos), N=2: set, somebody
+erm and the purpose behind it seems to be to dispel the idea that industry in Britain is dead because that's the they all said the same thing you know all you hear is that there's no industry the industry's dead and gone and it's not true apparently there's lots of industry so they all set out to different parts of the country so you know one one photographer did London somebody else did the North East somebody did Manchester and so on and they all have different approaches and so on erm so that's in the and then going on tour and i actually the was very busy but there was hardly anybody in this exhibition

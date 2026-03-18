@@ -1,0 +1,8 @@
+Text ID: t002474
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000769_gpt.txt
+
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: huge, massive, big
+it was quite entertaining really, they were absolutely mad. there’s this picture I remember, of one of them in this massive room where the whole back wall was just covered in these huge square storage units. they filled the whole space, stacked up to like ten or twelve feet high, all meant for the kids to stick their clothes and belongings in. they had this big rule that kids weren’t allowed to climb them at all. and then at one point, they came back in and there was this one child just sitting alone right on the top, and nobody had any idea how he’d managed to get up there.

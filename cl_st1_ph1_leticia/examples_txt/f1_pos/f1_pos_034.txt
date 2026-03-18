@@ -1,0 +1,8 @@
+Text ID: t002138
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000433_gpt.txt
+
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): clear
+when we went out driving on the Sunday it was actually fine for us, the roads were all right, but do you remember there was that massive line of cars just parked up on the verges all the way round the loop road? The main road had been cleared, you could drive round it no problem, but people obviously couldn’t get into their side roads, so they’d just left the cars there and walked home. I remember thinking it was really strange. Do you remember that at all?

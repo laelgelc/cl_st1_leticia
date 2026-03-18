@@ -1,0 +1,12 @@
+Text ID: t003506
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000096_gpt.txt
+
+Score (f4_pos): 3
+Loading words (f4_pos), N=3: become, change, set
+if you can actually see it on the page, it becomes much easier to keep the whole thing in your head. So, think of it as three major acts laid out in front of you. The first act sets everything up, the third act pays everything off, and the second act in the middle is usually the longest one, partly because that’s where you tend to get all the montage-y stuff, the development, the complications.
+
+That middle section is where a lot of filmmakers go wrong. They either rush it, or they pad it, or they lose the thread of what the story is actually doing. When you draw it out, you can literally see if that second act is bloated or thin, or if it’s doing the work it’s meant to do.
+
+And then, alongside that, you sketch the character arc. You want a really clear, visible personal trajectory: the person at the end should be recognisably changed from who they were at the beginning. Something obviously significant has to have happened to them, so that the audience doesn’t have to guess. They can look at that line you’ve drawn and say, “Right, that’s where everything shifted, that’s where something amazing happened to this person.”

@@ -1,0 +1,8 @@
+Text ID: t001507
+Group: human
+Model: human
+File:   corpus/05_human/t001507_human.txt
+
+Score (f4_pos): 2
+Loading words (f4_pos), N=2: become, somebody
+or they could do an industrial or commercial placement but the numbers of those were quite tiny because in other European countries as you will well know they don't have this culture of any discipline you know you can't become very easily a an accountant or a marketing person or something if you've got a degree in a somebody else's language you know you need in it's much more common in other European countries to have the relevant degree to go into the relevant job but we've got this I think tradition that probably goes back to fourteen hundred you know when the only degrees you could do were classics or theology

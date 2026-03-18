@@ -1,0 +1,8 @@
+Text ID: t002060
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000355_gpt.txt
+
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: awful, horrible
+yeah he did turn up but it was just so awkward, you know? his sister only found out on Facebook and then everything kind of fell apart around that time. she was really badly affected by it all, it must have been awful for her, but she’s fine now, she’s okay. and I’ve had a really hard time myself as well, with work and all sorts of other things, so I do understand. but I really feel like we’re here to go through these horrible bits and then come out the other side stronger.

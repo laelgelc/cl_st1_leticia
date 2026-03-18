@@ -1,0 +1,8 @@
+Text ID: t004147
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000737_gpt.txt
+
+Score (f5_pos): 1
+Loading words (f5_pos), N=1: reason
+There were technically five places I could’ve gone to for Spanish and Chinese, but it never really felt like five. I ruled one out straightaway because I just didn’t want to live there at all, and there was another where I had family, but I kind of just ignored that option for some reason. So it basically ended up being a choice between two unis. I remember sitting in my friend’s living room with all these prospectuses spread out everywhere, just feeling completely unsure – where to go, what to study, what actually mattered most.

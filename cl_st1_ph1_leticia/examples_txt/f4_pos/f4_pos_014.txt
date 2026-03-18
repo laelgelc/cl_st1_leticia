@@ -1,0 +1,8 @@
+Text ID: t001505
+Group: human
+Model: human
+File:   corpus/05_human/t001505_human.txt
+
+Score (f4_pos): 2
+Loading words (f4_pos), N=2: change, somebody
+erm it's the number of times the government's changed the regulations about ability to or you know legal situation as far as getting jobs are concerned it's just you know up and down every year really erm but yes in many ways it was they all want to work in the UK basically and erm even under the post study work visa which generated immense sort of optimism that they were automatically going to be able to get a job for two years af in the UK afterwards erm unfortunately it didn't make employers want them just because they were legally entitled to work it didn't sell them into a job you know an employee wants to take a graduate with a view to the long term they don't want to take somebody who's got to go home after two years

@@ -1,0 +1,8 @@
+Text ID: t005055
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001645_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: sense, seem
+I just feel that after all these years of supposed sexual liberation and better sex education, young women are still being short‑changed. They’re missing out on what should be an important and joyful part of life. It seems tied up with a lack of understanding about what healthy sex actually is, and not really knowing their own bodies or what they might want. In that sense, it feels as if sex education has more or less collapsed; it’s not giving girls the tools or confidence they need.

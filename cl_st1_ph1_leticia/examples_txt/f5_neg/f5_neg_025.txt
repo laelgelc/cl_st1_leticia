@@ -1,0 +1,8 @@
+Text ID: t003670
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000260_gpt.txt
+
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: thinking, manage
+when you were little I used to discover, quite painfully, that carbohydrates really don’t agree with me. I’d make you your lunch, and if there was hot pasta left over I’d just finish it off without thinking. About twenty minutes later I’d be absolutely wiped out. I remember literally crawling from the kitchen into the living room, managing to get CBeebies on, and then just conking out on the floor. I’d sleep there for about half an hour, completely gone, because of all that pasta.

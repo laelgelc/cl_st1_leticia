@@ -1,0 +1,12 @@
+Text ID: t002119
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000414_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: sense, seem
+I think universities get it completely the wrong way round. They tend to put the weakest, narrowest lecturers in front of first‑years, when actually those students need the very best, most broad‑minded people right from the start. A really good lecturer should be able to walk into a room of any size – ten students or three hundred – and still communicate clearly, generously, and with real energy.
+
+It’s a bit like a DJ: if you’re a proper DJ, you give it everything whether there are five people on the dance floor or five hundred. You don’t hold back just because the crowd is small or quiet; you still give. That’s what good teaching should be like – this sense of giving outwards, not hoarding what you know.
+
+The trouble is, a lot of lecturers just don’t seem able to be generous with their knowledge. It’s as if something in them is blocked. They may be brilliant in their own heads, but that brilliance doesn’t flow out to the students, and that’s where it all falls down.

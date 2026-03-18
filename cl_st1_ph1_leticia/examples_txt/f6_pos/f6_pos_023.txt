@@ -1,0 +1,8 @@
+Text ID: t005033
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001623_gpt.txt
+
+Score (f6_pos): 2
+Loading words (f6_pos), N=2: bloke, stand
+This bloke just turned up on the doorstep, said he’d been sent by Eon to change our meter. It wasn’t even booked or anything, he just said he often does extra ones if he’s nearby and it’s convenient, and that it’d only take him about fifteen minutes. So I’m stood there thinking about what I’m in the middle of, but he’s very matter-of-fact, like, “If it suits you I can just do it now, won’t take long.” The whole thing was completely unannounced, but he clearly makes a habit of squeezing in these extra jobs when he can.

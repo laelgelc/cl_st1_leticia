@@ -1,0 +1,8 @@
+Text ID: t000397
+Group: human
+Model: human
+File:   corpus/05_human/t000397_human.txt
+
+Score (f2_pos): 3
+Loading words (f2_pos), N=3: er, erm, cos
+and went to and questioned I shouldn't be having to do this and said to him erm I don't know the very words this is what I was just told cos overheard it said well why have you been asked to do it? and er he said something about erm er I I've been given it because I've been naughty or whatever I said well I suggest you get back to where you were where you've just come from and carry on with it but said if that er that had have been him he'd have said to him how dare you question what has given you and come to me

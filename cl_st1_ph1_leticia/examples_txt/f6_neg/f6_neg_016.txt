@@ -1,0 +1,8 @@
+Text ID: t000137
+Group: human
+Model: human
+File:   corpus/05_human/t000137_human.txt
+
+Score (f6_neg): -1
+Loading words (f6_neg), N=1: pound
+well the thing is I planned most of it I just I didn't plan the accommodation because when I originally looked I said oh it might not be worth it because I can't find any accommodation less than I think it was like a hundred and fifty pound for like one night erm and then like I think who one of them emailed me back like oh how about this? and like I did a I did a really brief like look at the website and I was like oh it doesn't look atrocious but obviously didn't pay any attention to like where the hell it was located

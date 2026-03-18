@@ -1,0 +1,10 @@
+Text ID: t002690
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000985_gpt.txt
+
+Score (f6_pos): 2
+Loading words (f6_pos), N=2: stand, chat
+yeah so like you know that lad I know, he’s got that JVC thing coming up, doing the beauty products on the shopping channel. It’s like a grand a session, which is mad money for what it is, just standing there talking about moisturiser or whatever. And that’s just him – I keep thinking what someone properly famous must be on for the same sort of gig, it must be ridiculous, the whole business is just mental when you think about it. 
+
+Then Thursday I was in with my tutor, chatting through what I’m doing and what the plan is. We went over my ideas and where I’m heading, just trying to get it all straight in my head really, working out the next steps and that.

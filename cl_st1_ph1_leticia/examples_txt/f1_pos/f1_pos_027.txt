@@ -1,0 +1,8 @@
+Text ID: t003888
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000478_gpt.txt
+
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): everything
+Yeah, my friend who used to teach languages at my uni in Hull totally told me off for never going to her classes. She was like, “You’re absolutely screwed,” and I kind of believed her. But then when we were in Italy I could actually understand everything people were saying. I’d listen, then tell him in English what they’d said, and he’d answer back in Italian. I could hear him talking away, but I had no idea what he was actually saying in Italian, even though I understood everyone else.

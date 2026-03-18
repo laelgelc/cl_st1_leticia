@@ -1,0 +1,8 @@
+Text ID: t001119
+Group: human
+Model: human
+File:   corpus/05_human/t001119_human.txt
+
+Score (f6_pos): 2
+Loading words (f6_pos), N=2: anyone, stand
+so came in with me and he were just he were just sat he thought it was bullshit absolute bullshit he was like why the fuck are you wasting thirty quid on this? and I was like well like like support would you come in with me? so he came in and he sat there and she didn't she didn't saying or anything and at the end she said is there anyone that you want me to contact? we were like yeah well I've actually come to see my grandad like and she were like well I didn't wanna say anything cos you said he didn't want it reading but they said an old man here's just walked in and he's like stood in the middle of you both and I don't know who he is so she was saying all this stuff like and she was saying I can see a brand new cricket bat like brand new in its cellophane wrapper and he's he's he's showing me this cricket bat and that's what she was saying to us and I was just like what the fuck? I don't know if my grandad liked cricket like I don't know what you're talking about and were like sat there and his face was red and he were looking down I thought he were fuming like I thought he thought that we were being conned and anyway it turns out that he were praying it was his grandad who went yeah yeah it's me blah blah and then the other stuff she said like just adds up like to him

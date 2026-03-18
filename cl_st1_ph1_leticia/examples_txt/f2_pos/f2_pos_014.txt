@@ -1,0 +1,8 @@
+Text ID: t000398
+Group: human
+Model: human
+File:   corpus/05_human/t000398_human.txt
+
+Score (f2_pos): 3
+Loading words (f2_pos), N=3: er, erm, cos
+I mean said to me on the phone when she phoned up she phoned me up and she said oh I'm she said hello well she never rings me on my mobile and I said oh hello are you alright? she said oh well she said erm just ringing you to let you know we're not going tonight cos I'd offered to pick them but she said erm she has to sort out with his football so but thank you for the offer type thing er we're not going tonight and I said why? she said well she said we're having a few problems with I said oh dear and she you know said a few things and she said erm it it's probably our own fault but she said she's done things in the past and we've allowed her to get away with it so she said it's probably our fault and I said to her I said well I said I don't want to interfere don't get me wrong but I said but why are you not going?

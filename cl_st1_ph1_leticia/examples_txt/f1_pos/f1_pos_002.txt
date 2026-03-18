@@ -1,0 +1,8 @@
+Text ID: t000091
+Group: human
+Model: human
+File:   corpus/05_human/t000091_human.txt
+
+Score (f1_pos): 1
+Loading words (f1_pos), N=1: um
+the situation so they were almost like okay that's the final straw done deal and um he was one of the guys who was in the who was er there was two er the main editor and him er yeah and it it was just er it was quite bitter at the time and it was just such I was so devastated and I felt like oh it was such a such a great opportunity but I was er always I planned I was gonna do er do five years there and er I'd still be there now and I realize some of the things I I've sacrificed

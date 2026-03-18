@@ -1,0 +1,8 @@
+Text ID: t000089
+Group: human
+Model: human
+File:   corpus/05_human/t000089_human.txt
+
+Score (f1_pos): 1
+Loading words (f1_pos), N=1: um
+but I was working quite a lot of hours and you'd you'd work eight and a half hours there and then at David Lloyd you do eight hours and I did quite a lot of travelling and basically I was late for two shifts um and they sat me down and they were like Elliot we're gonna have to review the whole system we're w we're not gonna keep you on as the um on this sabbatical don't think it's working for us and I was just like obviously a bit shocked and stunned I was like oh well kind of er can I explain? And type thing er well we've we've made the decision and I was like okay er and so what about then the freelancing? I'm afraid we're gonna have to let you go

@@ -1,0 +1,8 @@
+Text ID: t003598
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000188_gpt.txt
+
+Score (f2_pos): 1
+Loading words (f2_pos), N=1: okay
+yeah it was just like chilling in a bank for years, no one even thinking about it, and then suddenly dad finds out there’s all this money just sitting there. so he went and put loads of gran’s money into government bonds, like proper decent interest rates but you can’t touch it for four years. he checked with my aunt first, was like, do you need any of this, are you okay for money, and she said no, she was fine, so he went ahead and did it. then later she suddenly turns round and asks for like ten grand, and dad’s like, we literally can’t, it’s locked in. and instead of just accepting that, she goes off and tells gran that dad wouldn’t give her any money, like he was being tight with her or something.

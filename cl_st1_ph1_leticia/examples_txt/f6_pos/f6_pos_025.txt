@@ -1,0 +1,8 @@
+Text ID: t004660
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001250_gpt.txt
+
+Score (f6_pos): 2
+Loading words (f6_pos), N=2: bloke, chat
+I went to this really interesting CLIL talk, actually by the same bloke who did that FCE talk before. He was much better this time, I think because he was doing his own material rather than someone else’s. Afterwards I was chatting to someone who said, “Why have you never worked at [that place]?” and I honestly didn’t know what to say, because I’ve worked pretty much everywhere else. It all felt quite strange, being at a conference where all these different organisations I’m connected with were there – Kaplan, Support for English, and so on. I even managed to quietly observe this Kaplan guy from Salisbury I’ll probably have to deal with in the summer – he’s meant to be notoriously difficult.

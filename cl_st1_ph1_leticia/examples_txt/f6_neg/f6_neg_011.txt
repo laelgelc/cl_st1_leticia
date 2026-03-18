@@ -1,0 +1,8 @@
+Text ID: t000052
+Group: human
+Model: human
+File:   corpus/05_human/t000052_human.txt
+
+Score (f6_neg): -1
+Loading words (f6_neg), N=1: able
+I mean you can tell maybe they'd sound similar not not that similar to be able to do it it's hard isn't it? But that's because they're you know a lot of hearing is so you have to listen to it again I suppose until you get the context until you understand everything that's going on but there's quite a few business words that I don't know Tom like the word for eh the words for meetings I tried to look it up on the internet and I just can't find it some sort of meeting I said is it a board meeting? No it's not a board meeting it's this so and so meeting it's just I had I looked it up but like with the letters that I think were the word and like there's lots of people saying the same why are they not spelling it right can't figure it out

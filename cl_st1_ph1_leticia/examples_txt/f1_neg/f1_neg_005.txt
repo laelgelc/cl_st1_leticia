@@ -1,0 +1,8 @@
+Text ID: t002499
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000794_gpt.txt
+
+Score (f1_neg): -5
+Loading words (f1_neg), N=5: expect, least, nothing, speak, everything
+so like before the party he’d been messaging me loads, being all flirty, and then at the actual party we barely spoke. it was really weird, ‘cause he’s going out with the girl who was hosting it, and he’d been nominated for “sexiest man” and everything, so I kind of expected we’d at least chat a bit. we only ended up sitting outside together for a little bit, and we were just talking about how he couldn’t really be voted for properly ‘cause he was sleeping with the host, so it was a bit unfair. it wasn’t even a long or deep conversation, just that kind of jokey, awkward chat. then he didn’t win the “sexiest man” thing anyway, which was quite funny after all that build-up, and after that there was pretty much nothing between us the rest of the night. I just left without really speaking to him again.

@@ -1,0 +1,8 @@
+Text ID: t003153
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001448_gpt.txt
+
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: thinking, full
+so this text comes through from EE saying, “your friends and family forty percent plan charge discount has been removed,” and I’m thinking, what’s going on here then? And then straight after, there’s another bit saying it’s been re‑applied. Anyway, I get this other notification saying my bill’s ready, which I don’t usually bother with online, but I thought, I’ll log in and have a look this time. So I go on and check it, and it shows the full price as twenty‑one ninety‑nine, but with the friends and family discount on it, my bill’s only ten ninety‑nine, which I think is really good.

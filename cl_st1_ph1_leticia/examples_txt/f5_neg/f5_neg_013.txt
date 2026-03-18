@@ -1,0 +1,8 @@
+Text ID: t003299
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001594_gpt.txt
+
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: thinking
+right so this lad I know, he's really, really self‑conscious about this one thing on his body, but it’s nothing to do with his penis at all. There’s this tablet or pill or maybe it’s like a cream or something that he could take to sort it out, like properly improve it, but the big side effect is erectile dysfunction. So he’s just not going near it, he won’t take it, because that freaks him out more than the thing he’s actually bothered about. And I’m sat here thinking, why would older men choose to go on something like that, knowing that’s a major risk? Like, why would you risk not being able to get it up just for something that’s basically cosmetic?

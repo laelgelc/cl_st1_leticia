@@ -1,0 +1,16 @@
+Text ID: t003534
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000124_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: sense, pick
+well I know they’re going to challenge me, that’s a given. Of course they will. They’re my friends, and they’re going to be my biggest critics. So I think the only way I can deal with that properly is to be really clear about why I’m changing direction and what I’m actually trying to do.
+
+I’ll have to spell out that I’m in a kind of transitional phase, not just randomly flitting about. I’m moving towards creating something different, even if from the outside it might just look a bit vague or experimental right now. For me it *is* new, because I’m learning new things all the time – stuff I didn’t know before, things I’m finding out and learning about as I go. It feels new because I’m stretching myself.
+
+A big part of it is learning from people who are already doing what I want to do. I want to make it clear to them that I’m not just dreaming this up in isolation; I’m watching and listening to people who are actually out there doing it, and I’m trying to pick up as much as I can from them. That’s how I’m thinking about it: learning from others, then gradually shaping my own version.
+
+I’ll probably explain that in entrepreneurship there are common themes, but everyone has their own path. There’s no single route you’re supposed to follow. So yes, there are shared ideas and patterns, but what I’m doing is finding my own way through that, in a way that makes sense for me.
+
+Even if my friends don’t fully get my perspective, or they can’t quite see the “bigger picture” I’ve got in my head, I still think there’s value in learning from them too. They might not understand why I’m doing this, but they’ll still have experiences and insights that are useful. So my response to their criticism will be to calmly lay out my reasons, show that I’m in a deliberate transition towards something different, and keep stressing that this is about learning – from people ahead of me, and from them as well – even if they don’t entirely see what I see yet.

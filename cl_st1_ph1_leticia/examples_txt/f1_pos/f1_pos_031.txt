@@ -1,0 +1,8 @@
+Text ID: t002157
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000452_gpt.txt
+
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): everything
+when I did used to bring it up with my mum, about her copying those mannerisms, it would just blow up into this massive argument over something really small. then my dad would always step in as the peacekeeper and tell me I was being out of order and that I needed to apologise to her. it made me feel like I wasn’t allowed to have an opinion about it at all. I’d end up arguing with him instead, basically for her benefit, which just made everything feel even more unfair.

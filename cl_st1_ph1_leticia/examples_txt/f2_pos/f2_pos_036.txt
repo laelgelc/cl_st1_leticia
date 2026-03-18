@@ -1,0 +1,8 @@
+Text ID: t003503
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000093_gpt.txt
+
+Score (f2_pos): 1
+Loading words (f2_pos), N=1: cos
+yeah well I’ll, cos I mean we’d already said it was something we could do, hadn’t we, and I’ve just kind of kept putting it off. But now I actually want to get it going for her, really, and just talk to her about what she’d prefer. Like, would she rather do it as a sort of joint thing that’s really about her keeping her Spanish up properly, and using it, and then I’m just there sitting in? I’d be quite happy just to pick up bits and pieces and get a basic grounding, you know, not anything too serious for me, more about supporting her.

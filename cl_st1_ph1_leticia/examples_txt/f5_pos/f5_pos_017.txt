@@ -1,0 +1,8 @@
+Text ID: t001568
+Group: human
+Model: human
+File:   corpus/05_human/t001568_human.txt
+
+Score (f5_pos): 1
+Loading words (f5_pos), N=1: reason
+that the I can't do them on the toilet I said I fitted the whole toilet and pipes and everything in so I I could do it but I'm not gonna be able to do it for for various reasons so I said we'll pay for it now I said what I want to show you I says all this vegetation your garden coming over here look I says I can cut them off I can cut that but when it's gets to that er conifer tree there I said I'm not gonna be able to do and I said I don't think you can neither so I think you're going to have to get somebody in to to see to that so he says mm do you know anybody you know? how much would it be? that's his first line really how much would it be? like which is not a bad line how much would it be? er so I said well you already do know somebody because you get to come and cut the hedge and it wants cutting now don't it?

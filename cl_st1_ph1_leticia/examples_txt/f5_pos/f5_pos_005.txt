@@ -1,0 +1,8 @@
+Text ID: t000051
+Group: human
+Model: human
+File:   corpus/05_human/t000051_human.txt
+
+Score (f5_pos): 1
+Loading words (f5_pos), N=1: reason
+that would be horrible yes so I'm we're gonna get the new car well new to us car on Monday okay? and then we have two weeks where I'm insured on both cars and I'm gonna want to run down the other car petrol wise cos for some reason I put loads of petrol in it well I know why it's cos I teach I'm going to teach in tomorrow which is quite a way away and on Tuesday and I need a lot of petrol for both of those but yeah I want to use up most of that petrol and then we've got to swap tyres over

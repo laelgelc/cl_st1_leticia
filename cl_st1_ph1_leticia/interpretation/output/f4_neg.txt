@@ -1,0 +1,103 @@
+This pole is best interpreted as a **lexicalised stance of strong negative evaluation and distress**, centred on the repeated use of a small set of high-intensity evaluative items.
+
+### 1. What the loadings tell us
+
+Factor f4 (neg) has only five salient items, all strongly negative in meaning:
+
+- **awful** (−.77)  
+- **horrible** (−.72)  
+- **shit** (−.63)  
+- **bother** (−.39)  
+- **pound** (−.36)
+
+The first three are clear, high-intensity negative evaluators. *Bother* and *pound* are more context-dependent, but in conversational English they frequently occur in negative-affect frames:
+
+- *can’t be bothered*, *don’t bother*, *it really bothers me*  
+- *pounding headache*, *my heart was pounding*, *pounded on the door* (often in stress, fear, or conflict narratives)
+
+So, lexically, this pole is dominated by **strong, colloquial negative evaluation and emotional discomfort**.
+
+### 2. What the examples show
+
+All ten high-scoring texts are unprofiled GPT turns, and they consistently:
+
+- Narrate **unpleasant, distressing, or morally negative situations** (abuse, illness, family cruelty, relationship breakdown, social media pile-ons, war news, creepy TV episodes).
+- Use **awful / horrible** as key stance markers, often multiple times per text.
+- Focus on **how bad something feels** (emotionally or physically), not just that it happened.
+
+Illustrative patterns:
+
+1. **Intense emotional distress / empathy**
+   - “it just makes me really sad… she still has this hope… I don’t think he’s good for her at all.”  
+   - “I’ve felt awful for the last two weeks because I made you feel terrible…”
+
+2. **Moral condemnation of others’ behaviour**
+   - “she’s been absolutely horrible to her for years, really manipulative, calling her all sorts of names and doing awful things”  
+   - “some of it’s from people he actually knows, which is just awful”
+
+3. **Physical unpleasantness / disgust**
+   - “he had these horrible yellow blisters all over his face in the end, it was awful”  
+   - “there was blood everywhere from a nosebleed. It was absolutely horrible.”
+
+4. **Everyday negative evaluation of people / situations**
+   - “this absolutely awful Essex girl… this really horrible accent”  
+   - “something awful on the news about Homs… ‘Oh God, that’s horrible,’ and then we get on with what we were doing.”
+
+5. **Dark, unsettling narrative tone**
+   - “something awful has gone on, but there’s literally no evidence… it makes the whole story really horrible and quite dark”
+
+Across these, *awful* and *horrible* function as **recurrent stance devices** that:
+
+- Intensify the negativity of the described event or person.
+- Signal **emotional alignment** (sympathy, disgust, fear, sadness).
+- Often co-occur with **first-person reflection** on how the speaker or others feel.
+
+### 3. Which group drives this pole?
+
+Mean scores are:
+
+- human: 0.228  
+- profiled_gpt: 0.190  
+- unprofiled_gpt: 0.188  
+
+These are all positive means on the *overall* factor, but we are looking at the **negative pole** (i.e. texts with the most negative scores). All ten top-scoring negative-pole texts are from **unprofiled_gpt**.
+
+So, while humans have a slightly higher *mean* on the factor overall, the **extreme negative-pole behaviour**—dense clustering of *awful/horrible* in strongly negative narratives—is **driven by unprofiled GPT outputs**. The model, when not constrained by a socio-demographic profile, appears to overuse these high-intensity evaluators in constructing emotionally loaded stories.
+
+### 4. Discourse characteristics of this pole
+
+Combining loadings and examples, this pole encodes a discourse style characterised by:
+
+- **High-intensity negative stance**: frequent, sometimes repeated use of *awful, horrible* as default evaluators.
+- **Affect-focused narration**: emphasis on how events feel (awful, horrible, grim) rather than on neutral description.
+- **Moral and interpersonal judgement**: people described as *horrible*, behaviour as *awful*, often in close relationships (family, partners, friends).
+- **Embodied distress**: physical symptoms and discomfort (blisters, nosebleeds, crying, exhaustion) framed through these evaluators.
+- **Colloquial, conversational register**: fits casual talk (“absolutely awful Essex girl”, “oh God, that’s horrible”), not formal complaint.
+
+This is not just “negativity” in a broad sense; it is specifically **lexically concentrated, conversationally framed negative evaluation and distress**.
+
+### 5. Possible labels for this pole
+
+Any label should capture both the **stance** (strong negative evaluation) and the **discourse function** (narrating and judging distressing experiences). Suitable options:
+
+1. **“Intensified Negative Evaluation and Distress”**  
+   - Captures the repeated use of high-intensity evaluators (*awful, horrible, shit*) and the focus on distressing content.
+
+2. **“Colloquial Negative Stance and Moral Condemnation”**  
+   - Highlights the conversational register and the frequent moral judgement of people’s behaviour as *horrible/awful*.
+
+3. **“Affect‑Loaded Narratives of Suffering and Mistreatment”**  
+   - Emphasises that these are stories about being hurt, mistreated, or distressed, told through affective lexis.
+
+4. **Short, general label for the dimension name:**  
+   - **“Intense Negative Stance”**  
+   - This is compact but still grounded in the loadings and examples.
+
+If I had to choose one primary label for this pole, balancing precision and usability, I would propose:
+
+> **Intense Negative Stance and Distress Narration**
+
+This foregrounds:
+- the **lexical stance** (intense negative evaluation: *awful, horrible, shit*), and  
+- the **discourse function** (narrating and judging distressing, unpleasant, or morally bad situations),  
+driven in practice by **unprofiled GPT** turns in this corpus.

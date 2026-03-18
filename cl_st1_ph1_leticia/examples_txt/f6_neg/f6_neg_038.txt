@@ -1,0 +1,8 @@
+Text ID: t003218
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001513_gpt.txt
+
+Score (f6_neg): -1
+Loading words (f6_neg), N=1: able
+Well they want him over in Ireland to look at various things, you know, check the post, talk to a few people, make sure the security system’s working and the house is all right. Just generally see that everything’s in order over there. He doesn’t have to go up to Scotland yet, but there’s been a lot of to-ing and fro-ing with Scotland. It looks now as though the chap who’s just been made redundant from Barton Willmore, who’s been involved from the start, will be able to carry on acting for them.

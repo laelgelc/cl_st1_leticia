@@ -1,0 +1,8 @@
+Text ID: t003618
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000208_gpt.txt
+
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: single, manage
+well the thing with a one bedroom is it kind of keeps your options open doesn’t it because if she doesn’t end up coming over then you’re still just classed as a single person and you’d be on the same level of benefits as you are now you wouldn’t suddenly be expected to manage a bigger place that you don’t actually need but if she does come and you’re on DHSS then you’d be classed as having a dependent and that changes things a bit because then they’re supposed to look at rehousing you into a two bedroom place especially if you’re overcrowded where you are now it’s more likely to happen over at the other place though because there just isn’t the same demand for housing there I mean look at that woman with the baby she registered the baby there and she got moved into a new two bedroom flat really quickly once they saw she had a child on the books so it can work in your favour in that area

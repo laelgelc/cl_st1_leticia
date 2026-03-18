@@ -1,0 +1,8 @@
+Text ID: t005083
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001673_gpt.txt
+
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): real
+I do know who my real dad is, but I’ve never really had any interest in talking to him. Anyway, my mum told me this story from when me and my sister were about six or seven. We used to get really bad nosebleeds all the time. One day at primary school, I was getting changed for gym and the teachers saw blood in my knickers. They absolutely panicked and rang my mum straight away, saying they knew she had a man living with her who wasn’t our dad and asking if he’d been interfering with us. But it was just from our nosebleeds at night.

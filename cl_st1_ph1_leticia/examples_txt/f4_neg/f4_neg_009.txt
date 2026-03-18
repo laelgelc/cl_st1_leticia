@@ -1,0 +1,8 @@
+Text ID: t004756
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001346_gpt.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: horrible
+I got into Hong Kong, when it was still British, at the beginning of September and it was just boiling. I only had a day to sort out this missing luggage business, and I had hardly any money on me, so I was already pretty wound up and hot and bothered. Then I flew on to Beijing, still in that heat, and the stress of it all must have got to me, because on the very first morning I woke up and there was blood everywhere from a nosebleed. It was absolutely horrible. And of course, in the student accommodation there, we didn’t have access to ice or anything sensible like that. We didn’t even have properly cold water, just this sort of tepid stuff that came out of the tap, which was no use at all when you’re trying to deal with a nosebleed in that kind of heat.

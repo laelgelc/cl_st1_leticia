@@ -1,0 +1,8 @@
+Text ID: t002183
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000478_gpt.txt
+
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): everything
+Yeah, my mate who used to teach languages at our uni in Hull really told me off, actually. She was like, “You never came to my classes, you’re screwed,” and all that. But when we were out there, it didn’t work out that way at all. I could understand everything people were saying in Italian, then I’d tell him in English what they’d said, and he’d answer back in Italian. I’d listen to him talking away and not understand a word of his replies.

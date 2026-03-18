@@ -1,0 +1,8 @@
+Text ID: t000906
+Group: human
+Model: human
+File:   corpus/05_human/t000906_human.txt
+
+Score (f6_pos): 2
+Loading words (f6_pos), N=2: bloke, stand
+and she was young and she had lots of blonde hair and the top half of her head it was kind of up I think it was in rollers kind of around big black things but kind of about this big which I think is probably rollers so I think she was drying it before going out or something like this the bloke who was standing in front of her turned around and everybody heard this and said he must have just like caught her and said oh oh you off to a Halloween party or something?

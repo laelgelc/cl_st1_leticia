@@ -1,0 +1,8 @@
+Text ID: t003387
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001682_gpt.txt
+
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: full
+well in a way it’s quite a good job he doesn’t cook, because I honestly don’t know what he’d do with himself if he did, but it does make some things a bit tricky. What really gets to me is when he fixates on tiny things, like a pile of papers that’s been sitting there for ages. I’ll come in absolutely shattered from a really busy day, and that’s when he chooses to say, “Can you just go through those?” If I don’t deal with it straightaway he gets in a mood, and I find that hard. It worries me a bit, because it feels as though his world has shrunk, and these little domestic things have become hugely important to him, whereas I’ve still got this very full, hectic life going on outside.

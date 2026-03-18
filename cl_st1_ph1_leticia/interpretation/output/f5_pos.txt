@@ -1,0 +1,172 @@
+Interpretation of Factor 5 (positive pole)
+
+1. **Which group is driving this pole?**
+
+- Mean scores:
+  - Human: **+0.037**
+  - Unprofiled GPT: **−0.099**
+  - Profiled GPT: **−0.126**
+
+Human turns are the only group with a positive mean on f5, and both GPT conditions are clearly negative. The positive pole is therefore **human‑driven**, and the factor is picking out a pattern that is **characteristic of spontaneous human conversation** and under‑represented in the LLM output.
+
+---
+
+2. **Key lexical loadings**
+
+Positive loadings:
+
+- **em (.93)** – very strong loading
+- **(odd (.71))** – likely “for some reason” / “for some odd reason” pattern
+- **shit (.40)**
+- **carry (.34)**
+- **bother (.30)**
+- **reason (.30)**
+
+Two things stand out:
+
+- **Disfluency / hesitation**: *em* is by far the strongest loading, and it appears repeatedly in the examples.
+- **Causal / justificatory language**: *reason* and the parenthetical *odd* (as in “for some reason/odd reason”) point to speakers explaining or rationalising events.
+- **Colloquial stance markers**: *shit*, *bother*, *carry* (likely in “carry on”, “carry it”, etc.) suggest informal, evaluative talk, though they don’t surface in the top 10 excerpts.
+
+So lexically, this pole combines:
+- **Spoken disfluency** (em)
+- **On‑the‑fly reasoning and explanation** (reason, odd reason / for some reason)
+- **Informal, mildly emotive vocabulary** (shit, bother)
+
+---
+
+3. Evidence from the high‑scoring excerpts
+
+All 10 high‑scoring texts are **human**. The loading words that actually appear are **em** and **reason**, often in the fixed expression **“for some reason”**.
+
+Patterns across the excerpts:
+
+a) **Heavy use of “em” as a planning device**
+
+Examples:
+
+- “em I really wanted to wait to involve a lot more people…” (t000657)
+- “em which I didn't even realise would take off as much as it did…” (t000651)
+- “em yeah and my dad regularly used to em for some reason best known to himself…” (t000288)
+- “get that in em so I've got that number…” (t000808)
+- “we put em in there…” (t001676)
+
+Here *em* is not contentful; it marks **online planning, hesitation, and turn‑holding** while the speaker works out what to say next. It is typical of **unrehearsed, narrative talk**.
+
+b) **Frequent explicit reasoning / justification**
+
+The word **reason** is used to:
+
+- Introduce **motives or causes**:
+  - “the reason I came up with this last idea was…” (t000651)
+  - “for some reason best known to himself he used to do the garden…” (t000288)
+  - “for some reason I put loads of petrol in it well I know why…” (t000051)
+  - “what is the erm the reason why he keeps moving along this trajectory?” (t000097)
+  - “the reason he's working with is that erm that also gave it a bit more credence…” (t000063)
+
+- Frame **normative or evaluative reasoning**:
+  - “that would be reason for you to be disciplined…” (t000081)
+  - “for no good reason and how it's men wanting to kind of cut off women's bits…” (t001662)
+
+Speakers are **explicitly articulating causes, motives, and justifications**, often with metalinguistic framing (“the reason is…”, “for some reason…”).
+
+c) **Narrative, anecdotal, and explanatory discourse**
+
+The content of the excerpts is largely:
+
+- **Personal narratives / anecdotes**:
+  - Minecraft building mishaps and community projects (t000657, t000651)
+  - Family gardening habits (t000288)
+  - Phone numbers and synced contacts (t000808)
+  - Restaurant / burrito story (t001676)
+  - Car, petrol, and insurance logistics (t000051)
+
+- **Explanations and evaluations**:
+  - Explaining a story structure / character arc (t000097)
+  - Explaining why a son’s business placement “makes sense” (t000063)
+  - Evaluating workplace behaviour and disciplinary norms (t000081)
+  - Reflecting on feminist medical literature and its consequences (t001662)
+
+These are **highly situated, story‑like accounts** where the speaker is:
+
+- Reconstructing events
+- Explaining why things happened
+- Evaluating whether they were reasonable or not
+
+d) **“For some reason” as a key pattern**
+
+Several excerpts use **“for some reason”**:
+
+- “cos it was for some reason we decided to build it on the coast” (t000657)
+- “for some reason best known to himself he used to do the garden…” (t000288)
+- “for some reason I put loads of petrol in it well I know why…” (t000051)
+
+This construction does two things:
+
+- Marks **partial or uncertain knowledge of motives** (“I don’t fully know why”)
+- Still frames the narrative in terms of **reasons and causality**
+
+So the discourse is **reason‑oriented**, but also **self‑reflective about gaps in knowledge**.
+
+---
+
+4. Integrating loadings and examples
+
+Taking loadings and examples together:
+
+- **Disfluency and planning** (*em*):
+  - Strongest loading, pervasive in examples.
+  - Signals **spontaneous, unedited speech**, with speakers thinking aloud.
+
+- **Causal / justificatory framing** (*reason*, “for some reason”, *odd*):
+  - Speakers repeatedly **foreground reasons, causes, and motives**.
+  - They explicitly label segments of talk as “the reason…”, “for some reason…”.
+
+- **Informal, mildly emotive stance** (*shit*, *bother*, *carry*):
+  - Although not visible in these 10 excerpts, their positive loadings suggest that across the corpus, texts high on this factor also contain **colloquial, mildly expletive or evaluative language**, consistent with informal storytelling and complaint.
+
+- **Human vs LLM**:
+  - Humans score positively; GPT outputs (profiled and unprofiled) are negative.
+  - LLM turns, even when conversational, tend to be **more fluent, less disfluent**, and often **less explicit about “reasons” in this casual, self‑reflective way** (especially the “for some reason” idiom and filled pauses like *em*).
+
+So this pole is not just “spoken vs written”; it is more specifically:
+
+- **Spontaneous, narrative, and explanation‑heavy human talk**, with:
+  - On‑the‑fly planning (em)
+  - Overt reasoning and justification (reason, for some reason)
+  - Informal stance and mild expletives (shit, bother)
+
+---
+
+5. Possible labels for f5 (positive pole)
+
+Focusing on this pole only, and reflecting both the lexical pattern and the discourse function, plausible labels include:
+
+1. **“Spontaneous Justificatory Narrative”**
+
+   - *Spontaneous*: captures the heavy *em* disfluency and online planning.
+   - *Justificatory*: reflects the centrality of *reason* and “for some reason” in explaining and justifying actions.
+   - *Narrative*: matches the anecdotal, story‑like nature of the excerpts.
+
+2. **“Hesitant Reason‑Giving Talk”**
+
+   - *Hesitant*: anchored in *em* (.93) and the fragmented, self‑correcting style.
+   - *Reason‑Giving*: anchored in *reason* (.30) and the repeated explicit framing of motives and causes.
+
+3. **“Informal Causal Storytelling”**
+
+   - *Informal*: aligns with colloquial items like *shit*, *bother*, *carry*.
+   - *Causal*: reflects the focus on reasons, causes, and “for some reason”.
+   - *Storytelling*: reflects the anecdotal, event‑recounting structure.
+
+---
+
+6. Summary characterisation
+
+Factor 5 (positive pole) is best understood as a **human‑driven discourse dimension of spontaneous, informal, reason‑oriented storytelling**, characterised by:
+
+- Frequent **filled pauses** (*em*) and other signs of online planning
+- Explicit **reason‑giving and causal explanation** (*reason*, “for some reason”)
+- **Colloquial stance** and mild expletives (shit, bother, carry) across the wider corpus
+
+Among the proposed labels, **“Spontaneous Justificatory Narrative”** or **“Hesitant Reason‑Giving Talk”** most directly capture both the linguistic loadings and the discourse functions evident in the high‑scoring texts.

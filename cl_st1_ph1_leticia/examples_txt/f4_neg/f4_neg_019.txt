@@ -1,0 +1,8 @@
+Text ID: t005030
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001620_gpt.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: horrible
+When we used to do the kettlebell stuff we had to do that same horrible exercise, but holding a kettlebell. I only had an eight kilo one and there was this guy doing it with sixteen – he was just a machine. You had to go side to side with it as well. It was so knackering my mum actually banned me from going because I literally couldn’t walk the next day. All the girls in the office were the same, every step to the printer was just “ow… ow…”

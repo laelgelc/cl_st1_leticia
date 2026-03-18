@@ -1,0 +1,8 @@
+Text ID: t000094
+Group: human
+Model: human
+File:   corpus/05_human/t000094_human.txt
+
+Score (f1_pos): 1
+Loading words (f1_pos), N=1: um
+er when we were having lunch once after we'd finished doing some business and we just um had a bite quick bite to eat he told me that er each of the rail companies had to have this uniform insurance you know had to c er had to comply with all the requirements that er we'd set down and er like all insurance it had to be renewed you know they were annual contracts and there was a procedure so that the um at specified times the rail companies whoever they are whichever rail company it was had to provide information at certain times and they didn't they missed a date and er I was worried because um you know if there was a problem with the renewal and there was an accident you know the sce the scenario that I described a little while ago could er could arise you know

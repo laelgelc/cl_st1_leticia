@@ -1,0 +1,8 @@
+Text ID: t003260
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001555_gpt.txt
+
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: single, manage
+yeah so the theory test itself was just the usual stuff, like all the normal questions about road signs and speed limits and that, nothing too surprising there. The bit that really got me was the hazard perception section. You have to watch this video and then click within about a second when a hazard actually appears. And you’re only marked on two hazards in each clip. If you click too late you lose all the points. I failed that bit in every single practice I did, but somehow I managed to pass it in the real test.

@@ -1,0 +1,10 @@
+Text ID: t003943
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000533_gpt.txt
+
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: single, manage
+well the point about those national exams, like in China, is they’re not just some cultural quirk, they’re really useful administratively and strategically. If you’ve got loads of different syllabuses across a huge country, you need a single mechanism to standardise them all, and that’s what those exams do. They give you a reliable way of saying, right, here’s the top five or ten percent across the whole cohort.
+
+And then, crucially, universities know exactly who those people are and can afford to put a huge amount of intensive work into them, because they’re pretty confident those students will cope intellectually. Whereas here, in the UK, we don’t really have that same certainty in advance, so universities are always slightly guessing who will actually manage the level.

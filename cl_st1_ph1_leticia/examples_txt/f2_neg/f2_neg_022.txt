@@ -1,0 +1,8 @@
+Text ID: t004958
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001548_gpt.txt
+
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: huge, massive, big
+what I'm imagining is a system where you still have your own house, you can stay in it forever if you like, but the big structural stuff and disasters aren’t your personal financial problem. The maintenance and repairs would be funded collectively through taxes, so if something major goes wrong, a government agency comes and fixes it rather than you being landed with a huge bill. The reason I think that’s important is my friend in America – they’d just taken out a mortgage and then there was this freak weather, I think in Nashville or somewhere in Tennessee, and their house flooded. They ended up with this massive debt for something they couldn’t possibly have predicted.

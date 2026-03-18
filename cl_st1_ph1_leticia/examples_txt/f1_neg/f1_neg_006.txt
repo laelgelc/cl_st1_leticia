@@ -1,0 +1,16 @@
+Text ID: t003356
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001651_gpt.txt
+
+Score (f1_neg): -5
+Loading words (f1_neg), N=5: month, carry, nothing, everything, same
+well over that eighteen months or so I was back and forth to the GP a lot because of this persistent spotting and the fact that I was putting on weight. I kept saying, “I’m still bleeding, this is still going on,” and it just carried on and on. In that time they did pick up that I had an underactive thyroid and high blood pressure, so I was diagnosed and treated for both of those. The thyroid in particular became the sort of explanation for everything.
+
+Each time I went I would say that the bleeding hadn’t stopped, that I was still spotting, and it was becoming a constant thing rather than something that came and went. But the doctor kept attributing the bleeding to the thyroid problem, as if that neatly wrapped it all up. I was being medicated for the thyroid and the blood pressure, and there was this sense that once those were under control everything else would sort itself out, even though I was saying quite clearly that the bleeding was continuing.
+
+This went on for about eighteen months. It wasn’t as if I went once or twice; I was repeatedly going back, reporting the same symptoms, and it was still put down to the thyroid. The weight gain and the tiredness fitted that picture, so the bleeding was just folded into it.
+
+Eventually, though, I was referred to a gynaecologist. Once I got to the gynaecologist things moved very quickly. He did a very simple procedure – just a scrape of the lining of the womb – nothing elaborate, something that was low-cost and straightforward. There was no big build-up to it, it was just done as a matter of course.
+
+On the strength of that little scrape, I was called back to the hospital the same day. That was when they told me it was endometrial cancer. So after all those months of being told it was the thyroid and being treated for that, it turned out that a very basic test on the uterine lining was what finally revealed what was really going on.

@@ -1,0 +1,136 @@
+Interpretation of Factor 3 (positive pole)
+
+1. Which group is driving this pole?
+
+- Mean scores:
+  - Human: **0.31**
+  - Profiled GPT: **-0.14**
+  - Unprofiled GPT: **-0.12**
+
+Human turns are clearly driving the positive pole; both GPT conditions sit on the negative side. So this pole is picking out a **distinctively human conversational style** that the LLMs largely avoid.
+
+2. Linguistic profile of the pole
+
+High positive loadings:
+
+- **fuck (.98)** – extremely strong, the defining feature
+- **shit (.77)**
+- **god (.52)** (as an expletive: “oh my god”, “thank god”)
+- **guy (.48)**
+- (massive (.45))
+- **gonna (.40)**
+- (cos (.34))
+- (great (.34))
+- **minute (.33)**
+
+Two clusters stand out:
+
+a) **Intensified, expletive-laden stance**
+- Very high-frequency taboo / expletive items: *fuck, shit, god*.
+- Used for:
+  - Strong evaluation: “too fucking much”, “that shit is dangerous”, “rough as fuck”
+  - Affective reaction: “oh shit”, “oh my god”, “what the fuck”
+  - Emphatic stance and alignment: “it fucks me off”, “I’m not gonna sit around”, “I don’t want to be fucking dominated”
+
+b) **Colloquial, time-bound narrative talk**
+- *gonna, cos* → informal, speech-like, planning/intentionality (“I’m gonna be my own fucking boss”, “they were always gonna do what they were gonna do”).
+- *guy* → casual reference to people, especially men (“these guys”, “any guy that I’m with”).
+- *minute* → often in short time expressions (“five minutes”, “in a minute”), anchoring stories in immediate, lived time.
+
+So lexically, this pole encodes **highly informal, emotionally charged, evaluative talk**, with strong swearing and colloquial reference to people and time.
+
+3. What the examples show (discourse functions)
+
+Across the high-scoring excerpts, the loading words are not random; they cluster in specific discourse practices:
+
+a) **Venting, complaint, and moral/evaluative stance**
+
+- t000194: extended rant about male-dominated management culture:
+  - “too fucking much”, “shut up fuck off”, “it’s shit it’s crap”, “no fucking man is going to fucking talk to me like that”
+  - Swearing is used to **condemn** a social environment and assert autonomy.
+
+- t001017: anger and frustration about a neighbour and a friend:
+  - “what the fuck is the matter with this kid?”, “that shit is dangerous”, “this kid is fucked in the head”, “it fucks me off”
+  - Expletives mark **strong negative evaluation** and emotional upset.
+
+- t001663: relationship talk, defining self-image:
+  - “I’m not one of these girls that like where the fuck were you? who have you been texting? all that sort of shit”
+  - Swearing is used **metapragmatically** to caricature a type of person and position the speaker against that type.
+
+- t001181, t000978, t001077: complaining about awkward social situations, sports performance, interpersonal conflict:
+  - “that sounds a bit shit”, “then goes shit no backs off”, “I were inviting this shit”
+  - Again, expletives are doing **stance work**: judging situations, people, and one’s own actions.
+
+b) **Storytelling about recent, vivid experiences**
+
+- t001028: narrative of missing a bus:
+  - “oh shit I’ve done that before”, “oh thank god only five minutes to the bus”, “then I realised fuck it’s Saturday”
+  - Time anchoring with *minute* and repetition of “waited and waited” plus expletives → **dramatised anecdote**.
+
+- t001351: recounting a cinema trip:
+  - “oh my god when we were in…”, “we was gonna watch erm the Kingsman”, “the movie was starting in was six minutes”
+  - *oh my god* + *gonna* + precise minutes → **lively, in-the-moment recounting**.
+
+- t000894: skiing story:
+  - “five minutes after he’d gone”, “this little baby slope”, “I’m not gonna go”
+  - Again, *gonna* and *minute* in a **casual narrative frame**.
+
+c) **Colloquial, peer-group register**
+
+- Frequent *guy/guys*:
+  - “from the guys as you call it”, “these guys the three slowest centre backs”, “if any guy that I’m with…”
+  - This is **informal, peer-oriented reference**, not formal “men” or “people”.
+
+- *gonna, cos*:
+  - “I’m gonna be my own fucking boss”, “it fucks me off cos I’m not his girlfriend”
+  - These forms index **spoken, relaxed, non-standard** style.
+
+Overall, the examples show that this pole is not just “swearing” but a **cluster of emotionally intense, informal, story-like, evaluative talk**, strongly grounded in everyday social relations (work, relationships, friends, nights out, travel).
+
+4. Why LLMs are low on this pole
+
+Both GPT conditions have negative mean scores. That aligns with:
+
+- Safety/appropriateness constraints → LLMs avoid heavy swearing (*fuck, shit*).
+- More neutral, polite, or “helpful” style → less venting, less raw interpersonal complaint.
+- Less spontaneous anecdotal “oh my god, five minutes later…” style; more structured, expository turns.
+
+So this factor is effectively picking out a **human, unfiltered conversational register** that the models underproduce.
+
+5. Proposed labels for f3 (positive pole)
+
+Any label should capture:
+
+- Strong taboo/expletive use
+- High emotional intensity and evaluation
+- Informal, colloquial, peer-group talk
+- Narrative/episodic grounding in everyday life
+
+Possible labels (for this positive pole only):
+
+1. **“Expletive‑Intensive Colloquial Stance”**
+
+   - “Expletive‑Intensive” reflects the dominant role of *fuck, shit, god* as stance markers.
+   - “Colloquial” captures *gonna, cos, guy* and the informal register.
+   - “Stance” foregrounds that these forms are used to evaluate, complain, align, and position self vs others.
+
+2. **“Emotionally Charged Everyday Storytelling”**
+
+   - Highlights the anecdotal, time-bound narratives (“five minutes”, “in a minute”, “when we were in Nando’s”, “after New Year”) and the emotional colouring via swearing.
+   - Fits the many short, vivid stories about buses, cinema, weed, work, relationships.
+
+3. **“Raw Interpersonal Venting Register”**
+
+   - “Raw” signals the unfiltered, taboo-laden nature.
+   - “Interpersonal” points to the focus on relationships, conflict, and social judgement.
+   - “Venting” captures the recurrent discourse function: complaining, ranting, expressing frustration.
+
+Any of these would be defensible. If I had to choose a single, compact label that best integrates the loadings and examples, I would opt for:
+
+**Expletive‑Intensive Colloquial Stance**
+
+because it directly encodes:
+
+- the **lexical core** (expletives + colloquial forms),
+- the **discourse function** (stance-taking, evaluation, venting),
+- and the fact that this is a **distinctively human, informal conversational mode** that the LLMs largely avoid.

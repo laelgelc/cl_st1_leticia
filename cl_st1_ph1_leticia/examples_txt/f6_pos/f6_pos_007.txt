@@ -1,0 +1,10 @@
+Text ID: t002495
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000790_gpt.txt
+
+Score (f6_pos): 2
+Loading words (f6_pos), N=2: anyone, stand
+no that was really good, you did really, really well there, honestly. Right, now listen, stand back a bit, don’t go too far forward, stay just behind the minions. Use your Q on them when they get close, yeah, don’t waste it on nothing. Keep an eye on your mana as well, you don’t want to run out when someone jumps you. If you get low, hit five for your health potion and six for your mana potion, remember? Don’t forget those, they’ll keep you in lane longer. 
+
+Now, when the wave’s pushed up, start hitting the turret, but only when it’s safe, yeah? Back off if you see anyone missing, don’t get greedy. If that enemy comes close on their own and you’ve got enough health, you can kill them easy—just Q them, auto‑attack, then back off. You’re really low now though, so don’t dive, just play it safe and wait for another chance.

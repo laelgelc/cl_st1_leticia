@@ -1,0 +1,8 @@
+Text ID: t002454
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000749_gpt.txt
+
+Score (f4_pos): 2
+Loading words (f4_pos), N=2: change, set
+it's about a New York advertising agency set in the sixties, and it runs right through from about 1960 to 1971. it's been really popular, and I think a lot of that is because it feels very realistic about the big social changes that were happening in American society over that decade. it’s not a documentary, it’s definitely a drama, but they’ve made a real effort to show how things shifted. like, in the very first episode, you see this really professional office environment, and then they take you home with the characters and you see their domestic lives as well.

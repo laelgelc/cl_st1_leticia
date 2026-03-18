@@ -1,0 +1,10 @@
+Text ID: t003432
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000022_gpt.txt
+
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: huge, massive, big
+I’ve even tried to make it as easy as possible, you know? I’ve said to them, “Look, I’ll just get the train down, we can have a couple of hours, grab some lunch, do a bit of shopping, and then I’ll head back.” It doesn’t have to be a massive thing. But every time I go up there, it turns into this whole full-day event. 
+
+We end up doing breakfast, then wandering round all afternoon, then going out for dinner, and I’m always catching the last train home. It’s this huge, expensive day out every single time. And I just sit there thinking, why does it have to be like that? It really doesn’t need to be such a big production.

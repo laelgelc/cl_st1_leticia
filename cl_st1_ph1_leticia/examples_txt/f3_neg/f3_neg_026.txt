@@ -1,0 +1,12 @@
+Text ID: t004864
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001454_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: sense, pick
+It really just depends when the jobs come in, you know. It all goes in cycles. In the water industry they work on this four‑year cycle, so you’ll have a period where everyone’s planning and then all the tendering goes on, and then they’re buying, and then after that there are cutbacks. So you get these busy spells and then suddenly it all goes quiet for a bit.
+
+When it went quiet last time, they let people go because there just wasn’t the work coming through. It made sense at the time, because you can’t keep everyone on when there’s nothing for them to do. But now, of course, all the jobs have started coming in again and there’s nobody left to actually do them.
+
+So he’s ended up having to go himself and do things that really aren’t what you’d expect someone at his level to be doing. The managing director shouldn’t be the one offloading pipes, standing there checking pipe numbers and all that. That’s the sort of thing you’d normally have staff doing, not the MD. But because they got rid of people when it went quiet, and then the work’s picked up again, there’s no one else to send, so he’s having to muck in with that side of it now.

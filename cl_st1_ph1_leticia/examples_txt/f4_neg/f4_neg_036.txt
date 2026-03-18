@@ -1,0 +1,8 @@
+Text ID: t000018
+Group: human
+Model: human
+File:   corpus/05_human/t000018_human.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: horrible
+no but you have obviously given it some extensive thought and what I'm trying to say is that like maybe I'm just maybe I'm just in me own little world like but all me family's like this as well me dad's like this he's got like a a sort of grasp on what's happening but not not necessarily like like if me dad sees this thing that on the telly that's happening in like Homs or something he'd think Oh that's horrible Anyway I'm gonna just go and shop now and I'm a bit more like that like I think oh that's really bad but then I don't think so I'm gonna read about it and research it and and start a protest or anything I'd I suppose I'm just not that

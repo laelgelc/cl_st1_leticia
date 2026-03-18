@@ -1,0 +1,8 @@
+Text ID: t001193
+Group: human
+Model: human
+File:   corpus/05_human/t001193_human.txt
+
+Score (f1_neg): -4
+Loading words (f1_neg), N=4: stick, nothing, try, same
+we get it's the recorded delivery the recorded messages now that we get and it there's one that we seem to be stuck on and they ring the fax number first and then literally about four minutes later it rings ours so you know to ignore it the fax nothing happens but then the main phone one goes and I just leave it and it always cuts into the same sort of point government scheme which says you can borrow on PPI not PPI government scheme for new boiler and and you can't get hold of it you can't do anything and find out who it is or try and block it because it just comes up it's international or withheld

@@ -1,0 +1,8 @@
+Text ID: t000989
+Group: human
+Model: human
+File:   corpus/05_human/t000989_human.txt
+
+Score (f2_pos): 4
+Loading words (f2_pos), N=4: wanna, erm, okay, cos
+yeah exactly and the some of them were like yeah we've already got someone that does does football for us we've already got someone that does whatever for us do you do cricket? no well okay then then no so it's like that it's a bit it's a bit of a stinker cos there are there are a lot of people who s I know there's there's guys in Lincoln that do it they've started doing it at uni at Lincoln Uni and have got a business going erm they do various sports I think around schools and they do it in school time and whatever they've got that thing set up and they're doing quite well off it erm I met them on a night out once some really arrogant guys but doing well for themselves so it's definitely something that's been that everyone's doing but it's not what what I wanna do anyway I just need a bit I need like access to schools every so often just to put the name out like

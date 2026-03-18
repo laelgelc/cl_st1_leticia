@@ -1,0 +1,8 @@
+Text ID: t003868
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000458_gpt.txt
+
+Score (f3_pos): 1
+Loading words (f3_pos), N=1: fuck
+she just doesn’t get how expensive that whole thing was, like when she fucked off to New Zealand for three months. it wasn’t even planned properly, so dad didn’t make any Christmas plans at all. we ended up having to spend Christmas Day at those really old friends of theirs, from like ten in the morning till ten at night. I was just sat there feeling miserable, wishing I could just be on my own instead of stuck there. and all of that was just because she decided to disappear like that. she’s just so fucking selfish, like extremely selfish.

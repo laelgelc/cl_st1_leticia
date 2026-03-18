@@ -1,0 +1,8 @@
+Text ID: t000010
+Group: human
+Model: human
+File:   corpus/05_human/t000010_human.txt
+
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: thinking
+yeah yeah that's it although I was singing and singing and singing and we actually thought at one point cos he was so restless and we'd been told this was one of the stages that just before he went he'd probably get really restless so he was really restless and we were singing and singing and we actually rang my sisters and said you need to come cos we thought it was you know thought that was probably gonna be it and and s because we thought he was gonna go before he they got there and we kept singing and singing and singing thinking just keep him going keep him going

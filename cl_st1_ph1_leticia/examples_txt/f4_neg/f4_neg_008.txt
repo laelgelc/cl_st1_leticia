@@ -1,0 +1,8 @@
+Text ID: t003428
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000018_gpt.txt
+
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: awful, horrible
+I just mean, you’ve clearly spent ages thinking all this through, and I really haven’t. With stuff like, say, something awful on the news about Homs, me and my family just kind of go, “Oh God, that’s horrible,” and then we get on with what we were doing. We don’t sit there researching it or reading loads more or deciding we’re going to go on a march or anything like that. It’s not that I don’t care – I am sympathetic, I do think it’s awful – but I’m just not the sort of person who’s actually moved to do something about it, and I guess my dad’s the same.

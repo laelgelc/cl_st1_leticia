@@ -1,0 +1,8 @@
+Text ID: t003241
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001536_gpt.txt
+
+Score (f6_neg): -1
+Loading words (f6_neg), N=1: able
+I’ve even thought we might try to get dual citizenship somewhere else, just to open up our options a bit. I’ve seriously considered doing a PhD abroad as well, depending on how my master’s goes. We’ve looked at places like Canada, Argentina, or the States, somewhere we might actually be able to afford a place of our own and maybe a bit of land. At the moment I just don’t see any real prospect of us getting on the property ladder here. It feels like we’re completely priced out, so looking abroad seems more realistic.

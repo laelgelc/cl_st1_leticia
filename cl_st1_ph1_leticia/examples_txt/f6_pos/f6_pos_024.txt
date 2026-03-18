@@ -1,0 +1,8 @@
+Text ID: t004662
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001252_gpt.txt
+
+Score (f6_pos): 2
+Loading words (f6_pos), N=2: bloke, stand
+There was this plenary with the new chair or chief executive of English UK speaking, and he was just talking in a pretty standard, nothing-special way. Then this incredibly pompous bloke in the audience stood up and launched into this unbelievably long, stupid question that was obviously trying to set a trap. He even started citing some research from 1985, as if that made him sound terribly clever. And then the plenary speaker just very politely but completely took his question apart, point by point, and demolished him. It was absolutely brilliant, really good to watch.

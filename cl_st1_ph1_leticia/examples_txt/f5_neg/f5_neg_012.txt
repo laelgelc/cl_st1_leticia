@@ -1,0 +1,8 @@
+Text ID: t003305
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001600_gpt.txt
+
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: full
+this bloke I know, he does flats up, you know, decorating and that, and he’s always finding stuff people leave behind. He was telling me about this bottle of gas he found up in a loft once, just sitting there, which is a bit worrying really. And then there was this carrier bag full of porn someone had left. I’ve got it now. Honestly, one of the things in there is just beyond me – it’s this really big, not at all attractive Eastern European woman, in this horrible floral dress, sitting there masturbating. I watched it thinking, who on earth would want to see this? I genuinely can’t believe there’s a market for that sort of thing.

@@ -1,0 +1,166 @@
+This pole is best understood as a **discourse of constructive change and evaluative framing**, strongly associated with human speakers.
+
+---
+
+## 1. Who drives this pole?
+
+Mean scores are very similar, but humans are slightly higher:
+
+- human: 0.228  
+- profiled_gpt: 0.190  
+- unprofiled_gpt: 0.188  
+
+All three groups use this discourse, but **human turns are the main driver** of the positive pole.
+
+---
+
+## 2. Linguistic profile of the pole
+
+High-loading items:
+
+- **build (.71)**
+- **fact (.67)**
+- **become (.61)**
+- **huge (.43)**
+- **great (.41)**
+- **change (.37)**
+- **set (.32)**
+- **somebody (.32)**
+
+Two clusters stand out:
+
+1. **Process / transformation verbs**  
+   - build, become, change, set  
+   These encode *development, construction, and transition* (building things, becoming something, changing, setting things up).
+
+2. **Evaluative and evidential framing**  
+   - fact, great, huge, somebody  
+   - fact: marking information as real, important, or evidential  
+   - great/huge: positive, often emphatic evaluation  
+   - somebody: generic human reference, often used to frame examples or roles (“somebody did the biopsy”, “we had somebody who…”)
+
+So lexically, this pole combines:
+
+- **talk about processes of building/setting up and becoming/changing**, with
+- **explicit evaluation and evidential marking**, and
+- **generic human roles (“somebody”) in those processes**.
+
+---
+
+## 3. What the examples show
+
+All top-scoring texts are human. Across them, the loading words pattern in two main discourse functions.
+
+### a) Personal and psychological transformation
+
+Ex. t001038 (become, change, set, somebody):
+
+- “somebody who is evolving… we are always evolving we always changing”
+- “I don't think a personality is ever set”
+- “you do become a different person”
+- “you are reinvented in every now”
+- “life changing… recreating or creating something new”
+
+Here, **become/change/set** are used to theorise identity as fluid and developing. The speaker constructs a discourse of **ongoing personal transformation**, with “somebody” as a generic person undergoing change.
+
+Ex. t000190, t001682 (fact, become):
+
+- “you do become better at it”
+- “I do get a bit concerned about that fact that his world's smaller so this has become a big thing in his life”
+
+Again, **become** marks gradual change in ability or perspective; **fact** highlights a salient, somewhat problematic reality. This is **reflective talk about how people and situations develop over time**.
+
+### b) Building, setting up, and institutional/organisational processes
+
+Ex. t000652 (build, set, great):
+
+- “started building this town”
+- “I just sort of set up the basics”
+- “he made it look beautiful… a huge huge great barn”
+
+Ex. t001629 (build, great):
+
+- “I had to sort of build it up for myself”
+- “didn't exactly give me a great deal of direction”
+- “start and build it all myself”
+
+Ex. t001501 (great, set, somebody):
+
+- “we had somebody who… covered all science and engineering disciplines”
+- “that's a quite a different set of responsibilities”
+- “this is where the greatest variation is”
+- “we would set up… group work sessions” (implied by “set” in context)
+
+These are **procedural, institutional, or project-oriented narratives**: building towns, building roles, building a job remit, setting up modules and services. “Somebody” is used to refer to role-holders in an organisation. “Great” often evaluates scale or importance (“great barn”, “greatest variation”).
+
+### c) Evaluative framing and evidential “fact”
+
+Ex. t000005, t000417, t000942, t001662 (fact, great, somebody):
+
+- “in fact they even organised…”
+- “that would be great because you need challenging”
+- “the fact that you've putting it in your online course…”
+- “in fact actually in a way it was really bad news to me”
+- “it was a great big tome… a real good medical handbook”
+
+Here **fact** introduces or highlights key points, often contrasting expectations or underlining significance. **Great/huge** provide **strong positive or scalar evaluation** (great big balloon, great idea, great big tome). “Somebody” again marks generic participants in scenarios (somebody did the biopsy; somebody’s sitting there going…).
+
+Across these examples, the discourse is:
+
+- **about how things and people are built up, set up, and change over time**, and
+- **framed with explicit evaluation (great/huge) and evidential marking (fact)**, often via
+- **generic human roles (somebody) in those processes**.
+
+---
+
+## 4. Proposed labels and justification
+
+Any label should capture both:
+
+- the **processual / developmental** aspect (build, become, change, set), and  
+- the **evaluative / evidential framing** (fact, great, huge, somebody).
+
+Possible labels:
+
+1. **“Constructive Change and Evaluation”**  
+   - “Constructive” reflects *build, set* (constructing projects, roles, situations).  
+   - “Change” reflects *become, change* (personal and situational transformation).  
+   - “Evaluation” reflects *fact, great, huge* and the way speakers frame these processes as significant, positive, or problematic.
+
+2. **“Developmental Narratives of Building and Becoming”**  
+   - Emphasises the narrative, temporal aspect: people recount how they or their work “build up”, “become better”, “change”, “set up” things.  
+   - Fits both personal-identity talk (t001038, t000190, t001682) and institutional/professional accounts (t000652, t001501, t001629).
+
+3. **“Evidential, Evaluative Talk about Growth and Construction”**  
+   - “Evidential” foregrounds *fact* as a discourse marker.  
+   - “Evaluative” captures *great, huge*.  
+   - “Growth and construction” covers *build, become, change, set*.
+
+Among these, the most compact and accurate for this pole is:
+
+> **Constructive Change and Evaluation**
+
+Because:
+
+- It generalises across **personal growth**, **professional/institutional building**, and **project construction**.
+- It captures the **lexical core**:  
+  - constructive: build, set  
+  - change: become, change  
+  - evaluation: fact, great, huge, somebody (as generic human anchor in evaluative scenarios)
+- It matches the **discourse functions** seen in the excerpts:  
+  - explaining how identities, skills, and roles develop  
+  - narrating how things are built or set up  
+  - marking key points as factual and/or “great”, “huge”, “big”, often with a positive or emphatic stance.
+
+---
+
+## 5. Summary
+
+- This positive pole is **human-led** and encodes a discourse where speakers:
+  - talk about **building and setting up** things (projects, jobs, institutions),
+  - describe **becoming and changing** (selves, others, situations),
+  - and frame these processes with **evidential and evaluative language** (“in fact”, “great”, “huge”), often via generic human roles (“somebody”).
+
+A suitable label for this pole is:
+
+> **Constructive Change and Evaluation**

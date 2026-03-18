@@ -1,0 +1,8 @@
+Text ID: t002689
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000984_gpt.txt
+
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: massive, big
+I know they still have money pressures, even when they’re loaded, but if I had that kind of money I’d do it differently. I’d buy a really good house, but nothing ridiculous, just somewhere proper to live, and then sort my finances so I literally never had to worry about money again. I wouldn’t be smashing through nearly all of a massive weekly wage like some of them do. I’d make sure a big chunk was put aside every week, so it actually lasted and I could feel secure.

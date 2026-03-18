@@ -1,0 +1,8 @@
+Text ID: t000147
+Group: human
+Model: human
+File:   corpus/05_human/t000147_human.txt
+
+Score (f3_pos): 3
+Loading words (f3_pos), N=3: fuck, shit, gonna
+like it's so frustrating the worst it's the worst it's taken me is two it's taken me two and a half and a half hours to get to work before and annoyingly it happened on the same day I had a really shit journey into work so left at half eight got in at eleven and then they said oh don't worry about working your time back cos that's the thing then you owe them time you're already having a fucking shit and they're like oh you owe us time great so I got in at eleven and they were like oh don't worry about paying back your time today otherwise it's just gonna be a really long day like head off as normal so then I head off I li left at half five I think and it took me two hours to get home as well eleven hour day and I only had like six hours at work great

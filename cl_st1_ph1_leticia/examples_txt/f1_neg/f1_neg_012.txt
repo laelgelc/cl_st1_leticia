@@ -1,0 +1,16 @@
+Text ID: t001899
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000194_gpt.txt
+
+Score (f1_neg): -4
+Loading words (f1_neg), N=4: push, try, sound, speak
+I think there’s also something about the environment that men find themselves in, especially once you get up into those more male‑dominated management levels. You’ve talked about wanting freedom and wanting to be your own boss, but I’m looking at the kind of workplaces you’ve described in the past, and they sound pretty brutal. 
+
+Amongst men, you all seem to see very clearly what other men are doing in terms of power plays, who’s trying to be top dog, that whole alpha‑male thing. It’s quite explicit, isn’t it? The language, the posturing, the way people talk to each other. From the outside, it comes across as quite crude, quite aggressive, and really hostile if you’re not that sort of bloke or you don’t want to play that game.
+
+So I’m wondering if that’s actually a big part of the drive to change. Not just a positive pull towards “freedom” and “being your own man”, but also a push away from being in a place where another man can talk down to you, or dominate you, or constantly be asserting himself over you. If every day you’re surrounded by that, and you’re not naturally that way yourself, it must be exhausting.
+
+It seems to me that for some men, the key thing about leaving that kind of career and becoming your own boss is precisely that: no other man gets to speak to you like that anymore. You’re not under someone else’s thumb, you’re not having to swallow your pride or fit into that alpha hierarchy. You remove yourself from that whole pecking order. 
+
+So when I talk about the male psyche here, I’m thinking that maybe a lot of the drive is about not wanting to be dominated by other men, as much as it is about wanting independence and control over your own working life.

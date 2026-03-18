@@ -1,0 +1,8 @@
+Text ID: t002388
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000683_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: sense, seem
+You think back to how hospitals used to be run, with everyone knowing their place and taking pride in it – matrons, sisters, staff nurses, ordinary nurses, porters, all of them. There was a sense of order and people genuinely seemed to enjoy their work. Patients stayed in bed for a few days because they were ill, and that was understood and accepted. Now it feels completely different: everything’s about getting people in and out as fast as possible. Instead of being allowed to remain in hospital, they’re quickly sent home, as if turnover matters more than recovery.

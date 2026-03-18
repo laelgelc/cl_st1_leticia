@@ -1,0 +1,147 @@
+This factor pole is very clearly driven by **human conversation**, not LLM output:
+
+- Mean f2 score:  
+  - human: **0.88** (strongly positive)  
+  - profiled_gpt: -0.16  
+  - unprofiled_gpt: -0.16  
+
+So this pole is essentially a **“human‑talk” dimension** that the GPT turns systematically underuse.
+
+---
+
+## 1. Linguistic profile of f2 (pos)
+
+High positive loadings:
+
+- **er (.77), erm (.67)** – filled pauses, hesitation markers
+- **wanna (.73), gonna (.37)** – reduced, colloquial future/intention forms
+- **okay (.46)** – discourse marker, turn management, stance
+- **cos (.38)** – reduced causal conjunction “because”
+- **(shit (.46))** – mild taboo / expletive (even if not visible in these excerpts)
+- **(somebody (.31))** – generic human reference
+
+Taken together, these are classic markers of:
+
+- **Spontaneous, online speech production** (er, erm, cos)
+- **Informal, colloquial register** (wanna, gonna, cos, shit)
+- **Interactive discourse management** (okay as a boundary/uptake marker)
+- **Reference to people in a non‑specific, story‑telling way** (somebody)
+
+So at the level of loadings, this pole encodes **highly informal, disfluent, real‑time spoken interaction**.
+
+---
+
+## 2. What the excerpts show
+
+All 10 high‑scoring texts are **human** turns, and they illustrate the same cluster of features:
+
+### a. Online planning and disfluency
+
+Across the excerpts, we see dense use of **er/erm** in positions where speakers are:
+
+- Searching for words or planning the next bit:
+  - “and I'm thinking this was half-built do you know what I mean? … so I was saying ah yes erm and she said…” (t001192)
+  - “button start recording okay that's started recording … so erm and I are going to talk about erm er er something…” (t001643)
+- Repairing or re‑starting:
+  - “there was pplenty of people walking it I said to do you wanna walk the route ? pouring with rain he said no I said er I said no nor me…” (t001187)
+  - “no erm so what? yeah we turned up obviously on the Thursday night…” (t001107)
+
+These are **classic markers of real‑time cognitive processing** and narrative construction.
+
+### b. Informal, colloquial stance and alignment
+
+- **wanna / gonna / cos** appear in casual, interpersonal talk:
+  - “do you wanna walk the route?” (t001187)
+  - “cos we don't wanna be wandering around in the dark” (t001107)
+  - “it's a bit of a stinker cos there are there are a lot of people…” (t000989)
+  - “rather than cos she doesn't wanna look bad she won't say like oh I can't make it” (t000031)
+
+These forms index **relaxed, non‑formal style** and **solidarity talk** among peers or family.
+
+### c. Discourse management with “okay”
+
+“okay” is used to:
+
+- Mark **topic or phase transitions**:
+  - “okay yeah we'll put in if we do need to” (t001192)
+  - “alright okay no worries so I tell you what…” (t000691)
+  - “so erm and I are going to talk about… okay that’s started recording…” (t001643)
+- Signal **acceptance / alignment**:
+  - “well okay then then no” (t000989)
+  - “you may feel okay with having gay acquaintances or coworkers…” (t001619)
+
+This shows **interactive negotiation of stance and activity structure**.
+
+### d. Story‑telling and evaluation
+
+The content of the excerpts is often **narrative or evaluative**:
+
+- Recounting events (school race logistics, planning permission, holidays, birthday dinners, family disputes).
+- Evaluating people and situations:
+  - “some really arrogant guys but doing well for themselves” (t000989)
+  - “some scruffians or whatever you wanna call them ruffians” (t001107)
+  - “it just makes yourself it I dunno that's what makes her a target” (t000031)
+
+The high‑loading items are embedded in **personal stories and opinionated talk**, not in task‑oriented or highly structured discourse.
+
+### e. Spontaneous but sometimes serious topics
+
+Even when the topic is serious (cancer experiences, Muslim attitudes to LGBT rights), the **delivery remains conversational and disfluent**:
+
+- “we're gonna talk about body parts and stuff like that as well…” (t001643)
+- “think about the vitriol that that's spur spewed on you by your own elected political leaders… are you okay with that?” (t001619)
+
+So the dimension is not about “light vs serious” content; it’s about **how** the content is produced: spontaneously, with hesitations, colloquial forms, and interactive markers.
+
+---
+
+## 3. Who drives this pole?
+
+- The **human group** has a much higher mean score than both GPT groups.
+- All top‑scoring texts are **human**.
+- The loading items (er, erm, wanna, cos, shit) are **typical of natural speech** and are generally under‑represented in LLM outputs, especially when models are prompted to be clear, fluent, and “well‑written”.
+
+So this pole is **strongly human‑driven** and effectively captures **features that GPT does not reproduce at comparable density**, regardless of profiling.
+
+---
+
+## 4. Interpreting f2 (pos) as a discourse dimension
+
+Bringing the evidence together:
+
+- High loadings on **filled pauses** and **colloquial reductions**.
+- Frequent **online planning**, **repairs**, and **hesitations**.
+- **Informal, interpersonal narratives** and evaluations.
+- **Discourse markers** managing turns and stance.
+- Strongly associated with **human** rather than GPT turns.
+
+This pole encodes a discourse style that is:
+
+- **Spontaneous and unplanned** (speech produced in real time, with visible processing).
+- **Informal and colloquial** (wanna, gonna, cos, shit).
+- **Interpersonally engaged** (okay, somebody, narrative and evaluative content).
+- **Authentically spoken** (dense “er/erm” and repairs).
+
+---
+
+## 5. Possible labels for f2 (positive pole)
+
+Any label should foreground **spontaneous, informal, human conversational discourse** rather than contrasting it with the opposite pole. Suitable options:
+
+1. **Spontaneous Informal Conversation**
+   - Captures the unplanned, colloquial, interactional nature of the talk.
+
+2. **Disfluent Colloquial Speech Production**
+   - Emphasises the high density of hesitations and reduced forms as markers of real‑time production.
+
+3. **Authentic Spoken Interaction Style**
+   - Highlights that this is the human‑driven, naturally occurring conversational mode.
+
+4. **Hesitant, Narrative Chat**
+   - Brings in both the disfluency and the story‑telling, evaluative character of the excerpts.
+
+Among these, for analytic clarity in LMDA terms, a concise primary label could be:
+
+> **Spontaneous Informal Conversation**
+
+with the understanding (justified above) that this encompasses **hesitant, disfluent, colloquial, human‑driven spoken interaction** as encoded by the high‑loading features and exemplified in the top‑scoring texts.

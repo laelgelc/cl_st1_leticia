@@ -1,0 +1,8 @@
+Text ID: t003687
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000277_gpt.txt
+
+Score (f6_pos): 3
+Loading words (f6_pos), N=3: bloke, anyone, stand
+It was really weird, you know. This was a girls’ school, hardly any blokes on the staff, and yet you go into the gents’ and it’s massive. Rows and rows of urinals, like you could fit three classrooms in there. I remember standing there thinking, what on earth were they expecting, an army of men marching through? It just didn’t make any sense to me at all. In a place where there are so few men, why put in that many urinals? I still can’t get my head round it. You’d think they’d have used the space for something more useful, but no, it’s this enormous gents’ with hardly anyone to use it.

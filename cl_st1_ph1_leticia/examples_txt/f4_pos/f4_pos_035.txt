@@ -1,0 +1,16 @@
+Text ID: t004918
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001508_gpt.txt
+
+Score (f4_pos): 3
+Loading words (f4_pos), N=3: build, become, great
+When we first went into the EU, there was this great hope that our graduates would all be dashing off to wonderful jobs in Europe. The assumption was that membership would just open everything up, and that employers over there would be terribly keen to take bright British graduates. So we dutifully started going out to see employers in various European countries, trying to build those links and find out what opportunities there might be.
+
+In practice it just never really worked the way people imagined. The cultures were different, the education systems were different, and the expectations on both sides didn’t quite match. We could get the conversations going, but it didn’t translate into large numbers of our students going into proper graduate roles on the Continent.
+
+The ones who did manage to work abroad in any numbers, really, were those who went out to teach English. That became the obvious route, because the demand for English teachers was there and you didn’t have quite the same issues about fitting into a national graduate recruitment system.
+
+For international students coming here, what often made a difference was doing a UK master’s. That could genuinely improve their prospects, either back home or sometimes elsewhere, because a British postgraduate qualification carried weight.
+
+We put a lot of effort into building up information and resources about graduate jobs overseas, not just teaching. There were files and databases and all sorts of things available. But in the end, very, very few students actually succeeded in getting into those non-teaching roles abroad, despite everything we tried to put in place for them.

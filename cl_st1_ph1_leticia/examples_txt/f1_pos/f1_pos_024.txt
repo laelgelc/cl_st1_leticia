@@ -1,0 +1,8 @@
+Text ID: t003912
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000502_gpt.txt
+
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): try
+I said to him, “Well, what are you going to do for forty‑five minutes after school then?” because there’s no point him coming all the way home and then having to go straight back again. And he said that a couple of the others in his year were doing it as well, because it had only just been announced in PE. So that made me think they are still trying to get enough numbers together for it to run properly, rather than it having been fully organised already.

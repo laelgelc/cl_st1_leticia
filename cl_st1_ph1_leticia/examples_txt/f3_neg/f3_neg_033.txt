@@ -1,0 +1,8 @@
+Text ID: t000026
+Group: human
+Model: human
+File:   corpus/05_human/t000026_human.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: odd, pick
+and I think you need to do that for a whole weekend like you can't plan like forty-eight fifty-eight odd hours' worth of entertainment it's stupid you might as well say like oh so this morning like erm you can do whatever you like here's a couple of things you could do in the local area or you can just do whatever you want but like what they've done is they've picked the cottage because it's pretty and they've not really looked at the location so what they've done is booked the place and then looked at the location and thought oh

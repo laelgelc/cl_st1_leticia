@@ -1,0 +1,10 @@
+Text ID: t004623
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001213_gpt.txt
+
+Score (f6_pos): 2
+Loading words (f6_pos), N=2: anyone, stand
+like we have stuff we do every week, like sorting the food and whatever, and I just can’t afford to lose a day to being wiped out. I only ever sleep about seven hours, no matter what time I go to bed, so if we’re out stupidly late I just feel absolutely terrible the next day. That’s why I hate it when nights run on till three or four in the morning. 
+
+And there’s this thing now they call “ghosting”, where you just leave a party without saying goodbye to anyone. That’s what she does. She’ll just disappear, and sometimes she even goes without telling me she’s going. It really winds me up, because I’m suddenly standing there thinking, where have you gone, are you alright, what’s happening. I’m angry, but I’m also just worried, and it ends up cutting my evening short.

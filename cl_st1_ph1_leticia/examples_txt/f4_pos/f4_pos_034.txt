@@ -1,0 +1,18 @@
+Text ID: t004911
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001501_gpt.txt
+
+Score (f4_pos): 3
+Loading words (f4_pos), N=3: build, change, set
+well after we moved again I went to another university when my children were about six and seven, so that was really the point at which I settled into the pattern of how careers work is done in a university setting. the way it’s generally organised is that each careers adviser is given a portfolio of academic departments to look after. so you don’t just sit in a central office waiting for random students to turn up; you’re actually attached to particular departments, and you get to know those departments and their people.
+
+a big part of that is building relationships with the academic staff in those departments. you have to work quite closely with them, because they’re the ones who see the students day in, day out, and they’re often the gatekeepers for whether you can get time in the timetable, or space in a module, or access to particular cohorts. so we’d spend a lot of time going over to departments, talking to lecturers and course leaders, and trying to weave careers provision into what they were already doing.
+
+in some cases that relationship developed to the point where we were actually teaching assessed careers modules for them. so the department would fund that – they’d pay for our time – and we’d design and deliver a proper module that counted towards the students’ degree. that was quite a step up from just popping in to give a one‑off talk, because once it’s assessed you have to construct learning outcomes, assignments, marking criteria, the whole thing, and the students tend to take it more seriously because it actually affects their results.
+
+but whether or not there was an assessed module, in all cases we provided both individual and group sessions for students. individually, that might be one‑to‑one appointments where a student comes in with questions about what they can do with their degree, or wants feedback on their CV, or is worried about interviews. in groups, we’d run workshops or talks for a whole year group or for smaller sets of students within a department.
+
+the core topics were fairly consistent: helping them market themselves effectively, so thinking about how they present their skills and experience on paper and in person; helping them find employers, which includes where to look and how to interpret what employers are asking for; preparing them for interviews and selection tests; getting them to think about networking; and encouraging what we’d call creative job hunting, so not just responding to obvious advertised vacancies but being a bit more proactive and imaginative.
+
+on top of that core, we’d add extra sessions as the job market shifted. if something new appeared in the way employers were recruiting, or particular sectors were growing or contracting, we’d respond by putting on new workshops or talks to address that, so the provision wasn’t static but changed with what was happening outside.

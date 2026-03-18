@@ -1,0 +1,8 @@
+Text ID: t000778
+Group: human
+Model: human
+File:   corpus/05_human/t000778_human.txt
+
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: pick
+they put it in like you know erm advertising exhibitions and things like that I mean the 's g a big establishment now I mean actually I'm organising an exhibition for them which might interest you a bit erm not until the new building is built which'll be maybe not for three or four years so who knows? maybe I won't be alive in three or four years or with a Zimmer frame or whatever so I'm trying to get it organised now but I'm picking out great works er that is to say great drawings from the great artists from the past and connecting them to contemporary stuff that's been now being done now

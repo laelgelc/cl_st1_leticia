@@ -1,0 +1,8 @@
+Text ID: t002255
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000550_gpt.txt
+
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: awful, horrible
+Yeah it is awful. Like she’ll literally say to her, “are you sure you want to eat that?” and little comments like that all the time. It’s horrible, especially knowing how bad she got before, when she was so stressed after splitting up with her ex-girlfriend that she lost loads of weight and looked really ill, and her bones were showing. But her mum still thought she looked good like that and now she keeps going on if she notices she’s put any weight on or questions what she’s eating.

@@ -1,0 +1,12 @@
+Text ID: t002017
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000312_gpt.txt
+
+Score (f3_pos): 1
+Loading words (f3_pos), N=1: guy
+So we’re in the car, and he’s really nervous and says he’s probably going to cry, but he still wants to tell me everything. Then he comes out with it: he doesn’t have a driving licence anymore because he’s been banned. He reminds me that he’d sort of mentioned something before, but only in a really vague way, never any proper details. 
+
+Now he finally explains: he was arrested for reckless driving. He’d had a drink, and he was just over the legal limit. That’s why he lost his licence. He’s clearly really emotional about it, but he’s determined to get it all out and be honest with me. 
+
+I’m just sitting there listening, processing that this sweet, nice guy I’ve been seeing is suddenly telling me he’s been banned from driving because he was done for reckless driving after drinking, and that he’d kind of glossed over it before but is only now actually owning up to what happened.

@@ -1,0 +1,8 @@
+Text ID: t004647
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001237_gpt.txt
+
+Score (f6_pos): 2
+Loading words (f6_pos), N=2: anyone, chat
+It was actually a really good night, really busy, loads of people turned up and there were lots of Shakespeare people there, so I honestly thought he wouldn’t need anything from me because he could talk to anyone. When he arrived, he went and sat quite a way away, chatting to someone else, so I just left him to it. Later he came over, gave me a hug, and then asked if I was going to the bar. I said yes, so he came with me. I offered to get him a drink, he ordered another pint of Peroni, and said he’d help me carry the drinks back. I told him he must know all the Shakespeare stuff by now, but he said he wanted to hear it from my perspective and that he trusted me. After we finally got our own drinks, instead of going back to his original seat, he just paused at another table.

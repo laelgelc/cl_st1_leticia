@@ -1,0 +1,8 @@
+Text ID: t004717
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001307_gpt.txt
+
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: awful, horrible
+she's dipped out of that whole champagne afternoon tea thing for her fiftieth, you know, because it just got ridiculously expensive, so instead she's gone off on this trip to Dubai and Sri Lanka. it's kind of business-related, so I think she's managed to swing it as a lovely holiday that the business is basically paying for. but you know what her mum’s like – she’s been absolutely horrible to her for years, really manipulative, calling her all sorts of names and doing awful things, and she’s only in her seventies, it’s not like she’s ancient or anything.

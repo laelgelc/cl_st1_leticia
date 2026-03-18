@@ -1,0 +1,8 @@
+Text ID: t004999
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001589_gpt.txt
+
+Score (f1_neg): -5
+Loading words (f1_neg), N=5: clear, month, speak, everything, same
+Everything just seemed to start spiralling from that point, and now I honestly don’t really understand what’s happened with my account. I’m going to write to the bank and say that I don’t understand it, that I’ve already spoken to them about it, and that there was a £200 cheque paid in two months ago which was supposed to clear the problem. Instead, that money’s just been swallowed up by more charges, so I’m back in exactly the same position. I’ll ask for a meeting to go through the account, otherwise it’s going to get out of control.

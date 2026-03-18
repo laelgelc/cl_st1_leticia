@@ -1,0 +1,8 @@
+Text ID: t004097
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000687_gpt.txt
+
+Score (f5_pos): 1
+Loading words (f5_pos), N=1: reason
+People always say to me, “Oh, but he’s so nice to you, he’s so respectful with you,” like it’s some big mystery. And I’m like, no, the only reason he’s ever been like that with me is because he’s never wanted to have sex with me, he’s never tried anything, we’ve never been involved like that at all. That’s literally the difference. If he’s ever actually fancied someone, he just turns into a total dick with them. It’s like as soon as there’s any sexual or romantic interest, that’s when he starts treating girls badly.

@@ -1,0 +1,8 @@
+Text ID: t000114
+Group: human
+Model: human
+File:   corpus/05_human/t000114_human.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: horrible
+no no we just passed through we kinda had to queue jump so we ran l like mad and it was horrible and obviously a none of our bags made it so anyone who did that connection with us which was about eight people nobody got their bags and then I bumped into some other people that had a had a similar connection they'd flown from China not from Korea to Moscow connected with a one hour connection and none of their bags arrived either so there was about thirty of us forty of us that just didn't have our bags it's ridiculous

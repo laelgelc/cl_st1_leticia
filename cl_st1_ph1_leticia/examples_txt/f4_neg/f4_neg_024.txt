@@ -1,0 +1,12 @@
+Text ID: t002722
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001017_gpt.txt
+
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: awful, horrible
+so yeah, this is the message he sent, right. He says he went next door, they offered him this legal herbal weed thing and he thought, oh yeah, that’s fine, it’s legal. Smoked it, and then suddenly he’s having this really horrible trip, can’t stand up, can’t talk, everyone just sitting around watching him fall to pieces. He’s describing how he’s lying there thinking he’s dying or something, totally out of it, and no one’s actually helping, they’re just sort of staring at him and chatting.
+
+Then eventually he manages to get himself home, staggers back, and as soon as he gets in he’s sick everywhere, proper vomiting, and then he texts saying how sorry he is and how angry he is with himself for being so stupid and taking it in the first place. Going on about how awful it was and how he never wants to touch anything like that again.
+
+And I’m reading this thinking, well, you could’ve texted me while this was actually happening, you know? Instead of waiting till after you’ve been sick and had your drama. I’m not your girlfriend or your wife, sitting around making you dinner and waiting for you to come back from getting off your face. It really annoys me being treated like that.

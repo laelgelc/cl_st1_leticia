@@ -1,0 +1,8 @@
+Text ID: t000126
+Group: human
+Model: human
+File:   corpus/05_human/t000126_human.txt
+
+Score (f6_neg): -1
+Loading words (f6_neg), N=1: able
+you you you get played and that of course somehow all of that's monitored you turn up you have to be seen to be there for a certain period of time but you can take whatever break and you can mix and match with whoever you want and if you've got a deal then you go and present that to the top geezers and you say well look I've got this idea we've worked together as a team for the last six weeks and we've been able to analyse and come up with we reckon this is a goer give it a go trial it out it goes up on Google they try it out as a product you know check it out it stays or it dies

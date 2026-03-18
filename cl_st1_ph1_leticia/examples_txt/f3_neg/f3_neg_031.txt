@@ -1,0 +1,8 @@
+Text ID: t001081
+Group: human
+Model: human
+File:   corpus/05_human/t001081_human.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: odd, seem
+he rang quite late last night like quarter past eleven I don't know it just seems like an odd time to ring and he didn't get very much sleep em he got he said he got like two hours sleep the previous day I wasn't really listening I was em I had some But he said something about em you know it's been this weekend thing em and he hadn't had much sleep the previous night and em someone one of his housemate's called I presume it's a sort of different area of the country

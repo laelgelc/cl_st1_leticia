@@ -1,0 +1,8 @@
+Text ID: t002957
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001252_gpt.txt
+
+Score (f6_pos): 2
+Loading words (f6_pos), N=2: bloke, stand
+There was this plenary with the new chair or chief executive of English UK, and at first he was just speaking in a fairly typical, nothing-particularly-special way. Then this incredibly pompous bloke in the audience stood up and asked this ridiculously long, stupid question. It was so obviously a trap, and he was even citing research from 1985 as if it proved something devastating. And then the plenary speaker just absolutely took him apart – very polite, very measured, but completely demolished his argument. It was brilliant to watch, really good, and totally changed the feel of the session.

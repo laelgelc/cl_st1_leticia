@@ -1,0 +1,8 @@
+Text ID: t000171
+Group: human
+Model: human
+File:   corpus/05_human/t000171_human.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: horrible
+Giuseppe was horrible to him and he knew he was about to find out the truth about us I guess we would both be chucked out in the street how could you cope being how could I cope with being homeless when I'm used to such luxury you knew that I would inherit Giuseppe's business if he died which would make me famous again and Marcus would inherit the wonderful mansion you've you've come to call home the idea of being famous again and living with Marcus Marco in the lovely house at the end of your days was too good to be true you had to kill him it wasn't hard you thought you'd be able to pin the blame on Valentino those two were always beating each other up

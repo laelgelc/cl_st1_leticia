@@ -1,0 +1,8 @@
+Text ID: t000756
+Group: human
+Model: human
+File:   corpus/05_human/t000756_human.txt
+
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: guy, gonna
+and then she had someone at the door at work so she had to she said oh okay I just text her back saying tell him I use this website for domestic parcels within the UK over two kilograms is the best the the ch the most competitive price wise and they're pretty efficient they're good never had a bad experience so yeah to use that and then I text her again saying I'm not gonna commit myself to being at the warehouse at a certain time each week for his collections and then also have his parcels take up space in my warehouse for no monetary gain I won't do that I'm not a charity I don't even know the guy

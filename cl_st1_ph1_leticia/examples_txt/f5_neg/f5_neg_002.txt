@@ -1,0 +1,12 @@
+Text ID: t001765
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000060_gpt.txt
+
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: manage, full
+So this girl I was at school with got in touch on Facebook, saying she had a bit of a problem. Her fiancé’s mum down in Essex is absolutely set on making the cakes for their wedding herself – she wants to do a fruit cake, a chocolate biscuit cake and a sponge. Lovely idea, but of course she can’t really be traipsing up here with fully stacked cakes days in advance, and they still need something that looks like a proper tiered wedding cake on the day.
+
+I said to her, look, the only way this is going to work is if his mum does the fruit cake well in advance and gets that to me early so I can ice it properly. Then she can bring the chocolate biscuit and the sponge up the day before the wedding. I’ll ice those as separate cutting cakes, and we’ll use polystyrene tiers on top to build up the display so it still looks like a full stacked cake.
+
+I told her that’s really the only practical way to manage the timing and the stacking. She came back saying I was amazing and she was just so relieved it was actually possible.

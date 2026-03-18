@@ -1,0 +1,8 @@
+Text ID: t003597
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000187_gpt.txt
+
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: huge, massive, big
+Like, if I had a massive fry‑up as my main meal, I'd feel so guilty, like I’d totally overdone it. And then there’s her, just putting away these huge amounts of food and it’s like it doesn’t touch her. She’s got completely normal‑sized thighs, but she’s absolutely tiny on top, it’s mad. I honestly don’t get how she can eat that much and just not get any bigger at all. I’m so jealous, it just doesn’t seem fair that she can do that and stay that size.

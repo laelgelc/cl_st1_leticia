@@ -1,0 +1,8 @@
+Text ID: t000993
+Group: human
+Model: human
+File:   corpus/05_human/t000993_human.txt
+
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: big
+there is the the problem is is that I don't think people will live the length that they're talking but a lot the within about fifteen years the ma or less the majority of people living in this country will be old rather than young so the young you lot will be trying to pay not for your own pensions but for our pensions er you er the next generation will be burdened with you so there'll be a lot or small number of people trying to support above them a big number of people because the the the population of this county is aging

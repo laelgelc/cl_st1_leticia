@@ -1,0 +1,8 @@
+Text ID: t000808
+Group: human
+Model: human
+File:   corpus/05_human/t000808_human.txt
+
+Score (f5_pos): 2
+Loading words (f5_pos), N=2: em, reason
+well it's a bit of a concern so I just that's what I deleted all the numbers that I had for you and when you text me saying I'm home I was like right that's get that in em so I've got that number but because my numbers for some reason are all synced so all the details I've got your Face well I haven't got no I deleted everything so I had your Facebook I had your phone number but now see now I've got two three records for because that's that's you know you can never have too many

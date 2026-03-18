@@ -1,0 +1,8 @@
+Text ID: t002350
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000645_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: seem, pick
+so yeah when they told us to get completely obsessed with one theme I picked Minecraft, just decided I’d throw myself into it and learn pretty much everything I could about it. I spent loads of time on different servers and noticed that tons of people seemed to build Mario monuments everywhere. that sort of tied in with what I’d been thinking about already, so I thought it’d be really fun to mash a few ideas together. I ended up deciding on this statue that would combine the garden gnome idea with the Statue of Liberty and Super Mario, all rolled into one big Minecraft build.

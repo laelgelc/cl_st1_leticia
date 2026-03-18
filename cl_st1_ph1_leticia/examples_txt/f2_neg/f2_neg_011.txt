@@ -1,0 +1,12 @@
+Text ID: t002361
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000656_gpt.txt
+
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: massive, big
+so em the people who were televising MineCon in Las Vegas they were all wearing these T-shirts that said “occupy Minecraft” and they were actually talking about how you could bring the whole Occupy movement into Minecraft itself. So that kind of showed that the Minecraft community isn’t cut off from the real world at all, it’s actually really connected to what’s going on.
+
+Like, you had Occupy Wall Street and Occupy London outside, and then in-game you’ve got people responding to that, and other stuff as well. When Steve Jobs died there was this massive “RIP Steve Jobs” sign someone built, and they did this big iPod in Minecraft too. So all that made me realise that news can come into the Minecraft world quite easily.
+
+That was one of the ways we were thinking about cyber provincialism, not just as people shutting themselves off, but also as using Minecraft to get a community to look at different cultures and real-world events.

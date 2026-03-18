@@ -1,0 +1,8 @@
+Text ID: t000212
+Group: human
+Model: human
+File:   corpus/05_human/t000212_human.txt
+
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: guy, gonna
+so but you ought to ask your questions you know about is this guy gonna look after ? is he do you think he's gonna has he got a family already? you know so many questions you know you know you're thinking about your future with him so that's really good I hope he's going has he got already got a family? is he going to be a good father? you know is he going to look after as well? I would be asking all those questions and she needs to ask herself them she's probably not thinking about them but she shouldn't

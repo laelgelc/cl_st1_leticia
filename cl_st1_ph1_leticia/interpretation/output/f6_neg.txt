@@ -1,0 +1,132 @@
+Interpretation of Factor f6 (negative pole)
+
+1. Which group is driving this pole?
+
+- Mean scores:
+  - Human: -0.008 (≈ 0, slightly negative)
+  - Profiled GPT: +0.131
+  - Unprofiled GPT: +0.128  
+
+The negative pole is therefore very slightly associated with human speakers (the LLM outputs are on the positive side of the factor). All 10 high‑scoring negative texts are human. So this pole is essentially a **human‑driven discourse style** that GPT does not reproduce to the same extent.
+
+---
+
+2. Linguistic profile of the negative pole
+
+Negative loadings (higher absolute value = more characteristic):
+
+- pound (-.62)
+- fact (-.52)
+- least (-.39)
+- month (-.38)
+- able (-.31)
+- clear (-.31)
+
+Key observations:
+
+- Strongest item is **pound**: overwhelmingly about **money in UK currency** (pound(s)).
+- **month**: temporal unit used in budgeting, salaries, bills, savings, etc.
+- **able**: modal of **capability/possibility**, often in relation to money (“be able to do X if I have enough money”).
+- **fact, least, clear**: stance/precision markers, often used to **clarify, emphasise, or qualify** financial points (“in fact”, “at least”, “to be clear”).
+
+So lexically, this pole is about:
+- **Money and financial amounts** (pound)
+- **Time‑bound financial planning** (month)
+- **Ability/constraints** around money (able)
+- **Explicit reasoning and clarification** about those financial issues (fact, clear, at least)
+
+---
+
+3. What the examples show
+
+All 10 examples are human turns with dense use of “pound(s)” and frequent “able”. They consistently revolve around **practical, often small‑scale financial management in everyday life**.
+
+a) Personal finance, pensions, and savings
+
+- Ex. 001: Pensions and superannuation, frozen pots, tiny annual payouts:
+  - “twelve pounds a year”
+  - “we are not clever enough we are not gonna be able to do it”
+- Ex. 006: Funding a PhD, long‑term savings plan:
+  - “I need to be able to have enough money to live on for four years”
+  - “save at least thirty thousand pounds each”
+
+Here, “able” is tightly linked to **financial feasibility**; “pounds” and “months/years” frame **long‑term planning and constraints**.
+
+b) Everyday budgeting and short‑term cash flow
+
+- Ex. 002: Keeping a buffer in an account, urgent expenses, transfers:
+  - “I like to have a hundred pounds in her account for when she needs money urgently”
+  - “you’ve got to be able to do it sometimes”
+- Ex. 005: Helping someone who is “crap with money”:
+  - “you don’t just throw a hundred pounds at them”
+  - “they’re not going to be able to manage a hundred pounds”
+
+These show **micro‑level financial management**: small sums, emergency funds, and the **practical know‑how** of handling money.
+
+c) Work, income, and life choices
+
+- Ex. 003: Salary competition in a relationship, work–life balance:
+  - “I’ll earn sixty thousand pounds”
+  - “I’d rather earn less money and be able to have a life outside of work”
+- Ex. 004: Prisoners’ earnings and release money:
+  - “does that mean you shouldn’t be able to make a living?”
+  - “they are given … about forty pounds”
+
+Again, “able” is about **being able to earn, live, and choose**; “pounds” indexes the **economic frame** of those choices.
+
+d) Bills, contracts, and consumer transactions
+
+- Ex. 007: Phone contract, bill amount:
+  - “I wasn’t able to get into it”
+  - “my original bill was which I know now is fifty-three pounds”
+- Ex. 008: Hen‑weekend budgeting and activity costs:
+  - “a hundred quid … for three nights”
+  - “quad biking … fifty pound per person”
+- Ex. 009–010: Car valuation and negotiation:
+  - “I can give you nine hundred pounds for your car”
+  - “he managed to get me like nine hundred pound for that car”
+
+These are **concrete financial negotiations and consumer decisions**, with explicit prices and value judgements.
+
+Across all examples:
+
+- The discourse is **highly concrete and numeric** (specific sums: 12, 40, 50, 53, 100, 500, 650, 900, 30,000, 60,000 pounds).
+- It is **situated in everyday life**: bills, cars, phones, holidays, education, pensions, prison release.
+- “Able” repeatedly encodes **practical capability conditioned by money** (“be able to do X if I have Y pounds / if I can save enough / if I can access the account”).
+
+This matches the loading pattern: **pound + month + able** = **financial capability over time**; **fact, least, clear** = **explicit, reasoned framing** of those financial constraints.
+
+---
+
+4. Discourse dimension: what is encoded at this pole?
+
+Putting the loadings and examples together, this negative pole encodes a **human‑driven discourse of practical financial management and economic capability in everyday life**.
+
+Core properties:
+
+- **Domain**: Money, costs, income, savings, bills, and value for money.
+- **Scale**: Mostly **small to medium sums** and **personal budgets**, not abstract macro‑economics.
+- **Temporal framing**: Months/years as units for planning, saving, and repaying.
+- **Pragmatic stance**: Speakers reason through what is **feasible**, what they or others are **able** to do financially, often with explicit clarification and evaluation.
+- **Social angle**: How money shapes **life choices, opportunities, and responsibilities** (supporting children, ex‑prisoners, partners, funding education).
+
+LLM outputs, by contrast, sit on the positive side of the factor, suggesting they are **less likely to produce this dense, numerically specific, pound‑denominated, feasibility‑oriented money talk** in the same way humans do in spontaneous conversation.
+
+---
+
+5. Possible labels for this pole
+
+Any label should capture both the **lexical signal** (pound, month, able, fact, clear) and the **discourse function** (reasoned talk about financial feasibility in everyday life). Suitable options:
+
+1. **“Practical Personal Finance and Economic Capability”**  
+   - Highlights the focus on **practical, individual‑level money management** and **what people are able to do** with their resources.
+
+2. **“Everyday Money Management and Financial Feasibility”**  
+   - Emphasises **day‑to‑day budgeting, costs, and decisions**, and the recurring theme of whether something is **financially doable**.
+
+3. **“Lived Economic Constraints and Planning”**  
+   - Brings out the **constraint/planning** aspect: pensions, savings for a PhD, release money, emergency funds, bills.
+
+Any of these would be defensible; if a single label is needed, the most precise for this pole is:
+
+**Everyday Money Management and Financial Feasibility**

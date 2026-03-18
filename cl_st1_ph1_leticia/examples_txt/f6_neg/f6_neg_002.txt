@@ -1,0 +1,8 @@
+Text ID: t001356
+Group: human
+Model: human
+File:   corpus/05_human/t001356_human.txt
+
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: pound, able
+a good good attitude but it just doesn't help in the long run like she wouldn't have any money in her account like I like to have a hundred pounds in her account for when she needs money urgently for an audition or reeds or something turns up and otherwise I have to be available at precisely that moment lots of things have deadlines you know you've got to be able to do it sometimes and she wouldn't have it her account and of course we just ended up with me having to do three very complicated transfers against the clock and I'm thinking you know if you'd only had the bloody money

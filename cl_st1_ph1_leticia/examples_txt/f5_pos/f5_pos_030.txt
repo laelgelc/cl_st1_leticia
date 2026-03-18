@@ -1,0 +1,8 @@
+Text ID: t004093
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000683_gpt.txt
+
+Score (f5_pos): 1
+Loading words (f5_pos), N=1: reason
+You see, years ago the hospitals ran properly. You had your matron, your sisters, your staff nurses, your ordinary nurses, your porters, everybody knew their place and what they were doing, and most of them actually enjoyed the job. Patients were in there for a reason, they were ill, so they stayed in their beds for a few days and were looked after properly. Now it’s all about how fast they can get you out, isn’t it? Just a quick turn-over, in and out, instead of letting people stay in hospital and recover.

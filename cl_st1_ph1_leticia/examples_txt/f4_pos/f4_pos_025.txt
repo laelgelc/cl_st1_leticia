@@ -1,0 +1,18 @@
+Text ID: t003206
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001501_gpt.txt
+
+Score (f4_pos): 3
+Loading words (f4_pos), N=3: build, become, change
+well when the children were about six and seven we moved again, and that was when I went to another university and settled into what became quite a long stretch there. By that stage I’d done a few different institutions, so I had a fairly clear sense of how a careers service could be organised, and I went back into a more standard careers adviser role before I ended up managing the whole thing.
+
+In that set‑up, each of us as advisers had what we called a portfolio of academic departments. So you didn’t just sit in a central office waiting for random students to turn up; you were linked to, say, engineering or history or whatever it might be, and you were expected to get to know that world. You built relationships with the academic staff in those departments, talked to them about what their students were like, what employers tended to be interested in them, and what particular issues cropped up. Over time you became “their” careers person, which made it easier for students to see you as part of their course rather than some bolt‑on.
+
+In some departments that relationship went quite a long way. They would actually fund us to deliver taught careers modules that were formally assessed as part of the degree. So you might have a second‑year module on employability or professional development, timetabled like any other class, with assignments and marks that counted. In other departments it didn’t go that far, but we were still expected to provide a programme of support.
+
+Whatever the arrangement, there were always two main strands to what we did. One was individual guidance – one‑to‑one appointments where a student could come and talk about their plans, get feedback on applications, practise interviews and so on. The other was group sessions, which we ran within the departments or centrally, covering the core topics that almost everyone needs.
+
+Those core topics were things like how to market yourself effectively – so CVs, covering letters, application forms – and how to find employers and opportunities in the first place. We did a lot on interviews and on the various selection tests that employers use, and we spent time on networking, because who you know and how you approach people can make quite a difference. We also tried to encourage what we called creative job hunting, getting students to think beyond the obvious big graduate schemes and to look at smaller organisations or less traditional paths.
+
+On top of that core, we were always adding extra sessions in response to what was happening in the job market at the time. If there was a shift in how employers were recruiting, or new kinds of tests, or a sector that was suddenly expanding or contracting, we’d put something on to address it. So the work was a mixture of having a standard offer and then tweaking it constantly as the outside world changed.

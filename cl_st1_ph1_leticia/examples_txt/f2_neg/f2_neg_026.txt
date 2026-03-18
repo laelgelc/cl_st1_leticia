@@ -1,0 +1,8 @@
+Text ID: t004394
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000984_gpt.txt
+
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: huge, massive, big
+I mean, yeah, those people do still have some money pressures, but if I had that kind of money I wouldn’t go mad with it. I’d just get a really good house, but nothing ridiculous, not some massive mansion just for the sake of it. I’d sort everything out so I’d literally never have to worry about money again. And I wouldn’t be blowing almost all of a huge weekly wage every week either. I’d keep a big chunk back every time, so there’s always loads left over.

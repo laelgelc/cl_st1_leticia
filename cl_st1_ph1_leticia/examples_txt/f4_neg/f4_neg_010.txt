@@ -1,0 +1,8 @@
+Text ID: t004798
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001388_gpt.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: awful
+we were all in that tight little circle after everyone had left the church, and I was just crying, properly breaking down, and people were kind of taking turns comforting me and hugging me. I remember talking about how we should meet up and how sad everything was, and it was all just really emotional. And the whole time, while I was being hugged and trying to talk through how awful it felt, they were just there, standing off a bit, staring at me in this really weird way. We didn’t say a single word to each other, not even a hello, nothing at all, just that strange, silent staring.

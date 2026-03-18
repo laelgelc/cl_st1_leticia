@@ -1,0 +1,8 @@
+Text ID: t001665
+Group: human
+Model: human
+File:   corpus/05_human/t001665_human.txt
+
+Score (f2_pos): 3
+Loading words (f2_pos), N=3: erm, okay, cos
+erm and I said just say thank you and let me pay for just one thing out of everything please and he was like okay then and that's only because erm we'd left the antiques place and I'd chosen this erm and I was going to buy it for myself and he said oh I'll get it for your birthday and I said oh you know I think do you not think sixty pound is a bit excessive for a birthday present really? I said but why don't we go halves then because I would have bought it for myself anyway? no no no I'll pay for it and I said well I I feel a bit uncomfortable actually if you pay pay that much for a birthday gift I I would really appreciate it you'd just let me pay half cos I just think that's a bit

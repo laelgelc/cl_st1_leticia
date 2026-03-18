@@ -1,0 +1,10 @@
+Text ID: t004922
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001512_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: sense, seem
+I was reading this article about some African countries that were having their first democratic elections, and what really struck me was how politically engaged people were. You had ordinary workers, people on really low incomes, who were so informed and genuinely excited about the different candidates. They knew what each one stood for, and they were talking in detail about things like the economy and the prison system, and how those might change depending on who got in.
+
+It made me think about how different that feels from here. When the BBC goes out and interviews people on the high street, you just don’t get that same sense of engagement or understanding. There’s this contrast between places that are, in many ways, much more unjust, and yet the people there seem to care more and know more about what’s happening politically than a lot of people do in our own society.

@@ -1,0 +1,8 @@
+Text ID: t004229
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000819_gpt.txt
+
+Score (f5_pos): 1
+Loading words (f5_pos), N=1: reason
+well I suppose if you don't understand it that's kind of the best reason to try and understand it, isn't it? Like, read a bit more about it or watch something about it and see if it starts to make sense. I always think of it with things like the Troubles in Northern Ireland – I keep trying to get my head round that, I’ll read something or watch a documentary and for a little while I feel like I’ve finally got it clear in my mind. And then, because my memory’s so rubbish, a few weeks later I realise I’ve completely forgotten the details again and I’m back to muddling it all up. But even though it doesn’t stick very well for me and I have to keep going back to it, I still feel like those kinds of things are really important, you know? They matter enough that it’s worth making the effort, even if you never feel like you properly “get” it or you’re always having to remind yourself what it was actually about.

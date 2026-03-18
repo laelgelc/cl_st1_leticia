@@ -1,0 +1,8 @@
+Text ID: t000781
+Group: human
+Model: human
+File:   corpus/05_human/t000781_human.txt
+
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: seem
+well I mean er those are all good theories I mean well I don't suppose we'll ever know erm but it seems to me perfectly obvious that that this is the way any creature relates the worl relates to the world you know if you're an ant presumably you have a very different understanding of the world of the size and the scale erm assuming they have brains and things like that which I dare say they don't erm you know and if we were if we were giants we would see it all scale is incredibly important I don't mean size

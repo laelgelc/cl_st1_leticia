@@ -1,0 +1,166 @@
+Interpretation of Factor 5 (negative pole)
+
+1. **Which group drives this pole?**
+
+- Mean scores:
+  - Human: **+0.037**
+  - Unprofiled GPT: **-0.099**
+  - Profiled GPT: **-0.126**
+
+Lower scores = stronger presence of this *negative* pole.  
+So this pole is **driven most strongly by profiled GPT**, then by unprofiled GPT; humans are slightly on the opposite side of the factor.
+
+This is important: the discourse type we see here is **characteristic of LLM-generated turns under the profiled prompt**, not of human turns.
+
+---
+
+2. Linguistic profile of the pole
+
+High negative loadings:
+
+- **single** (-.84)
+- **thinking** (-.56)
+- **manage** (-.45)
+- **(awful)** (-.40)
+- **(become)** (-.34)
+- **full** (-.34)
+- **(horrible)** (-.34)
+- **(erm)** (-.32)
+
+Observations:
+
+- Core lexical set: **single, thinking, manage, full**  
+- Evaluative / stance items: **awful, horrible**  
+- Disfluency marker: **erm** (spoken-like hesitation)
+- Semantics:
+  - **thinking** → explicit metacognition, inner commentary
+  - **single** → scalar/quantifying (“every single”, “single action”, “every single practice”)
+  - **manage** → effortful success under difficulty (“managed to fit it in”, “manage the timing”, “managed to pass”)
+  - **full** → completeness/intensity (“full stacked cake”, “full on tears”, “full price”, “bowl full of gravy”)
+  - **awful / horrible** → strong negative evaluation of experiences
+  - **erm** → conversational, reflective hesitation
+
+Taken together, the loadings point to a discourse style that:
+
+- foregrounds **mental processing and evaluation** (“thinking”)
+- highlights **difficulty and effort** (“manage”)
+- uses **scalar and intensifying devices** (“single”, “full”, “awful”, “horrible”)
+- is **strongly subjective and stance-heavy**, often narrating experiences with explicit commentary.
+
+---
+
+3. What the examples show
+
+All 10 high-scoring texts are **profiled GPT**. They consistently show:
+
+a) **Narrated personal episodes with internal commentary**
+
+- Ex. 001: conflict with mother over a couple outing; narrator’s inner sarcasm:
+  - “I’m just sat there **thinking**, what does she actually expect?”
+  - “every **single** thing I do with my boyfriend”
+- Ex. 003: breakup and guilt:
+  - “not some **single** action you should feel ashamed of”
+  - “I’ve gone over and over it in my head, feeling **awful**”
+  - “that way of **thinking**”
+
+b) **Focus on coping, difficulty, and successful management**
+
+- Ex. 002 (wedding cake logistics):
+  - “the only practical way to **manage** the timing and the stacking”
+  - “so it still looks like a **full** stacked cake”
+- Ex. 005 (dream):
+  - “Somehow I’d **managed** to balance my plastic bowl **full** of gravy”
+- Ex. 006 (handbells):
+  - “The others **manage** with their colour‑marked notes”
+  - “up to twelve at a time… on a **single** clef”
+- Ex. 008 (driving test):
+  - “I failed that bit in every **single** practice I did, but somehow I **managed** to pass it in the real test.”
+- Ex. 010 (agency debt):
+  - “he **managed** to clear this massive £150,000 debt”
+
+c) **Intensified emotional and evaluative framing**
+
+- Ex. 004 (mother–daughter time before flight):
+  - “I’m just sat there **thinking**, are you actually kidding me?”
+  - “she starts crying, **full on** tears”
+- Ex. 007 (phone bill):
+  - “I’m **thinking**, what’s going on here then?”
+  - “it shows the **full** price”
+- Ex. 009 (legal high incident):
+  - “this really **horrible** trip”
+  - “he’s lying there **thinking** he’s dying”
+  - “he manages to get himself home”
+  - “Going on about how **awful** it was”
+
+d) **Perspective: highly subjective, often grievance- or problem-oriented**
+
+Across the excerpts, speakers:
+
+- recount **problems or tensions** (family conflict, relationship breakdown, unfair treatment, scary drug experience, confusing bills)
+- narrate **how they or others coped** or “managed”
+- embed **explicit thought reports** (“I’m just sat there thinking…”, “I’m reading this thinking…”)
+- use **intensifiers** to dramatise the situation (“every single practice”, “full on tears”, “really horrible trip”, “massive £150,000 debt”).
+
+Even the more neutral topics (handbells, theory test, cake logistics, dream) are framed around **difficulty and the effort to handle it**.
+
+---
+
+4. Integrating loadings and examples
+
+Giving equal weight to loadings and examples:
+
+- Loadings highlight:
+  - **metacognition** (thinking)
+  - **effortful coping** (manage)
+  - **scalar/intensifying emphasis** (single, full, awful, horrible)
+  - **spoken stance** (erm)
+- Examples show:
+  - **first-person, subjective narration of problematic or challenging situations**
+  - **explicit inner commentary** and evaluation
+  - **recurrent “somehow I managed…” framing**
+  - **amplification of emotional and practical stakes**
+
+This pole is therefore not just “negative emotion” or just “planning/problem-solving”; it is a **stance-rich, narrative mode** where the speaker:
+
+- recounts **events involving difficulty, tension, or risk**
+- foregrounds **how they think and feel about it**
+- emphasises **effort, coping, and outcome**.
+
+It is also clearly **LLM-amplified** under the profiled prompt: the model tends to produce elaborated, introspective, emotionally coloured narratives with explicit thought-reporting and “manage to” constructions.
+
+---
+
+5. Possible labels for this pole
+
+Focusing on this pole alone (no versus label), and aiming to capture both the lexical pattern and the discourse function, I propose:
+
+1. **“Introspective Coping Narratives”**
+
+   - *Introspective*: driven by **thinking**, explicit inner commentary, stance.
+   - *Coping*: central role of **manage**, dealing with difficulty, “somehow managed…”.
+   - *Narratives*: almost all excerpts are **story-like accounts** of specific episodes.
+
+2. **“Intensified Problem‑Experience Discourse”**
+
+   - *Intensified*: **single, full, awful, horrible** as scalar and emotional intensifiers.
+   - *Problem‑Experience*: focus on **problems, tensions, or challenges** (family rows, guilt, debt, scary trips, tricky tests).
+   - *Discourse*: realised as extended, evaluative talk rather than isolated evaluations.
+
+3. (More technical/LMDA-style) **“Subjective Difficulty‑Management Stance”**
+
+   - *Subjective*: heavy use of first-person perspective and thought-reporting.
+   - *Difficulty‑Management*: lexical core of **manage**, plus contexts of effort and challenge.
+   - *Stance*: explicit evaluation (“awful”, “horrible”) and metacommentary on events.
+
+---
+
+6. Summary characterisation
+
+Factor 5 (negative pole) represents a **stance-heavy, introspective narrative discourse** in which speakers:
+
+- recount **specific, often problematic or emotionally charged episodes**
+- explicitly report their **thoughts and feelings** about what happened
+- highlight **effort, coping, and successful or partial management**
+- use **intensifiers and strong evaluative adjectives** to dramatise the experience.
+
+This discourse mode is **most strongly produced by profiled GPT**, suggesting that the socio-demographic profiling prompt encourages the model to generate elaborated, introspective “coping stories” with marked subjective evaluation and difficulty-management framing.

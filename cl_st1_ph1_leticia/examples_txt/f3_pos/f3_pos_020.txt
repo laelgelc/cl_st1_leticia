@@ -1,0 +1,8 @@
+Text ID: t000855
+Group: human
+Model: human
+File:   corpus/05_human/t000855_human.txt
+
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: shit, gonna
+alright I'll pause it like just pause it please? it's it's it's right you shouldn't be posting it on Facebook because yeah fair enough this paedophile is a paedophile and he deserves naming and shaming but not until the poli the police can do that it can go to court and the police can do that because at the end of the day like they're putting this on Facebook and what about his mum and dad? what about his grandpar his grandparents? what about his kids? what about his wife? what about his other family? they're gonna get all they're all the ones who are gonna get shit for it just as much as he is he shouldn't be putting it on the internet not like that

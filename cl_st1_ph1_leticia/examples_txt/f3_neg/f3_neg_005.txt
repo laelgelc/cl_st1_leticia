@@ -1,0 +1,14 @@
+Text ID: t002025
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000320_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: odd, sense
+well what I tend to do is a tiny bit of planning, but really just to have something in my back pocket. I’ve got the “English File Upper Intermediate” PDFs on the laptop, and at the beginning with this student we actually went through the book because that’s what she wanted. Over time, though, we’ve drifted away from following it page by page, and now I mostly use it as a source of topic ideas or the odd exercise if it fits. The lesson itself is really led by whatever she wants to talk about on the day.
+
+The only real “system” I stick to is my A4 sheet. I always divide it into three sections before the lesson starts. One section is for error corrections that I want to come back to at the end, so I’m not constantly interrupting her flow. Another section is for new vocabulary, often idioms, and I’ll jot down the phrase and a quick meaning so she’s got a clear record. The third section is for pronunciation notes.
+
+With the pronunciation, I don’t force phonetics on them unless it actually means something to that particular student. If they’re comfortable with phonetic symbols I’ll use them, but quite often I just write things in a way that I know they’ll remember and understand. The idea is that the sheet makes sense to them, not that it’s technically perfect.
+
+She takes that A4 sheet away with her at the end of the lesson, so it becomes a little personalised record of what we did. During the lesson I’m doing on‑the‑spot correction when it feels appropriate, and if it doesn’t, I just note it down for later and carry on. It’s very straightforward, and with that structure in place it really is easy money.

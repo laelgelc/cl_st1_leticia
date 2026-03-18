@@ -1,0 +1,8 @@
+Text ID: t000958
+Group: human
+Model: human
+File:   corpus/05_human/t000958_human.txt
+
+Score (f4_pos): 2
+Loading words (f4_pos), N=2: build, change
+with the original erm rails or or the odd erm well some of some of the views had changed cos they'd built things here and and also erm when I was at school you weren't allowed to go across the joining erm sort of erm er what would you call it? not exactly a bridge cos it was over a corridor but the bit the walkway that was on top of the corridor joining erm the bit erm from the dining hall where the passage went across to the rest of the classrooms with our music in erm you you weren't allowed to go across that because one end was the staff room and the other end was che near the chemistry lab or something

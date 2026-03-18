@@ -1,0 +1,8 @@
+Text ID: t001196
+Group: human
+Model: human
+File:   corpus/05_human/t001196_human.txt
+
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: chat
+yeah yeah but you can get I mean we we see these things and look at them and it's a real experience just to see them and to maybe get in them or or fly in them talking to 's sister she's eighty-eight and I was chatting to her and saying oh yeah and I went and did this and this and oh yeah cos I worked on them in the war I was making these bits in that factory doing this and I was and then I was working on that and you think and you suddenly forget actually you know it was day to day life

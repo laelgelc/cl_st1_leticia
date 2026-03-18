@@ -1,0 +1,10 @@
+Text ID: t001963
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000258_gpt.txt
+
+Score (f3_pos): 1
+Loading words (f3_pos), N=1: minute
+so on Saturday morning before we actually met him, she put him on the phone to me for a minute, just to say hi. She’d said beforehand that he was really shy and nervous about meeting her parents and me, so I was just really friendly and chatty, trying to put him at ease a bit. It was literally just a brief, nice conversation because I knew he was worried about it.
+
+But afterwards he completely flipped at her about it. He had a proper go, saying she shouldn’t be telling people he was shy, like she’d been talking about him behind his back. He made out like she’d betrayed him, even though it was just that one thing she’d mentioned to me. He was saying he didn’t even know why he was bothering to come, and acting like we were all laughing at him or something. It was really harsh considering she’d only told me he was nervous so I could be a bit kinder and more understanding when I met him.

@@ -1,0 +1,8 @@
+Text ID: t001017
+Group: human
+Model: human
+File:   corpus/05_human/t001017_human.txt
+
+Score (f3_pos): 4
+Loading words (f3_pos), N=4: fuck, shit, gonna, minute
+what the fuck is the matter with this kid? Look I'm not kidding I just got money and saw neighbour he invited me in and I thought what the hell? Five minutes we sat down and he offered me a smoke on some herbal weed legal high well I had a bad one and had a bad trip for ages and couldn't talk or stand up four people watched me by the way as I ended up looking like I need sectioning so when so so when I got home I was going to text you and threw up a lot I've been back and told him that that shit is dangerous I'm so sorry for this I'm so pissed off for trying it I thought it would do nothing at all yes I would like to as soon as I sort myself out a bit if that's okay all of the above is the truth this kid is fucked in the head genuinely genuinely fucked in the head so he's gone next door had a bit of pot it's affected him really badly so he's gone home been sick hasn't thought to text me during any of this it fucks me off cos I'm not his girlfriend I'm not his wife I'm not gonna sit around making him dinner

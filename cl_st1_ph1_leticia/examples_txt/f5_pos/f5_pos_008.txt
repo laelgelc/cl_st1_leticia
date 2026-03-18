@@ -1,0 +1,8 @@
+Text ID: t000081
+Group: human
+Model: human
+File:   corpus/05_human/t000081_human.txt
+
+Score (f5_pos): 1
+Loading words (f5_pos), N=1: reason
+on Facebook and it was just before I was about to leave and I heard about it and I said I said to the head she this is appalling you can't you cannot have her back from she will expect to come back from her maternity leave and just slot in as if nothing else has happened what are you going to do about it oh I'll have to have a we'll have to have a chat with her if you re and and nothing actually happened I think there was maybe a chat but nothing ever happened if you were in business that would be reason for you to be disciplined to the point where you could lose your job so

@@ -1,0 +1,8 @@
+Text ID: t003338
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001633_gpt.txt
+
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: manage
+When I think about it, it really shows how times have changed. I went straight out to work at eighteen, never went to university, and it simply wouldn’t have crossed my mind to ask my mum and dad for money if I was short. You just got on with it and managed somehow. Whereas now, my daughter will just pick up the phone. She rang yesterday and said, “Oh Mum, I’m going to really struggle to pay the rent this month, could you pay this month’s?” It’s such a different attitude to money and independence compared to when I was that age.

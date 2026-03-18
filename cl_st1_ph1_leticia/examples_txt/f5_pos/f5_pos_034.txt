@@ -1,0 +1,8 @@
+Text ID: t002922
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001217_gpt.txt
+
+Score (f5_pos): 1
+Loading words (f5_pos), N=1: reason
+I did say to him afterwards, I apologised that there wasn’t any reading‑in work for him in the end, and I told him I’d thought he was going to help herd people in. Apparently, according to , he’d been quite happy socialising while he was “meeting and greeting” everyone. Then he turned round and, in this really sarcastic way, thanked me for taking his job away from him, saying that was the only reason he’d turned up. I just thought, well, that’s not really fair, is it, given how the evening actually went.

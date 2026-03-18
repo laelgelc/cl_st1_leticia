@@ -1,0 +1,8 @@
+Text ID: t001523
+Group: human
+Model: human
+File:   corpus/05_human/t001523_human.txt
+
+Score (f1_pos): 1
+Loading words (f1_pos), N=1: um
+so in the end they finally came because it was I reported it within the first week but because huh by the time they actually got round to collecting it it was outside of the first week they had to collect it and then issue a brand new one it was such it took so long but now it works but um things like the Bluetooth setting and stuff don't work for some reason and apparently I've got it on the wrong setting but I've got no idea what the right setting is so

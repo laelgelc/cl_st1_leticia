@@ -1,0 +1,12 @@
+Text ID: t004064
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000654_gpt.txt
+
+Score (f4_pos): 3
+Loading words (f4_pos), N=3: build, change, set
+so yeah after all that happened this guy actually sent this really pompous sort of statement to the Gaming Society, like properly written out, basically saying that games should be about competition and not about friendship, and that what we were doing on the server was wrong because it was all co‑operation and sharing. And that really coloured the way I was thinking about it, because you could kind of see how his frustration just escalated – he’d set up this castle and was inviting people over for player versus player, and nobody was biting, so instead of just accepting that, he started acting out and doing more and more destructive stuff.
+
+Eventually he even used this lava trap I’d set up – which was meant to be this clever defensive thing – and turned it against the whole town, so the place just ended up completely wrecked. That was pretty much the point where I just stopped playing Minecraft altogether, because it stopped being fun and it felt like the whole ethos of what we’d built had been undermined.
+
+Later on I used the whole episode for a talk in class, just explaining what had happened and how his attitude contrasted with what most of us wanted from the game. The class were really interested, especially in the way his reaction ramped up when I changed tack on the next map and went in the opposite direction to what he wanted. When I described how that shift in approach just made him “lose it”, people were really intrigued by how much it revealed about his expectations of what gaming should be.

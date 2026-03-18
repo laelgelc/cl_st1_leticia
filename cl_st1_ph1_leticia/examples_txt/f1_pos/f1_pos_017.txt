@@ -1,0 +1,8 @@
+Text ID: t000569
+Group: human
+Model: human
+File:   corpus/05_human/t000569_human.txt
+
+Score (f1_pos): 1
+Loading words (f1_pos), N=1: um
+it could be a game c Or could run off backwards But er there's some you could probably do something like that um you could do um say talking about sort of fr foe um friend how many people can we get into an area or into a tab onto a table but not up here like low down so could we get everybody standing on a table this size? Well yes could we get everybody standing on the the shorter tables? Possibly not could we get everyone standing in a very small area of masking tape? So you can have in the

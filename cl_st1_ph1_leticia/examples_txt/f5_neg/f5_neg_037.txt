@@ -1,0 +1,8 @@
+Text ID: t000599
+Group: human
+Model: human
+File:   corpus/05_human/t000599_human.txt
+
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: single
+yeah he had a hea he had plan in his head you know he wanted to move to Cambridge he wanted to he wants to do his own thing and you can see that in him like you can see him very much likes doing his own thing he's really independent erm so I don't he was ready to meet a girl who was then gonna like dictate that or like have an opinion on like you know what he's doing and so for ages I think he was holding onto this idea that like he wanted to be independent he wanted to be single he wanted to be this he wanted to be that but actually like you can't choose when you meet someone like

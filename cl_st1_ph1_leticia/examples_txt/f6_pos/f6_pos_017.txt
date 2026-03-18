@@ -1,0 +1,10 @@
+Text ID: t002955
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001250_gpt.txt
+
+Score (f6_pos): 2
+Loading words (f6_pos), N=2: bloke, chat
+I went to this CLIL talk that I actually found really interesting. It was by the same bloke who did that FCE talk before, but he was much better this time because he was presenting his own material rather than someone else’s. I also ended up chatting to someone who asked why I’d never worked at this particular place, which threw me a bit because I honestly didn’t know why – I’ve worked pretty much everywhere else. 
+
+It all felt a bit strange being at the conference, because there were several organisations I’m connected with there – Kaplan, Support for English, and so on. I even managed to discreetly watch this Kaplan woman from Salisbury, who I’m likely to have to deal with in the summer and who’s supposed to be notoriously difficult.

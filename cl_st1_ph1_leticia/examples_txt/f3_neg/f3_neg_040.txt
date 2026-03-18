@@ -1,0 +1,8 @@
+Text ID: t000810
+Group: human
+Model: human
+File:   corpus/05_human/t000810_human.txt
+
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: seem
+yeah but then if you're seeing somebody else like you you don't know what you might be doing in April like you might be seeing somebody he might be more serious with like you might have a a you know a group of people out that night say if we went on a girlie thing and he would definitely come and you and he would definitely be invited and you definitely would see each other but like to actually just spend time just one on one cos I've got nothing to compare it to so to me it seems a bit a little but strange but maybe it's not maybe it's completely normal just like it would be normal if you were all like best mates and you had never actually been in a relationship together

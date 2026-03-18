@@ -1,0 +1,8 @@
+Text ID: t001107
+Group: human
+Model: human
+File:   corpus/05_human/t001107_human.txt
+
+Score (f2_pos): 4
+Loading words (f2_pos), N=4: wanna, erm, okay, cos
+no erm so what? yeah we turned up obviously on the Thursday night and we got in at about one and the well no about twelve and the taxi driver we've got a taxi from the airport to the place cos we don't wanna be wandering around in the dark erm and then we once we arrived like on the street where we were staying there was a police car and them like dealing with some scruffians or whatever you wanna call them ruffians so we were like great this is the entrance to our street and then you walk down the street and there were bars open and stuff but a lot of it was closed and a lot of it just had like graffiti all down the sides so it was like okay in the daytime it was really pleasant but at night everything just seemed a bit erm yeah just unloved and vandalised and erm but it was it was nice but erm like unlike Paris where like you know the Eiffel Tower and Notre Dame and and the Louvre are all kind of like really close to each other in Barcelona they're not like one's like up here by five kilometres the next one is like down here by another how many kilometres and you just end up walking around trying to find everything so you spend more time walking than actually sightseeing but erm you can get like a tour bus and everything like that but because we were there for such a short period of time like none of us had really rea researched how to use the public or what public transport to use

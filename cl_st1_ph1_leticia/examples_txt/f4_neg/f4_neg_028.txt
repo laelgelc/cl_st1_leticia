@@ -1,0 +1,8 @@
+Text ID: t002272
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000567_gpt.txt
+
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: awful, horrible
+like some people who have like suspected er irritable bowel or whatever they get it so bad they literally can’t get out of bed they’re in loads of pain and everything and they end up going into hospital and having all these different tests and scans done and they can’t find anything wrong with them at all so in the end the doctors are just like well it must be irritable bowel then because nothing else is showing up and they still feel awful and sometimes they just have to stay in bed for the whole day because it’s that bad for them which just sounds really horrible

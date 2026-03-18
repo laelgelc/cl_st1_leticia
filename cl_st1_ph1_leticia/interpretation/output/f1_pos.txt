@@ -1,0 +1,87 @@
+This factor is extremely narrow: it is driven almost entirely by the discourse marker / hesitation filler **“um”**, and the high-scoring texts are all **human** turns. Both GPT conditions have substantially *lower* mean scores than humans, so humans are clearly driving this pole.
+
+### 1. Source scores: who drives the pole?
+
+Mean f1 scores:
+
+- Human: **-0.60**
+- Unprofiled GPT: **-1.05**
+- Profiled GPT: **-1.08**
+
+Higher scores = more of the feature. All three groups are on the negative side overall, but humans are **closest to zero**, i.e. they use **more “um”** than either GPT condition. The LLM outputs are more “disfluent-free” and thus sit further from the positive pole.
+
+So this pole is essentially a **human-spoken, disfluent** end of the dimension, with GPT turns clustering away from it.
+
+### 2. Loadings: what linguistic feature defines the pole?
+
+Only one variable loads on f1_pos:
+
+- **um (1.71)**
+
+No other lexical items co-load, so this factor is not a broad semantic or stylistic cluster; it is a **pure hesitation-marker factor**.
+
+### 3. What do the high-scoring excerpts show?
+
+All 10 high-scoring texts are:
+
+- Human-authored
+- Spontaneous, informal conversational narratives or explanations
+- Rich in **“um”** as a hesitation / planning device
+
+In the excerpts, “um” appears:
+
+- Turn-initial:  
+  - “**um** but you know that was fairly standard Magnum fair…” (t001705)  
+- Clause-medial, marking planning or repair:  
+  - “we just **um** had a bite quick bite to eat” (t000094)  
+  - “the fruit trees that grow along the wall **um** they're a very good idea…” (t000350)  
+- As a soft boundary between discourse units or topic shifts:  
+  - “you get good ideas going round **um** garden centres round the **um** the kitchen gardens…” (t000348)  
+- As a stance/engagement softener:  
+  - “I know well they had their they had like a **um** a chip like a bike their bike lock…” (t000695)
+
+Across the examples, “um” functions to:
+
+- Buy **planning time** in complex narratives (insurance procedures, TV plot, job loss, civil rights history).
+- Signal **on-line formulation** and self-repair (“er… um…”, “I was like… um…”).
+- Maintain **floor-holding** while the speaker searches for words or restructures the clause.
+- Soften or hedge upcoming content in personal stories and evaluations.
+
+Crucially, the surrounding discourse is not systematically of one topic or register (we have gardening, TV, work, music, history, Old English). The commonality is **spontaneous, cognitively demanding talk** with visible on-line processing.
+
+### 4. Interpreting the discourse dimension
+
+Because:
+
+- The factor is defined solely by **“um”**,
+- The high-scoring texts are **human, spontaneous, narrative/explanatory** turns,
+- GPT outputs are systematically **lower** on this factor (they avoid “um”),
+
+this pole is best interpreted as a **discourse-pragmatic** dimension of **on-line, disfluent, planning-in-progress talk**.
+
+It is not about topic, formality, or stance per se; it is about **production mode** and **cognitive processing visibility**:
+
+- **High on this pole**:  
+  - Human-like, **unrehearsed** speech  
+  - Frequent **filled pauses** marking hesitation, planning, and repair  
+  - Strong sense of “thinking aloud” and **incremental formulation**
+
+- **Low on this pole** (where GPT sits):  
+  - More **edited / fluent** production  
+  - Absence of filled pauses; planning is not lexically marked  
+  - Less overt evidence of on-line processing
+
+### 5. Possible labels for this positive pole
+
+Focusing on this pole only, and capturing both the linguistic feature and its discourse function, suitable labels would be:
+
+1. **On-line Planning and Hesitation Discourse**
+   - Highlights that “um” indexes real-time planning and hesitation in talk.
+
+2. **Spontaneous Disfluency / Filled-Pause Discourse**
+   - Emphasises the disfluent, filled-pause character of the speech.
+
+3. **Human-Like Hesitation and Floor-Holding**
+   - Reflects that this is where human speakers mark hesitation and keep the floor.
+
+Any of these captures the core: this pole encodes a **human-driven discourse style where speakers overtly manage planning, hesitation, and floor-holding through “um”**.

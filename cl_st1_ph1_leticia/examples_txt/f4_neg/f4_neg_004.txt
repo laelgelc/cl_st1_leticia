@@ -1,0 +1,8 @@
+Text ID: t005006
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001596_gpt.txt
+
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: awful, horrible
+once we got back to the airport and she had wifi again, it all just kind of fell apart. he started sending her these really horrible messages, calling her a bitch and saying she didn’t appreciate him, and then he basically refused to say what she wanted to hear because he doesn’t love her. that’s when she just started crying. I was meant to be getting my bus, I’d actually left to go and catch it, but after seeing her like that I couldn’t just leave her there for an hour on her own. so I decided to drive her all the way from Gatwick to Oxford instead, so she didn’t have to wait around feeling awful. it just makes me really sad, because even after all that, she still has this hope that somehow they’re going to work things out, and I don’t think he’s good for her at all.

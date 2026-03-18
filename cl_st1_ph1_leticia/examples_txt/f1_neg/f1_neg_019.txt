@@ -1,0 +1,8 @@
+Text ID: t002923
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001218_gpt.txt
+
+Score (f1_neg): -4
+Loading words (f1_neg), N=4: clear, carry, nothing, everything
+I asked him why he didn’t just give his dad a hug, and he said it isn’t really his dad’s hug he wants, it’s his mum’s. But she’s just carrying on like everything’s normal, as if nothing’s happening. So instead of getting any comfort from her, he’s waking up in the middle of the night, absolutely terrified, and it’s just a nurse there with him. From what he was saying, it’s clear he’s really, really upset and he doesn’t understand what’s going on at all. He’s getting no time, no sympathy, nothing from his mum. That’s why he’s come to me, really, to talk about it.

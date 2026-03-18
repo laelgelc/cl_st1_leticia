@@ -1,0 +1,8 @@
+Text ID: t000350
+Group: human
+Model: human
+File:   corpus/05_human/t000350_human.txt
+
+Score (f1_pos): 1
+Loading words (f1_pos), N=1: um
+it'd be good yeah yes there are and the the apple trees that gr and the fruit trees that grow along the wall um they're a very good idea because I mean we've got these apple trees and they're very intermittent in what they produce um most of our apples this year are from um were from the tree that's on the right which is golden delicious but um the quality for for a golden delicious apple it's not the quality wasn't very good uh but there were hardly any on the um the James Grieves which are good qual when you get those those are superb quality very big um it's a matter of timing the picking before um before the birds and the s grubs get in it uh and before it falls off but allowing them to ripen I mean we had a superb um crop of apples last year cooking apples last year and we gave loads of them away and uh you had a lot didn't you? Um but um but this year we had hardly any from that tree

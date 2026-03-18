@@ -1,0 +1,8 @@
+Text ID: t001028
+Group: human
+Model: human
+File:   corpus/05_human/t001028_human.txt
+
+Score (f3_pos): 4
+Loading words (f3_pos), N=4: fuck, shit, god, minute
+oh shit I've done that before oh that was just after New Year when I was back and I walked into town and was waiting for this bus back and it was like minus seventeen or something ridiculous and I had been at this bus stop and I thought oh thank god only five minutes to the bus and I waited and waited and waited and waited and then I realised fuck it's Saturday and it was more than half an hour oh no I'm never ever doing that again so I'm quite yeah remember to look what day it is

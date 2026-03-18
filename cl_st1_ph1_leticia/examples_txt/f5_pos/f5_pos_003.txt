@@ -1,0 +1,8 @@
+Text ID: t000288
+Group: human
+Model: human
+File:   corpus/05_human/t000288_human.txt
+
+Score (f5_pos): 2
+Loading words (f5_pos), N=2: em, reason
+well my limited knowledge of daffodils and tulips is that they'll pretty much survive anything because my family kill plants and we have daffodils and tulips which come up every year regardless of anything em yeah and my dad regularly used to em for some reason best known to himself he used to do the garden em kind of you know before winter started and dig up all these things out the soil saying oh I have to throw them out and me mam was like what? They're my daffodil bulbs what are you doing? And every year he'd dig these things up I don't understand why

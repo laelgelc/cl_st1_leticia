@@ -1,0 +1,8 @@
+Text ID: t005082
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001672_gpt.txt
+
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): everything
+Before mobile phones, you just had the phone at home, or you had to find a phone box in the street if you needed to ring somebody. So you couldn’t just text or call whenever you liked. If you were going to meet someone, you had to make really fixed plans in advance, like, “I’ll meet you outside the cinema at seven o’clock,” and that was it. You couldn’t change it at the last minute, because once you’d left the house there was no way to get hold of each other. Whereas now, with mobiles, people say things like “I’ll text you when I’m there,” and everything’s much more vague and flexible.

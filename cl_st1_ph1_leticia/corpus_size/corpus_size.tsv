@@ -1,0 +1,16 @@
+Strata	Text Count	Word Count
+ai	3410	1225092
+human	1705	686325
+
+human	1705	686325
+profiled_gpt	1705	615498
+unprofiled_gpt	1705	609594
+
+# Source/Model breakdown
+ai/profiled_gpt	1705	615498
+ai/unprofiled_gpt	1705	609594
+human/human	1705	686325
+
+00	5115	1911417
+
+overall	5115	1911417

@@ -1,0 +1,8 @@
+Text ID: t001187
+Group: human
+Model: human
+File:   corpus/05_human/t001187_human.txt
+
+Score (f2_pos): 4
+Loading words (f2_pos), N=4: er, wanna, erm, cos
+nobody I knew so I just said to a man that had a clipboard you know he's here to to to run what year? year nine oh no I'm year seven boys erm try him over there so I went to him he's here to run year nine boys what's his name? duh duh duh oh he's not on my list oh what school is he at? I said the oh that's strange he's not on my list doesn't matter that's fine what's his name? wrote it down and put a tick next to it right it's er one o'clock as instructed he said I said well what time do we need to be back here? he said well quarter past two he said do you want to walk the route? I said well we can see it it's er up that hill and down and then up that hill and down you know it didn't look very nice and there was pplenty of people walking it I said to do you wanna walk the route ? pouring with rain he said no I said er I said no nor me come on we'll go back to the car so we moved the car cos once we knew where we were we could see a space closer so we moved the car quarter past two we went back over there it was so wet the mud was unbelievable cos there'd already been three races and erm we found the man that we'd s been speaking to and we awe asked for the bib and he said er what school did you say he was at? I said the oh he said I thought you said the the 's not one of ours where's that? I said he went that's I said I know he said this is

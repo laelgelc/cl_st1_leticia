@@ -1,0 +1,145 @@
+Interpretation of Factor f2 (negative pole)
+
+1. Which group drives this pole?
+
+- Mean scores:
+  - Human: +0.88
+  - Profiled GPT: −0.16
+  - Unprofiled GPT: −0.16  
+
+The negative pole is clearly driven by **LLM-generated turns** (both profiled and unprofiled), while human turns cluster at the opposite (positive) end of the factor. All 10 high‑scoring negative examples are from **profiled_gpt**.
+
+So this pole characterises a **distinctively LLM style of talk**, not the human baseline.
+
+---
+
+2. Lexical loadings
+
+Negative loadings (strongest to weakest):
+
+- huge (−.82)
+- (em (−.69))  [likely a truncated/em-dash token; we can’t interpret semantically]
+- massive (−.53)
+- (build (−.52)) [probably a noise token or lemma artefact; not clearly semantic here]
+- (awful (−.34))
+- big (−.30)
+
+The semantically interpretable core is:
+
+> **huge / massive / big / awful**
+
+These are **high-frequency, colloquial, scalar evaluative adjectives** used to mark:
+- physical size/extent
+- intensity/degree
+- strong stance (positive or negative)
+
+They are not technical or precise; they are **vague, emphatic size/intensity boosters**.
+
+---
+
+3. Evidence from the excerpts
+
+Across the 10 examples, these adjectives are used in very similar ways:
+
+a) Everyday hyperbole and evaluation
+
+- “massive fry-up as my main meal”
+- “she’ll eat these huge portions”
+- “this massive box, which makes it such a hassle”
+- “two big lads at the back, both of them huge”
+- “massive mistake”
+- “huge mutiny”
+- “massive fuss”
+
+These are classic **colloquial hyperbolic evaluators**: not literal measurement, but “a lot”, “very”, “really intense”.
+
+b) Large-scale events and spaces
+
+- “massive St Patrick’s Day street party… just huge”
+- “Radio One were doing some big thing”
+- “this massive room… huge square storage units”
+- “this massive light and fountain exhibition”
+- “big sweeping steps… huge fountain”
+- “such a huge area and such different landscapes”
+- “this massive bowl of sand with these huge dunes”
+
+Here the adjectives construct **vivid, large-scale scenes** – parties, landscapes, buildings, crowds.
+
+c) Strong affect and stance
+
+Even when not explicitly emotional, the adjectives help dramatise the narrative:
+
+- “I thought we’d made a massive mistake”
+- “properly projectile vomiting”
+- “proper freaky moment”
+- “huge mutiny”
+- “massive fuss”
+
+They function as **stance markers**, signalling the speaker’s emotional investment and dramatising the story.
+
+d) Informal, conversational register
+
+The adjectives co-occur with other informal features:
+
+- “loads of people”, “properly cheap”, “absolutely hammered”
+- “it was that bad”, “properly projectile vomiting”
+- “it was a proper freaky moment”
+- “it’s mad to think”
+- “really up for looking after you”
+- “they were absolutely mad”
+
+So the dimension is not just “size” but **colloquial, story-telling evaluation of experiences**.
+
+---
+
+4. Discourse characterisation
+
+Putting the loadings and examples together, this pole encodes a discourse style with these properties:
+
+- **Colloquial, narrative talk** about experiences (travel, nights out, mishaps, anecdotes).
+- Heavy use of **vague, scalar adjectives** (huge, massive, big, awful) as:
+  - size descriptors (physical scale, quantity, distance)
+  - intensity boosters (degree of emotion, seriousness, fun, fear)
+- Strong **speaker stance and evaluation**: events are framed as impressive, shocking, scary, brilliant, etc.
+- A tendency toward **hyperbolic, dramatized description** rather than neutral, measured description.
+
+Because this is the **negative** end of the factor and is dominated by GPT outputs, it suggests that the model, when simulating conversation, leans into a **highly evaluative, hyperbolic, “bigging up” style** more than humans do in this corpus.
+
+---
+
+5. Possible labels for this pole
+
+Any label should capture: (i) colloquial register, (ii) scalar size/intensity, (iii) evaluative stance.
+
+Plausible labels:
+
+1. **Hyperbolic Size‑and‑Intensity Evaluation**
+   - Highlights the core lexical pattern (huge/massive/big) and their function as degree boosters.
+
+2. **Colloquial ‘Bigging‑Up’ Narration**
+   - Emphasises the informal, story-telling use of “big”/“massive”/“huge” to dramatise events.
+
+3. **Expansive, Vivid Experience‑Talk**
+   - Focuses on how large-scale adjectives are used to make experiences feel expansive and vivid.
+
+4. **Informal Scalar Stance and Exaggeration**
+   - Stresses that these are scalar stance markers used for exaggeration in informal talk.
+
+---
+
+6. Recommended primary label
+
+If a single label is needed, a precise, discourse-oriented choice would be:
+
+> **Hyperbolic Colloquial Evaluation of Scale and Intensity**
+
+Justification:
+
+- **Hyperbolic**: captures the frequent exaggeration and dramatization.
+- **Colloquial**: reflects the informal, conversational register.
+- **Evaluation**: these adjectives are not neutral; they encode stance.
+- **Scale and Intensity**: “huge/massive/big/awful” jointly cover physical scale, quantity, and emotional/intensity scaling.
+
+This label aligns with both:
+- the **loadings** (size/intensity adjectives as the defining lexical set), and
+- the **examples** (LLM-generated, informal narratives that “big up” events, places, and feelings).

@@ -1,0 +1,8 @@
+Text ID: t002174
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000469_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: seem, pick
+You hear them on the telly or the radio, always moaning about low wages and then blaming the unions, and it does my head in. I feel like picking up the phone and saying, “Have a look where the unions were strong, lad.” You look at the car industry, places like Ford, and the wages there are miles better. Proper money. Then you look at the shops and that, and they’re getting buttons in comparison. They never seem to mention that bit when they’re complaining.

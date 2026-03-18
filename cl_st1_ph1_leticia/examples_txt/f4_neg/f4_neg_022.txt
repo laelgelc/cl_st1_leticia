@@ -1,0 +1,8 @@
+Text ID: t003012
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001307_gpt.txt
+
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: awful, horrible
+yeah so in the end she just said no to the whole thing, didn’t she, the champagne do and all that, it was just ridiculous money, so she’s gone off to Dubai and Sri Lanka instead for her fiftieth. It’s technically a business trip but it’s a lovely holiday really, I think the business is paying for most of it. And you know what her mum’s like, she’s always been awful with her, really manipulative, calling her horrible names, doing dreadful things, and she’s only in her seventies, it’s not like she’s ancient or anything.

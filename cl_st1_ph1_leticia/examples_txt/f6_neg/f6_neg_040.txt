@@ -1,0 +1,8 @@
+Text ID: t003192
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001487_gpt.txt
+
+Score (f6_neg): -1
+Loading words (f6_neg), N=1: able
+I actually said to him, you know, I want to put a complaint in about the complaint itself, the way it had all been handled before. But I did make it clear I had no problem with him personally. I told him he’d been really good on the phone, that I appreciated him listening and actually getting it sorted. I thanked him for that, because he’d done what nobody else seemed able to do. So the complaint wasn’t about him at all, just about how badly the whole thing had been dealt with beforehand.

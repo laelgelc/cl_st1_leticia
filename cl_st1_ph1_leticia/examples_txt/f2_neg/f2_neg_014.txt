@@ -1,0 +1,8 @@
+Text ID: t002357
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000652_gpt.txt
+
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: huge, big
+Yeah, it was kind of like a virtual communist state, actually. What I did was I went to the central co-ordinates of the map and I built this town, so you’d have all the communal facilities there and a big mine underneath that everyone could use. And then there was this one guy who was really, really dedicated, and he just made the place look incredible – he went round improving all the buildings and then he built this absolutely huge barn for all the animals. After that it really became this proper focal point on the map, and people started building all their stuff around it.

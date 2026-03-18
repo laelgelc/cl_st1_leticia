@@ -1,0 +1,8 @@
+Text ID: t002409
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000704_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: odd, seem
+so this woman I’m taking over from at work, she’s just a little bit special, and not in a disability way or anything, just… odd. I asked her really casually why she was leaving the job, like you do, and her answer was just so strange. she said that she and her partner are expecting a baby, which you’d think she’d be at least kind of pleased about, but she just didn’t seem happy. she actually said she wasn’t very happy about it, and it totally threw me, because it’s not the reaction you’d normally expect when someone tells you they’re having a baby.
