@@ -54,24 +54,24 @@ for text_file in text_paths:
     # ----- PROMPT -----
     if folder == "human":
         prompt = "human"
-    elif folder.startswith(" unprofiled_"):
-        prompt = " unprofiled"
-    elif folder.startswith(" profiled_"):
-        prompt = " profiled"
+    elif folder.startswith("unprofiled_"):
+        prompt = "unprofiled"
+    elif folder.startswith("profiled_"):
+        prompt = "profiled"
     else:
         prompt = "unknown"
 
     # ----- MODEL -----
     # Expected folder formats:
     #   human
-    #    unprofiled_gpt
-    #    profiled_gpt
+    #   unprofiled_gpt
+    #   profiled_gpt
     if folder == "human":
         model = "human"
     else:
         # model is whatever comes after the last underscore
-        #  unprofiled_gpt -> gpt
-        #  profiled_gpt -> gpt
+        # unprofiled_gpt -> gpt
+        # profiled_gpt -> gpt
         model = folder.split("_")[-1].lower()
 
     # Extract lemmas from 3rd column (word, tag, lemma) in tagged files

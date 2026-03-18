@@ -87,4 +87,12 @@ rm -rf columns columns_clean
 python columns.py
 # Output: columns, columns_clean, file_ids.txt, index_keywords.txt
 
+python merge_columns.py
+# Output: sas/counts.txt
+
+python sas_formats.py
+# Output: sas/word_labels_format.sas, etc
+
+## RUN SAS
+## Rogerio Yamada's account
 
