@@ -2,14 +2,14 @@
 """
 04_generate_gpt.py
 
-Reads prompt files from an input directory,
-looks up the corresponding file_id in file_index.txt based on filename,
-submits the prompt to GPT,
-and saves the model output to the output directory as <file_id>_gpt.txt.
-
-Parallel workers included.
-
 Usage:
+    Read prompt documents from an input directory, process only `.md` files,
+    derive the lookup key from the first three underscore-separated parts of
+    each filename, map that key to the corresponding `file_id` using the second
+    column of `file_index.txt`, submit the prompt to GPT, and save the response
+    as `<file_id>_gpt.txt` in the output directory.
+
+Example:
     python 04_generate_gpt.py \
         --input corpus/04_prompt_profiled \
         --output corpus/05_profiled_gpt \
@@ -17,13 +17,16 @@ Usage:
         --model gpt-5.1 \
         --workers 4 \
         --test 10
+
+Parallel workers included.
 """
 
 import argparse
 import os
 import sys
-from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
+
 from dotenv import load_dotenv
 
 # Load environment variables from env/.env
@@ -43,46 +46,48 @@ except ImportError:
 # CLI
 # ---------------------------------------------
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(
-        description="Send prompts to GPT."
+    parser = argparse.ArgumentParser(description="Send prompt .md files to GPT.")
+    parser.add_argument(
+        "--input",
+        "-i",
+        required=True,
+        help="Directory containing prompt .md files (e.g., corpus/04_prompt_profiled).",
     )
     parser.add_argument(
-        "--input", "-i",
+        "--output",
+        "-o",
         required=True,
-        help="Directory containing prompt files (e.g., corpus/04_prompt_profiled)."
-    )
-    parser.add_argument(
-        "--output", "-o",
-        required=True,
-        help="Output directory (e.g., corpus/05_gpt)."
+        help="Output directory (e.g., corpus/05_profiled_gpt).",
     )
     parser.add_argument(
         "--file-index",
         default="file_index.txt",
-        help="Path to file_index.txt (default: file_index.txt)."
+        help="Path to file_index.txt (default: file_index.txt).",
     )
     parser.add_argument(
-        "--model", "-m",
+        "--model",
+        "-m",
         default="gpt-5.1",
-        help="OpenAI model to use (default: gpt-5.1)."
+        help="OpenAI model to use (default: gpt-5.1).",
     )
     parser.add_argument(
-        "--max-output-tokens", "-t",
+        "--max-output-tokens",
+        "-t",
         type=int,
         default=6000,
-        help="Maximum output tokens."
+        help="Maximum output tokens.",
     )
     parser.add_argument(
         "--workers",
         type=int,
         default=4,
-        help="Number of parallel workers."
+        help="Number of parallel workers.",
     )
     parser.add_argument(
         "--test",
         type=int,
         default=None,
-        help="If set, process only the first N prompt files (e.g., --test 10)."
+        help="If set, process only the first N prompt files (e.g., --test 10).",
     )
     return parser.parse_args()
 
@@ -100,44 +105,27 @@ def write_text(path: Path, content: str) -> None:
 
 def candidate_keys_for_path(path: Path) -> list[str]:
     """
-    Generate possible lookup keys for a prompt file.
+    Generate lookup candidates from the first three underscore-separated parts
+    of the prompt filename.
 
     Example:
-        S24A_57_S0261_prompt_profiled.md
-    candidates:
-        S24A_57_S0261_prompt_profiled
-        S24A_57_S0261_prompt
-        S24A_57_S0261
-        S24A_57
-        S24A
+        S2AX_159_S0037_prompt_profiled.md
+
+    Lookup key:
+        S2AX_159_S0037
     """
-    stem = path.stem
-    parts = stem.split("_")
-
-    candidates = [stem]
-    for i in range(len(parts) - 1, 0, -1):
-        candidates.append("_".join(parts[:i]))
-
-    return candidates
-
-
-def resolve_file_id(path: Path, file_index: dict[str, str]) -> str | None:
-    """
-    Resolve a prompt filename to a file_id using several fallback keys.
-    """
-    for key in candidate_keys_for_path(path):
-        file_id = file_index.get(key)
-        if file_id:
-            return file_id
-    return None
+    parts = path.stem.split("_")
+    return ["_".join(parts[:3])] if len(parts) >= 3 else [path.stem]
 
 
 def load_file_index(index_path: Path) -> dict[str, str]:
     """
     Parse file_index.txt lines of the form:
         t000001 S24A_57_S0261
-    and return:
-        {"t000001": "S24A_57_S0261", ...}
+
+    Returns a lookup map keyed by the second column value and also by its stem
+    so prompt filenames can resolve to the corresponding file_id in the first
+    column.
     """
     mapping: dict[str, str] = {}
     for line in read_text(index_path).splitlines():
@@ -147,10 +135,25 @@ def load_file_index(index_path: Path) -> dict[str, str]:
         parts = line.split(maxsplit=1)
         if len(parts) != 2:
             continue
-        file_name, file_id = parts
-        mapping[file_name] = file_id
-        mapping[Path(file_name).stem] = file_id
+
+        file_id, prompt_key = parts
+        mapping[prompt_key] = file_id
+        mapping[Path(prompt_key).stem] = file_id
+        mapping[file_id] = file_id
+
     return mapping
+
+
+def resolve_file_id(path: Path, file_index: dict[str, str]) -> str | None:
+    """
+    Resolve a prompt filename to its file_id using the first three parts of the
+    filename.
+    """
+    for key in candidate_keys_for_path(path):
+        file_id = file_index.get(key)
+        if file_id:
+            return file_id
+    return None
 
 
 def call_api(client: OpenAI, model: str, prompt_text: str, max_output_tokens: int) -> str:
@@ -222,10 +225,12 @@ def main():
 
     files = sorted(
         p for p in input_dir.iterdir()
-        if p.is_file() and p.name != file_index_path.name
+        if p.is_file()
+        and p.suffix.lower() == ".md"
+        and p.name != file_index_path.name
     )
     if not files:
-        print("No prompt files found.")
+        print("No prompt .md files found.")
         sys.exit(0)
 
     if args.test is not None:
@@ -235,7 +240,6 @@ def main():
         files = files[:args.test]
         print(f"[TEST MODE] Limiting to first {len(files)} prompt files.\n")
 
-    # API client
     api_key = os.environ.get("OPENAI_API_KEY")
     if not api_key:
         print("Error: OPENAI_API_KEY not set.")

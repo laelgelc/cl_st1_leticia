@@ -17,4 +17,12 @@ python 04_generate_gpt.py \
     --file-index file_index.txt \
     --model gpt-5.1 \
     --workers 4 \
-    --test 10
+    #--test 10
+
+python 04_generate_gpt.py \
+    --input corpus/04_prompt_unprofiled \
+    --output corpus/05_unprofiled_gpt \
+    --file-index file_index.txt \
+    --model gpt-5.1 \
+    --workers 4 \
+    #--test 10

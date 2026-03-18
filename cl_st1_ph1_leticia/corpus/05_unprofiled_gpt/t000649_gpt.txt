@@ -1,0 +1,5 @@
+so what I did with the redstone arena was enclose the whole thing to block out the sunlight, so it was dark enough inside for monsters to spawn. The idea was that players could go in there and fight them on this dimly lit floor that reacted when you stepped on it, which made it a bit more atmospheric and tense. 
+
+The actual build was really simple, just a big dome over a circular arena, nothing too fancy in terms of architecture. But it was near a lot of other builds on the server, so people kept wandering over to see what was going on. Because it was so straightforward, loads of people felt they could join in and help without worrying about messing it up. 
+
+From the outside it just looked like this massive stone dome plonked in the middle of a sandy desert, really obvious on the landscape, so we ended up calling it the “desert dome.”

@@ -1,0 +1,3 @@
+If we’re going to frame this properly, another angle we can hook into is what employers are actually saying. You constantly hear this line that university graduates, or Gen Y more generally, aren’t what employers expect them to be when they come out the other end. I’m not even sure if that’s genuinely new or if every generation gets that thrown at them, but it’s definitely part of the current narrative.
+
+So one thing we could do is deliberately go and talk to a group of employers and just ask them straight: what do you really think, what are you actually looking for, where are the gaps? That gives us a concrete employer perspective we can feed back into what we’re designing.
