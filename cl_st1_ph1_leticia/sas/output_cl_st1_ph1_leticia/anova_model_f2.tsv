@@ -1,0 +1,3 @@
+Dependent	HypothesisType	Source	DF	SS	MS	FValue	ProbF
+fac2	1	model	1	1248.629130	1248.629130	2674.42	<.0001
+fac2	3	model	1	1248.629130	1248.629130	2674.42	<.0001

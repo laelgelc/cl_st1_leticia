@@ -1,0 +1,4 @@
+Dependent	Source	DF	SS	MS	FValue	ProbF
+fac5	Model	1	25.4252199	25.4252199	162.21	<.0001
+fac5	Error	5113	801.4299120	0.1567436	_	_
+fac5	Corrected Total	5114	826.8551320	_	_	_
