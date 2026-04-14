@@ -1,103 +1,138 @@
-This pole is best interpreted as a **lexicalised stance of strong negative evaluation and distress**, centred on the repeated use of a small set of high-intensity evaluative items.
+This pole is very sparse lexically (only two loading items), so the interpretation has to lean heavily on how those items pattern in the corpus and in the examples.
 
-### 1. What the loadings tell us
+## 1. What is lexically driving this pole?
 
-Factor f4 (neg) has only five salient items, all strongly negative in meaning:
+Negative loadings:
+- **minute** (−.42)
+- **fact** (−.38)
 
-- **awful** (−.77)  
-- **horrible** (−.72)  
-- **shit** (−.63)  
-- **bother** (−.39)  
-- **pound** (−.36)
+In the 10 highest‑scoring texts on this negative pole, only **minute** appears as a loading word, and it is always used in its **time‑measurement** sense:
 
-The first three are clear, high-intensity negative evaluators. *Bother* and *pound* are more context-dependent, but in conversational English they frequently occur in negative-affect frames:
+- “fifteen or twenty **minutes** on the bus”
+- “every five **minutes** she was calling her”
+- “thirty **minutes**”
+- “only be five **minutes** late”
+- “they can’t walk more than ten **minutes**”
+- “I’ve gotta get up in a **minute**”
+- “talk for about five **minutes**”
+- “waiting for her for fifteen **minutes**”
+- “five **minutes** later the email comes through”
+- “they lasted like fifteen **minutes**”
 
-- *can’t be bothered*, *don’t bother*, *it really bothers me*  
-- *pounding headache*, *my heart was pounding*, *pounded on the door* (often in stress, fear, or conflict narratives)
+So the lexical signal here is **fine‑grained, clock‑based time reference**: minutes, five minutes, fifteen minutes, thirty minutes, in a minute, etc.
 
-So, lexically, this pole is dominated by **strong, colloquial negative evaluation and emotional discomfort**.
+We don’t see **fact** in these particular excerpts, but its co‑loading suggests that, across the full corpus, this pole also attracts uses of *fact* (likely in discourse‑organising or evidential functions: “in fact”, “the fact is”, “the fact that…”).
 
-### 2. What the examples show
+## 2. What kind of discourse do the examples instantiate?
 
-All ten high-scoring texts are unprofiled GPT turns, and they consistently:
+All 10 examples are:
 
-- Narrate **unpleasant, distressing, or morally negative situations** (abuse, illness, family cruelty, relationship breakdown, social media pile-ons, war news, creepy TV episodes).
-- Use **awful / horrible** as key stance markers, often multiple times per text.
-- Focus on **how bad something feels** (emotionally or physically), not just that it happened.
+- **Human** turns (no GPT examples among the top negatives).
+- **Narrative or anecdotal** stretches of talk.
+- Focused on **very specific, short time spans** and **micro‑sequencing of events**.
 
-Illustrative patterns:
+They share several discourse properties:
 
-1. **Intense emotional distress / empathy**
-   - “it just makes me really sad… she still has this hope… I don’t think he’s good for her at all.”  
-   - “I’ve felt awful for the last two weeks because I made you feel terrible…”
+1. **Micro‑temporal structuring of experience**
 
-2. **Moral condemnation of others’ behaviour**
-   - “she’s been absolutely horrible to her for years, really manipulative, calling her all sorts of names and doing awful things”  
-   - “some of it’s from people he actually knows, which is just awful”
+Speakers repeatedly break events down into small, measured units:
 
-3. **Physical unpleasantness / disgust**
-   - “he had these horrible yellow blisters all over his face in the end, it was awful”  
-   - “there was blood everywhere from a nosebleed. It was absolutely horrible.”
+- Commuting and lunch: “fifteen or twenty minutes on the bus… ten fifteen minutes… half an hour at home”
+- Phone calls: “every five minutes she was calling her”
+- Travel mishaps: “only be five minutes late”
+- Medical/functional limits: “they can’t walk more than ten minutes”
+- Waiting and coordination: “waiting for her for fifteen minutes… we missed each other for forty‑eight hours”
+- Service interactions: “five minutes later the email comes through”
+- Entertainment: “they lasted like fifteen minutes… everyone was waiting there for an hour or more just to see fifteen minutes”
 
-4. **Everyday negative evaluation of people / situations**
-   - “this absolutely awful Essex girl… this really horrible accent”  
-   - “something awful on the news about Homs… ‘Oh God, that’s horrible,’ and then we get on with what we were doing.”
+The discourse is organised around **how long things take**, **how often they recur**, and **exact timing** of key moments.
 
-5. **Dark, unsettling narrative tone**
-   - “something awful has gone on, but there’s literally no evidence… it makes the whole story really horrible and quite dark”
+2. **Everyday, lived‑experience narratives**
 
-Across these, *awful* and *horrible* function as **recurrent stance devices** that:
+The topics are mundane but consequential in everyday life:
 
-- Intensify the negativity of the described event or person.
-- Signal **emotional alignment** (sympathy, disgust, fear, sadness).
-- Often co-occur with **first-person reflection** on how the speaker or others feel.
+- Work and commuting
+- School trips and parental behaviour
+- Medical treatment and disability
+- Relationship tensions
+- Training courses and presentations
+- Customer service complaints
+- Fireworks displays
 
-### 3. Which group drives this pole?
+These are **personal stories** about “what happened to me / to someone I know”, not abstract discussion.
 
-Mean scores are:
+3. **Temporal precision as stance and evaluation**
 
-- human: 0.228  
-- profiled_gpt: 0.190  
-- unprofiled_gpt: 0.188  
+The minute‑level detail is not just descriptive; it often carries **evaluation**:
 
-These are all positive means on the *overall* factor, but we are looking at the **negative pole** (i.e. texts with the most negative scores). All ten top-scoring negative-pole texts are from **unprofiled_gpt**.
+- “seems crazy” (after describing the lunch‑break timings)
+- “it was just a nightmare”
+- “it is really… quite depressing”
+- “oh what a hassle”
+- “they lasted like fifteen minutes… they weren’t even… it was just a bit creepy”
 
-So, while humans have a slightly higher *mean* on the factor overall, the **extreme negative-pole behaviour**—dense clustering of *awful/horrible* in strongly negative narratives—is **driven by unprofiled GPT outputs**. The model, when not constrained by a socio-demographic profile, appears to overuse these high-intensity evaluators in constructing emotionally loaded stories.
+The precise timing helps **build a case**: that something was unreasonable, exhausting, depressing, or disappointing. Minute‑by‑minute narration functions as **evidence** for the speaker’s stance.
 
-### 4. Discourse characteristics of this pole
+4. **Local sequencing of events**
 
-Combining loadings and examples, this pole encodes a discourse style characterised by:
+The narratives are tightly sequenced:
 
-- **High-intensity negative stance**: frequent, sometimes repeated use of *awful, horrible* as default evaluators.
-- **Affect-focused narration**: emphasis on how events feel (awful, horrible, grim) rather than on neutral description.
-- **Moral and interpersonal judgement**: people described as *horrible*, behaviour as *awful*, often in close relationships (family, partners, friends).
-- **Embodied distress**: physical symptoms and discomfort (blisters, nosebleeds, crying, exhaustion) framed through these evaluators.
-- **Colloquial, conversational register**: fits casual talk (“absolutely awful Essex girl”, “oh God, that’s horrible”), not formal complaint.
+- “five seconds after I’d kicked off on the phone five minutes later the email comes through”
+- “she got the wrong ticket… she had to get a taxi… there was a lot of traffic… how she managed to only be five minutes late I still don’t know”
+- “I was like going in for a cuddle… I’ve gotta get up in a minute… he was just like oh just leave me alone… so I got up… so I’m leaving you alone”
 
-This is not just “negativity” in a broad sense; it is specifically **lexically concentrated, conversationally framed negative evaluation and distress**.
+Time expressions anchor **event order** and **causal chains** in a very local, short‑span way.
 
-### 5. Possible labels for this pole
+## 3. Which group is driving this pole?
 
-Any label should capture both the **stance** (strong negative evaluation) and the **discourse function** (narrating and judging distressing experiences). Suitable options:
+Mean scores on Factor 4:
 
-1. **“Intensified Negative Evaluation and Distress”**  
-   - Captures the repeated use of high-intensity evaluators (*awful, horrible, shit*) and the focus on distressing content.
+- Human: **0.33**
+- Unprofiled GPT: **0.80**
+- Profiled GPT: **0.83**
 
-2. **“Colloquial Negative Stance and Moral Condemnation”**  
-   - Highlights the conversational register and the frequent moral judgement of people’s behaviour as *horrible/awful*.
+Higher mean = more positive on the factor; the **negative pole** is therefore **least characteristic of GPT** and **most characteristic of humans**.
 
-3. **“Affect‑Loaded Narratives of Suffering and Mistreatment”**  
-   - Emphasises that these are stories about being hurt, mistreated, or distressed, told through affective lexis.
+All 10 highest‑scoring negative texts are **human**. So:
 
-4. **Short, general label for the dimension name:**  
-   - **“Intense Negative Stance”**  
-   - This is compact but still grounded in the loadings and examples.
+- The **negative pole** is **human‑driven**.
+- GPT outputs (both profiled and unprofiled) tend to be **pulled away from this pole**, i.e. they use **less minute‑level temporal detailing** and/or less of the co‑occurring “fact” pattern.
 
-If I had to choose one primary label for this pole, balancing precision and usability, I would propose:
+In other words, this pole captures a **style of human conversational storytelling** that GPT is comparatively less likely to reproduce.
 
-> **Intense Negative Stance and Distress Narration**
+## 4. Interpreting the discourse dimension at this pole
 
-This foregrounds:
-- the **lexical stance** (intense negative evaluation: *awful, horrible, shit*), and  
-- the **discourse function** (narrating and judging distressing, unpleasant, or morally bad situations),  
-driven in practice by **unprofiled GPT** turns in this corpus.
+Putting the lexical and discourse evidence together:
+
+- Lexically: dominated by **minute‑scale time reference**, with **fact** suggesting a broader evidential/argumentative flavour in the full corpus.
+- Discursively: **personal, anecdotal, micro‑temporal narratives** where speakers reconstruct short episodes in fine temporal detail, often to **justify an evaluation** or **make a complaint / express frustration**.
+
+This is not just “narrative” in general; it is **narrative anchored in precise, clock‑time granularity**, used to **account for** or **argue about** everyday experiences.
+
+### Possible labels for this negative pole
+
+Any of the following would be defensible; they foreground slightly different aspects of the same pattern:
+
+1. **“Micro‑temporal, experience‑based narration”**  
+   - Captures the minute‑by‑minute structuring of lived events.
+
+2. **“Minute‑by‑minute everyday storytelling”**  
+   - Emphasises the clock‑time granularity and the mundane, personal topics.
+
+3. **“Fine‑grained temporal accounting in personal talk”**  
+   - Highlights the use of precise time as a way of “accounting for” what happened (especially in complaints and justifications).
+
+4. **“Human‑style micro‑chronicle discourse”**  
+   - Stresses that this is a human‑driven way of narrating: short episodes told as micro‑chronicles.
+
+If I had to choose one primary label for this pole, balancing clarity and coverage of both loadings and examples, I would propose:
+
+> **Micro‑temporal everyday storytelling**
+
+Justification:
+
+- **Micro‑temporal**: grounded in the dominant loading *minute* and its use to segment time very finely.
+- **Everyday**: topics are ordinary, lived experiences (work, travel, relationships, health, services).
+- **Storytelling**: the excerpts are narrative, event‑sequencing accounts, not abstract exposition.
+
+This label also aligns with the source pattern: it describes a **distinctively human conversational mode** that GPT outputs, on average, do not reproduce to the same extent.

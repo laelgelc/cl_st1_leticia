@@ -1,147 +1,132 @@
-This factor pole is very clearly driven by **human conversation**, not LLM output:
+Interpretation of Factor 2 (positive pole)
 
-- Mean f2 score:  
-  - human: **0.88** (strongly positive)  
-  - profiled_gpt: -0.16  
-  - unprofiled_gpt: -0.16  
+1. **Which group drives this pole?**
 
-So this pole is essentially a **“human‑talk” dimension** that the GPT turns systematically underuse.
+- Mean scores:
+  - **Profiled GPT**: +0.09  
+  - Unprofiled GPT: +0.07  
+  - Humans: −0.15  
 
----
+The positive pole is clearly **LLM‑driven**, and especially by **profiled GPT** outputs. Human turns tend to sit on the opposite side of this factor.
 
-## 1. Linguistic profile of f2 (pos)
+So we are looking at a discourse style that the profiled GPT model over‑produces relative to humans.
 
-High positive loadings:
+2. **Key lexical loadings**
 
-- **er (.77), erm (.67)** – filled pauses, hesitation markers
-- **wanna (.73), gonna (.37)** – reduced, colloquial future/intention forms
-- **okay (.46)** – discourse marker, turn management, stance
-- **cos (.38)** – reduced causal conjunction “because”
-- **(shit (.46))** – mild taboo / expletive (even if not visible in these excerpts)
-- **(somebody (.31))** – generic human reference
+Positive loadings:
 
-Taken together, these are classic markers of:
+- **odd** (1.21)
+- **chat** (.63)
+- **bloke** (.44)
+- **(sense** (.34) – presumably “sense” in collocations like “odd sense”, “sense that”, etc.
 
-- **Spontaneous, online speech production** (er, erm, cos)
-- **Informal, colloquial register** (wanna, gonna, cos, shit)
-- **Interactive discourse management** (okay as a boundary/uptake marker)
-- **Reference to people in a non‑specific, story‑telling way** (somebody)
+These are few but quite semantically coherent:
 
-So at the level of loadings, this pole encodes **highly informal, disfluent, real‑time spoken interaction**.
+- **odd**: evaluative, marking something as unusual, inappropriate, or off.
+- **chat / chatting**: informal talk, often reported or framed (“we just started chatting”, “that chat”).
+- **bloke**: strongly colloquial, British, gendered reference to a man, often in morally or socially evaluative contexts.
+- **sense** (by inference): often used to articulate a subjective stance (“it felt odd”, “I had a sense that…”).
 
----
+3. **Patterns in the high‑scoring excerpts**
 
-## 2. What the excerpts show
+All 10 examples are **profiled GPT** texts. Across them, several consistent discourse features emerge:
 
-All 10 high‑scoring texts are **human** turns, and they illustrate the same cluster of features:
+a) **Narrated interpersonal episodes with a focal “odd” moment**
 
-### a. Online planning and disfluency
+Each excerpt centres on a small story where something about another person’s behaviour is **socially or morally off**:
 
-Across the excerpts, we see dense use of **er/erm** in positions where speakers are:
+- t001777: receptionist ignoring the speaker; “nothing odd had happened”; “Asian woman… chatting away with this bloke”.
+- t002508: administrator resigns at the last minute; “it was really odd, I went into the kitchen… and we just started chatting”.
+- t001739: boyfriend’s story “didn’t add up”; “the odd casual message”; phone “wiped clean”.
+- t003265: “this bloke” selling tickets; “sounded a bit odd”.
+- t003343: man in court “immediately smiled and looked straight at me”; “felt a bit odd”.
+- t003303: woman “stayed with that bloke who was horrible to women”; “this odd hope that [drinking] would make me feel better”.
+- t002455: middle‑aged partner messaging a young lawyer on LinkedIn; “chatting her up”.
+- t002559: “this bloke on the internet” trapping paedophiles.
+- t001883: stranger acting like an old friend from just an email; “really odd”.
+- t002955: conference networking; “this bloke who did that FCE talk”; “chatting to someone”; “felt a bit strange”.
 
-- Searching for words or planning the next bit:
-  - “and I'm thinking this was half-built do you know what I mean? … so I was saying ah yes erm and she said…” (t001192)
-  - “button start recording okay that's started recording … so erm and I are going to talk about erm er er something…” (t001643)
-- Repairing or re‑starting:
-  - “there was pplenty of people walking it I said to do you wanna walk the route ? pouring with rain he said no I said er I said no nor me…” (t001187)
-  - “no erm so what? yeah we turned up obviously on the Thursday night…” (t001107)
+So the positive pole is not just “informal chat” in general; it is **narrative recounting of socially awkward, morally questionable, or boundary‑crossing interactions**.
 
-These are **classic markers of real‑time cognitive processing** and narrative construction.
+b) **Colloquial, British, relational lexis**
 
-### b. Informal, colloquial stance and alignment
+- **bloke** is frequent and central: “this bloke came up selling tickets”, “this middle‑aged bloke”, “this bloke on the internet”, “the same bloke who did that FCE talk”.
+- **chat / chatting** is used to frame interaction:
+  - “carried on chatting away with this bloke”
+  - “we just started chatting”
+  - “what happened with that chat”
+  - “he’s chatting her up”
+  - “I also ended up chatting to someone”
+- The style is **spoken, informal, British**, with narrative sequencing (“then”, “and then eventually”, “in the end”, “within like two weeks”).
 
-- **wanna / gonna / cos** appear in casual, interpersonal talk:
-  - “do you wanna walk the route?” (t001187)
-  - “cos we don't wanna be wandering around in the dark” (t001107)
-  - “it's a bit of a stinker cos there are there are a lot of people…” (t000989)
-  - “rather than cos she doesn't wanna look bad she won't say like oh I can't make it” (t000031)
+c) **Stance and evaluation of others’ behaviour**
 
-These forms index **relaxed, non‑formal style** and **solidarity talk** among peers or family.
+The narrator repeatedly **evaluates** people and situations:
 
-### c. Discourse management with “okay”
+- “unprofessional”, “horrible to women”, “I just don’t buy [his story]”, “I really didn’t like it at all”.
+- “it sounded a bit odd”, “felt a bit odd”, “it all felt a bit strange”.
+- Suspicion and moral judgement: paedophiles, inappropriate LinkedIn messages, manipulative partners, neglectful staff.
 
-“okay” is used to:
+The word **odd** is the clearest lexical marker of this stance: it flags **social norm violations or unease**.
 
-- Mark **topic or phase transitions**:
-  - “okay yeah we'll put in if we do need to” (t001192)
-  - “alright okay no worries so I tell you what…” (t000691)
-  - “so erm and I are going to talk about… okay that’s started recording…” (t001643)
-- Signal **acceptance / alignment**:
-  - “well okay then then no” (t000989)
-  - “you may feel okay with having gay acquaintances or coworkers…” (t001619)
+d) **Focus on interpersonal boundaries and social norms**
 
-This shows **interactive negotiation of stance and activity structure**.
+Many episodes hinge on **breaches or tests of boundaries**:
 
-### d. Story‑telling and evaluation
+- Professional vs personal (LinkedIn flirtation; administrator’s late resignation; conference networking).
+- Age/power/gender dynamics (middle‑aged partner vs young lawyer; “bloke… horrible to women”; paedophile‑hunting).
+- Stranger vs acquaintance (courtroom man staring; woman acting like an old friend from an email; ticket seller in Leicester Square).
 
-The content of the excerpts is often **narrative or evaluative**:
+The narrator positions themselves as **noticing and assessing** these boundary issues.
 
-- Recounting events (school race logistics, planning permission, holidays, birthday dinners, family disputes).
-- Evaluating people and situations:
-  - “some really arrogant guys but doing well for themselves” (t000989)
-  - “some scruffians or whatever you wanna call them ruffians” (t001107)
-  - “it just makes yourself it I dunno that's what makes her a target” (t000031)
+4. Integrating loadings and examples
 
-The high‑loading items are embedded in **personal stories and opinionated talk**, not in task‑oriented or highly structured discourse.
+- The **loadings** highlight a small but tight cluster: *odd* + *chat* + *bloke* (+ *sense*).  
+- The **examples** show these items embedded in:
+  - first‑person narratives,
+  - about **other people’s behaviour**,
+  - with **explicit stance** (unease, suspicion, moral evaluation),
+  - in **informal British conversational style**.
 
-### e. Spontaneous but sometimes serious topics
+This suggests that the factor is not simply “informal British talk” (that would likely include many more colloquialisms), but more specifically:
 
-Even when the topic is serious (cancer experiences, Muslim attitudes to LGBT rights), the **delivery remains conversational and disfluent**:
+> A discourse mode of **evaluative, anecdotal talk about socially questionable or awkward interactions with (usually male) others**, framed as “odd” and recounted through “chats”.
 
-- “we're gonna talk about body parts and stuff like that as well…” (t001643)
-- “think about the vitriol that that's spur spewed on you by your own elected political leaders… are you okay with that?” (t001619)
+5. Possible labels for the positive pole
 
-So the dimension is not about “light vs serious” content; it’s about **how** the content is produced: spontaneously, with hesitations, colloquial forms, and interactive markers.
+Here are several candidate labels, each capturing a slightly different emphasis but grounded in the same pattern:
 
----
+1. **“Evaluative Anecdotes about Socially ‘Odd’ Encounters”**  
+   - Captures the narrative form (anecdotes) and the central evaluative term *odd*.
 
-## 3. Who drives this pole?
+2. **“Informal Moral Commentary on Other People’s Behaviour”**  
+   - Emphasises the stance: narrators judging others’ conduct in everyday situations.
 
-- The **human group** has a much higher mean score than both GPT groups.
-- All top‑scoring texts are **human**.
-- The loading items (er, erm, wanna, cos, shit) are **typical of natural speech** and are generally under‑represented in LLM outputs, especially when models are prompted to be clear, fluent, and “well‑written”.
+3. **“Colloquial Narratives of Awkward or Inappropriate Social Interaction”**  
+   - Highlights the interpersonal awkwardness and boundary issues.
 
-So this pole is **strongly human‑driven** and effectively captures **features that GPT does not reproduce at comparable density**, regardless of profiling.
+4. **“British Conversational Stance: ‘Odd’ Blokes and Problematic Chats”**  
+   - Makes explicit the British colloquial flavour (*bloke*, *chat*) and the evaluative stance (*odd*).
 
----
+Any of these would be defensible. If a single label is needed, a concise synthesis that reflects both the lexical loadings and the examples is:
 
-## 4. Interpreting f2 (pos) as a discourse dimension
+> **Colloquial Evaluative Narratives of ‘Odd’ Social Encounters**
 
-Bringing the evidence together:
+This label:
 
-- High loadings on **filled pauses** and **colloquial reductions**.
-- Frequent **online planning**, **repairs**, and **hesitations**.
-- **Informal, interpersonal narratives** and evaluations.
-- **Discourse markers** managing turns and stance.
-- Strongly associated with **human** rather than GPT turns.
+- foregrounds **colloquial** (chat, bloke),
+- foregrounds **evaluative** stance (odd, sense),
+- foregrounds **narrative recounting** (the episodic stories),
+- and foregrounds the **social‑interactional focus** (encounters, chats, blokes).
 
-This pole encodes a discourse style that is:
+6. Role of source type
 
-- **Spontaneous and unplanned** (speech produced in real time, with visible processing).
-- **Informal and colloquial** (wanna, gonna, cos, shit).
-- **Interpersonally engaged** (okay, somebody, narrative and evaluative content).
-- **Authentically spoken** (dense “er/erm” and repairs).
+- The positive pole is **driven by profiled GPT** outputs, with unprofiled GPT somewhat similar and humans on the opposite side.
+- This suggests that, when given socio‑demographic profiles, GPT tends to **over‑produce a stylised British conversational persona** that:
+  - uses *bloke* and *chat*,
+  - foregrounds “odd” social situations,
+  - and narrates them with explicit stance.
 
----
+So, as a discourse dimension, f2_pos can be interpreted as:
 
-## 5. Possible labels for f2 (positive pole)
-
-Any label should foreground **spontaneous, informal, human conversational discourse** rather than contrasting it with the opposite pole. Suitable options:
-
-1. **Spontaneous Informal Conversation**
-   - Captures the unplanned, colloquial, interactional nature of the talk.
-
-2. **Disfluent Colloquial Speech Production**
-   - Emphasises the high density of hesitations and reduced forms as markers of real‑time production.
-
-3. **Authentic Spoken Interaction Style**
-   - Highlights that this is the human‑driven, naturally occurring conversational mode.
-
-4. **Hesitant, Narrative Chat**
-   - Brings in both the disfluency and the story‑telling, evaluative character of the excerpts.
-
-Among these, for analytic clarity in LMDA terms, a concise primary label could be:
-
-> **Spontaneous Informal Conversation**
-
-with the understanding (justified above) that this encompasses **hesitant, disfluent, colloquial, human‑driven spoken interaction** as encoded by the high‑loading features and exemplified in the top‑scoring texts.
+> A GPT‑amplified, British‑style, colloquial mode of telling short, evaluative stories about “odd” or questionable social interactions, especially involving “blokes” and “chats”.

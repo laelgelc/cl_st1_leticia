@@ -1,172 +1,95 @@
-Interpretation of Factor 5 (positive pole)
+This pole is best interpreted as a **lexicalised stance of strong negative evaluation**, centred on the repeated use of a small set of high‑intensity evaluative adjectives.
 
-1. **Which group is driving this pole?**
+### 1. What drives the pole?
 
 - Mean scores:
-  - Human: **+0.037**
-  - Unprofiled GPT: **−0.099**
-  - Profiled GPT: **−0.126**
+  - profiled_gpt: +0.057  
+  - unprofiled_gpt: +0.056  
+  - human: −0.122  
 
-Human turns are the only group with a positive mean on f5, and both GPT conditions are clearly negative. The positive pole is therefore **human‑driven**, and the factor is picking out a pattern that is **characteristic of spontaneous human conversation** and under‑represented in the LLM output.
+So **LLM turns (both profiled and unprofiled) are slightly more positive on this factor than human turns**, and the *very* high‑scoring texts shown are all from **profiled_gpt**. Humans are, on average, lower on this dimension. That suggests the pole reflects a style that GPT (especially with profiling) tends to amplify.
 
----
-
-2. **Key lexical loadings**
+### 2. Loadings and their semantics
 
 Positive loadings:
 
-- **em (.93)** – very strong loading
-- **(odd (.71))** – likely “for some reason” / “for some odd reason” pattern
-- **shit (.40)**
-- **carry (.34)**
-- **bother (.30)**
-- **reason (.30)**
+- **awful (1.05)** – very strong, prototypical negative evaluation
+- **horrible (.48)** – similarly strong negative evaluation
+- **single (.52)** – here not numerically literal, but often in collocations like “every single X”, i.e. intensifying focus
+- **pick (.31)** – appears in “pick it out”, “picking up bits”, “picked apart”, “picked me up”; often part of constructions that highlight difficulty, burden, or scrutiny
 
-Two things stand out:
+The core of the pole is clearly **awful/horrible**, with *single* and *pick* contributing a pattern of **intensification and focus on specific problematic items or experiences**.
 
-- **Disfluency / hesitation**: *em* is by far the strongest loading, and it appears repeatedly in the examples.
-- **Causal / justificatory language**: *reason* and the parenthetical *odd* (as in “for some reason/odd reason”) point to speakers explaining or rationalising events.
-- **Colloquial stance markers**: *shit*, *bother*, *carry* (likely in “carry on”, “carry it”, etc.) suggest informal, evaluative talk, though they don’t surface in the top 10 excerpts.
+### 3. Patterns in the high‑scoring excerpts
 
-So lexically, this pole combines:
-- **Spoken disfluency** (em)
-- **On‑the‑fly reasoning and explanation** (reason, odd reason / for some reason)
-- **Informal, mildly emotive vocabulary** (shit, bother)
+Across the examples, the loading words are used to:
 
----
+- **Evaluate experiences or situations as strongly negative**:
+  - “which is just **awful**” (abuse from people you know)
+  - “it makes the whole story feel really **horrible** and properly dark”
+  - “sing the bass part … which is just **awful**”
+  - “the grammar in this thing is actually **awful**”
+  - “that **awful** hangover”
+  - “she’s always been **awful** with her, really manipulative, calling her **horrible** names”
+  - “something about Homs, we do register it as **horrible** … ‘God, that’s **awful**’”
 
-3. Evidence from the high‑scoring excerpts
+- **Intensify or single out problematic elements**:
+  - “I can’t think of a **single** person who is [happy with it]”
+  - “every **single** day is crammed”
+  - “every **single** event is a decision made by God”
+  - “everything you say online gets **picked** apart”
+  - “I can’t **pick** it out properly”
+  - “driving in this **awful** weather”
+  - “picking up bits that used to be someone else’s job”
 
-All 10 high‑scoring texts are **human**. The loading words that actually appear are **em** and **reason**, often in the fixed expression **“for some reason”**.
+- **Frame moral or emotional judgement**:
+  - Abuse from acquaintances on Twitter is “just **awful**”
+  - Religious group’s beliefs about child death are “as **horrible** as that”
+  - Cutting off a daughter is framed as morally shocking
+  - Indifference to distant suffering: “we do register it as **horrible** … ‘God, that’s **awful**’”
 
-Patterns across the excerpts:
+The discourse function is not just describing bad states; it is **positioning the speaker affectively**: shocked, appalled, overwhelmed, burdened, or critical.
 
-a) **Heavy use of “em” as a planning device**
+### 4. Discourse characteristics of this pole
 
-Examples:
+Taken together, the loadings and examples point to a dimension of:
 
-- “em I really wanted to wait to involve a lot more people…” (t000657)
-- “em which I didn't even realise would take off as much as it did…” (t000651)
-- “em yeah and my dad regularly used to em for some reason best known to himself…” (t000288)
-- “get that in em so I've got that number…” (t000808)
-- “we put em in there…” (t001676)
+- **High‑intensity negative stance**: frequent use of “awful”, “horrible” as stance markers.
+- **Affective evaluation of events and people**: abuse, horror stories, difficult exams, over‑full itineraries, manipulative parents, extreme religious beliefs, war coverage.
+- **Intensifying focus on totality or uniqueness**: “every single day”, “every single event”, “not a single person”, which heightens the sense of extremity or pervasiveness of the negative situation.
+- **Narratives of burden, pressure, or scrutiny**: “picked apart”, “picking up bits”, “can’t pick it out properly” – these verbs help construe situations as demanding or oppressive.
 
-Here *em* is not contentful; it marks **online planning, hesitation, and turn‑holding** while the speaker works out what to say next. It is typical of **unrehearsed, narrative talk**.
+The pole is therefore less about a specific topic (e.g. politics, religion, travel) and more about a **recurrent evaluative style**: narrating experiences through **strongly negative, often moral or emotional, judgements**.
 
-b) **Frequent explicit reasoning / justification**
+### 5. Role of GPT vs humans
 
-The word **reason** is used to:
+- GPT (especially profiled) appears to **over‑supply high‑intensity evaluative adjectives** in conversational narrative, which pushes its texts up this factor.
+- Human speakers, on average, are lower, suggesting they either:
+  - use a wider range of evaluative resources, or
+  - are less prone to repeated “awful/horrible” as default stance markers.
 
-- Introduce **motives or causes**:
-  - “the reason I came up with this last idea was…” (t000651)
-  - “for some reason best known to himself he used to do the garden…” (t000288)
-  - “for some reason I put loads of petrol in it well I know why…” (t000051)
-  - “what is the erm the reason why he keeps moving along this trajectory?” (t000097)
-  - “the reason he's working with is that erm that also gave it a bit more credence…” (t000063)
+So this pole is **LLM‑driven**, reflecting a somewhat stylised, emphatic negative stance that GPT adopts when dramatising problems or expressing sympathy.
 
-- Frame **normative or evaluative reasoning**:
-  - “that would be reason for you to be disciplined…” (t000081)
-  - “for no good reason and how it's men wanting to kind of cut off women's bits…” (t001662)
+### 6. Possible labels for this pole
 
-Speakers are **explicitly articulating causes, motives, and justifications**, often with metalinguistic framing (“the reason is…”, “for some reason…”).
+Any label should capture: (i) strong negative evaluation, (ii) affective/moral stance, (iii) intensification.
 
-c) **Narrative, anecdotal, and explanatory discourse**
+Some plausible labels:
 
-The content of the excerpts is largely:
+1. **Intensified Negative Evaluation**
+   - Highlights the repeated use of “awful”, “horrible”, “every single” to evaluate situations and people.
 
-- **Personal narratives / anecdotes**:
-  - Minecraft building mishaps and community projects (t000657, t000651)
-  - Family gardening habits (t000288)
-  - Phone numbers and synced contacts (t000808)
-  - Restaurant / burrito story (t001676)
-  - Car, petrol, and insurance logistics (t000051)
+2. **Affective Complaint / Appalled Stance**
+   - Captures the discourse of being appalled, burdened, or put upon, often in narrative form.
 
-- **Explanations and evaluations**:
-  - Explaining a story structure / character arc (t000097)
-  - Explaining why a son’s business placement “makes sense” (t000063)
-  - Evaluating workplace behaviour and disciplinary norms (t000081)
-  - Reflecting on feminist medical literature and its consequences (t001662)
+3. **Emphatic Moral–Emotional Critique**
+   - Reflects that many targets are morally charged (abuse, extreme religion, parental cruelty, war), and the stance is both emotional and evaluative.
 
-These are **highly situated, story‑like accounts** where the speaker is:
+If a single label is needed, a concise option that fits both the loadings and examples is:
 
-- Reconstructing events
-- Explaining why things happened
-- Evaluating whether they were reasonable or not
+> **“Intensified Negative Stance and Complaint”**
 
-d) **“For some reason” as a key pattern**
-
-Several excerpts use **“for some reason”**:
-
-- “cos it was for some reason we decided to build it on the coast” (t000657)
-- “for some reason best known to himself he used to do the garden…” (t000288)
-- “for some reason I put loads of petrol in it well I know why…” (t000051)
-
-This construction does two things:
-
-- Marks **partial or uncertain knowledge of motives** (“I don’t fully know why”)
-- Still frames the narrative in terms of **reasons and causality**
-
-So the discourse is **reason‑oriented**, but also **self‑reflective about gaps in knowledge**.
-
----
-
-4. Integrating loadings and examples
-
-Taking loadings and examples together:
-
-- **Disfluency and planning** (*em*):
-  - Strongest loading, pervasive in examples.
-  - Signals **spontaneous, unedited speech**, with speakers thinking aloud.
-
-- **Causal / justificatory framing** (*reason*, “for some reason”, *odd*):
-  - Speakers repeatedly **foreground reasons, causes, and motives**.
-  - They explicitly label segments of talk as “the reason…”, “for some reason…”.
-
-- **Informal, mildly emotive stance** (*shit*, *bother*, *carry*):
-  - Although not visible in these 10 excerpts, their positive loadings suggest that across the corpus, texts high on this factor also contain **colloquial, mildly expletive or evaluative language**, consistent with informal storytelling and complaint.
-
-- **Human vs LLM**:
-  - Humans score positively; GPT outputs (profiled and unprofiled) are negative.
-  - LLM turns, even when conversational, tend to be **more fluent, less disfluent**, and often **less explicit about “reasons” in this casual, self‑reflective way** (especially the “for some reason” idiom and filled pauses like *em*).
-
-So this pole is not just “spoken vs written”; it is more specifically:
-
-- **Spontaneous, narrative, and explanation‑heavy human talk**, with:
-  - On‑the‑fly planning (em)
-  - Overt reasoning and justification (reason, for some reason)
-  - Informal stance and mild expletives (shit, bother)
-
----
-
-5. Possible labels for f5 (positive pole)
-
-Focusing on this pole only, and reflecting both the lexical pattern and the discourse function, plausible labels include:
-
-1. **“Spontaneous Justificatory Narrative”**
-
-   - *Spontaneous*: captures the heavy *em* disfluency and online planning.
-   - *Justificatory*: reflects the centrality of *reason* and “for some reason” in explaining and justifying actions.
-   - *Narrative*: matches the anecdotal, story‑like nature of the excerpts.
-
-2. **“Hesitant Reason‑Giving Talk”**
-
-   - *Hesitant*: anchored in *em* (.93) and the fragmented, self‑correcting style.
-   - *Reason‑Giving*: anchored in *reason* (.30) and the repeated explicit framing of motives and causes.
-
-3. **“Informal Causal Storytelling”**
-
-   - *Informal*: aligns with colloquial items like *shit*, *bother*, *carry*.
-   - *Causal*: reflects the focus on reasons, causes, and “for some reason”.
-   - *Storytelling*: reflects the anecdotal, event‑recounting structure.
-
----
-
-6. Summary characterisation
-
-Factor 5 (positive pole) is best understood as a **human‑driven discourse dimension of spontaneous, informal, reason‑oriented storytelling**, characterised by:
-
-- Frequent **filled pauses** (*em*) and other signs of online planning
-- Explicit **reason‑giving and causal explanation** (*reason*, “for some reason”)
-- **Colloquial stance** and mild expletives (shit, bother, carry) across the wider corpus
-
-Among the proposed labels, **“Spontaneous Justificatory Narrative”** or **“Hesitant Reason‑Giving Talk”** most directly capture both the linguistic loadings and the discourse functions evident in the high‑scoring texts.
+This foregrounds:
+- the **stance** (awful, horrible),
+- its **intensity** (every single, picked apart),
+- and its typical discourse function in these conversations: **complaining about or morally condemning situations and behaviours**.

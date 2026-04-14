@@ -1,158 +1,111 @@
-Interpretation of Factor 6 (positive pole)
-
-1. **Which group drives this pole?**
-
-- Mean scores:
-  - profiled_gpt: **0.131**
-  - unprofiled_gpt: **0.128**
-  - human: **-0.008**
-
-Both LLM conditions are clearly higher than humans, and the **profiled_gpt** texts are marginally highest. So this pole is **LLM‑driven**, especially by the profiled GPT outputs, with humans slightly on the opposite side of the factor.
+This pole is best interpreted as a **discourse of everyday financial and temporal calculation in personal life**. It is strongly human-driven.
 
 ---
 
-2. **Linguistic profile of the positive pole**
+## 1. Who drives this pole?
+
+Mean scores:
+
+- human: -0.03  
+- profiled_gpt: -0.09  
+- unprofiled_gpt: -0.09  
+
+All three groups are slightly negative on average, but humans are *least* negative (closest to zero), i.e. they contribute relatively more to the positive pole than either GPT condition. All 10 top-scoring texts at this pole are human. So:
+
+- **This positive pole is clearly human-driven**, with LLM turns contributing less to this pattern.
+
+---
+
+## 2. Loadings and what they suggest
 
 High positive loadings:
 
-- **bloke (.61)** – strongly colloquial, British, male‑referential, often evaluative (“big bloke”, “this bloke”).
-- **anyone (.47)** – indefinite human reference, often in stance/assessment (“hardly ever have anyone in the back”, “don’t get greedy… if you see anyone missing”).
-- **(massive (.46))** – colloquial intensifier/evaluator (“massive”, “massive difference”, “massive queue” – not in excerpts but implied).
-- **stand (.43)** – overwhelmingly used as **physical stance / spatial positioning** (“standing there”, “stood there”, “stand back”).
-- **chat (.42)** – informal talk, both as verb and noun (“chatting away”, “chatted to me”, “having a chat”).
-- **(odd (.42))** – evaluative stance, mild negative (“odd”, “nothing odd had happened”).
-- **(thinking (.42))** – internal cognition, reflective stance (“I’m just stood there thinking…”, “I keep thinking…”).
-- **(minute (.31))** – temporal granularity, often in narrative pacing (“for a minute”, “in a minute”).
+- month (.63)  
+- pound (.63)  
+- least (.53)  
+- moment (.31)
 
-Taken together, these loadings point to:
+Key points:
 
-- **Informal, colloquial lexis** (bloke, chat, massive, odd).
-- **Embodied, spatially anchored narration** (stand).
-- **Subjective stance and evaluation** (odd, thinking, massive, anyone).
-- **Interpersonal / conversational framing** (chat, anyone).
+- **month** and **pound** are both high and almost identical in loading: this is a strong signal of talk about **time (on a monthly scale) and money (in British currency)**.
+- **least** often appears in scalar or minimising expressions: *at least*, *the least*, *at the very least* → language of **thresholds, minima, sufficiency**.
+- **moment** (weaker loading) can mark specific points in time (*at the moment*, *for the moment*), again tying into temporal framing.
+
+Taken together, the loadings point to **routine, quantified talk about money over time**, with a focus on minimum amounts, affordability, and temporal frames.
 
 ---
 
-3. Evidence from the high‑scoring excerpts
+## 3. What the examples show
 
-Across the 10 examples (all profiled_gpt), several consistent discourse features emerge.
+All examples are human turns; they consistently involve:
 
-a) **Embodied, scene‑setting narration**
+- **Money amounts**: *two thousand pounds*, *three hundred pounds*, *eight hundred pound a month*, *thirty thousand pounds*, *five hundred pound a month*, *two hundred pounds*, *two or three grand*, *thousands and thousands of pounds*.
+- **Monthly or multi‑month time frames**: *nine ninety-nine a month*, *three months over the summer*, *two and a half months*, *last month*, *two months*, *two months ago*, *three to six months*, *a few months ago*.
+- **Life-admin and financial planning contexts**:
+  - Pet care plans and vet bills (Excerpt 1)
+  - Insurance and licensing (Excerpt 2, 5)
+  - Bank charges and overdrafts (Excerpt 6)
+  - Saving for a PhD, travel, qualifications (Excerpt 7)
+  - Saving for a house deposit (Excerpt 9)
+  - Compensation for housing/insurance issues (Excerpt 5)
+  - Business funding and bonuses (Excerpt 4)
+- **Scalar / minimum language with “least”**:
+  - *I would always be the least out of all of us* (social comparison, but still scalar)
+  - *save at least thirty thousand pounds* (explicit financial threshold)
+  - *well at least you dumped her* (minimum acceptable outcome)
 
-“Stand/stood/standing” is used to anchor the speaker or others in space:
+Even when “least” is not about money, it encodes **evaluation in terms of more/less, better/worse, minimum acceptable outcome**, which fits a broader discourse of **assessing sufficiency and adequacy**.
 
-- “I was just **standing there**, feeling increasingly anxious…”
-- “They were **standing there** watching…”
-- “we walked past this tea **stand**…”
-- “I was just **standing there** yesterday, opposite the X‑ray department, in my little booth…”
-- “I’m just **stood there** thinking what’s the point?”
+Crucially, these are not abstract economic discussions; they are **embedded in personal narratives**:
 
-This creates **vivid, in‑the‑moment scenes**, often with the narrator as an onlooker or participant physically located in the space.
+- managing debt and charges with the bank
+- negotiating insurance coverage
+- planning savings to enable life goals (study, travel, property)
+- evaluating relationships and self-image in scalar terms
 
-b) **Informal, colloquial social world**
-
-“Bloke” is frequent and strongly loaded:
-
-- “this **bloke**, going on and on…”
-- “a couple of **blokes** who were very sceptical”
-- “big **bloke**, you’d look at him and think…”
-- “Another **bloke** clocked the whole thing…”
-- “this big, fat American **bloke**…”
-
-This, plus “lad”, “chap”, “fellow”, “lads”, “keeper”, “shopping channel”, “minions” (gaming), football talk, nights out, etc., constructs a **casual, everyday, often male‑centred social milieu**.
-
-c) **Conversational, chat‑framed activity**
-
-“Chat/chatting” is central:
-
-- “carried on **chatting away** with this bloke”
-- “I’d been **chatting** loads about tea with this woman”
-- “I was in with my tutor, **chatting through** what I’m doing”
-- “he just sort of **chatted** to me…”
-
-The core activity is **talk about talk**: recounting who chatted to whom, what was said, how relaxed or awkward it was. This is meta‑conversational narrative.
-
-d) **Subjective stance and evaluation**
-
-The texts are rich in stance markers and evaluations, often mild and colloquial:
-
-- “nothing **odd** had happened at all”
-- “feeling increasingly anxious”
-- “it’s like a grand a session, which is **mad money**”
-- “the whole business is just **mental** when you think about it”
-- “it just hit me… it really brought home how fragile everything is”
-- “It’s just this **horrible feeling** of knowing before you even start…”
-- “Proper **frustrating** and you just feel **helpless** with it.”
-- “it was just really **blatant** and made the whole thing feel even more **awkward**.”
-
-The loading word **thinking** is reflected in explicit metacognition:
-
-- “I keep **thinking** what someone properly famous must be on…”
-- “I’m just stood there **thinking** what’s the point?”
-- “just trying to get it all straight in my head really, working out the next steps…”
-
-So the discourse is not just recounting events; it foregrounds **how the speaker feels and thinks about them**.
-
-e) **Indefinite human reference and generalisation**
-
-“Anyone” appears in ways that generalise or background specific people:
-
-- “I hardly ever have **anyone** in the back anyway…”
-- “don’t get greedy. If that enemy comes close… you can kill them easy… Back off if you see **anyone** missing…”
-
-This supports a discourse style that moves between **specific scenes** and **generalised advice or reflection**.
+So the discourse is **intimate, experiential financial/temporal management**, not institutional or technical finance.
 
 ---
 
-4. Integrating loadings and examples: what discourse is encoded?
+## 4. Integrating loadings and examples
 
-If we give equal weight to the loadings (whole corpus) and the examples (top texts), the positive pole of Factor 6 can be characterised as:
+Giving equal weight to both:
 
-- **Colloquial, British, socially grounded narrative**:
-  - Lexis like “bloke”, “chat”, “massive”, “odd” indexes informal, often UK‑English conversation.
-  - Situations: pubs/nights out, football, gaming, shopping channel gigs, hospital corridors, car test drives.
+- Loadings highlight **month + pound + least** → a lexical cluster of **time-based money talk with thresholds**.
+- Examples show this cluster realised in **conversational stories about everyday financial arrangements and life planning**, often with emotional or evaluative overtones.
 
-- **Embodied, scene‑based storytelling**:
-  - Frequent “stand/stood/standing” plus spatial detail (“opposite the X‑ray department”, “in front of a couple of blokes”, “standing there watching”, “stand back a bit”) anchor the narrator and others physically.
-  - This gives a **cinematic, ‘I was there’** quality.
+This pole therefore encodes a **lexico-grammatical pattern where speakers quantify money over months, set or discuss minimum amounts, and situate these in personal life events** (housing, education, pets, relationships, travel).
 
-- **Reflexive, evaluative stance**:
-  - “thinking”, “odd”, “massive”, plus rich evaluative language show speakers **interpreting** events, not just listing them.
-  - Emotional and moral evaluations (awkwardness, frustration, admiration, anxiety) are foregrounded.
+The fact that GPT outputs do *not* strongly drive this pole suggests that:
 
-- **Talk‑about‑talk and interpersonal dynamics**:
-  - “chat/chatting” and the narrative focus on who said what, who interrupted, who flirted, who ignored whom.
-  - The discourse is about **social interaction itself**: being ignored at a help desk, being coached in a game, being hit on in a bar, being sold a car, being heckled at a show.
-
-- **LLM amplification of colloquial narrative style**:
-  - The fact that **profiled_gpt** drives this pole suggests that when given socio‑demographic profiles, the model tends to **over‑produce this kind of colloquial, stance‑rich, scene‑based storytelling**, especially with British colloquialisms like “bloke”.
+- LLM turns, even when given profiles, are **less likely to reproduce this very specific, messy, small-scale financial life-admin talk** (with concrete British currency, monthly figures, and personal financial struggles).
+- Human speakers naturally produce this discourse as part of everyday conversation.
 
 ---
 
-5. Possible labels for the positive pole of Factor 6
+## 5. Possible labels for this positive pole
 
-Any label should capture:
+All labels focus on this pole alone (no versus framing):
 
-- informality and colloquial British lexis,
-- embodied, spatially anchored scenes,
-- interpersonal talk and meta‑conversation,
-- subjective stance and evaluation.
+1. **Everyday Financial Life-Management Discourse**  
+   - Captures the routine, practical management of money and time in daily life.
 
-Plausible labels (for this pole only):
+2. **Monthly Money and Minimum-Threshold Talk**  
+   - Highlights the central lexical pattern: *month*, *pound*, *least*.
 
-1. **“Colloquial, stance‑rich social storytelling”**  
-   - Highlights informality (“colloquial”), the heavy use of evaluation and internal states (“stance‑rich”), and the narrative focus on social encounters (“social storytelling”).
+3. **Personal Budgeting and Life-Planning Discourse**  
+   - Emphasises that the financial calculations are tied to life goals and personal circumstances.
 
-2. **“Embodied, chat‑centred everyday narrative”**  
-   - “Embodied” reflects the centrality of “stand/stood” and physical positioning;  
-   - “chat‑centred” foregrounds “chat/chatting” and talk‑about‑talk;  
-   - “everyday narrative” captures the mundane, non‑specialist, lived‑experience content.
+4. **Informal Costing and Sufficiency Evaluation**  
+   - Reflects the way speakers cost things out and judge what is “enough” (*at least X pounds*, *at least you…*).
 
-3. **“Informal British interpersonal anecdote style”**  
-   - Emphasises the British colloquial flavour (“bloke”, “lad”), the interpersonal focus, and the anecdotal, story‑like structure.
+Any of these would be defensible. If a single label is needed, a precise and corpus-grounded option is:
 
-Any of these would be defensible. If a single label is required, I would prioritise:
+> **“Everyday monthly-money and sufficiency discourse”**
 
-**Colloquial, stance‑rich social storytelling**
+because it directly reflects:
 
-because it best integrates the lexical evidence (colloquial items like bloke/chat/massive/odd), the embodied and cognitive stance markers (stand, thinking, anyone), and the example texts’ clear focus on narrated social encounters and how the speaker feels and thinks about them.
+- **monthly time framing** (*month*),
+- **monetary quantification in pounds* (*pound*),
+- **evaluation of minima and adequacy** (*least*),
+- and its **everyday, personal, conversational** character, strongly driven by human speakers.

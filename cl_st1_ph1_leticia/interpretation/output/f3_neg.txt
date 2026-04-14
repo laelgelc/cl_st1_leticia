@@ -1,140 +1,121 @@
-This pole is driven by **profiled GPT** texts (mean −0.14 vs humans +0.31), so it characterises the *LLM-with-profile* responses rather than human turns. Unprofiled GPT is also slightly negative, but the strongest separation is human (positive) vs both GPT groups (negative), with profiled GPT most negative.
+This pole is clearly human‑driven (humans have the lowest mean score on f3: −0.20 vs +0.06/+0.10 for both GPT conditions), so we are looking at a discourse style that humans use more than the LLMs.
 
-### 1. Linguistic profile of the pole
+### 1. What the loadings tell us
 
 High negative loadings:
 
-- **odd (−.78)**
-- **sense (−.62)**
-- **seem (−.33)**
-- **pick (−.32)**  
-- plus weaker: horrible, chat, change, awful, moment
+- wanna (−.70)
+- fact (−.61)
+- okay (−.56)
+- reason (−.54)
+- (shit (−.48))
+- (bother (−.30))
 
-Key observations from the loadings and their use in the excerpts:
+Two clusters stand out:
 
-1. **Meta‑cognitive / interpretive lexis**
-   - *sense* is almost always used in an abstract, interpretive way:
-     - “it’s not like a mystery in that **sense**”
-     - “in that **sense** the town hall lot are quite a strong possibility”
-     - “I’m not really bothered in that **sense**”
-     - “the idea is that the sheet makes **sense** to them”
-     - “this **sense** of giving outwards”
-     - “in the academic **sense**”
-   - This is classic discourse of *framing, categorising, and re‑describing* situations.
+1. **Informal, interactional stance markers**
+   - wanna, okay, shit, bother  
+   → colloquial, speech‑like, evaluative, managing the interaction (“okay?”) and expressing attitude (“shit”, “bother”).
 
-2. **Epistemic hedging and appearance vs reality**
-   - *seem / seemed / seeming*:
-     - “the basics **seem** really clear”
-     - “what they mainly **seem** to need”
-     - “they never **seem** to mention that bit”
-     - “the whole of America **seemed** to have descended”
-     - “a lot of lecturers just don’t **seem** able to be generous”
-     - “you don’t want to alienate… by **seeming** too challenging”
-     - “nobody up there **seemed** to have the faintest idea”
-   - These mark **evaluative distance** and **tentative stance**: the speaker is not just reporting events but commenting on how things appear, may be perceived, or are framed.
+2. **Explanatory / justificatory metadiscourse**
+   - fact, reason  
+   → signalling explanation, justification, or argument structure (“the reason why…”, “in actual fact…”).
 
-3. **Markedness and evaluation**
-   - *odd*:
-     - “that does feel a bit **odd** to me”
-     - “not **odd** one‑offs”
-     - “which was rather **odd**”
-   - *horrible, awful* (though not in these particular excerpts) also point to **evaluative commentary**.
-   - These items flag **deviation from expectations** and invite explanation or rationalisation.
+So lexically, this pole combines:
+- highly **spoken, informal, interpersonal** markers, with
+- a strong **explanatory / reasoning** orientation.
 
-4. **Selective attention and extraction**
-   - *pick / picking / picked*:
-     - “he was **picked** up by the Taliban”
-     - “trying to **pick up** as much as I can from them”
-     - “I feel like **picking up** the phone”
-     - “not the sort of place you’d normally **pick**”
-   - Semantically, these are about **selecting, extracting, or being singled out**, often in contexts where the speaker is highlighting particular aspects of a situation for comment.
+### 2. What the examples show
 
-5. **Discourse function**
-   Across the excerpts, these items cluster in stretches where the speaker:
-   - explains why something is *odd* or unexpected
-   - clarifies “in what sense” something is true
-   - distinguishes appearance (*seem*) from underlying evaluation
-   - picks out particular features for scrutiny
+All top‑scoring texts are human. Across very different topics (relationships, pedagogy, entrepreneurship, gaming, politics, family finances), the same pattern recurs:
 
-So lexically, this pole is not about a concrete topic (e.g. travel, teaching) but about a **stance‑taking, interpretive, meta‑explanatory style**.
+#### a) Ongoing explanation and justification
 
-### 2. Discourse patterns in the high‑scoring excerpts
+Speakers repeatedly frame what they’re doing as giving reasons, accounts, or clarifications:
 
-Across the 10 examples, the same discourse behaviour recurs:
+- “there is one reason only and that's cos…” (t000687)
+- “the reason why a case study is useful is because…” (t000938)
+- “what you wanna do… okay? … what is the erm the reason why he keeps moving along this trajectory?” (t000097)
+- “these are the reasons why I'm going in this direction…” (t000124)
+- “in actual fact the money is is not really what you're chasing so I ask you the question why…” (t000193)
+- “for some reason they wouldn't do it…” (t000913)
 
-1. **Reframing and qualification**
-   - Ex. 1 (soldier/desertion podcast):  
-     The speaker reframes the podcast’s premise: “I’m still not really sure what the actual crime is… it’s not like a mystery in that **sense**”. They contrast the *seeming* clarity of facts with the investigative framing.
-   - Ex. 2 (ex‑partner seeing someone new):  
-     The speaker carefully qualifies social norms: “that does feel a bit **odd** to me… it makes more **sense** in my head if… without it **seeming** strange.”
-   - Ex. 3 (room‑booking / town hall):  
-     “In that **sense** the town hall lot are quite a strong possibility… what they mainly **seem** to need is… not **odd** one‑offs.” The speaker is modelling others’ needs and rationalising a plan.
+Speakers are not just narrating events; they are **accounting for them**, probing motives, causes, and underlying “why”.
 
-2. **Meta‑commentary on one’s own reasoning**
-   - Ex. 4 (career change / entrepreneurship):  
-     The speaker explicitly lays out their logic: “I’m not really bothered in that **sense**… I can at least lay out the logic… I’m changing direction, I’m in a transition…” with “trying to **pick up** as much as I can”. This is self‑explanation and justification.
-   - Ex. 5 (teaching method):  
-     “The idea is that the sheet makes **sense** to them… I just write things in a way that I know they’ll remember.” Again, explicit reasoning about method.
+#### b) Interactive, listener‑oriented scaffolding
 
-3. **Critical, reflective evaluation of institutions and others**
-   - Ex. 6 (unions and wages):  
-     “They never **seem** to mention that bit…” The speaker contrasts media narratives with their own interpretation, wanting to “**pick** up the phone” and correct them.
-   - Ex. 8–9 (university teaching, mature students):  
-     “They tend to put the weakest… when actually…”; “this **sense** of giving outwards”; “a lot of lecturers just don’t **seem** able to be generous”; “you don’t want to alienate… by **seeming** too challenging… in the academic **sense**.” These are reflective critiques of academic culture and perceptions.
+“okay” and “wanna” are used to manage the listener’s engagement and to soften directives:
 
-4. **Narratives framed through perceived oddity or misalignment**
-   - Ex. 7 (Florida trip, dodgy trailer park):  
-     “Not the sort of place you’d normally **pick** if you had any choice… it was all right, really.” The narrative is organised around expectations vs reality.
-   - Ex. 10 (museum exhibition):  
-     “It was as if the exhibition didn’t exist, which was rather **odd**… nobody up there **seemed** to have the faintest idea…” The story is about institutional disorganisation, framed as puzzling.
+- “okay actually this has got enough meat on it to become a case story… do you wanna co‑create a case study…?” (t000938)
+- “okay? … then you have to choose what really is the kernel of this person?” (t000097)
+- “well okay I can run with those things…” (t000124)
+- “okay this case study may not come university but the fact that you've putting it in your online course…” (t000942)
+- “yeah okay they're all nicely lined up… you got your R now wanna use that…” (t000791)
+- “on Monday okay? and then we have two weeks…” (t000051)
 
-Across topics (war, relationships, teaching, travel, museums), the **common discourse function** is:
+This is **highly interactive, didactic talk**: checking understanding, pacing the explanation, inviting participation (“do you wanna…?”).
 
-- stepping back from events
-- evaluating how they *seem* vs how they *should* be
-- clarifying “in what sense” something holds
-- highlighting oddities and misalignments
-- justifying one’s own interpretation or course of action
+#### c) Informal, evaluative, and affective stance
 
-This is a **reflective, interpretive, mildly critical stance** rather than purely narrative or purely interpersonal.
+Even in serious or abstract topics, speakers use informal stance markers:
 
-### 3. Who drives this pole?
+- “doesn't wanna bang me… not even fucking kissed me…” (t000687)
+- “warm touchy friendly feeling… you're selling a feeling… like Oxford and Cambridge where you used to go round for a cup of tea…” (t000942)
+- “you don't need another reason for Americans to dislike you… are you okay with that?” (t001619)
+- “oh my god somebody's come and asked me to go and have a coffee with them…” (t000942)
 
-- All 10 high‑scoring excerpts are **profiled GPT**.
-- Mean scores:
-  - humans: +0.31 (i.e. away from this negative pole)
-  - profiled GPT: −0.14
-  - unprofiled GPT: −0.12
+Where “shit” and “bother” occur in the wider corpus, they will similarly mark **emotional reaction / irritation / evaluation**, reinforcing the stanceful, subjective flavour of this pole.
 
-So this negative pole is **strongly associated with LLM‑generated, especially profiled, turns**. It appears that when GPT is given a socio‑demographic profile, it tends to produce more **overtly interpretive, meta‑explanatory, stance‑laden** language of this kind than humans do in the original conversations.
+#### d) Expository / advisory genres in spoken form
 
-### 4. Proposed labels for this pole
+Several excerpts are essentially **spoken mini‑lectures or coaching sessions**:
 
-Any label should capture both:
+- Explaining case studies and course design (t000938, t000942)
+- Explaining narrative structure and character arcs (t000097)
+- Explaining entrepreneurial learning and career transitions (t000124, t000193)
+- Coaching in a game (“use your Q… you got your R now wanna use that…”) (t000791)
+- A long, rhetorically structured open letter about same‑sex marriage and Muslim identity (t001619)
 
-- the **lexical signature** (odd, sense, seem, pick, horrible, awful, chat, change, moment)
-- the **discourse behaviour** (interpretation, qualification, evaluation, explanation of reasoning)
+These are **expository and advisory**, but delivered in a **highly conversational, informal register**.
 
-Possible labels:
+### 3. Who drives the pole?
 
-1. **Reflective Interpretive Stance**
-   - Captures the pervasive use of *sense* and *seem* to frame how things are understood, and the tendency to comment on perceptions, norms, and reasoning.
+- Humans: mean f3 = −0.195 (lowest)
+- Profiled GPT: +0.097
+- Unprofiled GPT: +0.063
 
-2. **Meta‑Explanatory Evaluation**
-   - Emphasises that speakers are not just evaluating (odd, awful, horrible) but also explaining *in what sense* and *how things seem*, often justifying their own or others’ actions.
+So this negative pole is **strongly human‑driven**. GPT outputs, even when profiled, are on the opposite side of the factor, suggesting they:
 
-3. **Perceived‑Oddity and Sense‑Making Discourse**
-   - Brings in *odd* and *sense* explicitly: the discourse is organised around noticing what is odd or misaligned and then making sense of it.
+- use fewer of these colloquial markers (“wanna”, “okay”, “shit”, “bother”), and/or
+- structure explanation with more formal devices rather than “fact”, “reason” in this colloquial way.
 
-4. **Analytical Commentary Style**
-   - A more general label highlighting that these turns function as commentary on events, institutions, or relationships, rather than simple recounting.
+In other words, this pole captures a **distinctively human conversational explanatory style** that the LLMs under both prompts approximate less.
 
-If I had to choose one primary label for this pole, grounded in both the loadings and the examples, I would propose:
+### 4. Interpreting the discourse dimension
 
-> **Reflective Sense‑Making and Evaluative Commentary**
+Putting the lexical and textual evidence together, this pole encodes a discourse style that is:
 
-- **Reflective**: speakers step back from events and from their own actions.
-- **Sense‑Making**: anchored in the high loading of *sense* and frequent “in that sense / in the academic sense” constructions.
-- **Evaluative Commentary**: anchored in *odd, seem, horrible, awful, pick* and the recurrent pattern of judging situations, institutions, or social arrangements, often with mild criticism or puzzlement.
+- **Spoken and informal** (wanna, okay, shit, bother)
+- **Strongly explanatory / justificatory** (fact, reason)
+- **Interactive and listener‑oriented** (okay? do you wanna…?)
+- **Stanceful and affective**, often embedding evaluation and personal perspective within the explanation.
 
-This label captures the discourse dimension encoded at this negative pole and aligns with the fact that it is particularly characteristic of **profiled GPT** turns, which appear to over‑produce this kind of explicit, rationalising, interpretive talk.
+It is not just “informal speech” and not just “exposition”; it is **informal, interpersonal explanation and reasoning in conversation**.
+
+### 5. Possible labels for this pole
+
+Any label should capture both the **explanatory/justificatory function** and the **informal, interactive, human‑conversational style**. Suitable options:
+
+1. **Conversational Explanation and Justification**
+   - Highlights the central role of “reason”, “fact”, and the pervasive giving of accounts, while signalling that this is done in a conversational, not formal, mode.
+
+2. **Informal Explanatory–Stance Discourse**
+   - Emphasises the mix of explanation (“fact”, “reason”) with stance and informality (“wanna”, “okay”, “shit”, “bother”).
+
+3. **Interactive, Reason‑Giving Talk**
+   - Focuses on the interactional management (“okay?”, “do you wanna…?”) and the recurrent practice of offering reasons and justifications.
+
+Of these, **“Conversational Explanation and Justification”** best captures what this negative pole represents in the corpus:
+
+- “Conversational” → human‑like, informal, with “wanna”, “okay”, mild expletives.
+- “Explanation and Justification” → the heavy use of “reason”, “fact” and the pervasive giving of accounts, advice, and rationales across topics.

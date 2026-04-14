@@ -1,87 +1,195 @@
-This factor is extremely narrow: it is driven almost entirely by the discourse marker / hesitation filler **“um”**, and the high-scoring texts are all **human** turns. Both GPT conditions have substantially *lower* mean scores than humans, so humans are clearly driving this pole.
+This pole is best interpreted as a **discourse of reflective, planned transformation and conceptual framing**, strongly driven by LLM turns (especially profiled GPT).
 
-### 1. Source scores: who drives the pole?
+Below I propose several closely related labels, then justify them from the loadings, the examples, and the source scores.
 
-Mean f1 scores:
+### 1. Who drives this pole?
 
-- Human: **-0.60**
-- Unprofiled GPT: **-1.05**
-- Profiled GPT: **-1.08**
+Mean scores:
 
-Higher scores = more of the feature. All three groups are on the negative side overall, but humans are **closest to zero**, i.e. they use **more “um”** than either GPT condition. The LLM outputs are more “disfluent-free” and thus sit further from the positive pole.
+- profiled_gpt: **1.04**
+- unprofiled_gpt: **1.02**
+- human: **0.57**
 
-So this pole is essentially a **human-spoken, disfluent** end of the dimension, with GPT turns clustering away from it.
+All three groups are positive, but both GPT conditions are substantially higher than humans, with **profiled_gpt slightly in the lead**. So this pole is **LLM‑driven**, and especially characteristic of the profiled GPT responses.
 
-### 2. Loadings: what linguistic feature defines the pole?
+That matters: we are looking at a style of discourse that the model tends to amplify, rather than something primarily emerging from human conversational practice.
 
-Only one variable loads on f1_pos:
+---
 
-- **um (1.71)**
+### 2. Lexical loadings: what kind of discourse is this?
 
-No other lexical items co-load, so this factor is not a broad semantic or stylistic cluster; it is a **pure hesitation-marker factor**.
+Top loadings (all positive):
 
-### 3. What do the high-scoring excerpts show?
+- **build (.75)**
+- **become (.69)**
+- **sense (.55)**
+- **(fact (.51))**
+- **change (.46)**
+- **moment (.38)**
+- **(huge (.37))**
+- **idea (.37)**
+- **more (.37)**
+- **own (.36)**
+- **different (.35)**
+- **way (.35)**
+- **plan (.32)**
+- **(clear (.31))**
+- **(reason (.30))**
 
-All 10 high-scoring texts are:
+Patterns:
 
-- Human-authored
-- Spontaneous, informal conversational narratives or explanations
-- Rich in **“um”** as a hesitation / planning device
+1. **Process and transformation**  
+   - *build, become, change, moment, huge*  
+   These suggest **development over time**, transitions, and shifts in state or scale (“became this huge thing”, “changing direction”, “over time you became…”).
 
-In the excerpts, “um” appears:
+2. **Conceptualisation and framing**  
+   - *idea, sense, way, clear, reason, fact*  
+   These are classic **metadiscursive / conceptual** items: talking about how things make sense, what the idea is, what the way is, what the reasons and facts are. They frame and rationalise experience.
 
-- Turn-initial:  
-  - “**um** but you know that was fairly standard Magnum fair…” (t001705)  
-- Clause-medial, marking planning or repair:  
-  - “we just **um** had a bite quick bite to eat” (t000094)  
-  - “the fruit trees that grow along the wall **um** they're a very good idea…” (t000350)  
-- As a soft boundary between discourse units or topic shifts:  
-  - “you get good ideas going round **um** garden centres round the **um** the kitchen gardens…” (t000348)  
-- As a stance/engagement softener:  
-  - “I know well they had their they had like a **um** a chip like a bike their bike lock…” (t000695)
+3. **Planning and intentionality**  
+   - *plan, build, way*  
+   These point to **deliberate organisation and forward-looking structure** (“working on the plan”, “how to build up”, “the way we’d do it”).
 
-Across the examples, “um” functions to:
+4. **Evaluation and comparison**  
+   - *more, different, own*  
+   These support **contrastive, evaluative reflection**: more vs less, different vs same, my own vs others’ ways.
 
-- Buy **planning time** in complex narratives (insurance procedures, TV plot, job loss, civil rights history).
-- Signal **on-line formulation** and self-repair (“er… um…”, “I was like… um…”).
-- Maintain **floor-holding** while the speaker searches for words or restructures the clause.
-- Soften or hedge upcoming content in personal stories and evaluations.
+Taken together, the loadings point to a discourse that:
 
-Crucially, the surrounding discourse is not systematically of one topic or register (we have gardening, TV, work, music, history, Old English). The commonality is **spontaneous, cognitively demanding talk** with visible on-line processing.
+- conceptualises situations in terms of **processes of change**,
+- foregrounds **plans, reasons, and clear ideas**,
+- and uses **metadiscursive framing** (“the way”, “the idea”, “the sense”) to organise and evaluate experience.
 
-### 4. Interpreting the discourse dimension
+---
 
-Because:
+### 3. What do the high‑scoring excerpts actually do?
 
-- The factor is defined solely by **“um”**,
-- The high-scoring texts are **human, spontaneous, narrative/explanatory** turns,
-- GPT outputs are systematically **lower** on this factor (they avoid “um”),
+All 10 examples are profiled_gpt, and they consistently instantiate the patterns above.
 
-this pole is best interpreted as a **discourse-pragmatic** dimension of **on-line, disfluent, planning-in-progress talk**.
+#### a) Organised accounts of evolving systems and roles (Excerpt 1)
 
-It is not about topic, formality, or stance per se; it is about **production mode** and **cognitive processing visibility**:
+- Careers service narrative: “settled into what **became** quite a long stretch”, “you **built** relationships”, “over time you **became** ‘their’ careers person”.
+- Clear structuring: “two main strands”, “core topics”, “on top of that core, we were always adding extra sessions”.
+- Change and adaptation: “tweaking it constantly as the outside world **changed**”.
 
-- **High on this pole**:  
-  - Human-like, **unrehearsed** speech  
-  - Frequent **filled pauses** marking hesitation, planning, and repair  
-  - Strong sense of “thinking aloud” and **incremental formulation**
+This is **expository, process‑oriented explanation** of how a system is built up and adjusted over time.
 
-- **Low on this pole** (where GPT sits):  
-  - More **edited / fluent** production  
-  - Absence of filled pauses; planning is not lexically marked  
-  - Less overt evidence of on-line processing
+#### b) Macro‑social change and tension (Excerpt 2)
 
-### 5. Possible labels for this positive pole
+- “natural freedoms… being chipped away”, “expectations… are starting to rise”, “as they **become** more aware, they begin to want **more**”.
+- “They’ve **built** a whole system designed to keep a lid on those pressures.”
+- Framing tension: “you’ve got this tension: on the one hand… on the other…”
 
-Focusing on this pole only, and capturing both the linguistic feature and its discourse function, suitable labels would be:
+Again, a **conceptual, explanatory account of change**, with explicit reasoning about causes and consequences.
 
-1. **On-line Planning and Hesitation Discourse**
-   - Highlights that “um” indexes real-time planning and hesitation in talk.
+#### c) Planning and conceptual clarity (Excerpt 3)
 
-2. **Spontaneous Disfluency / Filled-Pause Discourse**
-   - Emphasises the disfluent, filled-pause character of the speech.
+- “They can’t really start borrowing anything until there’s a very **clear idea** of what the exhibition is actually about.”
+- “For the **moment** I’m just working on the **plan**… maybe **change** some of the titles… lay it out the **way** I want.”
 
-3. **Human-Like Hesitation and Floor-Holding**
-   - Reflects that this is where human speakers mark hesitation and keep the floor.
+Here the discourse is about **planning and conceptual definition** before action.
 
-Any of these captures the core: this pole encodes a **human-driven discourse style where speakers overtly manage planning, hesitation, and floor-holding through “um”**.
+#### d) Reflective evaluation of past vs preferred practice (Excerpt 4)
+
+- “far **more** chance of actually catching their curiosity”, “so many **different** angles”, “My **own** experience… was nothing like that.”
+- “There wasn’t that **sense** of a big picture… from **different** directions.”
+- Retrospective evaluation and contrast between two “ways” of teaching.
+
+This is **metacognitive reflection on methods and their effects**.
+
+#### e) Framing and questioning the “real” issue (Excerpt 5)
+
+- “it **became** this **huge** thing”, “what the actual crime is… the basics seem really **clear**… it’s not like a mystery in that **sense**”.
+- The speaker is **reframing** what the story is really about, distinguishing facts from investigative “angle”.
+
+Again, conceptual framing and reasoning about what matters.
+
+#### f) Personal transition and self‑authored change (Excerpt 6)
+
+- “this is why I’m **changing** direction… I’m in this sort of in‑between phase… creating something **different**.”
+- “I’m trying to **build** something **different** for myself… find my **own** route.”
+- Strong emphasis on **intentional self‑transformation**, explained and justified.
+
+#### g–i) Designing projects and narratives (Excerpts 7–9)
+
+- Travel plans and social awkwardness (7): “it’s suddenly **become** really awkward… see if there’s any **way** Paris still makes **sense**.”
+- Video/network project (8): “You’d literally start with… then… So you gradually **build up** this little cluster… the story I’ve got in my head… fantastic **idea**… they couldn’t have got to that point just on their **own**.”
+- Integrity project (9): “to really get the story going we’d have to… **frame** it as integrity more broadly… that **way**… it **becomes**… we’d need to **phrase** it in a **way** that… encourages people to invite others… give the whole project a **clear** narrative thread.”
+
+These are **project‑design discourses**: specifying aims, framing, mechanisms, and narrative structure.
+
+#### j) Inner change and symbolic interpretation (Excerpt 10)
+
+- “message from my higher self… more fun… more light‑hearted.”
+- “I look on all these houses and rooms as parts of my psyche, **different** aspects of myself… it all feels like a process of inner clearing and transformation.”
+- “I’m… renovating… bringing light into the darkened rooms inside me.”
+
+This is **explicitly about inner transformation**, conceptualised and narrated as a process.
+
+---
+
+### 4. Integrating loadings and examples
+
+Across the corpus (loadings) and the high‑scoring texts (examples), the same discourse pattern recurs:
+
+- **Orientation to change and becoming**  
+  Both external (institutions, political systems, projects) and internal (identity, psyche) are described as **in motion**, “becoming” something else, “changing direction”, “building up” over time.
+
+- **Planning and project‑ness**  
+  Speakers talk about **plans, ways of doing things, portfolios, programmes, modules, projects, stories**. There is a strong **project‑design / project‑management flavour**.
+
+- **Metadiscursive framing and reasoning**  
+  Frequent use of *sense, idea, way, reason, clear, fact* to:
+  - define what the “real” issue is,
+  - distinguish basics from deeper questions,
+  - justify choices (“this is why I’m changing direction”),
+  - frame narratives (“to really get the story going we’d have to…”).
+
+- **Reflective, evaluative stance**  
+  Speakers compare **different ways** of doing things, past vs present, here vs elsewhere, my own vs others’ experiences, and reason about consequences.
+
+- **Self‑authorship and agency**  
+  Especially in Excerpts 6 and 10, but also 8–9: the speaker is **authoring a path**, a project, or an inner transformation, often emphasising “my own way”, “my own route”, “for me it’s new”.
+
+This is not just “planning” in a narrow sense, nor just “exposition”. It is a **reflective, conceptual, change‑oriented discourse** that:
+
+- explains how things **are built and become**,
+- articulates **plans and designs**,
+- and frames experiences in terms of **ideas, reasons, and sense‑making**.
+
+The fact that GPT (especially profiled GPT) drives this pole suggests that the model tends to produce **highly structured, rationalising, project‑like narratives** even in conversational contexts.
+
+---
+
+### 5. Possible labels for this pole
+
+Any label should capture:
+
+- change / becoming / building,
+- planning / project orientation,
+- conceptual framing / reasoning,
+- reflective stance.
+
+Some suitable options:
+
+1. **Reflective Planning and Transformation Discourse**  
+   - Highlights both **planning** (“plan, build, way”) and **change** (“become, change, moment”), plus the reflective “sense/idea/reason” layer.
+
+2. **Conceptualised Change and Project Design**  
+   - Emphasises the **conceptual framing** (“sense, idea, clear, reason”) and the **project‑design** flavour of many excerpts.
+
+3. **Self‑ and System‑Building Expository Discourse**  
+   - Captures the way speakers describe **building systems** (careers services, surveillance regimes, video projects) and **building selves** (career shifts, inner renovation).
+
+4. **Metadiscursive Sense‑Making of Change**  
+   - Focuses on the **metadiscursive** nature of the talk: explaining what’s really going on, what makes sense, what the idea is, as things change.
+
+If I had to choose a single, compact label that best fits both the loadings and the examples, I would propose:
+
+> **Reflective, Project‑Oriented Transformation Discourse**
+
+- **Reflective**: heavy use of *sense, idea, reason, clear*; explicit evaluation and framing.
+- **Project‑oriented**: *build, plan, way*; repeated design of projects, programmes, narratives.
+- **Transformation**: *become, change, moment, huge*; focus on processes of change in people, institutions, and inner life.
+
+This label captures the LLM‑driven tendency to turn conversational content into **structured, explanatory accounts of how things are or could be built, changed, and made to make sense.**

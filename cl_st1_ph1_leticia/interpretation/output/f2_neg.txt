@@ -3,143 +3,167 @@ Interpretation of Factor f2 (negative pole)
 1. Which group drives this pole?
 
 - Mean scores:
-  - Human: +0.88
-  - Profiled GPT: −0.16
-  - Unprofiled GPT: −0.16  
+  - human: **-0.15**
+  - profiled_gpt: +0.09
+  - unprofiled_gpt: +0.07  
 
-The negative pole is clearly driven by **LLM-generated turns** (both profiled and unprofiled), while human turns cluster at the opposite (positive) end of the factor. All 10 high‑scoring negative examples are from **profiled_gpt**.
+The **negative** side of Factor 2 is therefore **driven by human speakers**. Both GPT conditions sit on the positive side (i.e. *away* from this pole), suggesting that this dimension captures something that humans do much more than the LLMs.
 
-So this pole characterises a **distinctively LLM style of talk**, not the human baseline.
+2. Linguistic profile of the f2 negative pole
 
----
+High negative loadings:
+- god (-.67)
+- fuck (-.66)
+- pound (-.60)
+- shit (-.46)
+- gonna (-.45)
+- single (-.41)
 
-2. Lexical loadings
+Key observations from the loadings:
 
-Negative loadings (strongest to weakest):
+- **Expletives / taboo items**: god, fuck, shit  
+  These are classic markers of:
+  - emotional stance and evaluation
+  - informality and colloquial speech
+  - spontaneous, low-monitoring production
 
-- huge (−.82)
-- (em (−.69))  [likely a truncated/em-dash token; we can’t interpret semantically]
-- massive (−.53)
-- (build (−.52)) [probably a noise token or lemma artefact; not clearly semantic here]
-- (awful (−.34))
-- big (−.30)
+- **Colloquial future marker**: gonna  
+  - Strongly associated with **spoken, informal, conversational** style.
+  - Often co-occurs with stance-taking and narrative projection (“what’s gonna happen”).
 
-The semantically interpretable core is:
+- **pound, single**  
+  - Likely to be:
+    - “pound” as currency or weight, often in everyday talk about money, shopping, etc.
+    - “single” as relationship status, or as a count noun (“every single time”), both common in informal, personal narratives.
+  - These are less obviously about stance, but they fit **everyday, personal-life, informal topics**.
 
-> **huge / massive / big / awful**
+Overall, the loading set points to:
+- **highly informal, colloquial spoken style**
+- **strong affective / evaluative stance**, often negative or intense
+- **personal, everyday-life content** (money, relationships, complaints, gossip)
 
-These are **high-frequency, colloquial, scalar evaluative adjectives** used to mark:
-- physical size/extent
-- intensity/degree
-- strong stance (positive or negative)
+3. Evidence from the example excerpts
 
-They are not technical or precise; they are **vague, emphatic size/intensity boosters**.
+All 10 high-scoring texts are **human**. GPT does not appear in the top examples, reinforcing that this is a **human-conversational** pole.
 
----
+Across the excerpts, the loading items are used in very similar ways:
 
-3. Evidence from the excerpts
+a) “oh my god” as an affective discourse marker
 
-Across the 10 examples, these adjectives are used in very similar ways:
+Examples: t001195, t001258, t001261, t001351, t001354
 
-a) Everyday hyperbole and evaluation
+- “oh my god you're gonna get brownie points now”
+- “oh my god and erm so we were in shopping”
+- “oh god I know what this is gonna be about now”
+- “oh my god when we were in I didn't see many couples”
+- “oh my god she's gonna be s she did give me such a hard time”
 
-- “massive fry-up as my main meal”
-- “she’ll eat these huge portions”
-- “this massive box, which makes it such a hassle”
-- “two big lads at the back, both of them huge”
-- “massive mistake”
-- “huge mutiny”
-- “massive fuss”
+Functions:
+- Express **surprise, amusement, anxiety, anticipation**.
+- Used as **turn-openers** and **story climaxes**.
+- Very typical of **informal, emotionally engaged storytelling** among peers.
 
-These are classic **colloquial hyperbolic evaluators**: not literal measurement, but “a lot”, “very”, “really intense”.
+b) “gonna” as colloquial future and stance projection
 
-b) Large-scale events and spaces
+Examples: t001195, t001258, t001261, t001351, t001354, t000454, t000452
 
-- “massive St Patrick’s Day street party… just huge”
-- “Radio One were doing some big thing”
-- “this massive room… huge square storage units”
-- “this massive light and fountain exhibition”
-- “big sweeping steps… huge fountain”
-- “such a huge area and such different landscapes”
-- “this massive bowl of sand with these huge dunes”
+- “you're gonna get brownie points now”
+- “I'm not gonna get it from here cos it's too expensive”
+- “I know what this is gonna be about now”
+- “we was gonna watch erm the Kingsman”
+- “she's gonna be s she did give me such a hard time”
+- “we are gonna like put us kids in school for a year”
+- “you always just gonna be there so that you can just keep the peace”
 
-Here the adjectives construct **vivid, large-scale scenes** – parties, landscapes, buildings, crowds.
+Functions:
+- Everyday **future reference** in speech.
+- Often embedded in **reported speech** and **narrative projection** (“what’s going to happen”, “what someone is going to do”).
+- Strongly indexes **informal, spoken, interpersonal** discourse.
 
-c) Strong affect and stance
+c) Strong negative evaluation and venting (fuck, shit, god in evaluative contexts)
 
-Even when not explicitly emotional, the adjectives help dramatise the narrative:
+Examples: t000453, t000452, t000450
 
-- “I thought we’d made a massive mistake”
-- “properly projectile vomiting”
-- “proper freaky moment”
-- “huge mutiny”
-- “massive fuss”
+- “my mum god her life just sounds so fucking sad”
+- “is your life actually that fucking sad”
+- “what the fuck is actually happening”
+- “can I not actually have an opinion in this house”
+- “that god is a thing that people can talk to and pray to”
 
-They function as **stance markers**, signalling the speaker’s emotional investment and dramatising the story.
+Functions:
+- **Intensified negative evaluation** of people and situations.
+- **Venting, frustration, criticism** of family dynamics, religion, or life circumstances.
+- Highly **stance-laden**, with strong personal involvement.
 
-d) Informal, conversational register
+d) Everyday, personal-life narratives
 
-The adjectives co-occur with other informal features:
+Across the excerpts, topics include:
+- family arguments and long-term tenants (t000454, t000452)
+- gossip about parents and book club (t000453)
+- relationship drama and Boxing Day plans (t001261)
+- going to Nando’s and the cinema (t001351)
+- shopping for Christmas pudding (t001258)
+- medical appointments and back pain (t001354)
+- casual talk about planes and films (t001195)
 
-- “loads of people”, “properly cheap”, “absolutely hammered”
-- “it was that bad”, “properly projectile vomiting”
-- “it was a proper freaky moment”
-- “it’s mad to think”
-- “really up for looking after you”
-- “they were absolutely mad”
+These are:
+- **first-person, experience-based stories**
+- rich in **reported speech** and **dialogue**
+- full of **stance markers** and **emotional reactions**
 
-So the dimension is not just “size” but **colloquial, story-telling evaluation of experiences**.
+4. Integrating loadings and examples
 
----
+Taking loadings and examples together, this pole is best characterised by:
 
-4. Discourse characterisation
+- **Register/style**:
+  - Highly **informal**, **spoken**, **colloquial**.
+  - Low monitoring, with frequent **discourse markers**, **fillers**, and **expletives**.
+  - Strong presence of **gonna** and formulaic exclamations (“oh my god”).
 
-Putting the loadings and examples together, this pole encodes a discourse style with these properties:
+- **Discourse function**:
+  - **Stance-heavy**: speakers evaluate, complain, gossip, and react.
+  - **Narrative and anecdotal**: recounting events, especially interpersonal conflicts and everyday mishaps.
+  - **Affective alignment**: inviting the listener to share emotional reactions (“oh my god”, “what the fuck”).
 
-- **Colloquial, narrative talk** about experiences (travel, nights out, mishaps, anecdotes).
-- Heavy use of **vague, scalar adjectives** (huge, massive, big, awful) as:
-  - size descriptors (physical scale, quantity, distance)
-  - intensity boosters (degree of emotion, seriousness, fun, fear)
-- Strong **speaker stance and evaluation**: events are framed as impressive, shocking, scary, brilliant, etc.
-- A tendency toward **hyperbolic, dramatized description** rather than neutral, measured description.
+- **Content domain**:
+  - **Personal and interpersonal**: family, partners, friends, social outings, health.
+  - Often **problem-focused** or **drama-focused**: arguments, frustrations, disappointments, gossip.
 
-Because this is the **negative** end of the factor and is dominated by GPT outputs, it suggests that the model, when simulating conversation, leans into a **highly evaluative, hyperbolic, “bigging up” style** more than humans do in this corpus.
+- **Source pattern**:
+  - Strongly associated with **human** turns.
+  - GPT outputs (both profiled and unprofiled) sit away from this pole, suggesting that LLMs are comparatively more restrained in:
+    - expletives and taboo language
+    - highly colloquial forms like “gonna”
+    - raw, emotionally charged venting.
 
----
+5. Possible labels for f2 (negative pole)
 
-5. Possible labels for this pole
+Focusing on this pole alone (no versus label), plausible discourse-dimension labels are:
 
-Any label should capture: (i) colloquial register, (ii) scalar size/intensity, (iii) evaluative stance.
+1. **Emotionally Charged Colloquial Storytelling**
+   - Captures:
+     - the informal spoken style (gonna, oh my god)
+     - the narrative structure (stories about family, relationships, outings)
+     - the strong affect (fuck, shit, god as expletives and stance markers).
 
-Plausible labels:
+2. **Affective Venting and Gossip in Everyday Talk**
+   - Emphasises:
+     - the **venting/complaining** function (family arguments, “what the fuck is actually happening”)
+     - **gossip-like evaluation** of others (mum’s “fucking sad” life, book club drama)
+     - the everyday, interpersonal focus.
 
-1. **Hyperbolic Size‑and‑Intensity Evaluation**
-   - Highlights the core lexical pattern (huge/massive/big) and their function as degree boosters.
+3. **Informal Stance-Heavy Personal Narratives**
+   - Highlights:
+     - the **stance** dimension (intense evaluation, emotional alignment)
+     - the **personal narrative** frame (first-person experiences, reported speech)
+     - the **informal spoken** character (gonna, expletives, discourse markers).
 
-2. **Colloquial ‘Bigging‑Up’ Narration**
-   - Emphasises the informal, story-telling use of “big”/“massive”/“huge” to dramatise events.
+Any of these three would be defensible. If a single label is needed, a compact formulation that reflects both the loadings and the examples is:
 
-3. **Expansive, Vivid Experience‑Talk**
-   - Focuses on how large-scale adjectives are used to make experiences feel expansive and vivid.
+**“Emotionally Charged Colloquial Personal Talk”**
 
-4. **Informal Scalar Stance and Exaggeration**
-   - Stresses that these are scalar stance markers used for exaggeration in informal talk.
-
----
-
-6. Recommended primary label
-
-If a single label is needed, a precise, discourse-oriented choice would be:
-
-> **Hyperbolic Colloquial Evaluation of Scale and Intensity**
-
-Justification:
-
-- **Hyperbolic**: captures the frequent exaggeration and dramatization.
-- **Colloquial**: reflects the informal, conversational register.
-- **Evaluation**: these adjectives are not neutral; they encode stance.
-- **Scale and Intensity**: “huge/massive/big/awful” jointly cover physical scale, quantity, and emotional/intensity scaling.
-
-This label aligns with both:
-- the **loadings** (size/intensity adjectives as the defining lexical set), and
-- the **examples** (LLM-generated, informal narratives that “big up” events, places, and feelings).
+This label:
+- foregrounds **emotionally charged** (fuck, shit, oh my god; venting, frustration, excitement),
+- **colloquial** (gonna, expletives, informal syntax),
+- **personal talk** (family, relationships, everyday experiences),
+and aligns with the fact that this pole is **driven by human conversational turns** rather than LLM-generated ones.

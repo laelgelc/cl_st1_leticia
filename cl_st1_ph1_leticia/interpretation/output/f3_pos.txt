@@ -1,136 +1,131 @@
-Interpretation of Factor 3 (positive pole)
+This pole is best interpreted as a **lexicalised discourse of scale and achievement**, strongly associated with profiled GPT turns.
 
-1. Which group is driving this pole?
+### 1. Who drives this pole?
 
-- Mean scores:
-  - Human: **0.31**
-  - Profiled GPT: **-0.14**
-  - Unprofiled GPT: **-0.12**
+Mean scores on f3:
 
-Human turns are clearly driving the positive pole; both GPT conditions sit on the negative side. So this pole is picking out a **distinctively human conversational style** that the LLMs largely avoid.
+- profiled_gpt: **+0.097**
+- unprofiled_gpt: +0.063  
+- human: **–0.195**
 
-2. Linguistic profile of the pole
+So the positive pole is clearly **LLM‑driven**, especially by **profiled GPT** outputs. Human turns are, on average, on the opposite side of the factor.
+
+### 2. Lexical loadings and what they encode
 
 High positive loadings:
 
-- **fuck (.98)** – extremely strong, the defining feature
-- **shit (.77)**
-- **god (.52)** (as an expletive: “oh my god”, “thank god”)
-- **guy (.48)**
-- (massive (.45))
-- **gonna (.40)**
-- (cos (.34))
-- (great (.34))
-- **minute (.33)**
+- **huge (.81), massive (.45)**  
+  → very strong, repeated **scalar evaluators of size/extent/intensity**  
+- **thinking (.77)**  
+  → metacognitive stance marker: “I’m thinking…”, “I’m just sat there thinking…”  
+- **manage (.35)**  
+  → achievement / successful coping: “they managed to construct…”, “I’d managed to fit it in…”, “he managed to get himself home…”  
+- **bloke (.43)**  
+  → colloquial British register, often used in narrative characterisation  
+- **single (.32)**  
+  → often part of scalar constructions (“every single thing”, “single day”), or status descriptors (“single bloke”), again evaluative.
 
-Two clusters stand out:
+Taken together, the loadings point to a **colloquial, evaluative narrative style** that:
 
-a) **Intensified, expletive-laden stance**
-- Very high-frequency taboo / expletive items: *fuck, shit, god*.
-- Used for:
-  - Strong evaluation: “too fucking much”, “that shit is dangerous”, “rough as fuck”
-  - Affective reaction: “oh shit”, “oh my god”, “what the fuck”
-  - Emphatic stance and alignment: “it fucks me off”, “I’m not gonna sit around”, “I don’t want to be fucking dominated”
+- foregrounds **bigness / extent** (huge, massive)
+- foregrounds **coping / accomplishment** (manage)
+- foregrounds **ongoing reflection** (thinking)
+- is **British‑colloquial in voice** (bloke, every single X)
 
-b) **Colloquial, time-bound narrative talk**
-- *gonna, cos* → informal, speech-like, planning/intentionality (“I’m gonna be my own fucking boss”, “they were always gonna do what they were gonna do”).
-- *guy* → casual reference to people, especially men (“these guys”, “any guy that I’m with”).
-- *minute* → often in short time expressions (“five minutes”, “in a minute”), anchoring stories in immediate, lived time.
+### 3. Evidence from the high‑scoring excerpts
 
-So lexically, this pole encodes **highly informal, emotionally charged, evaluative talk**, with strong swearing and colloquial reference to people and time.
+Across the examples, the loading items are not random; they cluster in a consistent discourse pattern.
 
-3. What the examples show (discourse functions)
+#### a. Scale and magnitude as a framing device
 
-Across the high-scoring excerpts, the loading words are not random; they cluster in specific discourse practices:
+“huge” / “massive” are used to frame:
 
-a) **Venting, complaint, and moral/evaluative stance**
+- **Quantities / datasets / spaces**  
+  - “this massive sifting process… from that huge pile of ordinary days” (t002630)  
+  - “this massive quantity of footage… this huge pile of material” (t002631)  
+  - “this massive room… these huge square storage units” (t002474)  
+  - “massive houses… huge Christmas tree” (t002358)  
+  - “massive box… both of them huge” (t002682)  
+  - “over such a huge area” (t002291)  
+  - “absolutely massive tower” (t002362)
 
-- t000194: extended rant about male-dominated management culture:
-  - “too fucking much”, “shut up fuck off”, “it’s shit it’s crap”, “no fucking man is going to fucking talk to me like that”
-  - Swearing is used to **condemn** a social environment and assert autonomy.
+- **Events / issues / reactions**  
+  - “It wasn’t even anything massive, just a day out, but she turned it into this big drama” (t002160)  
+  - “massive fry‑up… huge portions” (t002474, t001892)
 
-- t001017: anger and frustration about a neighbour and a friend:
-  - “what the fuck is the matter with this kid?”, “that shit is dangerous”, “this kid is fucked in the head”, “it fucks me off”
-  - Expletives mark **strong negative evaluation** and emotional upset.
+So “huge/massive” are doing **discourse work**: they scale up the situation, making it feel consequential, impressive, or excessive.
 
-- t001663: relationship talk, defining self-image:
-  - “I’m not one of these girls that like where the fuck were you? who have you been texting? all that sort of shit”
-  - Swearing is used **metapragmatically** to caricature a type of person and position the speaker against that type.
+#### b. Managing, coping, and achieving
 
-- t001181, t000978, t001077: complaining about awkward social situations, sports performance, interpersonal conflict:
-  - “that sounds a bit shit”, “then goes shit no backs off”, “I were inviting this shit”
-  - Again, expletives are doing **stance work**: judging situations, people, and one’s own actions.
+“manage(d)” consistently encodes **successful navigation of difficulty**:
 
-b) **Storytelling about recent, vivid experiences**
+- “they managed to construct a really powerful narrative” (t002630)  
+- “I’d managed to fit it in before everything got busy again” (t002160)  
+- “nobody had any idea how he’d managed to get up there” (t002474)  
+- “he manages to get himself home” (t002722)  
+- “the Incas managed to build and organise an empire across all of that” (t002291)  
+- “basically managed to flood the whole area” (t002362) – here, ironically, managing something *disastrous*
 
-- t001028: narrative of missing a bus:
-  - “oh shit I’ve done that before”, “oh thank god only five minutes to the bus”, “then I realised fuck it’s Saturday”
-  - Time anchoring with *minute* and repetition of “waited and waited” plus expletives → **dramatised anecdote**.
+This gives the pole a **problem–solution / challenge–outcome** flavour: narratives are structured around what people manage (or fail) to do in the face of large‑scale or tricky circumstances.
 
-- t001351: recounting a cinema trip:
-  - “oh my god when we were in…”, “we was gonna watch erm the Kingsman”, “the movie was starting in was six minutes”
-  - *oh my god* + *gonna* + precise minutes → **lively, in-the-moment recounting**.
+#### c. Ongoing reflection and stance (“thinking”)
 
-- t000894: skiing story:
-  - “five minutes after he’d gone”, “this little baby slope”, “I’m not gonna go”
-  - Again, *gonna* and *minute* in a **casual narrative frame**.
+“thinking” appears in first‑person stance frames:
 
-c) **Colloquial, peer-group register**
+- “I’m thinking back to those filmmaking projects…” (t002630)  
+- “What I’m thinking is that what we’re talking about is almost the reverse…” (t002631)  
+- “I’m just sat there thinking, what does she actually expect?” (t002160)  
+- “he’s lying there thinking he’s dying or something” (t002722)  
+- “I’m reading this thinking, well, you could’ve texted me…” (t002722)
 
-- Frequent *guy/guys*:
-  - “from the guys as you call it”, “these guys the three slowest centre backs”, “if any guy that I’m with…”
-  - This is **informal, peer-oriented reference**, not formal “men” or “people”.
+This is a **reflective, metacognitive narration**: speakers explicitly report their thought processes, often to evaluate others’ behaviour or to reframe the situation.
 
-- *gonna, cos*:
-  - “I’m gonna be my own fucking boss”, “it fucks me off cos I’m not his girlfriend”
-  - These forms index **spoken, relaxed, non-standard** style.
+#### d. Colloquial, story‑telling voice
 
-Overall, the examples show that this pole is not just “swearing” but a **cluster of emotionally intense, informal, story-like, evaluative talk**, strongly grounded in everyday social relations (work, relationships, friends, nights out, travel).
+The excerpts are rich in:
 
-4. Why LLMs are low on this pole
+- **Colloquial British lexis and constructions**: bloke, mad, keen guy, big lads, properly, loads, got to go, had a go, reckon, stuff, bit boring, drama, off his face, chuffed, proper vomiting, etc.
+- **Narrative sequencing**: “then… then… and then… after that… eventually… so after that disaster…”
+- **Evaluation and stance**: “really powerful”, “quite chuffed”, “so ridiculous”, “it’s insane”, “I’m honestly so jealous”, “it really annoys me”.
 
-Both GPT conditions have negative mean scores. That aligns with:
+The pole is therefore not just about “big things”; it is about **telling stories of big or intense situations in a strongly evaluative, reflective, colloquial way**.
 
-- Safety/appropriateness constraints → LLMs avoid heavy swearing (*fuck, shit*).
-- More neutral, polite, or “helpful” style → less venting, less raw interpersonal complaint.
-- Less spontaneous anecdotal “oh my god, five minutes later…” style; more structured, expository turns.
+### 4. Discourse interpretation
 
-So this factor is effectively picking out a **human, unfiltered conversational register** that the models underproduce.
+Putting the lexical and textual evidence together, this positive pole encodes a discourse style that:
 
-5. Proposed labels for f3 (positive pole)
+- **Foregrounds scale and intensity**: events, spaces, quantities, and problems are routinely framed as huge/massive, even when objectively mundane (a day out, a fry‑up, a Minecraft build).
+- **Narrativises coping and accomplishment**: “manage” structures the story around what people succeed (or fail) to do in the face of those scaled‑up circumstances.
+- **Makes thought processes explicit**: “thinking” introduces internal commentary, often evaluative or contrastive (“I’m thinking… what does she actually expect?”).
+- **Uses a colloquial, British‑inflected voice** to make these narratives feel conversational and personal.
 
-Any label should capture:
+This is especially characteristic of **profiled GPT** outputs, which appear to amplify:
 
-- Strong taboo/expletive use
-- High emotional intensity and evaluation
-- Informal, colloquial, peer-group talk
-- Narrative/episodic grounding in everyday life
+- scalar adjectives (huge, massive),
+- explicit metacognition (I’m thinking…),
+- and achievement framing (managed to…),
 
-Possible labels (for this positive pole only):
+to produce a vivid, story‑like conversational style.
 
-1. **“Expletive‑Intensive Colloquial Stance”**
+### 5. Possible labels for this pole
 
-   - “Expletive‑Intensive” reflects the dominant role of *fuck, shit, god* as stance markers.
-   - “Colloquial” captures *gonna, cos, guy* and the informal register.
-   - “Stance” foregrounds that these forms are used to evaluate, complain, align, and position self vs others.
+Any label should capture: (i) **scale/intensity**, (ii) **coping/achievement**, and (iii) **reflective, colloquial narration**. Some plausible labels:
 
-2. **“Emotionally Charged Everyday Storytelling”**
+1. **“Colloquial Big‑Scale Narrative & Coping Discourse”**  
+   - highlights the everyday, chatty voice (“colloquial”), the pervasive use of huge/massive (“big‑scale”), and the manage‑based achievement framing (“coping”).
 
-   - Highlights the anecdotal, time-bound narratives (“five minutes”, “in a minute”, “when we were in Nando’s”, “after New Year”) and the emotional colouring via swearing.
-   - Fits the many short, vivid stories about buses, cinema, weed, work, relationships.
+2. **“Evaluative Scale‑and‑Achievement Storytelling”**  
+   - foregrounds the evaluative use of scalar adjectives and the manage‑based achievement structure within narrative.
 
-3. **“Raw Interpersonal Venting Register”**
+3. **“Reflective High‑Magnitude Personal Narration”**  
+   - “reflective” from thinking, “high‑magnitude” from huge/massive, “personal narration” from the first‑person, story‑telling style.
 
-   - “Raw” signals the unfiltered, taboo-laden nature.
-   - “Interpersonal” points to the focus on relationships, conflict, and social judgement.
-   - “Venting” captures the recurrent discourse function: complaining, ranting, expressing frustration.
+If I had to choose one concise label grounded in both loadings and examples, I would propose:
 
-Any of these would be defensible. If I had to choose a single, compact label that best integrates the loadings and examples, I would opt for:
-
-**Expletive‑Intensive Colloquial Stance**
+> **Colloquial Big‑Scale Coping Narratives**
 
 because it directly encodes:
-
-- the **lexical core** (expletives + colloquial forms),
-- the **discourse function** (stance-taking, evaluation, venting),
-- and the fact that this is a **distinctively human, informal conversational mode** that the LLMs largely avoid.
+- **Colloquial**: bloke, loads, proper, etc.  
+- **Big‑Scale**: huge, massive, single (as intensifier)  
+- **Coping**: manage  
+- **Narratives**: the strongly story‑like, reflective use of thinking and sequential structure.

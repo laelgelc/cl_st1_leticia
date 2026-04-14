@@ -1,166 +1,170 @@
-Interpretation of Factor 5 (negative pole)
+This pole is driven almost entirely by human speech and is characterised by a small but very coherent lexical cluster:
 
-1. **Which group drives this pole?**
+- fuck (-.74)
+- set (-.52)
+- somebody (-.51)
+- great (-.40)
 
-- Mean scores:
-  - Human: **+0.037**
-  - Unprofiled GPT: **-0.099**
-  - Profiled GPT: **-0.126**
+Human turns have a clearly lower mean score (more negative) than both GPT conditions:
 
-Lower scores = stronger presence of this *negative* pole.  
-So this pole is **driven most strongly by profiled GPT**, then by unprofiled GPT; humans are slightly on the opposite side of the factor.
+- human: -0.12
+- profiled_gpt: +0.06
+- unprofiled_gpt: +0.06
 
-This is important: the discourse type we see here is **characteristic of LLM-generated turns under the profiled prompt**, not of human turns.
+So this is a *human‑driven* pole; the LLM outputs sit away from it (they are more neutral/positive on this factor), which fits the fact that GPT is generally less likely to use swearing and this kind of colloquial intensification.
 
----
-
-2. Linguistic profile of the pole
-
-High negative loadings:
-
-- **single** (-.84)
-- **thinking** (-.56)
-- **manage** (-.45)
-- **(awful)** (-.40)
-- **(become)** (-.34)
-- **full** (-.34)
-- **(horrible)** (-.34)
-- **(erm)** (-.32)
-
-Observations:
-
-- Core lexical set: **single, thinking, manage, full**  
-- Evaluative / stance items: **awful, horrible**  
-- Disfluency marker: **erm** (spoken-like hesitation)
-- Semantics:
-  - **thinking** → explicit metacognition, inner commentary
-  - **single** → scalar/quantifying (“every single”, “single action”, “every single practice”)
-  - **manage** → effortful success under difficulty (“managed to fit it in”, “manage the timing”, “managed to pass”)
-  - **full** → completeness/intensity (“full stacked cake”, “full on tears”, “full price”, “bowl full of gravy”)
-  - **awful / horrible** → strong negative evaluation of experiences
-  - **erm** → conversational, reflective hesitation
-
-Taken together, the loadings point to a discourse style that:
-
-- foregrounds **mental processing and evaluation** (“thinking”)
-- highlights **difficulty and effort** (“manage”)
-- uses **scalar and intensifying devices** (“single”, “full”, “awful”, “horrible”)
-- is **strongly subjective and stance-heavy**, often narrating experiences with explicit commentary.
+Below I propose labels, then justify them from loadings and excerpts.
 
 ---
 
-3. What the examples show
+## Proposed labels for f5 (negative pole)
 
-All 10 high-scoring texts are **profiled GPT**. They consistently show:
+Possible labels (all for this *single* pole):
 
-a) **Narrated personal episodes with internal commentary**
+1. **“Colloquial, affect‑intensified stance”**
+2. **“Human conversational vividness”**
+3. **“Informal evaluative storytelling”**
 
-- Ex. 001: conflict with mother over a couple outing; narrator’s inner sarcasm:
-  - “I’m just sat there **thinking**, what does she actually expect?”
-  - “every **single** thing I do with my boyfriend”
-- Ex. 003: breakup and guilt:
-  - “not some **single** action you should feel ashamed of”
-  - “I’ve gone over and over it in my head, feeling **awful**”
-  - “that way of **thinking**”
+I would prioritise something like:
 
-b) **Focus on coping, difficulty, and successful management**
+> **Colloquial, affect‑intensified stance**
 
-- Ex. 002 (wedding cake logistics):
-  - “the only practical way to **manage** the timing and the stacking”
-  - “so it still looks like a **full** stacked cake”
-- Ex. 005 (dream):
-  - “Somehow I’d **managed** to balance my plastic bowl **full** of gravy”
-- Ex. 006 (handbells):
-  - “The others **manage** with their colour‑marked notes”
-  - “up to twelve at a time… on a **single** clef”
-- Ex. 008 (driving test):
-  - “I failed that bit in every **single** practice I did, but somehow I **managed** to pass it in the real test.”
-- Ex. 010 (agency debt):
-  - “he **managed** to clear this massive £150,000 debt”
-
-c) **Intensified emotional and evaluative framing**
-
-- Ex. 004 (mother–daughter time before flight):
-  - “I’m just sat there **thinking**, are you actually kidding me?”
-  - “she starts crying, **full on** tears”
-- Ex. 007 (phone bill):
-  - “I’m **thinking**, what’s going on here then?”
-  - “it shows the **full** price”
-- Ex. 009 (legal high incident):
-  - “this really **horrible** trip”
-  - “he’s lying there **thinking** he’s dying”
-  - “he manages to get himself home”
-  - “Going on about how **awful** it was”
-
-d) **Perspective: highly subjective, often grievance- or problem-oriented**
-
-Across the excerpts, speakers:
-
-- recount **problems or tensions** (family conflict, relationship breakdown, unfair treatment, scary drug experience, confusing bills)
-- narrate **how they or others coped** or “managed”
-- embed **explicit thought reports** (“I’m just sat there thinking…”, “I’m reading this thinking…”)
-- use **intensifiers** to dramatise the situation (“every single practice”, “full on tears”, “really horrible trip”, “massive £150,000 debt”).
-
-Even the more neutral topics (handbells, theory test, cake logistics, dream) are framed around **difficulty and the effort to handle it**.
+because it captures:
+- the informal, spoken character (fuck, somebody, set in idiomatic uses)
+- the strong evaluative/attitudinal colouring (fuck as intensifier, great as positive evaluation)
+- the way speakers take a stance and animate stories.
 
 ---
 
-4. Integrating loadings and examples
+## Justification from loadings and examples
 
-Giving equal weight to loadings and examples:
+### 1. Lexical loadings
 
-- Loadings highlight:
-  - **metacognition** (thinking)
-  - **effortful coping** (manage)
-  - **scalar/intensifying emphasis** (single, full, awful, horrible)
-  - **spoken stance** (erm)
-- Examples show:
-  - **first-person, subjective narration of problematic or challenging situations**
-  - **explicit inner commentary** and evaluation
-  - **recurrent “somehow I managed…” framing**
-  - **amplification of emotional and practical stakes**
+The four loading items are few but semantically and functionally coherent:
 
-This pole is therefore not just “negative emotion” or just “planning/problem-solving”; it is a **stance-rich, narrative mode** where the speaker:
+- **fuck**  
+  - Very strong negative loading, highest magnitude.  
+  - Used here as:
+    - an intensifier (“dodgy as fuck”, “don’t know fuck all”)
+    - a verb (“they fucked her over”)
+  - Signals high informality, emotional involvement, and often emphasis or indignation.
 
-- recounts **events involving difficulty, tension, or risk**
-- foregrounds **how they think and feel about it**
-- emphasises **effort, coping, and outcome**.
+- **great**  
+  - Positive evaluation, often used colloquially (“that’s really great”, “that would be great”).  
+  - In these excerpts it is not formal praise but casual, interpersonal evaluation.
 
-It is also clearly **LLM-amplified** under the profiled prompt: the model tends to produce elaborated, introspective, emotionally coloured narratives with explicit thought-reporting and “manage to” constructions.
+- **somebody**  
+  - Refers to non‑specific persons in narratives (“somebody fucking says something”, “somebody did the biopsy”, “somebody’s sitting there going…”).  
+  - Often used to construct scenarios, generalised characters, or hypothetical participants in a story.
 
----
+- **set**  
+  - Appears in idiomatic or semi‑fixed expressions:
+    - “set foot in the lecture theatre”
+    - “a different set of responsibilities”
+    - “before even think about setting up a camera”
+    - “a personality is ever set”
+  - These are narrative/argumentative constructions rather than technical “setting” in a formal sense.
 
-5. Possible labels for this pole
+Taken together, these words point to:
 
-Focusing on this pole alone (no versus label), and aiming to capture both the lexical pattern and the discourse function, I propose:
+- **Spoken, informal register** (fuck, great, somebody)
+- **Narrative and scenario‑building** (somebody, set in “set foot”, “set of responsibilities”)
+- **Strong stance and evaluation** (fuck as intensifier, great as positive stance marker)
 
-1. **“Introspective Coping Narratives”**
-
-   - *Introspective*: driven by **thinking**, explicit inner commentary, stance.
-   - *Coping*: central role of **manage**, dealing with difficulty, “somehow managed…”.
-   - *Narratives*: almost all excerpts are **story-like accounts** of specific episodes.
-
-2. **“Intensified Problem‑Experience Discourse”**
-
-   - *Intensified*: **single, full, awful, horrible** as scalar and emotional intensifiers.
-   - *Problem‑Experience*: focus on **problems, tensions, or challenges** (family rows, guilt, debt, scary trips, tricky tests).
-   - *Discourse*: realised as extended, evaluative talk rather than isolated evaluations.
-
-3. (More technical/LMDA-style) **“Subjective Difficulty‑Management Stance”**
-
-   - *Subjective*: heavy use of first-person perspective and thought-reporting.
-   - *Difficulty‑Management*: lexical core of **manage**, plus contexts of effort and challenge.
-   - *Stance*: explicit evaluation (“awful”, “horrible”) and metacommentary on events.
+So the lexical profile is not about a topic (e.g. health, cars, universities) but about *how* speakers talk: vividly, evaluatively, and colloquially.
 
 ---
 
-6. Summary characterisation
+### 2. Evidence from the excerpts
 
-Factor 5 (negative pole) represents a **stance-heavy, introspective narrative discourse** in which speakers:
+All 10 high‑scoring texts are human; none are GPT. They are long, rambling, and highly conversational. Key patterns:
 
-- recount **specific, often problematic or emotionally charged episodes**
-- explicitly report their **thoughts and feelings** about what happened
-- highlight **effort, coping, and successful or partial management**
-- use **intensifiers and strong evaluative adjectives** to dramatise the experience.
+#### a. Swearing as stance and intensification
 
-This discourse mode is **most strongly produced by profiled GPT**, suggesting that the socio-demographic profiling prompt encourages the model to generate elaborated, introspective “coping stories” with marked subjective evaluation and difficulty-management framing.
+- “when **somebody fucking says** something in a really interesting way” (t000413)  
+- “even if you don't know **fuck all** and if you know shitloads” (t000417)  
+- “it made flooding noises so like I knew it was **dodgy as fuck** anyway” (t000043)  
+- “they **fucked her over** and she had to go to hospital” (t000483)  
+- “I'm **fucking** poor” (t000816)
+
+Functions:
+- Intensifying evaluation (dodgy as fuck, fucking poor)
+- Expressing frustration or indignation (fucked her over)
+- Adding vividness and authenticity to reported experience.
+
+This is classic high‑involvement, colloquial stance‑taking.
+
+#### b. “Great” as casual positive evaluation
+
+- “I was like oh that's really **great**” (t000816)
+- “I think for you that would be **great** because you need challenging” (t000417)
+- “that's a quite a different **set** of responsibilities really” … “the **greatest** variation is” (t001501 – “greatest” is morphologically related)
+- “there's a **great** story about Irving Thalberg” (t000829)
+- “I've had this **great** idea” (t000942)
+
+“Great” here is not formal or technical; it is a conversational evaluation of ideas, stories, or situations. It contributes to an evaluative, stance‑rich discourse.
+
+#### c. “Somebody” as generic participant in vivid scenarios
+
+- “when **somebody fucking says** something in a really interesting way” (t000413)
+- “the misconception is about **somebody's** sitting there going what is a misconception?” (t000417)
+- “and **somebody** did the biopsy on that” (t000005)
+- “they obviously had **somebody** else who actually like closes it all” (t000043)
+- “if you think you're entitled to it fight for it … then **somebody** who's qualified like a surgeon will say no” (t000483)
+- “oh my god **somebody's** come and asked me to go and have a coffee with them” (t000942)
+- “I see **somebody** who is evolving” (t001038)
+
+Uses:
+- Generic “somebody” to build hypothetical or typical scenarios.
+- Non‑specific reference to actors in narratives (somebody did the biopsy, somebody else closes the deal).
+- Constructing imagined dialogues and inner speech (“somebody's sitting there going…”).
+
+This supports the idea that this pole encodes **storytelling and scenario‑building** with generic human participants, rather than precise, technical reference.
+
+#### d. “Set” in idiomatic, narrative, or evaluative contexts
+
+- “before you've even **set foot** in the lecture theatre” (t000413)
+- “that's a quite a different **set** of responsibilities really” (t001501)
+- “before even think about **setting up** a camera” (t000829)
+- “I don't think a personality is ever **set**” (t001038)
+
+These are not technical uses (e.g. “data set”) but idiomatic or abstract uses that fit conversational explanation and evaluation.
+
+#### e. Overall discourse style
+
+Across the excerpts we see:
+
+- Long, loosely structured turns with many discourse markers (“like”, “you know”, “erm”, “sort of”).
+- Heavy use of reported speech and imagined dialogue:
+  - “people go I've actually seen that happen” (t000413)
+  - “the lecturer was like oh my god somebody's come and asked me…” (t000942)
+  - “I said to my first year students…” (t000417)
+- Strong interpersonal orientation and stance:
+  - Encouraging, advising, or challenging the interlocutor (t000417, t001038, t000942).
+  - Expressing indignation or frustration about institutions (NHS, universities, car dealers).
+
+This is not neutral description; it is **highly involved, evaluative, and affect‑laden** talk.
+
+---
+
+### 3. Which group drives the pole?
+
+- Mean scores show humans are more negative on f5 than both GPT conditions.
+- All top‑scoring texts at this pole are human.
+- The key loading item “fuck” is extremely unlikely in GPT outputs under normal safety constraints, which will push GPT texts away from this pole.
+- GPT outputs, even when “profiled”, tend to avoid strong profanity and may use “great” in more polished, less colloquial ways, and are less likely to use “somebody” in the generic, scenario‑building style seen here.
+
+So this pole is clearly **human‑driven**, and more specifically driven by **informal, emotionally engaged human conversation**.
+
+---
+
+## Why “Colloquial, affect‑intensified stance” fits
+
+- **Colloquial**:  
+  - Swearing, “like”, “you know”, long unplanned turns, generic “somebody”.
+- **Affect‑intensified**:  
+  - fuck as intensifier and expression of anger/frustration; great as positive evaluation; strong emotional colouring of narratives.
+- **Stance**:  
+  - Speakers are not just recounting events; they are evaluating, advising, challenging, and positioning themselves and others (students, lecturers, doctors, car dealers, universities).
+
+Alternative labels like “informal evaluative storytelling” or “human conversational vividness” also capture aspects of this pole, but “colloquial, affect‑intensified stance” foregrounds both the register (informal, human) and the key functional property (strong stance and affect), which are jointly signalled by the loading items and the excerpts.

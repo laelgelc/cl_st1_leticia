@@ -1,129 +1,113 @@
-Interpretation of Factor 1 (negative pole)
+Interpretation of Factor f1 (negative pole)
 
-1. **Which group drives this pole?**
+1. Which group is driving this pole?
 
-- Mean scores:
-  - profiled_gpt: **-1.08**
-  - unprofiled_gpt: **-1.05**
-  - human: **-0.60**
+- Mean scores (higher = more positive f1; lower = more negative f1):
+  - profiled_gpt: 1.04  
+  - unprofiled_gpt: 1.02  
+  - human: 0.57  
 
-All three groups are on the negative side, but both LLM conditions are substantially *more* negative than the human data, with **profiled_gpt slightly strongest**. So this pole is **LLM‑driven**, especially by profiled GPT outputs.
+For the negative pole, we look at the *lowest* mean scores. Humans are clearly lowest, so **the negative pole is human‑driven**. GPT texts (both profiled and unprofiled) cluster much more towards the positive side of this factor.
 
----
+So this pole is picking out a discourse style that humans use much more than the LLMs.
 
-2. Linguistic profile of the pole
+2. Linguistic loadings
 
-Top negative loadings:
+Negative pole loadings (strongest first):
 
-- **Cognitive/epistemic & evaluation**:  
-  - *clear (-.56), expect (-.42), real (-.41), (sense (-.37)), (seem (-.33))*
-- **Effort, persistence, management of action**:  
-  - *bother (-.46), stick (-.43), carry (-.39), push (-.38), try (-.37)*
-- **Temporal framing**:  
-  - *month (-.40), moment (-.37)*
-- **Scalar / totalising / contrastive items**:  
-  - *least (-.39), nothing (-.37), everything (-.32), same (-.31)*
-- **Perception / communication**:  
-  - *sound (-.36), speak (-.34)*
+- shit (−.78)
+- horrible (−.42)
+- bloke (−.41)
+- minute (−.33)
 
-Taken together, these are not topic words but **stance and event‑management words**: they organise expectations, effort, clarity, and the scope of what is happening (“nothing”, “everything”, “at least”, “same”).
+Key points:
 
-Across the excerpts, these items are used to:
+- The dominant marker is **shit**, a high‑frequency, strongly evaluative swear word in colloquial British English.
+- **horrible** is another strongly negative evaluative adjective.
+- **bloke** is an informal, colloquial term for ‘man’, strongly associated with spoken British English and everyday talk.
+- **minute** in conversation often appears in expressions like “in a minute”, “wait a minute”, “give me a minute”, which are informal, interactional timing devices.
 
-- Contrast **expectations vs. outcomes** (*expect, at least, nothing, everything, same*).
-- Mark **clarity vs. confusion** (*clear, sense, seem, sound*).
-- Describe **sustained or burdensome effort** (*carry, push, bother, try, stick*).
-- Frame events in **time and sequence** (*month, moment*).
+Taken together, the loadings point to:
 
----
+- **Colloquial, informal British conversational style**
+- **Strong negative evaluation and complaint**
+- **Emotionally charged, stance‑heavy talk about people and situations**
 
-3. What the high‑scoring texts are doing
+3. What the examples show
 
-All 10 examples are profiled_gpt, and they are remarkably consistent in discourse function. They are extended, coherent narratives or explanations where the speaker:
+All 10 high‑scoring texts are human, and all are anchored by **shit**. Across the excerpts, shit is used in several ways:
 
-- Recounts **practical situations** (teaching, sports events, travel, church service, medical diagnosis, publishing, politics, career change).
-- Emphasises **mismatches between what should happen and what actually happens**.
-- Reflects on **responsibility, burden, and process** (“I end up… carrying them”; “all that faffing about”; “it just carried on and on”; “we’ve already done this”; “it’s all a bit of a farce”).
-- Uses **totalising and contrastive framing** (“nothing at all”, “everything depends on me”, “at least we’re sorted”, “same day”, “same team”, “it’s the same with…”).
+- As a general negative evaluation of a state/situation:
+  - “be in a shit mood”
+  - “it's just shit like rude in general”
+- As part of a dismissive/hostile stance:
+  - “all that sort of shit”
+  - “they just don't give a shit”
+  - “I were inviting this shit”
+- As an insult or negative label for a person:
+  - “he were a violent shit”
+  - “they're shit at people skills”
+- As a negative evaluation of someone’s behaviour/character:
+  - “it shit about my sister”
+  - “not give a shit”
 
-Illustrative patterns:
+Across the excerpts, the surrounding discourse consistently involves:
 
-- **Expectation vs. reality / procedural friction**
-  - “I just don’t connect with the way I’m expected to teach at the moment… everything depends on me improvising and carrying them.”
-  - “We head back… expecting it all to be straightforward now… ‘No, his school’s not on here.’”
-  - “For about eighteen months… I kept saying… and it just carried on and on… the thyroid became the explanation for everything… then a very simple procedure… same day… cancer.”
+- **Narratives of interpersonal conflict or frustration**  
+  – partners working too much, ex‑boyfriends being violent, landlords being rude, parents not caring, colleagues/managers being bad at people skills, social media drama, etc.
 
-- **Managing confusion and restoring order**
-  - “For a moment it was all a bit of a muddle, but eventually it sorted itself out and we got back on track.”
-  - “It’s no skin off their nose… but it is slightly odd not to have any kind of letter explaining what they’ve done, you’d think they’d want it all in writing.”
-  - “We’ve been standing there, in the rain, talking to the wrong people… all that faffing about… it’s all a bit of a farce.”
+- **Strong stance‑taking and alignment**  
+  – speakers position themselves morally and emotionally: “I'm not that sort of person”, “they just don't give a shit”, “he were a violent shit”, “I'm so proud of you… it shit about my sister”.
 
-- **Globalising and calibrating stance**
-  - “There weren’t those really engaging… materials that make the learning objectives clear.”
-  - “At least we’re sorted.”
-  - “Most of the series we’ve got have at least one random hardback stuck in the middle… it’s the same with your Diary of a Wimpy Kid books.”
-  - “In this kind of entrepreneurial stuff there are these common themes… but at the same time everyone’s path is quite individual.”
+- **Highly informal, speech‑like style**  
+  – lots of discourse markers and fillers (“like”, “you know”, “sort of thing”, “cos”, “erm”), first‑person narratives, and unplanned spoken syntax.
 
-These texts are not just narrating events; they are **commenting on how well systems, processes, or relationships work**, and on the speaker’s **position within those systems** (over‑burdened teacher, confused parent at a race, mis‑diagnosed patient, consumer annoyed by publishing strategies, etc.).
+Crucially, the **loading word shit is doing the core discourse work**: it intensifies negative stance, marks emotional involvement, and indexes a casual, intimate register.
 
----
+4. Integrating loadings and examples
 
-4. Discourse functions encoded at this pole
+Weighting loadings (whole corpus) and examples (top 10 texts) equally, the negative pole of f1 can be characterised as:
 
-Balancing the loadings and the examples, this pole encodes a cluster of related discourse functions:
-
-1. **Expectation management and misalignment**
-   - Frequent use of *expect, at least, nothing, everything, same* to contrast what was anticipated with what actually occurred.
-   - Narratives often pivot on “we thought X, but actually Y”.
-
-2. **Process‑oriented, problem‑centred narration**
-   - Detailed recounting of **procedures, sequences, and institutional interactions** (school registration, medical referrals, booking upgrades, team selection).
-   - Emphasis on **snags, delays, and workarounds** rather than just outcomes.
-
-3. **Burden, effort, and responsibility**
-   - *carry, push, bother, try, stick* highlight who has to do the work, who improvises, who is inconvenienced.
-   - Speakers often position themselves as **having to carry others or the situation**.
-
-4. **Reflexive evaluation and clarification**
-   - *clear, real, sense, seem, sound, speak* used to evaluate how understandable, fair, or “real” the situation is.
-   - Speakers explicitly **clarify, justify, or re‑frame** what is going on (“I can just sit them down and say look, this is why…”; “I’d talk them through that…”).
-
-5. **Scalar and totalising framing**
-   - *nothing, everything, at least, same* used to **scope and intensify** evaluations (“nothing problematic at all”, “the explanation for everything”, “at least we’re sorted”).
-
-This is not simply “complaining”: many texts are measured, explanatory, and reflective. The common thread is **narrative attention to friction between systems/expectations and lived experience**, with explicit management of stance and responsibility.
-
----
+- **Register/style**: highly informal, colloquial, speech‑like, with British flavour (shit, bloke).
+- **Function**: expressing **strong negative evaluation**, complaint, and emotional reaction to people and events.
+- **Stance**: involved, subjective, often morally charged; the speaker is not neutral but clearly judging others’ behaviour or situations.
+- **Source**: overwhelmingly **human**; GPT outputs, even when profiled, are much less likely to use this kind of swearing and raw negative stance, hence their higher (more positive) mean scores.
 
 5. Possible labels for this pole
 
-Any label should capture:
+Focusing on this pole alone (no versus label), plausible discourse‑dimension labels include:
 
-- Narrative, process‑oriented recounting
-- Focus on expectations vs. outcomes
-- Emphasis on burden, effort, and systemic friction
-- Reflexive, evaluative stance
+1. **“Colloquial Negative‑Stance Complaint Discourse”**  
+   - Captures:
+     - colloquial register (shit, bloke, minute as timing device)
+     - negative stance (shit, horrible)
+     - the dominant function of complaining about people/situations.
 
-Plausible labels (for this negative pole only):
+2. **“Emotionally Charged Interpersonal Evaluation”**  
+   - Emphasises:
+     - strong emotional involvement
+     - evaluation of others’ behaviour and relationships (partners, exes, landlords, managers, parents).
 
-1. **“Expectation–Outcome Misalignment Narration”**  
-   - Highlights the central role of *expect, at least, nothing, everything, same* and the recurrent pattern of “we expected X, got Y”.
-   - Fits both mundane and serious examples (party, race, travel, diagnosis).
+3. **“Informal Swearing‑Based Evaluation Style”**  
+   - Highlights:
+     - the central role of shit as a resource for evaluation and stance
+     - the specifically informal, taboo‑lexis‑based way of doing that evaluation.
 
-2. **“Process‑Focused Problem and Burden Talk”**  
-   - Emphasises the procedural, step‑by‑step recounting of **problems in systems** and who has to *carry, bother, try, stick* with them.
-   - Captures the sense of being over‑responsible or inconvenienced.
+Any of these would be defensible. If a single label is needed, the most comprehensive, loadings‑ and example‑driven formulation is:
 
-3. **“Reflexive Friction with Systems”**  
-   - Brings in the evaluative, reflective use of *clear, real, sense, seem, speak* to comment on how institutions, arrangements, or social setups actually work in practice.
-   - “Friction” covers both minor irritations (mixed book formats) and serious institutional failures (delayed cancer diagnosis).
+**Colloquial Negative‑Stance Complaint Discourse**
 
-If I had to choose a single label that best integrates the loadings and the examples, I would propose:
+This label reflects:
 
-> **Reflexive Expectation–Outcome Friction**
+- **Colloquial**: indexed by shit, bloke, minute and the spoken style in the excerpts.
+- **Negative‑Stance**: encoded lexically by shit, horrible and pragmatically by the narratives of frustration and conflict.
+- **Complaint Discourse**: the recurrent discourse function across the high‑scoring texts is to complain about, criticise, or vent about people and situations.
 
-- **“Expectation–Outcome”**: grounded in the high‑loading items (*expect, at least, nothing, everything, same*) and the recurrent narrative structure.
-- **“Friction”**: captures the procedural snags, burdens, and mismatches.
-- **“Reflexive”**: reflects the heavy use of stance and clarity markers (*clear, real, sense, seem, sound, speak*) and the metacommentary on what “should” happen.
+6. Group driving the pole
 
-This label characterises the negative pole as a discourse style where speakers (here, especially profiled GPT outputs) **tell stories about how things don’t quite work as expected, explaining, evaluating, and negotiating their own role and effort within those imperfect systems.**
+- The **human group** is clearly driving this negative pole:
+  - They have the lowest mean f1 scores.
+  - All top negative‑pole examples are human.
+  - The key lexical marker (shit) is typical of unconstrained human conversation but strongly dispreferred in GPT outputs under standard safety and politeness constraints.
+
+So, Factor f1 (negative pole) can be interpreted as a **human‑driven dimension of colloquial, emotionally involved complaint and negative evaluation, heavily realised through swearing and informal British conversational lexis.**

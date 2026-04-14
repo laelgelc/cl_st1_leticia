@@ -1,166 +1,174 @@
-This pole is best understood as a **discourse of constructive change and evaluative framing**, strongly associated with human speakers.
+Interpretation of Factor 4 (positive pole)
 
----
+1. Which sources drive this pole?
 
-## 1. Who drives this pole?
+- Mean scores:
+  - profiled_gpt: 0.83  
+  - unprofiled_gpt: 0.80  
+  - human: 0.33  
 
-Mean scores are very similar, but humans are slightly higher:
+All three groups are on the positive side, but both GPT conditions are substantially higher than humans, with profiled_gpt slightly leading. So this pole is strongly LLM‑driven, especially by profiled GPT outputs, but it is not an artefact of GPT alone: humans also pattern positively, just less extremely.
 
-- human: 0.228  
-- profiled_gpt: 0.190  
-- unprofiled_gpt: 0.188  
+2. Lexical loadings: what kind of discourse is this?
 
-All three groups use this discourse, but **human turns are the main driver** of the positive pole.
+High positive loadings:
 
----
+- Strongest:
+  - push (.53)
+  - (least (.47))
+  - bother (.45)
+  - feel (.39)
+  - stick (.37)
+- Also:
+  - clear (.35)
+  - carry (.34)
+  - (more (.34))
+  - (way (.34))
+  - expect (.32)
+  - make (.32)
+  - (everyone (.31))
+  - head (.30)
 
-## 2. Linguistic profile of the pole
+Several things stand out:
 
-High-loading items:
+- Mental / affective stance:
+  - feel, head, bother  
+  These index internal states, evaluation, and cognitive processing (“in my head”, “I feel”, “doesn’t bother me”).
 
-- **build (.71)**
-- **fact (.67)**
-- **become (.61)**
-- **huge (.43)**
-- **great (.41)**
-- **change (.37)**
-- **set (.32)**
-- **somebody (.32)**
+- Managing responsibility and effort:
+  - push, carry, expect, make, bother  
+  These are about exerting effort, placing demands, or refusing to expend effort (“push them”, “carry them”, “expect her to manage”, “wouldn’t bother with maths”).
 
-Two clusters stand out:
+- Stability / persistence:
+  - stick  
+  Often used in “stick to” rules, systems, or patterns.
 
-1. **Process / transformation verbs**  
-   - build, become, change, set  
-   These encode *development, construction, and transition* (building things, becoming something, changing, setting things up).
+- Clarity and structure:
+  - clear, way, more, everyone  
+  “Make it clear”, “clear boundaries”, “the way things have turned out”, “everyone” as a generalized participant.
 
-2. **Evaluative and evidential framing**  
-   - fact, great, huge, somebody  
-   - fact: marking information as real, important, or evidential  
-   - great/huge: positive, often emphatic evaluation  
-   - somebody: generic human reference, often used to frame examples or roles (“somebody did the biopsy”, “we had somebody who…”)
+Overall, the loadings point to a discourse where speakers:
 
-So lexically, this pole combines:
+- Explicitly articulate how they feel and think.
+- Reflect on who should do what (responsibility, expectations).
+- Emphasise clarity, rules, and structure.
+- Talk about being stuck or needing to “stick” to a system or pattern.
 
-- **talk about processes of building/setting up and becoming/changing**, with
-- **explicit evaluation and evidential marking**, and
-- **generic human roles (“somebody”) in those processes**.
+3. What do the high‑scoring excerpts actually do?
 
----
+Across the 10 examples, the same pattern recurs. I’ll summarise the discourse functions rather than go excerpt by excerpt.
 
-## 3. What the examples show
+a) Metacognitive and affective self‑explanation
 
-All top-scoring texts are human. Across them, the loading words pattern in two main discourse functions.
+Many texts are extended reflections on internal states, often contrasting:
 
-### a) Personal and psychological transformation
+- what they “feel” vs. what they “think” or “expect”
+- past vs. present feelings
+- what “should” be the case vs. what actually is
 
-Ex. t001038 (become, change, set, somebody):
+Examples:
 
-- “somebody who is evolving… we are always evolving we always changing”
-- “I don't think a personality is ever set”
-- “you do become a different person”
-- “you are reinvented in every now”
-- “life changing… recreating or creating something new”
+- “it wasn’t because everything was suddenly sorted in my head… it was the guilt I’d been carrying eased off… the improvement was more about reduced guilt than a strong, clear desire to come back” (t002096)
+- “I feel like I’ve got no right to kick off… that’s why this is doing my head in… I’m stuck between not wanting to be a cow and actually wanting a bit more from him” (t003368)
+- “when something doesn’t make sense or won’t stick in my head, I feel different from the confident person I once was” (t002874)
 
-Here, **become/change/set** are used to theorise identity as fluid and developing. The speaker constructs a discourse of **ongoing personal transformation**, with “somebody” as a generic person undergoing change.
+These are not just emotional outbursts; they are analytical, unpacking feelings, causes, and contradictions.
 
-Ex. t000190, t001682 (fact, become):
+b) Negotiating responsibility, expectations, and agency
 
-- “you do become better at it”
-- “I do get a bit concerned about that fact that his world's smaller so this has become a big thing in his life”
+Several excerpts explicitly discuss who should carry responsibility, how much effort is reasonable, and what others can fairly be expected to do:
 
-Again, **become** marks gradual change in ability or perspective; **fact** highlights a salient, somewhat problematic reality. This is **reflective talk about how people and situations develop over time**.
+- Teaching / classroom management:
+  - “I made it clear I was only interested in how they behaved in my lessons… I’d push them: ‘Right then, if you know the difference, you don’t play up for me, agreed?’” (t001979)
+  - “I just don’t connect with the way I’m expected to teach… I end up feeling a bit lost, as if everything depends on me improvising and carrying them. I don’t think it should be like that; the responsibility should sit more with the learners.” (t002681)
+  - “she was so vulnerable, and it felt completely inappropriate to expect her to manage on her own like that… as long as you gave her clear boundaries and routines she responded really well, she knew what was expected” (t001779)
 
-### b) Building, setting up, and institutional/organisational processes
+- Relationships:
+  - “I feel like I’ve got no right to kick off… I’m stuck between not wanting to be a cow and actually wanting a bit more from him” (t003368)
+  - “there doesn’t have to be a villain here… the only way either of us gets any peace is by letting go of the guilt and that way of thinking” (t002099)
+  - “I honestly thought if we just sat down and talked, we could clear the air and then carry on as friends… All of that has always made me feel like he thought I was a bit over the top… So hearing him suddenly say he loved me… really threw me.” (t002930)
 
-Ex. t000652 (build, set, great):
+Responsibility is constantly being allocated, resisted, or renegotiated: who should behave, who should manage, who should feel guilty, who should carry whom.
 
-- “started building this town”
-- “I just sort of set up the basics”
-- “he made it look beautiful… a huge huge great barn”
+c) Emphasis on clarity, structure, and “making things clear”
 
-Ex. t001629 (build, great):
+Several texts explicitly foreground making things clear, setting boundaries, or having a system:
 
-- “I had to sort of build it up for myself”
-- “didn't exactly give me a great deal of direction”
-- “start and build it all myself”
+- “I always divide [the A4 sheet] into three sections… so she’s got a clear record… The idea is that the sheet makes sense to them, not that it’s technically perfect.” (t002025)
+- “There aren’t those really engaging… materials that guide the students through and make the learning objectives clear and motivating.” (t002681)
+- “I made it clear I was only interested in how they behaved in my lessons.” (t001979)
+- “as long as you gave her clear boundaries and routines she responded really well, she knew what was expected” (t001779)
+- “I honestly thought if we just sat down and talked, we could clear the air and then carry on as friends” (t002930)
 
-Ex. t001501 (great, set, somebody):
+So clarity is not just a lexical item; it is a discourse goal: explaining, structuring, and making expectations explicit.
 
-- “we had somebody who… covered all science and engineering disciplines”
-- “that's a quite a different set of responsibilities”
-- “this is where the greatest variation is”
-- “we would set up… group work sessions” (implied by “set” in context)
+d) Being “stuck”, “carrying” things, and cognitive load
 
-These are **procedural, institutional, or project-oriented narratives**: building towns, building roles, building a job remit, setting up modules and services. “Somebody” is used to refer to role-holders in an organisation. “Great” often evaluates scale or importance (“great barn”, “greatest variation”).
+The verbs stick, carry, head, bother, push often appear in metaphorical or psychological senses:
 
-### c) Evaluative framing and evidential “fact”
+- “the only real ‘system’ I stick to is my A4 sheet” (t002025)
+- “this is doing my head in a bit” (t003368)
+- “a lot of the guilt I’d been carrying eased off” (t002096)
+- “the whole guilt thing… keeps us stuck” (t002099)
+- “when something doesn’t make sense or won’t stick in my head” (t002874)
+- “I end up feeling a bit lost, as if everything depends on me improvising and carrying them” (t002681)
 
-Ex. t000005, t000417, t000942, t001662 (fact, great, somebody):
+These suggest a discourse of cognitive and emotional load: burdens carried, things that won’t “stick” mentally, situations that “do your head in”, and the need to push or not bother.
 
-- “in fact they even organised…”
-- “that would be great because you need challenging”
-- “the fact that you've putting it in your online course…”
-- “in fact actually in a way it was really bad news to me”
-- “it was a great big tome… a real good medical handbook”
+4. How do loadings and examples converge?
 
-Here **fact** introduces or highlights key points, often contrasting expectations or underlining significance. **Great/huge** provide **strong positive or scalar evaluation** (great big balloon, great idea, great big tome). “Somebody” again marks generic participants in scenarios (somebody did the biopsy; somebody’s sitting there going…).
+If we align the lexical loadings with the discourse functions in the examples, we get a coherent picture:
 
-Across these examples, the discourse is:
+- feel, head, bother → explicit talk about internal states, confusion, distress, reluctance to expend effort.
+- push, carry, expect, make, everyone → negotiation of effort, obligation, and distributed responsibility across participants.
+- stick, clear, way, more, least → orientation to stable systems, clear rules, and “the way” things are or should be.
 
-- **about how things and people are built up, set up, and change over time**, and
-- **framed with explicit evaluation (great/huge) and evidential marking (fact)**, often via
-- **generic human roles (somebody) in those processes**.
+Crucially, this is not just “emotional talk”; it is reflective, often quasi‑explanatory discourse about:
 
----
+- how one feels,
+- why one feels that way,
+- what should be expected of self and others,
+- and how to structure situations to make them manageable or fair.
 
-## 4. Proposed labels and justification
+5. Role of human vs. LLM groups
 
-Any label should capture both:
+- All high‑scoring examples provided are from profiled_gpt.
+- Mean scores show:
+  - profiled_gpt ≈ unprofiled_gpt >> human.
 
-- the **processual / developmental** aspect (build, become, change, set), and  
-- the **evaluative / evidential framing** (fact, great, huge, somebody).
+So the LLM, especially under the profiled prompt, amplifies this style: long, introspective, carefully structured explanations of feelings, expectations, and responsibilities. Humans also use this discourse, but less intensely and less consistently.
 
-Possible labels:
+This suggests that the factor is not purely an artefact of synthetic text, but GPT outputs—especially when given socio‑demographic profiles—tend to produce highly elaborated versions of this reflective, responsibility‑oriented discourse.
 
-1. **“Constructive Change and Evaluation”**  
-   - “Constructive” reflects *build, set* (constructing projects, roles, situations).  
-   - “Change” reflects *become, change* (personal and situational transformation).  
-   - “Evaluation” reflects *fact, great, huge* and the way speakers frame these processes as significant, positive, or problematic.
+6. Possible labels for f4 (positive pole)
 
-2. **“Developmental Narratives of Building and Becoming”**  
-   - Emphasises the narrative, temporal aspect: people recount how they or their work “build up”, “become better”, “change”, “set up” things.  
-   - Fits both personal-identity talk (t001038, t000190, t001682) and institutional/professional accounts (t000652, t001501, t001629).
+Any label should capture:
 
-3. **“Evidential, Evaluative Talk about Growth and Construction”**  
-   - “Evidential” foregrounds *fact* as a discourse marker.  
-   - “Evaluative” captures *great, huge*.  
-   - “Growth and construction” covers *build, become, change, set*.
+- explicit expression and analysis of feelings and thoughts;
+- negotiation of responsibility, expectations, and effort;
+- emphasis on clarity, structure, and “making things clear”;
+- a sense of cognitive/emotional load (guilt, being stuck, carrying burdens).
 
-Among these, the most compact and accurate for this pole is:
+Plausible labels:
 
-> **Constructive Change and Evaluation**
+1. **Reflective Responsibility and Emotional Load Discourse**
 
-Because:
+   - “Reflective” for the metacognitive, explanatory treatment of feelings and situations.
+   - “Responsibility” for the recurrent negotiation of who should do what, who should carry whom, and what is expected.
+   - “Emotional Load” for guilt, worry, feeling stuck, and burdens being carried or released.
 
-- It generalises across **personal growth**, **professional/institutional building**, and **project construction**.
-- It captures the **lexical core**:  
-  - constructive: build, set  
-  - change: become, change  
-  - evaluation: fact, great, huge, somebody (as generic human anchor in evaluative scenarios)
-- It matches the **discourse functions** seen in the excerpts:  
-  - explaining how identities, skills, and roles develop  
-  - narrating how things are built or set up  
-  - marking key points as factual and/or “great”, “huge”, “big”, often with a positive or emphatic stance.
+2. **Metacognitive Stance and Expectation‑Management Discourse**
 
----
+   - “Metacognitive stance” for the explicit talk about what’s “in my head”, how things “feel”, and how they “stick”.
+   - “Expectation‑management” for the strong focus on what is or isn’t appropriate to expect of students, partners, vulnerable people, etc.
 
-## 5. Summary
+3. **Clarity‑Seeking, Guilt‑ and Burden‑Negotiating Discourse**
 
-- This positive pole is **human-led** and encodes a discourse where speakers:
-  - talk about **building and setting up** things (projects, jobs, institutions),
-  - describe **becoming and changing** (selves, others, situations),
-  - and frame these processes with **evidential and evaluative language** (“in fact”, “great”, “huge”), often via generic human roles (“somebody”).
+   - “Clarity‑seeking” for the repeated drive to make things clear, set boundaries, clear the air.
+   - “Guilt‑ and burden‑negotiating” for the way guilt, responsibility, and emotional burdens are allocated, resisted, or let go.
 
-A suitable label for this pole is:
+Any of these captures the same underlying dimension. If I had to choose a single compact label for this pole:
 
-> **Constructive Change and Evaluation**
+> **Reflective Responsibility and Emotional Load**
+
+This foregrounds both the introspective, explanatory stance and the central themes of responsibility, expectations, and carried/relieved burdens that are consistently realised in the loadings and the high‑scoring texts, and it aligns with the LLM‑driven tendency to produce extended, carefully structured self‑explanations of how things feel and who should be responsible.
