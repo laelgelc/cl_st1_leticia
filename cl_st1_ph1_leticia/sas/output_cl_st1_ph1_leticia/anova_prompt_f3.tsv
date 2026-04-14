@@ -1,0 +1,3 @@
+Dependent	HypothesisType	Source	DF	SS	MS	FValue	ProbF
+fac3	1	prompt	2	87.21055718	43.60527859	168.35	<.0001
+fac3	3	prompt	2	87.21055718	43.60527859	168.35	<.0001

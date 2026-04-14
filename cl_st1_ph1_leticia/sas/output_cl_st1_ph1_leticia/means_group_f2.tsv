@@ -1,0 +1,4 @@
+Effect	group	N	Mean fac2	SD fac2
+group	human	1705	-0.15249267	0.45214143
+group	profiled_gpt	1705	0.09032258	0.36101897
+group	unprofiled_gpt	1705	0.06803519	0.33924446

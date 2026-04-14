@@ -1,0 +1,4 @@
+Effect	prompt	N	Mean fac2	SD fac2
+prompt	human	1705	-0.15249267	0.45214143
+prompt	profiled	1705	0.09032258	0.36101897
+prompt	unprofiled	1705	0.06803519	0.33924446

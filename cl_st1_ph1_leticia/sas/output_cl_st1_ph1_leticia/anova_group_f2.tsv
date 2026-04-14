@@ -1,0 +1,3 @@
+Dependent	HypothesisType	Source	DF	SS	MS	FValue	ProbF
+fac2	1	group	2	61.43030303	30.71515152	204.83	<.0001
+fac2	3	group	2	61.43030303	30.71515152	204.83	<.0001
