@@ -83,7 +83,7 @@ Duplicates removed later: 27
 Final unique keywords written: 106
 "
 
-# Excluding "em", "er", "erm", "um" (exclamations from the human corpus)
+# Excluding "em", "er", "erm", "um", "cos" (exclamations and conjunction from the human corpus)
 "
 === Keyword Quotas ===
 human           → 500 keywords (max)
@@ -91,15 +91,15 @@ profiled_gpt    → 250 keywords (max)
 unprofiled_gpt  → 250 keywords (max)
 =======================
 
-human           → selected 30/500 keywords
+human           → selected 29/500 keywords
 profiled_gpt    → selected 54/250 keywords
 unprofiled_gpt  → selected 45/250 keywords
 
-Total consolidated keywords (incl. duplicates): 129
-Unique keywords (used downstream): 102
+Total consolidated keywords (incl. duplicates): 128
+Unique keywords (used downstream): 101
 Duplicates removed later: 27
 
-Final unique keywords written: 102
+Final unique keywords written: 101
 "
 
 rm -rf columns columns_clean

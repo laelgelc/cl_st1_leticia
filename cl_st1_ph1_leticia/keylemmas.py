@@ -35,7 +35,8 @@ STOPWORDS = {
     "em",
     "er",
     "erm",
-    "um"
+    "um",
+    "cos"
 }
 
 def ll(a, b, c, d):

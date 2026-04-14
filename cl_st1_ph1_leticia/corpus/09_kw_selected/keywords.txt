@@ -13,7 +13,6 @@ carry
 change
 chat
 clear
-cos
 decide
 different
 end
