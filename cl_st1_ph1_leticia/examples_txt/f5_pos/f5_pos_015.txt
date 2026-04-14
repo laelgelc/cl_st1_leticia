@@ -1,8 +1,8 @@
-Text ID: t001607
-Group: human
-Model: human
-File:   corpus/05_human/t001607_human.txt
+Text ID: t001758
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000053_gpt.txt
 
-Score (f5_pos): 1
-Loading words (f5_pos), N=1: reason
-I know yeah he must do so he followed me so I followed him back he's called Matt Hague and I have I have I've not I've not read any of his books but I've heard of them and I do intend to read them but but I intend to read a lot of books and erm so he and he tweets quite a bit about one of his books was ten reasons to stay alive and he tweets quite a bit about like you know dealing with depression and stuff not like overly just every so often he'll put out a little thing and then and then the other day he was tweeting about how much abuse he gets like on TwiTwitter and he was like sometimes really difficult to be on here because you know you don't want to erm you don't want to do this and then and then he's like it's not it's not even the strangers just hating on you or er just you know troll trolls like you know abusing you it's sometimes people that you kind of know like you and and they and they'll say something about you or something and I was like oh must be quite like horrible for people to pay that much attention to your Twitter
+Score (f5_pos): 2
+Loading words (f5_pos), N=2: awful, pick
+I do feel rather at sea about it all, you know. I sort of left it hanging, because I honestly don’t know what to suggest. I could fly to Rome, or even Perugia which is closer, but I really baulk at the idea of driving all the way down to Stansted just for a Ryanair flight at my age. And the other thing is, I don’t want to put her out by expecting her to come all that way from Rome – it’s a good hundred and fifty kilometres – just to pick me up. It feels an awful lot to ask of someone, so I’m stuck not quite knowing what to do.

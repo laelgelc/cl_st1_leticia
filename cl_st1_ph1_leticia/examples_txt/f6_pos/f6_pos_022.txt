@@ -1,8 +1,10 @@
-Text ID: t003687
+Text ID: t004859
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000277_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001449_gpt.txt
 
-Score (f6_pos): 3
-Loading words (f6_pos), N=3: bloke, anyone, stand
-It was really weird, you know. This was a girls’ school, hardly any blokes on the staff, and yet you go into the gents’ and it’s massive. Rows and rows of urinals, like you could fit three classrooms in there. I remember standing there thinking, what on earth were they expecting, an army of men marching through? It just didn’t make any sense to me at all. In a place where there are so few men, why put in that many urinals? I still can’t get my head round it. You’d think they’d have used the space for something more useful, but no, it’s this enormous gents’ with hardly anyone to use it.
+Score (f6_pos): 2
+Loading words (f6_pos), N=2: month, pound
+she said to me, “we’re not really supposed to do this,” you know, in that sort of conspiratorial voice, but then she said she could reduce it down to twenty‑one ninety‑nine. That was only after I’d explained I just couldn’t afford forty‑odd quid a month and asked her what my options were. I’d made it clear right from the start of the call that I was ringing in good faith because the friends and family discount was going to be cancelled and I needed to know where I stood.
+
+Right at the beginning she did that security bit and warned me, really firmly, to think very carefully about my answers or the call would have to be terminated. She asked me roughly what my last bill had come to, and I just guessed about twenty‑four pounds, and she accepted that. Then she asked where the plan had been set up, and I was racking my brains, but eventually I said it was done in store, and that turned out to be right. Once I’d got through those questions she relaxed and actually talked to me properly about the account and then came up with that twenty‑one ninety‑nine offer.

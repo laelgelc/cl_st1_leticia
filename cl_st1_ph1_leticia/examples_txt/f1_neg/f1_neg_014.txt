@@ -1,8 +1,8 @@
-Text ID: t002037
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000332_gpt.txt
+Text ID: t000992
+Group: human
+Model: human
+File:   corpus/05_human/t000992_human.txt
 
-Score (f1_neg): -4
-Loading words (f1_neg), N=4: clear, stick, sound, same
-So English really depends on that subject–verb–object order to show who’s doing what to whom. We say “the monkey kissed the lion” and it’s absolutely clear that the monkey is the one doing the kissing and the lion is the one being kissed, purely because of the order of the words. In English, if you start messing around with that order, the meaning changes or it just sounds wrong. But in some other languages, they don’t rely on word order in the same way at all. Instead, they stick little bits on the ends of words, extra morphemes, that show who’s the doer and who’s the receiver. Because of that, they can move the words around much more freely, and it still means the same thing. So English and those languages really differ there.
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+no on top of your private pension erm like I said your mum should be okay erm 's pension'll be shit cos it's private you've gotta put a shitload of money in and the return is not very good if he'd put and I doubt this very much that he's con he's he's got a pension pot where he's put about a hundred and twenty thousand into a pension pot that'll buy him a pension of about six thousand pound a year it won't be index-linked I doubt very much that he's saved a hundred and twenty thousand into a pension scheme

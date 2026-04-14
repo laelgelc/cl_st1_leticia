@@ -1,36 +1,8 @@
-Text ID: t003324
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001619_gpt.txt
+Text ID: t000843
+Group: human
+Model: human
+File:   corpus/05_human/t000843_human.txt
 
-Score (f5_neg): -1
-Loading words (f5_neg), N=1: full
-…so this is like a letter yeah, from Reza Aslan and Hasan Minhaj, and it’s to American Muslims after they legalised same-sex marriage in the States. I’ll just read it out.
-
-They’re basically talking straight to Muslims in America, and they’re saying, look, loads of Muslims actually supported marriage equality, even though nobody really talks about that. They point out that Muslims themselves are a marginalised group over there, and they get treated badly, and because of that they should understand what it feels like to be pushed to the side and discriminated against.
-
-They go on about how, if you know what it’s like to be a minority, then you can’t just pick and choose whose rights you care about. They say Muslims should be fighting for everyone’s civil rights, and that includes LGBT people. It’s not just like, “oh, we want our own rights and that’s it.” They’re saying you have to stand up for other groups too, even if you don’t personally agree with everything they do.
-
-They talk about marriage equality specifically, and how some Muslims are against same-sex marriage while at the same time asking other people to feel sorry for Muslims and to understand them when Muslims get treated unfairly. They say that’s hypocritical – you can’t be asking for empathy and protection for your own community, and then turn around and try to deny another group the same thing.
-
-They also mention that Muslims in America are already marginalised, and because of that, Muslims should know better than to join in with campaigns that try to take away other people’s rights. They’re basically saying: you know what it feels like when people try to strip away your freedoms, so why would you do that to someone else?
-
-They talk about civil rights in general – like, not just legal stuff but the whole idea that everyone should be treated fairly in society. They say that if Muslims want their civil rights to be respected, they have to stand up for the civil rights of other groups as well, including LGBT communities. It’s like they’re saying rights aren’t something you only defend when it’s about your own group.
-
-They also bring up this idea that you don’t have to agree with someone’s life or beliefs to still defend their rights. So they’re not saying every Muslim has to suddenly think same-sex marriage is religiously correct or anything like that. They’re saying even if, on a religious level, you disagree, you should still defend people’s right to live how they choose and to have the same legal protections.
-
-They point out the contradiction in Muslims wanting other people to understand Islam properly, to not stereotype Muslims, and to recognise Muslims as full citizens, but then some of those same Muslims are happy to support laws or campaigns that push LGBT people out or treat them as second-class. They’re calling that out as a double standard.
-
-They talk about how Muslims are often talked about like they’re a problem, or like they don’t belong, and how painful that is. Then they say LGBT people get treated in a very similar way – like they’re some kind of threat, or something to be fixed or kept out of society. So they’re drawing a parallel between the experiences of Muslims and LGBT people as marginalised groups.
-
-They make the point that if Muslims join in with, or support, efforts to block same-sex marriage or to roll back LGBT rights, they’re basically helping the same kind of system that marginalises Muslims. It’s like, by supporting discrimination against another group, you’re strengthening the whole idea that it’s okay to discriminate against minorities in general.
-
-They also say that fighting for the rights of people you disagree with is actually part of what it means to be Muslim. So they’re not just framing it as a general “human rights” thing, they’re saying this is also the Muslim thing to do. Defending marginalised communities, even if you don’t share their beliefs or lifestyle, is both the right thing and the religious thing.
-
-They stress that Muslims should be on the side of any group that’s being pushed down or treated unfairly, because that lines up with the values Muslims claim to have about justice and compassion. So if you’re serious about those values, you don’t limit them only to Muslims – you extend them to LGBT people as well.
-
-They’re basically warning against that attitude where you say, “Well, I want freedom and safety for me and my community, but I’m okay with someone else not having it.” They call that out as selfish and against the core principles Muslims are supposed to follow.
-
-Towards the end, they sum it up by saying: defending marginalised communities – including LGBT people – even when you disagree with them, is both morally right and, in their view, genuinely Islamic. They’re saying you can hold on to your beliefs about what’s religiously allowed, but at the same time you should still stand up for other people’s civil rights, and not support efforts to take those rights away.
-
-So that’s basically the whole message of the letter: Muslim support for marriage equality, recognising how Muslims are marginalised, and then saying that Muslims should fight for everyone’s civil rights, including LGBT people, because anything else is hypocritical. And in the end, they say clearly that standing with other marginalised communities is not just the decent human thing to do, it’s the Muslim thing to do as well.
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: somebody, great
+yeah they somebody has invented them now and they've also invented these wedi board walls which are so instead of having to tile your cubicle you've got a whole great big sheet of wedi board which is waterproof which is waterproof and erm and so you just you just gum it to the wall and then you put your shower in on top of it your shower tray and your shower and everything so then you've actually just got one waterproof wall with on with with the only seams in the corner mind you I suppose you can have a leak in the corner but but you know when I and I was sort of thinking how do you get this invented? 's

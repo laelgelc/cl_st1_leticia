@@ -33,183 +33,141 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac1	SD fac1
-group	human	1705	-0.60469208	0.84321458
-group	profiled_gpt	1705	-1.07507331	1.06930899
-group	unprofiled_gpt	1705	-1.04868035	1.04728565
+group	human	1705	0.57008798	0.84887197
+group	profiled_gpt	1705	1.04105572	1.15904437
+group	unprofiled_gpt	1705	1.01994135	1.15808091
 
 === FACTOR LOADINGS (f1_neg) ===
-variables loading on this pole = 18
-clear (-.56), bother (-.46), stick (-.43), expect (-.42), real (-.41), month (-.40), carry (-.39), least (-.39), push (-.38), moment (-.37), nothing (-.37), (sense (-.37)), try (-.37), sound (-.36), speak (-.34), (seem (-.33)), everything (-.32), same (-.31)
+variables loading on this pole = 4
+shit (-.78), (horrible (-.42)), (bloke (-.41)), (minute (-.33))
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f1_neg_001.txt (text ID t002681) =====
-Text ID: t002681
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000976_gpt.txt
+===== EXCERPT: f1_neg_001.txt (text ID t000035) =====
+Text ID: t000035
+Group: human
+Model: human
+File:   corpus/05_human/t000035_human.txt
 
-Score (f1_neg): -6
-Loading words (f1_neg), N=6: clear, expect, carry, moment, try, everything
-no they really didn’t, and that’s exactly what I was trying to get across to her. I just don’t connect with the way I’m expected to teach at the moment. There aren’t those really engaging, visually attractive, step‑by‑step materials that guide the students through and make the learning objectives clear and motivating. Instead, I end up feeling a bit lost, as if everything depends on me improvising and carrying them. I don’t think it should be like that; the responsibility should sit more with the learners. I see myself more like a film director, shaping things, not doing absolutely everything.
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+it's also it's it's like the silliest little things as well like you know like sometimes you know when you're in a bad mood? sometimes you just wanna be in a bad mood and when you're in front of somebody else's family you can't just be in a shit mood like sometimes I I come home from work and I'm not necessarily a bitch to but I literally just think I a I just wanna be in a bad mood like just let me be in a bad mood and let me just stew let me just
 
---- Loading words for this example (neg): clear, expect, carry, moment, try, everything
-
-
-===== EXCERPT: f1_neg_002.txt (text ID t002892) =====
-Text ID: t002892
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001187_gpt.txt
-
-Score (f1_neg): -5
-Loading words (f1_neg), N=5: bother, expect, least, nothing, try
-So there we are, absolutely soaked, mud everywhere, and we don’t know a soul. I’m just trying to get this Year Nine lad registered for his cross-country. I keep going up to different people with clipboards, asking where I’m supposed to sign him in. Every time they’re checking their lists, and his name’s not there, his school’s not there, nothing. Properly awkward. 
-
-Eventually one of them says, “Oh yes, it’s fine, he’s in the one o’clock race, just come back about quarter past two,” so I think, right, at least we’re sorted. Because it’s chucking it down and the mud is ridiculous, we decide not to bother walking the course like everyone else seems to be doing. Instead I go back, move the car a bit closer so we don’t have to trek miles in that weather.
-
-We head back to the tents later on to collect his race bib, expecting it all to be straightforward now. I give them his details again and they look down the list and say, “No, his school’s not on here.” And I’m thinking, we’ve already done this, we’ve already been told he’s in the race. Then it turns out we’re at the wrong team’s tent altogether. We’ve been standing there, in the rain, talking to the wrong people.
-
-So all that faffing about, all that trudging through the mud, and we’re not even in the right place. At that point I’m just trying to get him to the correct tent and sorted, but it’s all a bit of a farce, really.
-
---- Loading words for this example (neg): bother, expect, least, nothing, try
+--- Loading words for this example (neg): shit
 
 
-===== EXCERPT: f1_neg_003.txt (text ID t002896) =====
-Text ID: t002896
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001191_gpt.txt
+===== EXCERPT: f1_neg_002.txt (text ID t001663) =====
+Text ID: t001663
+Group: human
+Model: human
+File:   corpus/05_human/t001663_human.txt
 
-Score (f1_neg): -5
-Loading words (f1_neg), N=5: clear, stick, expect, nothing, everything
-well the luggage labels have arrived and they’re quite smart really, they say “outward bound” on one side, so that’s all straightforward enough. there wasn’t any letter in with them at all though, no confirmation about the cabin upgrade, and certainly nothing about any extra cost, which is rather interesting. I can’t see that they’ve charged us anything more for it. as far as I can tell, there’s been no paperwork about it beyond these labels and the tickets.
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+so it's difficult cos like I can't say to him oh you're working too much cos he basically pays for the lifestyle that I have in the summer anyway like normally I pay for everything but in the summer he pays for the lifestyle I have and it's difficult I can't I don't want to shout at him I don't like shouting at anyone like especially my boyfriend or a guy or whoever it doesn't matter who it is I don't like shouting at anyone or making anyone feel bad and I'm not that sort of person I'm not one of these girls that like where the fuck were you? who have you been texting? all that sort of shit like if he wants to go out or any guy that I'm with if they want to go out with some girls or some guys it doesn't matter who it is I don't care okay have a good night I wanna go out with my friends sort of thing that's the sort of person that I am so er it's been hard lately
 
-I was saying to him that it actually makes sense from their point of view. they upgrade us, and then they can resell our old cabin to somebody else, so they get the benefit of selling that twice over in effect. it’s no skin off their nose to move us up a grade if they can shift the original one again. but it is slightly odd not to have any kind of letter explaining what they’ve done, you’d think they’d want it all in writing.
-
-anyway, the journey up to London was very good, much better than I’d expected. the roads were really very clear, and the weather improved as we went along. it started off not so promising, but it got better and better on the way, so by the time we were getting in it was actually quite decent. there were crowds around Parliament and Downing Street, lots of people milling about there, so that bit was a bit busy, but otherwise it was fine, nothing problematic at all.
-
-so what I want you to do is just put the labels on the suitcase now, get that done, and then I’ll fill in the cabin number later on once we’re absolutely sure what it is and everything’s settled. no point in guessing and then having to redo it. just stick them on so they’re ready, and we can add the details when we’ve got them properly.
-
-oh, and I popped into Lidl and did a small shop, just a few bits and pieces, nothing major, but enough to keep us going. so that’s all sorted as well.
-
---- Loading words for this example (neg): clear, stick, expect, nothing, everything
+--- Loading words for this example (neg): shit
 
 
-===== EXCERPT: f1_neg_004.txt (text ID t002627) =====
-Text ID: t002627
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000922_gpt.txt
+===== EXCERPT: f1_neg_003.txt (text ID t001583) =====
+Text ID: t001583
+Group: human
+Model: human
+File:   corpus/05_human/t001583_human.txt
 
-Score (f1_neg): -5
-Loading words (f1_neg), N=5: stick, carry, least, moment, try
-I’d actually got a CD of hymns in the car as a standby, just in case we ended up without an organist. I’d brought it along thinking, well, if I’m the only one running this show, at least I can stick that on and we’ll have something to sing to. As it turned out, the organist did arrive, so we didn’t need the CD in the end.
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+and they're like no no no you owe us loads of money so he was working really hard doing loads of like campaigns and shit to the trade farers and then like when I got back from which li this was like a year ago he was like went to me he was like okay he was like finally cleared the hundred and fifty grand loan he was he went to them and was like really expecting they'd be like okay cool like champagne like you know and that and they're like no no no like in the mean in that time you vo you've owe us another like seventeen thousand pounds they spent money on his behalf you know?
 
-When we got going, there was this bit of confusion over the verses. I thought we were supposed to skip verse two, but the organist went straight through and played all the verses. There was a woman in front of me singing away very loudly, and she carried on with the wrong verse while I was behind her trying to sing the right one. For a moment it was all a bit of a muddle, but eventually it sorted itself out and we got back on track.
-
---- Loading words for this example (neg): stick, carry, least, moment, try
+--- Loading words for this example (neg): shit
 
 
-===== EXCERPT: f1_neg_005.txt (text ID t002499) =====
-Text ID: t002499
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000794_gpt.txt
+===== EXCERPT: f1_neg_004.txt (text ID t001420) =====
+Text ID: t001420
+Group: human
+Model: human
+File:   corpus/05_human/t001420_human.txt
 
-Score (f1_neg): -5
-Loading words (f1_neg), N=5: expect, least, nothing, speak, everything
-so like before the party he’d been messaging me loads, being all flirty, and then at the actual party we barely spoke. it was really weird, ‘cause he’s going out with the girl who was hosting it, and he’d been nominated for “sexiest man” and everything, so I kind of expected we’d at least chat a bit. we only ended up sitting outside together for a little bit, and we were just talking about how he couldn’t really be voted for properly ‘cause he was sleeping with the host, so it was a bit unfair. it wasn’t even a long or deep conversation, just that kind of jokey, awkward chat. then he didn’t win the “sexiest man” thing anyway, which was quite funny after all that build-up, and after that there was pretty much nothing between us the rest of the night. I just left without really speaking to him again.
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+and that you know you'll go you'll go much further than you know what she's like trying to get by on her Trying to get by on her looks and her a laugh and a smile and you know er you know that there is that doesn't last you know I'm so proud of you and you'll go really far and she was like um and then I and I was like oo that you know that's really nice of her to say it shit about my sister but at the time we just knew
 
---- Loading words for this example (neg): expect, least, nothing, speak, everything
-
-
-===== EXCERPT: f1_neg_006.txt (text ID t003356) =====
-Text ID: t003356
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001651_gpt.txt
-
-Score (f1_neg): -5
-Loading words (f1_neg), N=5: month, carry, nothing, everything, same
-well over that eighteen months or so I was back and forth to the GP a lot because of this persistent spotting and the fact that I was putting on weight. I kept saying, “I’m still bleeding, this is still going on,” and it just carried on and on. In that time they did pick up that I had an underactive thyroid and high blood pressure, so I was diagnosed and treated for both of those. The thyroid in particular became the sort of explanation for everything.
-
-Each time I went I would say that the bleeding hadn’t stopped, that I was still spotting, and it was becoming a constant thing rather than something that came and went. But the doctor kept attributing the bleeding to the thyroid problem, as if that neatly wrapped it all up. I was being medicated for the thyroid and the blood pressure, and there was this sense that once those were under control everything else would sort itself out, even though I was saying quite clearly that the bleeding was continuing.
-
-This went on for about eighteen months. It wasn’t as if I went once or twice; I was repeatedly going back, reporting the same symptoms, and it was still put down to the thyroid. The weight gain and the tiredness fitted that picture, so the bleeding was just folded into it.
-
-Eventually, though, I was referred to a gynaecologist. Once I got to the gynaecologist things moved very quickly. He did a very simple procedure – just a scrape of the lining of the womb – nothing elaborate, something that was low-cost and straightforward. There was no big build-up to it, it was just done as a matter of course.
-
-On the strength of that little scrape, I was called back to the hospital the same day. That was when they told me it was endometrial cancer. So after all those months of being told it was the thyroid and being treated for that, it turned out that a very basic test on the uterine lining was what finally revealed what was really going on.
-
---- Loading words for this example (neg): month, carry, nothing, everything, same
+--- Loading words for this example (neg): shit
 
 
-===== EXCERPT: f1_neg_007.txt (text ID t003084) =====
-Text ID: t003084
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001379_gpt.txt
+===== EXCERPT: f1_neg_005.txt (text ID t001400) =====
+Text ID: t001400
+Group: human
+Model: human
+File:   corpus/05_human/t001400_human.txt
 
-Score (f1_neg): -5
-Loading words (f1_neg), N=5: clear, carry, nothing, everything, same
-so I emailed him back last night and said that couldn’t play because he’s got this tennis tournament on, and then I said I wasn’t sure what was going on with , because he hasn’t really played many matches recently and I was starting to wonder if he’d been dropped or something. 
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+they just don't give a shit that I remember when we had a sixteenth birthday party and my friend had one and hotel in Brighton and obviously we were sixteen so none of us should've been drinking so the bar wasn't even open there was no one on the bar and her parents were upstairs in the hotel the entire time and they came down and were checking on us and obviously we were sort of sneaking a bit of stuff in and whatever but generally speaking you weren't no one was taking the piss I mean
 
-He came back this morning with this really long email explaining it all. He said no, he absolutely hadn’t been dropped at all, the plan was actually to move him up so he’d be playing in the same team as , but there’d been a bit of a mix‑up and it just hadn’t happened properly. He was really apologetic about it, said sorry for the misunderstanding and everything, and made it clear that was still very much in his plans.
-
-So I replied and said, you know, actually the reason he’s missed a few matches is because of his tennis – it’s just clashed a lot, so it’s not that we’ve been sat there waiting for him to be picked and nothing’s happened. I said that next season it’s probably going to be just , because is likely not to carry on, whereas definitely wants to, and he’s thinking about using it for his GCSE as well, so it’s a bit more important for him. 
-
-And I told him there was really no need for him to be apologising like that, because we could just as easily have dropped him a quick email weeks ago to ask what was going on, we just never quite got round to it.
-
---- Loading words for this example (neg): clear, carry, nothing, everything, same
+--- Loading words for this example (neg): shit
 
 
-===== EXCERPT: f1_neg_008.txt (text ID t002039) =====
-Text ID: t002039
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000334_gpt.txt
+===== EXCERPT: f1_neg_006.txt (text ID t001383) =====
+Text ID: t001383
+Group: human
+Model: human
+File:   corpus/05_human/t001383_human.txt
 
-Score (f1_neg): -5
-Loading words (f1_neg), N=5: real, moment, speak, everything, same
-well I I think a lot of what you’ve been saying is right, really. It does feel as if those natural freedoms we took for granted are being chipped away bit by bit. You see it everywhere now – all this surveillance, all the government snooping, and it’s not just here. The Americans are at it, we’re at it in the UK, and then there’s the whole business with CCTV cameras on every corner. You can’t move without feeling you’re being watched or recorded by somebody, somewhere.
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+so I took her to the cinema and we we got erm the bus back into town cos you had to go like twenty minutes out of town to the something called the where all the cinema complex were and stuff like that and I took her out we came back and we got dropped off in the middle of town and it were like a Friday night and we were walking up this street and my ex boyfriend came up to me and like swung for me cos er he were a violent shit and I'd
 
-At the same time, though, for all that, we’re still relatively lucky compared with some parts of the world. If you look at somewhere like China, for instance, the level of control there is on a completely different scale. They don’t just watch you, they really clamp down on what people can actually do in public. You can’t just have a big public gathering there in the way you could here; they’re very tightly restricted, monitored, broken up if they’re not approved. The state keeps such a firm grip on people’s movements and on any sign of dissent.
-
-What makes it interesting, and a bit unpredictable, is that in China people’s expectations of freedom are starting to rise. As more people see what life is like elsewhere, and as they become more aware, they begin to want more say, more space to speak and to assemble. That sort of rising expectation can’t be bottled up forever. It’s the kind of thing that, over time, can lead to real upheaval – even revolution – if it goes on long enough without any outlet.
-
-But at the moment, the government there still has extremely tight control. They’ve built a whole system designed to keep a lid on those pressures – surveillance, restrictions on gatherings, all of that. So you’ve got this tension: on the one hand, a population whose sense of what freedom ought to look like is slowly expanding, and on the other, a state that’s determined to keep everything firmly in hand. How that plays out in the long run is hard to say, but it does underline how, for all our complaints about being watched here, there are places where the screws are turned much harder.
-
---- Loading words for this example (neg): real, moment, speak, everything, same
+--- Loading words for this example (neg): shit
 
 
-===== EXCERPT: f1_neg_009.txt (text ID t002346) =====
-Text ID: t002346
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000641_gpt.txt
+===== EXCERPT: f1_neg_007.txt (text ID t001370) =====
+Text ID: t001370
+Group: human
+Model: human
+File:   corpus/05_human/t001370_human.txt
 
-Score (f1_neg): -5
-Loading words (f1_neg), N=5: bother, stick, least, everything, same
-they've released the hardbacks first because they know people just can't wait for the paperbacks, don't they? And then you end up with these really annoying mixed sets. Like with our Harry Potter ones – we’ve got some in hardback and some in paperback, and it just looks a bit of a mess on the shelf. It bothers me more than it should, probably. I think that’s exactly what the publishers are banking on, though, because some people will then go out and buy a whole extra set just so everything matches properly. When I look along our shelves, most of the series we’ve got have at least one random hardback stuck in the middle. It’s the same with your Diary of a Wimpy Kid books, isn’t it?
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+she just it's just shit like rude in general like she doesn't I just sort of said oh erm me and have decided that perhaps we're gonna er move out at the end of our tenancy she was like right and I was like well I think our tenancy runs out in January she was like yep and I was like erm okay so I don't really know so then she was sort of like I thought well I don't really know what happened with that and she was like well I need it in writing I was like okay well do I just email that to you? and she was like yep email it to me I was like okay
 
---- Loading words for this example (neg): bother, stick, least, everything, same
+--- Loading words for this example (neg): shit
 
 
-===== EXCERPT: f1_neg_010.txt (text ID t001829) =====
-Text ID: t001829
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000124_gpt.txt
+===== EXCERPT: f1_neg_008.txt (text ID t001318) =====
+Text ID: t001318
+Group: human
+Model: human
+File:   corpus/05_human/t001318_human.txt
 
-Score (f1_neg): -5
-Loading words (f1_neg), N=5: bother, least, moment, try, same
-well I know they're going to have a go at me about it, that’s a given, but I’m not really bothered in that sense, because I can just sit them down and say look, this is why I’m changing direction. I can explain that I’m in this sort of in‑between phase at the moment, where I’m moving away from what I was doing and edging towards creating something different. It’s not that I’m claiming to have invented something totally original, it’s that for me it’s new, and I’m learning a whole load of things I didn’t know before.
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+bloody hell I mean you see it all the time people who are good at their er one aspect of their job so they might be good at making sales or whatever it is that gets them promoted in their area but they're shit at people skills so er lots of our like publishers who are sort of three or four rungs up the ladder they might be quite good at commissioning authors and making sales whatever but they're terrible line managers and if you want to progress you have to be a line manager
 
-I’d talk them through that: that I’m deliberately going out and learning from people who are already doing what I want to be doing. I’m watching what they do, listening to how they talk about it, and trying to pick up as much as I can from them. That’s a big part of it for me, that sense of actually studying people who are already there rather than just sitting around talking about what I might do one day.
+--- Loading words for this example (neg): shit
 
-And I’d say to them that in this kind of entrepreneurial stuff there are these common themes that run through everyone’s story – you know, taking a risk, changing tack, learning on the job – but at the same time everyone’s path is quite individual. So I’m not trying to copy someone else’s life, I’m trying to understand the patterns and then find my own route through it.
 
-Even if they don’t really get where I’m coming from, or they can’t see the bigger picture I’ve got in my head, there’s still value in what I’m doing. I’d stress that. I’m learning from other people who are doing it already, and that in itself is worthwhile. They might roll their eyes or think I’ve gone a bit mad, but I can at least lay out the logic: I’m changing direction, I’m in a transition, I’m learning from people ahead of me, and I’m trying to build something different for myself. Whether they fully understand it or not, that’s what I’ll be doing.
+===== EXCERPT: f1_neg_009.txt (text ID t001115) =====
+Text ID: t001115
+Group: human
+Model: human
+File:   corpus/05_human/t001115_human.txt
 
---- Loading words for this example (neg): bother, least, moment, try, same
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+well no if you if you don't value education you won't accept it and that's another problem with the whole system is that you can't force an education on someone you can give them the opportunity but if they don't achieve not in terms of well a significant proportion of the time it will be down to them not accepting it and you can't do anything about that well I've seen some fairly non-academic people achieve a lot for them and on the other hand I've seen people who probably are reasonably intelligent not give a shit and so part is the government's fault no I'm sorry you do just people won't you know if you grow up in a council estate and neither your parents will work you will not achieve in life and that's not the government's fault that's you should have
+
+--- Loading words for this example (neg): shit
+
+
+===== EXCERPT: f1_neg_010.txt (text ID t001077) =====
+Text ID: t001077
+Group: human
+Model: human
+File:   corpus/05_human/t001077_human.txt
+
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+and so did you we both lived through it together and let's face it I didn't fucking help myself when I put that Facebook status like I was just as much to blame as they were when I put that and yet I apologised and yet it went too far after that but before that as soon as I put that status I were inviting this shit I were inviting the fact that I didn't like them and they didn't like me we made it known by me putting that status you know? and it doesn't matter what you said or it didn't say they were always gonna do what they were gonna do whether I put that status or not or whether you said something or if I said something
+
+--- Loading words for this example (neg): shit

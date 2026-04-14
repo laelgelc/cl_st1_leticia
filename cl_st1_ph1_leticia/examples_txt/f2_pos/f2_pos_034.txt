@@ -1,8 +1,8 @@
-Text ID: t003562
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t000152_gpt.txt
+Text ID: t000285
+Group: human
+Model: human
+File:   corpus/05_human/t000285_human.txt
 
 Score (f2_pos): 1
-Loading words (f2_pos), N=1: okay
-on Saturday she said somebody came in and borrowed about three grand’s worth of stuff to wear for some conference thing and I was just like that really made me feel a bit uneasy because what if it doesn’t come back you know? and she was asking what to do and I just said well at least write it all down make a proper note of exactly what’s gone out and who’s taken it because otherwise you’re stuck if it goes missing and yeah she says they do get some sort of allowance or something but I still don’t really know how that’s meant to work or if it’s okay
+Loading words (f2_pos), N=1: bloke
+friend our friend down er Suffolk he had the same thing and he's cut out all carbo most carbohydrates right? and he's gone like a skeleton there's a programme on television You Are What You Eat or whatever it's called it was just on the other day this bloke come on he cut out carbohydrates altogether no he didn't this woman he was experimenting with she did she had to and er and finished up with no energy tired always wanting to go to sleep you gotta have the balance that's the trouble you gotta have the balance but er well I mean you can't give up everything can you? I had a load of alcohol last night sure that didn't help a lot but

@@ -1,8 +1,8 @@
-Text ID: t005006
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t001596_gpt.txt
+Text ID: t001632
+Group: human
+Model: human
+File:   corpus/05_human/t001632_human.txt
 
-Score (f4_neg): -2
-Loading words (f4_neg), N=2: awful, horrible
-once we got back to the airport and she had wifi again, it all just kind of fell apart. he started sending her these really horrible messages, calling her a bitch and saying she didn’t appreciate him, and then he basically refused to say what she wanted to hear because he doesn’t love her. that’s when she just started crying. I was meant to be getting my bus, I’d actually left to go and catch it, but after seeing her like that I couldn’t just leave her there for an hour on her own. so I decided to drive her all the way from Gatwick to Oxford instead, so she didn’t have to wait around feeling awful. it just makes me really sad, because even after all that, she still has this hope that somehow they’re going to work things out, and I don’t think he’s good for her at all.
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: minute
+that's why I was a bit late cos I was having I was hearing about the first day which is a horrendous start cos she ever she got to to Clapham South tube station to discover both the Northern and the Victoria lines were down and erm she had to run all the way to Wandsworth Common to pick up a train which she just missed the train that was in she got the wrong ticket oh it was just unbelievable the things but she got Victoria she had to get a taxi there was a lot of traffic I mean it was just a nightmare I how she managed to only be five minutes late I still don't know but anyway she a the gym manager and erm she looks so she manages this gym and she also does a lot of erm er sports therapy treatments and it looks like from tonight she's also side it looks like she's gonna be doing er Pilates you know Pilates class as well cos she's a trained Pilates teacher in a company calle an organisation called erm which is a gym which is on the side of a private club called the which is in it's all terribly posh she's

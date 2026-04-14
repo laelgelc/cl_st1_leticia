@@ -1,8 +1,8 @@
-Text ID: t003579
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t000169_gpt.txt
+Text ID: t001623
+Group: human
+Model: human
+File:   corpus/05_human/t001623_human.txt
 
 Score (f2_pos): 1
-Loading words (f2_pos), N=1: okay
-Yeah, you do need to get some more shorts, proper PE-type ones for this. And what I’d really like is, after Brownies has finished or in the summer holidays when there’s no ballet, if you’re both okay with it and it’s on a weekend when I’ve got you, to go back to Fortitude, that fitness place where they do the obstacle course practice. Then you can either watch me go round the course, or, if you want to, you can come and join me on it and have a go yourselves.
+Loading words (f2_pos), N=1: bloke
+erm it it it will happen w w I had a bloke came round and said I need erm and said excu ex pardon me excuse me for calling unannounced have you had lots of letters from Eon saying that you've you need to have your er meter changed? and I said yes and I've never known when I could say you could come round he said well every time we give me they give me a few jobs in an area they always give me a few more that they know need to be done but it's not booked if it's convenient I'll do it as quick as I can I'll get it done in a quarter of an hour

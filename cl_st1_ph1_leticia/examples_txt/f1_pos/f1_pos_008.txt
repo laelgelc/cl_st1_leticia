@@ -1,8 +1,14 @@
-Text ID: t000695
-Group: human
-Model: human
-File:   corpus/05_human/t000695_human.txt
+Text ID: t002628
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000923_gpt.txt
 
-Score (f1_pos): 1
-Loading words (f1_pos), N=1: um
-I know well they had their they had like a um a chip like a bike their bike lock um was on the back of the or or on the back s or on the bike somewhere and it just fell off and so she just slammed her brakes on like didn't think so literally just like went from cycling quite fast to stop and so I just couldn't stop in time and my bike and I couldn't pull her like out of the way cos there was parked cars on one side and traffic on the other so I just went into like just crunched into the back of her and I was like What what are you thinking? like you just can't do that and she was like ah I'm really sorry and I was like you just snapped off half the front of my thing and she's like yeah d'you want it back cos she'd picked it up and I was like grrr
+Score (f1_pos): 5
+Loading words (f1_pos), N=5: build, idea, more, own, way
+Yeah, exactly, that’s what I was imagining. You’d literally start with one person on camera and just have quite a relaxed chat with them – how we know each other, what we’ve got in common, the sort of stuff we’re both interested in. Then, at the end of that, I’d ask them to think of someone they’re connected to – a friend, a colleague, someone they know online or in “real life” – who might be up for being filmed next.
+
+Then we’d go and film that next person, and repeat the process: how they know the previous person, what they share, what they’re working on or thinking about. Each time, the person we’ve just filmed nominates the next one. So you gradually build up this little cluster of people, almost like following threads in a web, and you can start to see how these networks form, whether they’re online, physical, or some sort of virtual mix.
+
+Out of that, you’d get a main character whose story we follow more closely, and then these secondary characters who are part of their network and help move things along. The story I’ve got in my head is that, through these connections, the main person ends up talking to a lecturer who suddenly spots that what they’re doing is actually a fantastic idea for an undergraduate research project.
+
+The key bit is that the original person couldn’t have got to that point just on their own; they only reach it because they’ve gone through that physical chain of contacts. So the video ends up showing, in a really concrete way, how one conversation leads to another, and how that can open up opportunities you wouldn’t otherwise have access to.

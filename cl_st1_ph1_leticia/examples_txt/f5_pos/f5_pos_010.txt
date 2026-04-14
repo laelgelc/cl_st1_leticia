@@ -1,8 +1,8 @@
-Text ID: t001662
-Group: human
-Model: human
-File:   corpus/05_human/t001662_human.txt
+Text ID: t001723
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000018_gpt.txt
 
-Score (f5_pos): 1
-Loading words (f5_pos), N=1: reason
-didn't you? it was the most amazing American publication I think by a f an American feminist and in fact actually in a way it was really bad news to me because they had a real thing about women giv being given hysterectomies for no good reason and how it's men wanting to kind of cut of women's bits because they were jealous of them et cetera so they were like really hysterically against people having erm hysterectomies and so on the basis of this I turned down the opportunity of explore having a hysterectomy for quite for a while during all of this process but but the one thing it did do it had diagrams of your body names for all the bits an analysis of the kind of the things that women get plus the symptoms plus kind of conversations with women about how they felt about these things plus you know kind of quite intimate things about sex and bodies and stuff like that and it was a great big tome and they did and it was sort of published in the seventies and it was kind of quite a radical piece of pro really erm possibly reading back on it not as medically informed or sensible as it as it might have been but on the other hand you know a real good medical handbook for women's problems
+Score (f5_pos): 2
+Loading words (f5_pos), N=2: awful, horrible
+you've obviously spent like git hours thinking about this and I really haven't, and I think that’s part of what I’m trying to get at. For me, and for my family – like my dad as well – when something awful comes on the telly, say something about Homs, we do register it as horrible. We’ll sit there and go, “God, that’s awful,” and we mean it. But then, quite quickly, we just sort of get on with our everyday lives. We don’t then go off and research it, or read loads more, or start thinking about protesting or anything like that. I’d say I’m sympathetic, but I’m just not the sort of person who’s actually moved to do something about it.

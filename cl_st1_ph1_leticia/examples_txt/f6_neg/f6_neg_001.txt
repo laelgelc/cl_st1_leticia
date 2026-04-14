@@ -1,8 +1,8 @@
-Text ID: t000487
-Group: human
-Model: human
-File:   corpus/05_human/t000487_human.txt
+Text ID: t002440
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000735_gpt.txt
 
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: pound, able
-erm no so said oh I can get you a much better pension a superann I've already I've already moved across it's gonna be way way better and he sort of went through it with us and at the time it seemed like so he transferred what I'd paid into my superann across to them which went into one pot and then I started paying into another pot and then quite soon we realised that unless we were activity managing this it was gonna fall behind superann and so we thought oh this we're just we are not clever enough we are not gonna be able to do it so we tried moving it back to superann and they wouldn't accept it back so I've got two frozen little pots one of which is going to pay me twelve pounds a year and one
+Score (f6_neg): -3
+Loading words (f6_neg), N=3: anyone, guy, everyone
+Well they’re all busy, some of them have actually got jobs as well, so it’s a bit hard to get everyone together. Age-wise it’s quite mixed. There’s that half-Malaysian girl, she’s only twenty-one, and the American girl’s twenty-two. Then there’s that Dutch girl who’s really moody and doesn’t talk to anyone. There’s a Pakistani guy who’s about my age, and then the rest of them are sort of around twenty-five to thirty-five, somewhere in that range. So yeah, it’s definitely a mixed group.

@@ -1,8 +1,8 @@
-Text ID: t001746
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000041_gpt.txt
+Text ID: t001668
+Group: human
+Model: human
+File:   corpus/05_human/t001668_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: anyone, chat
-no not at all he was really good about it, like there was no pushing or anything. When we went out on the test drives he just sort of chatted to me, asked how I was finding each car, what I liked about them, what I didn’t like, that kind of thing. It was really relaxed, just driving round and talking, not like him trying to hard-sell me while I was trying to concentrate. Then when we got back inside he literally just said, “So which one do you prefer?” and left it at that. I told him I actually preferred the Clio, mainly because I liked the interior more and it felt a bit roomier, even though it was only a three-door. I hardly ever have anyone in the back anyway, so that layout made more sense for me.
+Loading words (f6_pos), N=2: month, pound
+it came from when they they had work done on the bungalow when they first moved in there put a pipe in and it wasn't done properly so about a year ago from now they had to move back out to the Max Mexborough house that's now While they re-did the work that they botched the insurance for the time that they were out of the house for two months when they said well we would have rented out Mexborough for eight hundred pound a month gave them two or three grand plus compensation for time money blah blah

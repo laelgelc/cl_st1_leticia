@@ -1,8 +1,8 @@
-Text ID: t001923
-Group: profiled_gpt
+Text ID: t004400
+Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000218_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000990_gpt.txt
 
-Score (f2_pos): 1
-Loading words (f2_pos), N=1: wanna
-they're literally on the phone all the time, like every night, and it goes on for ages. even when it's really late and I'm trying to sleep, I can hear him through the wall, just this constant monotone drone. his voice is so irritating, it just does my head in. and the worst bit is I'm lying there thinking, are they talking dirty or something, and I really don't wanna know but I can't not hear it. it makes it a hundred times worse, just imagining what they're saying. I honestly just wish he'd shut up for five minutes. I don't get how they have that much to talk about, like every single night. what can you possibly be saying for that long?
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: odd, chat
+Well I was chatting to this lady at the wedding, she came up to me and said, “I don’t know anyone here,” so I said, “Well you know me now,” and we got talking. It turned out we both had sons getting married, so of course we started comparing all the arrangements and dates and everything. Then we realised we’d actually both tried to book the same church date, the fifth of September. She’d been told she couldn’t have it, but I’d managed to get it, which was a bit awkward really when we worked it out. We were laughing about it though, because it was just one of those odd coincidences you only discover when you start chatting properly.

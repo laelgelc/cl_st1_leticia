@@ -1,8 +1,8 @@
-Text ID: t001146
-Group: human
-Model: human
-File:   corpus/05_human/t001146_human.txt
+Text ID: t002322
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000617_gpt.txt
 
-Score (f1_neg): -5
-Loading words (f1_neg), N=5: clear, nothing, try, sound, everything
-and I thought maybe and anyway this happened for a whole day and I got to the point where there was nothing to come out either end but it was still trying to come out and really painful so I rang my mum and she was like maybe go to the hospital so I went to the hospital and I went into the doctor's and it sounds like you've got cos here we have bacteria in food that we sometimes get and it sounds like you've got a bacterial infection so I'll give you antibiotics and if it gets worse just comes back the next week so I took the antibiotics and it cleared up so it must have been an infection erm but yeah so I used that but they paid not for the doctor so I had to pay to go to the doctor and to have to pay fifty soles which was only about ten pounds and then I had to pay for my antibiotics which were like twenty soles which is only like four pounds which I guess isn't that much but seventy soles is in Peru it goes a lot further than it does in England cos everything's a lot cheaper so it was like oh god
+Score (f1_neg): 1
+Loading words (f1_neg), N=1: f2 score: 0
+when her mum was up in October half-term we all went out on the Saturday night and ended up going to that pub, and I just wasn’t expecting to see her there at all. We pulled up and I clocked her car straightaway outside, you know with her name across the back, so I thought, that’s got to be her. Then we went in and there she was behind the bar, working. She said she does different days there, just fitting it in where she can, and that night she was actually covering her daughter’s shift.

@@ -1,10 +1,8 @@
-Text ID: t002916
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001211_gpt.txt
+Text ID: t000786
+Group: human
+Model: human
+File:   corpus/05_human/t000786_human.txt
 
-Score (f1_neg): -4
-Loading words (f1_neg), N=4: bother, try, sound, everything
-I actually stopped bothering with earplugs and started using inner‑ear headphones instead, and they’ve been brilliant for sleeping in really noisy places when I’m travelling. I first tried it in Belize, in this ridiculously loud room above a club, and it still worked. I just put one inner‑ear headphone in, and lie with the other ear on the pillow – I can’t wear both because it’s too uncomfortable.  
-
-It helped loads in India too, when it was honestly quite scary at night – people knocking on the door, trying the handle, and I’m just lying there thinking, please go away, I don’t want to die right now. The headphones don’t block everything, but they really distance the sound, make it feel far away. I properly recommend them now.
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+yeah okay right charge your Q quick and just click there leleft-click there and then just uuse your E there as well but just keep going keep attacking where er where are the bots? the bots aren't even there yet okay it's attacking you good stuff now press two it's using your health pot keep keep using your Q when you can and your E use your E on that as well press two again then press three you're using your pots okay level one of these I can't remember which one's which okay keep taking the turret you see him there? don't attack him otherwise the turret'll attack you now run away run away run away run away always run er up and down your channels okay you've got an E and a Q you can use both yeah good shit and and use your E again use your E over there yeah okay go up to the turret and scroll it

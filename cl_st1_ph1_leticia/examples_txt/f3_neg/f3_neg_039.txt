@@ -1,8 +1,14 @@
-Text ID: t000778
-Group: human
-Model: human
-File:   corpus/05_human/t000778_human.txt
+Text ID: t003355
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001650_gpt.txt
 
 Score (f3_neg): -1
-Loading words (f3_neg), N=1: pick
-they put it in like you know erm advertising exhibitions and things like that I mean the 's g a big establishment now I mean actually I'm organising an exhibition for them which might interest you a bit erm not until the new building is built which'll be maybe not for three or four years so who knows? maybe I won't be alive in three or four years or with a Zimmer frame or whatever so I'm trying to get it organised now but I'm picking out great works er that is to say great drawings from the great artists from the past and connecting them to contemporary stuff that's been now being done now
+Loading words (f3_neg), N=1: fact
+Well mine was endometrial cancer, so cancer of the lining of the womb. The classic thing they always say is that in post‑menopausal women it tends to show itself as unexpected or persistent bleeding, and that’s the big red flag. If you’ve stopped your periods and then suddenly start bleeding, they take it very seriously and they’ll usually investigate quite quickly.
+
+In my case it was more complicated because I was about fifty‑three and I was still having periods, so it didn’t look, on the face of it, like that textbook picture. I think that’s part of why my GP didn’t immediately think there was anything particularly sinister going on. It didn’t fit the obvious pattern of “post‑menopausal bleeding equals probable problem”.
+
+What actually happened was that over about eighteen months to two years I just felt generally unwell. There was this long, rather vague period where I knew something wasn’t right. My periods started to change, and then it moved on from that to this constant spotting. At first it was just a bit here and there, but it never really settled down properly.
+
+That then progressed into more persistent bleeding, so it wasn’t just the odd bit of spotting around my period, it was more or less all the time. It was that slow, gradual shift from normal periods, to odd periods, to constant spotting, to ongoing bleeding. Because it developed over such a long stretch of time, and because of my age and the fact I was technically still menstruating, it was very easy – for me and for the doctor – not to see it straightaway as a sign of something as serious as cancer.

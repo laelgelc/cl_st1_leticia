@@ -1,8 +1,8 @@
-Text ID: t002143
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000438_gpt.txt
+Text ID: t000435
+Group: human
+Model: human
+File:   corpus/05_human/t000435_human.txt
 
-Score (f1_pos): -1
-Loading words (f1_pos), N=1: f1 neg words (N=1): same
-yeah it basically meant affordable housing, that was the gist of it, but they had some fancy term for it I just can’t remember. When we were doing the riverside bridge, you could really see the difference. The ones right on the river, the proper expensive ones, they’d clearly thrown good money at them – decent materials, nice finishes, they actually looked quite smart. Then you’d look over at the cheaper units that were going up as part of the same development and they just looked awful, really shoddy. You could tell they’d cut corners on all the materials, it was just cheap and nasty. I remember saying to one of the blokes on site, you know, “oh maybe I should look at getting one of these,” and he just went, “no, don’t. Seriously, don’t even think about buying one of those.”
+Score (f1_pos): 4
+Loading words (f1_pos), N=4: more, different, way, plan
+they've had one the book plans for doing it for so long but there's always been so much protest over what would have to be done cos it goes through so many middle of the nothing places and eh it's been put back and put back and put back and put back you know but I mean the there's some very basic stuff that they could do which would make it so much better you know getting rid of all of these at grey junctions so like Catthorpe Interchange and all of those junctions where you're coming down everything's coming down to nothing and then winds through a tiny little bit and then go again you know get rid of them and make them grade separated junctions where the A fourteen carries on and it's just people then come off and it would make it a lot easier but eh but yeah I think they're going to have to get a lot more money just to overcome all the the protest and wooha there is in the different areas and yeah probably the only way to do that is to to say oh yeah we're going to have it operated and maintained by a company that's going to fund it you know so I wouldn't be surprised if you know probably some of my lot end up coming up with something of how they could do it fund it and operate it you know PFIs are a lot of the things these days so just having a taste see if it was poisoned

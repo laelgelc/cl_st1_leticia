@@ -1,8 +1,8 @@
-Text ID: t001576
-Group: human
-Model: human
-File:   corpus/05_human/t001576_human.txt
+Text ID: t003185
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001480_gpt.txt
 
-Score (f4_pos): 2
-Loading words (f4_pos), N=2: become, great
-he's usually reading to and his palette his repertoire to explore the world now is like really wide and that's what happened with you know with artists they can do it creatively or musmusicians they can they've got a great way of describing the world through music but if you're a writer words are your primary form so you become really sort of verbally eloquent in the ability to explain the world which is a great skill like really I wanna do more kind of out there when I'm sitting down at at work just testing arbitrary things I feel like I should be taking in nuggets of wisdom from multiple people rather than doing something that actually
+Score (f4_pos): 3
+Loading words (f4_pos), N=3: stick, carry, make
+look the pink five hundred notes are exactly the same value as lots of the smaller ones, all right? you still have the same amount of money, it’s just in bigger notes. it doesn’t change how much you’ve got at all. it’s like if I gave you a real five pound note instead of five separate pound coins – you’d still have five pounds, wouldn’t you? it’s the same thing. this is a completely ridiculous issue to get stuck on, and we can’t play properly until you get this sorted out. we are not going to sit here arguing about what colour the money is. you’ve got the same value, that’s what matters. now come on, just accept the notes you’ve got and get on with the game. right, I’m counting it out: one, two, three, four, five – there you are, that makes the right amount. now we can carry on.

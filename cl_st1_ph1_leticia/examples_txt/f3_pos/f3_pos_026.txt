@@ -1,8 +1,8 @@
-Text ID: t003794
+Text ID: t004872
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000384_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001462_gpt.txt
 
-Score (f3_pos): 1
-Loading words (f3_pos), N=1: minute
-he kept kind of dangling these little carrots in front of us, you know, every so often he’d show us a single frame from one of his supposed 3D animations, like “look, it’s coming along”, and we’d all think, oh okay, maybe he really is on top of it. but actually he was miles off finishing anything properly, and we didn’t realise quite how bad it was until literally the night before the presentation. that’s when it finally became obvious that there was nothing usable from him at all. luckily we’d already started a sort of backup plan because we were getting nervous, so when it all fell apart we just had to dive in. we stayed up through the night, taking our existing 2D graphics, enhancing them, animating bits, basically building a substitute for the 3D stuff at the last minute.
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: huge, manage
+It's not like a Fox or CBN kind of thing at all; Serial is done by quite a small group of people, not some huge media company. With podcasts, if you want to get them on air you usually either have to pay yourself or get a sponsor to cover it. In Serial’s case they had Dropbox sponsoring it before, so that’s how they managed it. There’s a really short Dropbox ad right at the beginning, before the programme actually starts, and that’s it—just that one advertisement.

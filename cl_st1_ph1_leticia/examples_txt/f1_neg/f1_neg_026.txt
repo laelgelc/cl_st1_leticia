@@ -1,12 +1,10 @@
-Text ID: t004983
+Text ID: t005102
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001573_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001692_gpt.txt
 
-Score (f1_neg): -5
-Loading words (f1_neg), N=5: least, moment, sound, everything, same
-so I was talking to him about who’s actually going to build this stable block, and he was saying that was one of the reasons he moved there in the first place, but they’re sort of holding off now until they’ve got a bit more money together. he’s been ill again recently as well. 
+Score (f1_neg): 1
+Loading words (f1_neg), N=1: f2 score: 0
+yeah well when I was an apprentice I worked out this little shortcut, like a jig, a special tool for doing those bearing housings. Instead of doing it the long, standard way, I could just fly through them, turn them out dead quick. Because of that jig I was making loads of parts, so the bonus money really piled up, especially when you think what the basic hourly rate was back then.
 
-he asked me in for a coffee and we ended up having quite a long chat about it all. he told me he’s been demoted at work because of it, but they’ve kept him on the same pay, which is something at least. the problem is he keeps needing time off because of this condition he’s got. 
-
-from the way he was talking, I think it might be cystic fibrosis, though I’m not completely sure, that’s just what it sounds like to me. but anyway, that’s why everything’s kind of on hold with the stables at the moment, they’re just waiting until they’re a bit more financially secure and he’s a bit better before they go ahead with getting it built.
+I had to hide the tool every night so no one else would twig what I was doing. Me and my cousin were in engineering together, and we were knocking so much work out we could stash some of it away. Then we’d slope off fishing while the foreman did us a favour and clocked us in and out. We made a lot of money that way. You couldn’t get away with anything like that now.

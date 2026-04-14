@@ -1,8 +1,8 @@
-Text ID: t001045
-Group: human
-Model: human
-File:   corpus/05_human/t001045_human.txt
+Text ID: t001740
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000035_gpt.txt
 
 Score (f6_neg): -2
-Loading words (f6_neg), N=2: pound, able
-erm well just under twenty-eight and erm she's earning like earning thirty thirty-five something like that and we're in the car and we're driving back home and she was like well you know like? I've got I've got to earn as much as I was like why? because well just I couldn't I couldn't be in a r in a I couldn't be married to him it's like if earned sixty thousand and I didn't earn that much you know it's a massive competition I was like but you never see him because he's always working she goes yeah but I must I'll I'll earn sixty thousand pounds I was like but you don't having work a good work life balance like wouldn't you rather earn less and have a better work life balance? she went no because if he earns that much I have to earn that much I was like I was like but sometimes you actually don't see each other for like a whole week and she went so? it was like I'd rather earn less money and be able to have a life outside of work
+Loading words (f6_neg), N=2: anyone, everyone
+Sometimes it’s even just the little things, like when I’ve had a rubbish day at work and I just want to come home and stay in a bad mood for a bit. I want to stew on it, sit and be grumpy, and not have to put on a face for anyone. But when you’re living in someone else’s family home, in a house full of people, you can’t really do that. You can’t just sit and be, or be openly miserable, because you’re always kind of “on” around everyone.

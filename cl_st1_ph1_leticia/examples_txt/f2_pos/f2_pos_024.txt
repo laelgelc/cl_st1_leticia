@@ -1,8 +1,8 @@
-Text ID: t001749
-Group: profiled_gpt
+Text ID: t004970
+Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000044_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001560_gpt.txt
 
-Score (f2_pos): 1
-Loading words (f2_pos), N=1: cos
-no they wanted me to like drive it away there and then and I just sort of panicked a bit cos I was like it feels really unfair to just do everything without even going and talking to someone about it first so I was like I’ll sign all the stuff you need me to sign but I want to take all the paperwork home and just like sort my insurance out and have a proper chat about it and then I’ll come back so that’s what I did I went back the next day and picked the car up then
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: odd, bloke
+yeah well this time it just wasn't as fun as when we'd been before, you know, because the doorman was so unwelcoming, really miserable, so we just thought oh forget it and wandered off round Leicester Square instead. We were just sort of walking about and then this bloke came up, one of those ticket seller types, and he was like do you fancy a comedy night at this hotel round the corner. It sounded a bit odd, really, a hotel of all places, but we went along anyway, and it was actually really funny in the end, just a really strange little venue.

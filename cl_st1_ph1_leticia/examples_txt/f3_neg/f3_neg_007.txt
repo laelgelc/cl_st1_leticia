@@ -1,12 +1,8 @@
-Text ID: t002147
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000442_gpt.txt
+Text ID: t000791
+Group: human
+Model: human
+File:   corpus/05_human/t000791_human.txt
 
 Score (f3_neg): -2
-Loading words (f3_neg), N=2: seem, pick
-yeah and I mean the only reason it was really bearable was because everywhere had air conditioning, so you’d sort of stagger from one air‑conned box to another and it was fine, you could cope with it like that. Even though it was spring break and the whole of America seemed to have descended on Florida, we actually managed pretty well just driving and finding somewhere each night. Most nights we’d just roll into a town, find a motel and there’d be a room, no problem at all.
-
-There was only one night where it all went a bit wrong, down in the Keys. We just couldn’t find anywhere, everything was booked solid, and we ended up in this really dodgy sort of trailer‑park‑type holiday camp. It was very rough round the edges, not the sort of place you’d normally pick if you had any choice. The air conditioning there was so suspect we were joking it was probably pumping out carbon monoxide at us while we slept. It did the job, but you did sort of lie there thinking, this can’t be healthy.
-
-But apart from that one night it was all right, really. I always say the only trouble with America was the Americans, but in truth they were actually very good. People were helpful, friendly, all that, and even with the madness of spring break going on around us it was generally a really good trip.
+Loading words (f3_neg), N=2: wanna, okay
+no nor do I that's alright let me see if they're still down there walk over to them yeah okay they're all nicely lined up keep using your E you've got you've got mana free mana remember yeah use your Q cos they're walk er yeah they're walking in a line and then use your E on it yeah now keep going up remember you've got l apart from the cool downs you've got loads of mana so you can keep expanding your ability good stuff you got another Alistar yeah there he is okay yeah you got your R now wanna use that yeah he's stuck to the spot good stuff I'd kill the minions first back away

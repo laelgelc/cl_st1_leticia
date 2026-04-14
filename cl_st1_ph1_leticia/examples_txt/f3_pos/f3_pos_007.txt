@@ -1,8 +1,8 @@
-Text ID: t001663
-Group: human
-Model: human
-File:   corpus/05_human/t001663_human.txt
+Text ID: t001892
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000187_gpt.txt
 
-Score (f3_pos): 3
-Loading words (f3_pos), N=3: fuck, shit, guy
-so it's difficult cos like I can't say to him oh you're working too much cos he basically pays for the lifestyle that I have in the summer anyway like normally I pay for everything but in the summer he pays for the lifestyle I have and it's difficult I can't I don't want to shout at him I don't like shouting at anyone like especially my boyfriend or a guy or whoever it doesn't matter who it is I don't like shouting at anyone or making anyone feel bad and I'm not that sort of person I'm not one of these girls that like where the fuck were you? who have you been texting? all that sort of shit like if he wants to go out or any guy that I'm with if they want to go out with some girls or some guys it doesn't matter who it is I don't care okay have a good night I wanna go out with my friends sort of thing that's the sort of person that I am so er it's been hard lately
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: huge, massive
+like when you think about it, if I had a massive fry-up as my main meal I'd feel like that was loads, but then you look at her and it's insane how much she can put away. she’ll eat these huge portions and just never seems to get any bigger. she’s got like totally normal-sized thighs but she’s absolutely tiny on top, it just doesn’t add up. I’m honestly so jealous, I can’t get my head round how she can eat that much and not put on any weight at all.

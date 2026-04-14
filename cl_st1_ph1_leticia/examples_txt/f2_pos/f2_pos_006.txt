@@ -1,8 +1,8 @@
-Text ID: t000031
-Group: human
-Model: human
-File:   corpus/05_human/t000031_human.txt
+Text ID: t003303
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001598_gpt.txt
 
-Score (f2_pos): 3
-Loading words (f2_pos), N=3: wanna, erm, cos
-like it's awkwar it's really awkward and I'm like stuck in the middle of it because they always ask me about like even last night like she hadn't bothered telling anybody else that she wasn't coming so like I basically said on the girl's group like oh erm dinner at for my birthday let me know if you can make it and everybody else said yes and like just like rather than cos she doesn't wanna look bad she won't say like oh I can't make it so she just won't say anything but then it's even more noticeable so like erm today was just like question mark like asking like cos she said like oh what are you doing for your birthday? and then nobody replied and then she put question mark like to say like oh she's away and apparently had to like like text her to say like are you coming tonight? do I need to play like lay an extra place? because she just doesn't say anything and then it just makes yourself it I dunno that's what makes her a target do you know what I mean? it's really bad
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: odd, bloke
+well I I think it's a whole load of things going on with alcoholism you know it’s never just one simple cause there was that woman who stayed with that bloke who was horrible to women and you just think why on earth would you do that? but she clearly didn’t have much self-respect and somehow she clung on to him anyway and I can see a kind of parallel with drinking really because I know for myself I sometimes drank in this odd hope that it would make me feel better about myself, give me some sort of self-respect or confidence and of course it’s completely back to front because the more you drink the less respect you have for yourself in the end it strips it away from you doesn’t it?

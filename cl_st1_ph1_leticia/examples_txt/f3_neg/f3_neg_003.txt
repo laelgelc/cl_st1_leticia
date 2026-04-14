@@ -1,8 +1,8 @@
-Text ID: t003130
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001425_gpt.txt
+Text ID: t000097
+Group: human
+Model: human
+File:   corpus/05_human/t000097_human.txt
 
 Score (f3_neg): -3
-Loading words (f3_neg), N=3: odd, sense, seem
-we've really got to find people who actually want Mondays or Fridays, because that’s all we’ve realistically got to offer at the moment. In that sense the town hall lot are quite a strong possibility, because they’re the sort of people who could probably jiggle their schedules and say, right, we’ll take every Monday for the next year or two. What they mainly seem to need is regular, predictable access, not odd one‑offs, so if we can offer them that kind of consistent Monday slot it could work very well.
+Loading words (f3_neg), N=3: wanna, okay, reason
+no I completely agree with you I completely agree with you but what can happen is that erm what you wanna do so you normally have what is in it? so you've got time here and you've got act there okay? or if you wanted to do you can do time here which I'll guess is a bit normal and then here you can have the escalation of and you have to choose if you want to use the character arc about this man as a as the protagonist then you have to choose what really is the kernel of this person? what is the erm the reason why he keeps moving along this trajectory? what's the common sense of why he's going here?

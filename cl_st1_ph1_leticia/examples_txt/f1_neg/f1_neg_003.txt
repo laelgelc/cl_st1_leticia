@@ -1,16 +1,8 @@
-Text ID: t002896
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001191_gpt.txt
+Text ID: t001583
+Group: human
+Model: human
+File:   corpus/05_human/t001583_human.txt
 
-Score (f1_neg): -5
-Loading words (f1_neg), N=5: clear, stick, expect, nothing, everything
-well the luggage labels have arrived and they’re quite smart really, they say “outward bound” on one side, so that’s all straightforward enough. there wasn’t any letter in with them at all though, no confirmation about the cabin upgrade, and certainly nothing about any extra cost, which is rather interesting. I can’t see that they’ve charged us anything more for it. as far as I can tell, there’s been no paperwork about it beyond these labels and the tickets.
-
-I was saying to him that it actually makes sense from their point of view. they upgrade us, and then they can resell our old cabin to somebody else, so they get the benefit of selling that twice over in effect. it’s no skin off their nose to move us up a grade if they can shift the original one again. but it is slightly odd not to have any kind of letter explaining what they’ve done, you’d think they’d want it all in writing.
-
-anyway, the journey up to London was very good, much better than I’d expected. the roads were really very clear, and the weather improved as we went along. it started off not so promising, but it got better and better on the way, so by the time we were getting in it was actually quite decent. there were crowds around Parliament and Downing Street, lots of people milling about there, so that bit was a bit busy, but otherwise it was fine, nothing problematic at all.
-
-so what I want you to do is just put the labels on the suitcase now, get that done, and then I’ll fill in the cabin number later on once we’re absolutely sure what it is and everything’s settled. no point in guessing and then having to redo it. just stick them on so they’re ready, and we can add the details when we’ve got them properly.
-
-oh, and I popped into Lidl and did a small shop, just a few bits and pieces, nothing major, but enough to keep us going. so that’s all sorted as well.
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+and they're like no no no you owe us loads of money so he was working really hard doing loads of like campaigns and shit to the trade farers and then like when I got back from which li this was like a year ago he was like went to me he was like okay he was like finally cleared the hundred and fifty grand loan he was he went to them and was like really expecting they'd be like okay cool like champagne like you know and that and they're like no no no like in the mean in that time you vo you've owe us another like seventeen thousand pounds they spent money on his behalf you know?

@@ -1,8 +1,14 @@
-Text ID: t001038
-Group: human
-Model: human
-File:   corpus/05_human/t001038_human.txt
+Text ID: t002025
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000320_gpt.txt
 
-Score (f4_pos): 4
-Loading words (f4_pos), N=4: become, change, set, somebody
-on a wavelength yeah yeah I guess when I think about you I see somebody who is evolving or I mean you know how we are dynamic creatures we are always evolving we always changing you know I I don't think a personality is ever set but I suppose you have certain characteristics or a certain resonance or a certain vibe that you get on for a period of time because it suits you and you explore everything within that vibe and then something shifts or changes and you move and you do become a different person on a cellular level on a de and well on a cellular level you are not you are a completely different human being to the physical organism you were seven years ago everything about you has shifted and changed and also sort of psychologically spiritually emotionally well you are a different person in every moment you are reinvented in every now but I do think you hit these like you know you are at one now which is a life changing oh okay choice of two big paths and there's another probable you that's carrying on business as usual but this wider path is the you that is now recreating or creating something new and I think good for you be assertive and be proud of who you are don't do yourself down or call yourself a sad git for going to bed at ten o'clock you know be proud of that
+Score (f4_pos): 5
+Loading words (f4_pos), N=5: feel, stick, clear, carry, make
+well what I tend to do is a tiny bit of planning, but really just to have something in my back pocket. I’ve got the “English File Upper Intermediate” PDFs on the laptop, and at the beginning with this student we actually went through the book because that’s what she wanted. Over time, though, we’ve drifted away from following it page by page, and now I mostly use it as a source of topic ideas or the odd exercise if it fits. The lesson itself is really led by whatever she wants to talk about on the day.
+
+The only real “system” I stick to is my A4 sheet. I always divide it into three sections before the lesson starts. One section is for error corrections that I want to come back to at the end, so I’m not constantly interrupting her flow. Another section is for new vocabulary, often idioms, and I’ll jot down the phrase and a quick meaning so she’s got a clear record. The third section is for pronunciation notes.
+
+With the pronunciation, I don’t force phonetics on them unless it actually means something to that particular student. If they’re comfortable with phonetic symbols I’ll use them, but quite often I just write things in a way that I know they’ll remember and understand. The idea is that the sheet makes sense to them, not that it’s technically perfect.
+
+She takes that A4 sheet away with her at the end of the lesson, so it becomes a little personalised record of what we did. During the lesson I’m doing on‑the‑spot correction when it feels appropriate, and if it doesn’t, I just note it down for later and carry on. It’s very straightforward, and with that structure in place it really is easy money.

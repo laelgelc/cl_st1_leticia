@@ -1,10 +1,8 @@
-Text ID: t003943
+Text ID: t004977
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000533_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001567_gpt.txt
 
-Score (f5_neg): -2
-Loading words (f5_neg), N=2: single, manage
-well the point about those national exams, like in China, is they’re not just some cultural quirk, they’re really useful administratively and strategically. If you’ve got loads of different syllabuses across a huge country, you need a single mechanism to standardise them all, and that’s what those exams do. They give you a reliable way of saying, right, here’s the top five or ten percent across the whole cohort.
-
-And then, crucially, universities know exactly who those people are and can afford to put a huge amount of intensive work into them, because they’re pretty confident those students will cope intellectually. Whereas here, in the UK, we don’t really have that same certainty in advance, so universities are always slightly guessing who will actually manage the level.
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: somebody
+We were walking along, it was just after Christmas, and he suddenly turned to me and said I looked a bit down. I told him straight, it was all these jobs I keep seeing around the house that are getting to me. Everywhere I look there’s something half done or needing doing, and it just weighs on you after a while. So we talked it through as we walked, and in the end we decided we’d be sensible about it. We’d sit down and make a proper list, and I’d mark which things I thought I could manage and which I really couldn’t. Then for the ones I couldn’t do, we’d get somebody in. We said we’d start with the plumber, get him in the morning to have a look at that toilet.

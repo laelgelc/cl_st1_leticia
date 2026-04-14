@@ -33,141 +33,149 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac2	SD fac2
-group	human	1705	0.88328446	0.93816248
-group	profiled_gpt	1705	-0.16480938	0.49212613
-group	unprofiled_gpt	1705	-0.16480938	0.52780025
+group	human	1705	-0.15249267	0.45214143
+group	profiled_gpt	1705	0.09032258	0.36101897
+group	unprofiled_gpt	1705	0.06803519	0.33924446
 
 === FACTOR LOADINGS (f2_pos) ===
-variables loading on this pole = 8
-er (.77), wanna (.73), erm (.67), okay (.46), (shit (.46)), cos (.38), (gonna (.37)), (somebody (.31))
+variables loading on this pole = 4
+odd (1.21), chat (.63), bloke (.44), (sense (.34))
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f2_pos_001.txt (text ID t001187) =====
-Text ID: t001187
-Group: human
-Model: human
-File:   corpus/05_human/t001187_human.txt
-
-Score (f2_pos): 4
-Loading words (f2_pos), N=4: er, wanna, erm, cos
-nobody I knew so I just said to a man that had a clipboard you know he's here to to to run what year? year nine oh no I'm year seven boys erm try him over there so I went to him he's here to run year nine boys what's his name? duh duh duh oh he's not on my list oh what school is he at? I said the oh that's strange he's not on my list doesn't matter that's fine what's his name? wrote it down and put a tick next to it right it's er one o'clock as instructed he said I said well what time do we need to be back here? he said well quarter past two he said do you want to walk the route? I said well we can see it it's er up that hill and down and then up that hill and down you know it didn't look very nice and there was pplenty of people walking it I said to do you wanna walk the route ? pouring with rain he said no I said er I said no nor me come on we'll go back to the car so we moved the car cos once we knew where we were we could see a space closer so we moved the car quarter past two we went back over there it was so wet the mud was unbelievable cos there'd already been three races and erm we found the man that we'd s been speaking to and we awe asked for the bib and he said er what school did you say he was at? I said the oh he said I thought you said the the 's not one of ours where's that? I said he went that's I said I know he said this is
-
---- Loading words for this example (pos): er, wanna, erm, cos
-
-
-===== EXCERPT: f2_pos_002.txt (text ID t001192) =====
-Text ID: t001192
-Group: human
-Model: human
-File:   corpus/05_human/t001192_human.txt
-
-Score (f2_pos): 4
-Loading words (f2_pos), N=4: er, erm, okay, cos
-we put in but then wi somebody was er saying actually you know you ought to put in cos if they find out and you er okay yeah we'll put in if we do need to so we put in for planning permission and then the woman came round to look at the garden look at the area and I'm thinking this was half-built do you know what I mean? and we're still putting in for planning permission so I was saying ah yes erm and she said I'll meet you round the back and she started walking round the bungalow I'm going through the house thinking what do I do what do I do? and I can't ring cos there's nothing he can do he's away and er er er
-
---- Loading words for this example (pos): er, erm, okay, cos
-
-
-===== EXCERPT: f2_pos_003.txt (text ID t000989) =====
-Text ID: t000989
-Group: human
-Model: human
-File:   corpus/05_human/t000989_human.txt
-
-Score (f2_pos): 4
-Loading words (f2_pos), N=4: wanna, erm, okay, cos
-yeah exactly and the some of them were like yeah we've already got someone that does does football for us we've already got someone that does whatever for us do you do cricket? no well okay then then no so it's like that it's a bit it's a bit of a stinker cos there are there are a lot of people who s I know there's there's guys in Lincoln that do it they've started doing it at uni at Lincoln Uni and have got a business going erm they do various sports I think around schools and they do it in school time and whatever they've got that thing set up and they're doing quite well off it erm I met them on a night out once some really arrogant guys but doing well for themselves so it's definitely something that's been that everyone's doing but it's not what what I wanna do anyway I just need a bit I need like access to schools every so often just to put the name out like
-
---- Loading words for this example (pos): wanna, erm, okay, cos
-
-
-===== EXCERPT: f2_pos_004.txt (text ID t000691) =====
-Text ID: t000691
-Group: human
-Model: human
-File:   corpus/05_human/t000691_human.txt
-
-Score (f2_pos): 4
-Loading words (f2_pos), N=4: wanna, erm, okay, cos
-he can't yeah he can't like and when we were standing there and his mum was like you know we you know we can't do anything about it now and he was like no no no it's alright don't worry I'll get knocked up and then we'll lean on you for everything and like she and he was like yeah or no or do you not wanna do that? alright okay no worries so I tell you what er when er erm and like move out and you give them two grand give me two grand too cos we could be in exactly the same situation like and he's just kind of like pulling out every little bit but obviously it's not his mum's fault
-
---- Loading words for this example (pos): wanna, erm, okay, cos
-
-
-===== EXCERPT: f2_pos_005.txt (text ID t001107) =====
-Text ID: t001107
-Group: human
-Model: human
-File:   corpus/05_human/t001107_human.txt
-
-Score (f2_pos): 4
-Loading words (f2_pos), N=4: wanna, erm, okay, cos
-no erm so what? yeah we turned up obviously on the Thursday night and we got in at about one and the well no about twelve and the taxi driver we've got a taxi from the airport to the place cos we don't wanna be wandering around in the dark erm and then we once we arrived like on the street where we were staying there was a police car and them like dealing with some scruffians or whatever you wanna call them ruffians so we were like great this is the entrance to our street and then you walk down the street and there were bars open and stuff but a lot of it was closed and a lot of it just had like graffiti all down the sides so it was like okay in the daytime it was really pleasant but at night everything just seemed a bit erm yeah just unloved and vandalised and erm but it was it was nice but erm like unlike Paris where like you know the Eiffel Tower and Notre Dame and and the Louvre are all kind of like really close to each other in Barcelona they're not like one's like up here by five kilometres the next one is like down here by another how many kilometres and you just end up walking around trying to find everything so you spend more time walking than actually sightseeing but erm you can get like a tour bus and everything like that but because we were there for such a short period of time like none of us had really rea researched how to use the public or what public transport to use
-
---- Loading words for this example (pos): wanna, erm, okay, cos
-
-
-===== EXCERPT: f2_pos_006.txt (text ID t000031) =====
-Text ID: t000031
-Group: human
-Model: human
-File:   corpus/05_human/t000031_human.txt
+===== EXCERPT: f2_pos_001.txt (text ID t001777) =====
+Text ID: t001777
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000072_gpt.txt
 
 Score (f2_pos): 3
-Loading words (f2_pos), N=3: wanna, erm, cos
-like it's awkwar it's really awkward and I'm like stuck in the middle of it because they always ask me about like even last night like she hadn't bothered telling anybody else that she wasn't coming so like I basically said on the girl's group like oh erm dinner at for my birthday let me know if you can make it and everybody else said yes and like just like rather than cos she doesn't wanna look bad she won't say like oh I can't make it so she just won't say anything but then it's even more noticeable so like erm today was just like question mark like asking like cos she said like oh what are you doing for your birthday? and then nobody replied and then she put question mark like to say like oh she's away and apparently had to like like text her to say like are you coming tonight? do I need to play like lay an extra place? because she just doesn't say anything and then it just makes yourself it I dunno that's what makes her a target do you know what I mean? it's really bad
+Loading words (f2_pos), N=3: odd, chat, bloke
+Once the headmaster let me in, nobody said a word about me having been left outside. It was as if nothing odd had happened at all. The Asian woman on the help desk just carried on chatting away with this bloke, going on and on about anything and everything, and still didn’t even pause to see if I needed help. I was just standing there, feeling increasingly anxious, watching the time and worrying I was going to be late, and then eventually the bell rang and it all kicked off.
 
---- Loading words for this example (pos): wanna, erm, cos
-
-
-===== EXCERPT: f2_pos_007.txt (text ID t001614) =====
-Text ID: t001614
-Group: human
-Model: human
-File:   corpus/05_human/t001614_human.txt
-
-Score (f2_pos): 3
-Loading words (f2_pos), N=3: er, erm, cos
-I was like it's not about you I don't understand that and then they and then said erm he was this was when I chimed in cos I was like taking this er he he was like you know it's fine to be gay be gay be gay but don't shove it in our faces and I was like oh like like well you shove er like heterosexuality in everyone else's faces and he was like no never done that and I was like not about you not about you I don't care if you've not done it personally
-
---- Loading words for this example (pos): er, erm, cos
+--- Loading words for this example (pos): odd, chat, bloke
 
 
-===== EXCERPT: f2_pos_008.txt (text ID t001619) =====
-Text ID: t001619
-Group: human
-Model: human
-File:   corpus/05_human/t001619_human.txt
+===== EXCERPT: f2_pos_002.txt (text ID t002508) =====
+Text ID: t002508
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000803_gpt.txt
 
-Score (f2_pos): 3
-Loading words (f2_pos), N=3: er, wanna, okay
-I dunno if you wanna was after the American legalised same sex marriage to our fellow Americans just tell me if I'm getting boring hey there it's two of your it's two of your brothers who are writing to you about the Supreme Court decision to legalise gay marriage the good news is that a whopping forty-two percent of you muslims support marriage equality as do both of our Muslim elected officials in the United States Congress one even serves as vice chair of the LGBT equality caucus there are many faithful gay and lesbian Muslims in the US and we love and support all of them at the same time many of you are scandalised by the ruling we know because you keep tweeting about it many e more of you are equally perturbed but have chosen to keep it to yourself with all the rainbow flag waving and self congratulatory pats on the back this country is giving itself right now you don't need another reason for Americans to dislike you sure Rick Santorum and Mike Huckerby ccalled the Supreme Court decision the precursor to the end of days and final battle of Armageddon but if you try saying something like that on TV you may end up in Guantanamo so you're staying quiet you may not like the Supreme Court's decision but you're dealing choosing to tolerate it we understand when you're where you're coming from being a Muslim in America is not easy on the one hand you're a part of a mainstream con culture you're a Warriors fan you listen to Kanye you watch Game Of Thrones you even went to the office Christmas party and sang Silent Night on the other hand you want to stay true to the faith and traditions you go to the mosque and send your kids to Islamic school fast during ramanam and swap turkey bacon on your BLT all in an attempt to establish a firm Muslim identity in a non Muslim country but now that s now but now but now that same sex marriage is legal in America it's shaking up your faith you're afraid of the future and what this could mean for your kids you recognise this growing acceptance of gay rights but personally you just can't bring yourself to embrace the shift you may feel okay with having gay acquaintances or coworkers you may even agree that being gay doesn't qua disqualify you from being a Muslim but privately you still feel like the LGB community is a living contradiction to what you were brought up to d believe but here's the thing when you are an under represented minority where the Muslim African American female er democracy is an all or nothing business you fight for everyone's right and the operative word here is fight while you get none for yourself democracy isn't a buffet you can't pick and choose which civil liberties apply to which people either we are all equal or the whole thing is just a sham we Muslims are already a deeply marginalised people in mainstream American culture more than half or us Americans have a negative view of us one third of Americans that's one hundred million people want us to carry special IDs so that we can easily identify us as a Muslim we shouldn't be per we shouldn't be perpetuating our marginalisation by marginalising others rejecting the s right to same sex marriage but then expecting empathy for our community struggle is hypocritical think about the way er people look at your hijabi sisters what I said earlier or your bearded brother when they walk through the mall think about the grumbles and stares you get at airports think about the vitriol that that's spur spewed on you by your own elected political leaders that's how LGBT brothers and sisters feel every day of their lives are you okay with that? we don't know about you but our faith teaches us to care for the weak and the marginalised the poor the dispossessed those who are trampled under foot those who are persecuted no matter who they are no matter what they choose to believe no matter who they choose to love there's a Quran quote doesn't get any clear than clearer than that you may think LGBT rights is a new conversation something that's only recently come into contact with modern Islamic thought but er trust us it's not challenging the status quo for the betterment of society is one of the very foundations on which Islam was built no one is asking you to change beliefs if you still if your faith still tells you that homosexuality is haram fine we disagree with your interpretation but you're entitled to it erm yeah bottom line is standing up for marginalised communities even when you disagree with them is not just the right thing to do it's the Muslim thing to do remember that whole god is merciful and compassionate thing that extends to all people not just those who are straight celebrate don't tolerate love really does win yours truly Reza Aslan and Hasan Minhaj
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: odd, chat
+well it will affect her reference I mean I can't pretend it was all fine when she told me on the very last day, that's just unprofessional and people do ask why someone left and when, so I’ll have to be honest about the timing. but then it was really odd, I went into the kitchen at work not long after and there was this woman who’s on a temporary contract in the building, who I already knew and really liked, and we just started chatting and I said look my administrator’s just resigned, would you be interested in the job, and she said yes straightaway, so that was the whole staffing problem sorted in one go.
 
---- Loading words for this example (pos): er, wanna, okay
-
-
-===== EXCERPT: f2_pos_009.txt (text ID t000397) =====
-Text ID: t000397
-Group: human
-Model: human
-File:   corpus/05_human/t000397_human.txt
-
-Score (f2_pos): 3
-Loading words (f2_pos), N=3: er, erm, cos
-and went to and questioned I shouldn't be having to do this and said to him erm I don't know the very words this is what I was just told cos overheard it said well why have you been asked to do it? and er he said something about erm er I I've been given it because I've been naughty or whatever I said well I suggest you get back to where you were where you've just come from and carry on with it but said if that er that had have been him he'd have said to him how dare you question what has given you and come to me
-
---- Loading words for this example (pos): er, erm, cos
+--- Loading words for this example (pos): odd, chat
 
 
-===== EXCERPT: f2_pos_010.txt (text ID t001643) =====
-Text ID: t001643
-Group: human
-Model: human
-File:   corpus/05_human/t001643_human.txt
+===== EXCERPT: f2_pos_003.txt (text ID t001739) =====
+Text ID: t001739
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000034_gpt.txt
 
-Score (f2_pos): 3
-Loading words (f2_pos), N=3: er, erm, okay
-button start recording okay that's started recording and that one I think has started recording if I mi yes it has okay so erm and I are going to talk about erm er er something that we've both been going through erm over the last few months and years which is our experiences of having cancer and being treated for cancer specifically gynaecological cancers and we're doing this recording with two objects erm number one is towards the Cambridge University Press erm research but secondly we're hoping that the tape will be used as well by a charity which is called The Eve Appeal erm which erm is campaigning on erm a greater awareness of gynaecgyn I can't even say it gynaecological cancers amongst obviously amongst women er in erm in this country and erm are interested in the views of some of their members and supporters er in the awareness of cancer and the symptoms of cancer et cetera amongst young people er in particular so we're gonna talk about that and the other thing we're gonna talk about is about the cancers that we've had and our experiences of of having cancer so we're gonna talk about body parts and stuff like that as well because part of what The Eve Appeal has discovered is that younger women are less likely to know the parts of their body involved be able to locate them on a map of the body and actually be able to use the terminology so although there's an assumption in our society that younger people are freer and easier about sex and and er health et cetera this turns out from a recent piece of research to be not at all the case so I don't know what you felt when you read that press release that they put out?
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: odd, chat
+yeah she never she never actually came back and told me what happened with that chat, she just sort of briefly said they’d spoken about it. But even then, his story just didn’t add up – the timings were off, and he was adamant he’d never even been in contact with this other girl. He kept saying stuff like, “Oh my mates would’ve told you if anything had happened,” which I just don’t buy, because he’s got a lot of people who’d cover for him.
 
---- Loading words for this example (pos): er, erm, okay
+In the end she just chose to believe him, and that was that. Within like two weeks she’d moved in with him, which just made me feel even more uneasy about the whole thing. She’s even admitted she’s checked his phone a couple of times, secretly, to see if there were any messages between him and this girl.
+
+But that almost makes it worse, because there was nothing there at all. I actually find that more suspicious than if there’d been the odd casual message, because I know they’re usually in semi-regular contact. It’s like it’s been wiped clean, which just feels off to me.
+
+So I’m stuck in this weird place where I still really don’t trust him, and I feel bad for feeling like that. I know she’s happy and I am happy for her, but I can’t shake the reservations I’ve got about him and the whole situation.
+
+--- Loading words for this example (pos): odd, chat
+
+
+===== EXCERPT: f2_pos_004.txt (text ID t003265) =====
+Text ID: t003265
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001560_gpt.txt
+
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: odd, bloke
+Yeah, that trip just wasn’t as much fun as the first time we went, really. The doorman at the Comedy Store was so unwelcoming it sort of killed it for us, so we didn’t bother staying. We just wandered round Leicester Square for a bit instead, not really knowing what to do next. Then this bloke came up selling tickets and asked if we fancied a comedy night at a hotel. It sounded a bit odd, and the venue was quite strange when we got there, but actually it turned out to be really funny in the end.
+
+--- Loading words for this example (pos): odd, bloke
+
+
+===== EXCERPT: f2_pos_005.txt (text ID t003343) =====
+Text ID: t003343
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001638_gpt.txt
+
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: odd, bloke
+Yeah, I was thinking a bag’ll probably turn up somewhere, so I’m not too worried. It reminds me of when I went into a criminal court once and sat up in the public gallery. There was just me, a lawyer – I think she was a woman – a male solicitor, and this bloke who immediately smiled and looked straight at me as I came in. It felt a bit odd, him focusing on me like that, especially in such a quiet room with so few people around.
+
+--- Loading words for this example (pos): odd, bloke
+
+
+===== EXCERPT: f2_pos_006.txt (text ID t003303) =====
+Text ID: t003303
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001598_gpt.txt
+
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: odd, bloke
+well I I think it's a whole load of things going on with alcoholism you know it’s never just one simple cause there was that woman who stayed with that bloke who was horrible to women and you just think why on earth would you do that? but she clearly didn’t have much self-respect and somehow she clung on to him anyway and I can see a kind of parallel with drinking really because I know for myself I sometimes drank in this odd hope that it would make me feel better about myself, give me some sort of self-respect or confidence and of course it’s completely back to front because the more you drink the less respect you have for yourself in the end it strips it away from you doesn’t it?
+
+--- Loading words for this example (pos): odd, bloke
+
+
+===== EXCERPT: f2_pos_007.txt (text ID t002455) =====
+Text ID: t002455
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000750_gpt.txt
+
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: chat, bloke
+on Linkedin you basically put your CV on there and all your sort of details, like what you do, what you’re looking for, your criteria, so that you can be headhunted or connect with other professionals. it’s not like Facebook, it’s meant to be totally professional. anyway this young woman lawyer had a profile on there, and she got this message from this middle‑aged bloke who’s a partner in a law firm in London. instead of talking about her work or anything, he just wrote to say she looked absolutely beautiful in her profile picture. it was really flirtatious, like he was chatting her up, even though it’s supposed to be a work thing.
+
+--- Loading words for this example (pos): chat, bloke
+
+
+===== EXCERPT: f2_pos_008.txt (text ID t002559) =====
+Text ID: t002559
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000854_gpt.txt
+
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: chat, bloke
+there’s this bloke on the internet called stinson hunter, right, and what he does is he gets these girls who look really young to make fake dating profiles and that, and then when some lad starts talking to them he’ll tell them he’s only fourteen. if they still keep chatting and trying it on after that, he basically takes that as them being paedophiles. then he sets them up and traps them, and there’s actually a proper documentary about him doing it all, showing how he catches them and that.
+
+--- Loading words for this example (pos): chat, bloke
+
+
+===== EXCERPT: f2_pos_009.txt (text ID t001883) =====
+Text ID: t001883
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000178_gpt.txt
+
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: odd, chat
+I’d never actually met her before, but she acted like we already knew each other. She was all, “how are you?”, “when are you back to work?”, “did you have a nice summer break?”, that sort of thing. It was really odd, because the only connection she had was my email address, which I’d written down to go on this group email about baked goods. Just from seeing that, she started chatting away as if we were old friends, and I really didn’t like it at all.
+
+--- Loading words for this example (pos): odd, chat
+
+
+===== EXCERPT: f2_pos_010.txt (text ID t002955) =====
+Text ID: t002955
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001250_gpt.txt
+
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: chat, bloke
+I went to this CLIL talk that I actually found really interesting. It was by the same bloke who did that FCE talk before, but he was much better this time because he was presenting his own material rather than someone else’s. I also ended up chatting to someone who asked why I’d never worked at this particular place, which threw me a bit because I honestly didn’t know why – I’ve worked pretty much everywhere else. 
+
+It all felt a bit strange being at the conference, because there were several organisations I’m connected with there – Kaplan, Support for English, and so on. I even managed to discreetly watch this Kaplan woman from Salisbury, who I’m likely to have to deal with in the summer and who’s supposed to be notoriously difficult.
+
+--- Loading words for this example (pos): chat, bloke

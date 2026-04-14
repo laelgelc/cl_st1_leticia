@@ -1,12 +1,8 @@
-Text ID: t003386
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001681_gpt.txt
+Text ID: t001178
+Group: human
+Model: human
+File:   corpus/05_human/t001178_human.txt
 
-Score (f5_neg): -1
-Loading words (f5_neg), N=1: full
-well when he first stopped doing bits of project work and was suddenly at home more, it all got a bit muddled really. Somehow, even though I was still working full time, I’d ended up doing pretty much all the housework as well, and then it sort of flipped without us ever really talking it through. Now he does most of it, and he’s actually a very good cook, so he mostly does the cooking too.
-
-But I feel quite conflicted about it. On the one hand I’m glad he’s taken things on, on the other I can get quite resentful that I’m not the one doing the shopping or choosing the food, which sounds ridiculous when I say it out loud. I don’t like that side of myself, but it’s there – I miss having that control over what we eat and how things are done.
-
-And I do worry that when I retire there’ll be another fight about it all. At the moment he’s got his way of doing the kitchen and the house, and I know I’m going to want to reclaim some of that. I can already feel myself bristling at the idea of just fitting in around his routines, and I really don’t like that feeling.
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: fuck, somebody
+erm it makes me feel really rich except that I can't access that money erm you know it's meaningless unless somebody gives me one point two five million obviously I've got a mortgage and the rest of it so er so we're you know we've got to work out ways of releasing some of the money so that I don't need my salary from work to keep me going through the next couple of years while I find anoth othother ways of earning money yeah then oh fucking hell there might be a bit of a lean period erm but I think this is the time to do it but yeah like I say the fine the fine-tuning the actual practicalities not just the fine-tuning the practicalities how it is possible how it is manageable it's all very very much in the air so it's not it's not really we're not able to have a proper discussion about it

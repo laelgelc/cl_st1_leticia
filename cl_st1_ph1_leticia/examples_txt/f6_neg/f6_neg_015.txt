@@ -1,8 +1,12 @@
-Text ID: t000126
-Group: human
-Model: human
-File:   corpus/05_human/t000126_human.txt
+Text ID: t002358
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000653_gpt.txt
 
-Score (f6_neg): -1
-Loading words (f6_neg), N=1: able
-you you you get played and that of course somehow all of that's monitored you turn up you have to be seen to be there for a certain period of time but you can take whatever break and you can mix and match with whoever you want and if you've got a deal then you go and present that to the top geezers and you say well look I've got this idea we've worked together as a team for the last six weeks and we've been able to analyse and come up with we reckon this is a goer give it a go trial it out it goes up on Google they try it out as a product you know check it out it stays or it dies
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: guy, everyone
+yeah everyone properly got into that town in the end, it wasn’t just me and that one keen guy. People started putting up these massive houses all the way along this main street, and down the middle you had all the shared buildings – the forge, the brewery, all the communal stuff – so it felt like a proper little place rather than just random blocks everywhere.
+
+then on the first of December we put up this huge Christmas tree in the middle, but we didn’t decorate it at all, just left it bare. and that actually worked really well, because everyone who logged on would add something – chuck a few decorations on, leave presents underneath it for other people – so it slowly turned into this really nice, collaborative thing.
+
+just off to the side there was this castle someone had built, and the bloke who owned it kept trying to stir up player versus player fights, but nobody was really biting, it never really took off the way he wanted. after a while, though, you did start to see a bit of vandalism creeping in again, and some stealing, which kind of spoiled the whole communal vibe we’d built up.

@@ -1,8 +1,10 @@
-Text ID: t000906
-Group: human
-Model: human
-File:   corpus/05_human/t000906_human.txt
+Text ID: t003154
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001449_gpt.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: bloke, stand
-and she was young and she had lots of blonde hair and the top half of her head it was kind of up I think it was in rollers kind of around big black things but kind of about this big which I think is probably rollers so I think she was drying it before going out or something like this the bloke who was standing in front of her turned around and everybody heard this and said he must have just like caught her and said oh oh you off to a Halloween party or something?
+Loading words (f6_pos), N=2: month, pound
+well anyway after all that faffing about with the security questions she said to me, she goes, “we’re not really supposed to do this,” but then she said she’d put me on this cheaper thing, so it’s going to be twenty‑one ninety‑nine now instead. I’d said to her right at the start, I just can’t afford forty‑odd quid a month, forty‑one, forty‑two pounds, whatever it is, and asked her what my options were, so that’s when she came back with that offer. 
+
+At the beginning of the call she was really firm, she said, you’ve got to think very carefully about your answers or the call will just be terminated. First thing she asked was roughly what my last bill was, and I just guessed, I said about twenty‑four pounds, and she said, “yeah, that’ll do,” so that went through. Then she asked me where I’d set the plan up, and I was there thinking, oh crikey, was it online or what, and then I remembered going in, so I said, “in store,” and that was right. After that she calmed down a bit and actually talked to me properly.

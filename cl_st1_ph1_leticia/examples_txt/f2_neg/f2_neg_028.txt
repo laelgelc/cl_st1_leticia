@@ -1,8 +1,8 @@
-Text ID: t004387
+Text ID: t004844
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000977_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001434_gpt.txt
 
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: huge, massive, big
-It's not heavy, it's just this stupidly big box that makes it such a hassle to deal with, especially with the post office shut. Anyway, it’s like our defence at football – just a massive chore. We’ve got these two big, slow centre backs, both pretty poor. One of them’s about six foot two and middle‑aged, and the other’s just as bad. Then there’s this young wing back who’s actually better, but he’s really skinny and physically weak. You can knock him off the ball so easily, even though he’s a better player than those two. So we end up with these huge, lumbering defenders and this lightweight kid who can’t really cope physically.
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: god
+He was saying he’s got this workshop and office at the bottom of his garden, all kitted out with electricity, heating, even a toilet, and that’s where he works from. So he was like, “I’ve got everything I need,” even though his kids keep saying he should move because there are a few troublesome families around there now. I said something that should’ve rung a bell for him, and as soon as I did he just went, “Oh god yeah,” like he immediately recognised exactly what I was talking about.

@@ -1,8 +1,8 @@
-Text ID: t000288
-Group: human
-Model: human
-File:   corpus/05_human/t000288_human.txt
+Text ID: t003409
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001704_gpt.txt
 
 Score (f5_pos): 2
-Loading words (f5_pos), N=2: em, reason
-well my limited knowledge of daffodils and tulips is that they'll pretty much survive anything because my family kill plants and we have daffodils and tulips which come up every year regardless of anything em yeah and my dad regularly used to em for some reason best known to himself he used to do the garden em kind of you know before winter started and dig up all these things out the soil saying oh I have to throw them out and me mam was like what? They're my daffodil bulbs what are you doing? And every year he'd dig these things up I don't understand why
+Loading words (f5_pos), N=2: awful, pick
+it's literally impossible though, like for the aural you have to just know straightaway what cadence it is and say it in chord numbers, like a perfect cadence is one–five and stuff. And they play you this bit and you’ve got to say how it’s progressed, like whether it’s gone diminished or major or minor, and I just don’t get how you’re meant to hear that instantly. And then on top of that you have to sing the bass part of a melody, which is just awful, because I can’t pick it out properly. It’s all those things together that make it feel completely impossible for me.

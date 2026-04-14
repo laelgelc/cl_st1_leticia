@@ -1,8 +1,8 @@
-Text ID: t002515
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000810_gpt.txt
+Text ID: t000938
+Group: human
+Model: human
+File:   corpus/05_human/t000938_human.txt
 
 Score (f3_neg): -3
-Loading words (f3_neg), N=3: odd, sense, seem
-I suppose if by April he is seeing somebody properly, then it might all feel a bit different. You’d probably end up seeing each other in a group anyway, you know, going out all together, and that would be fine, you’d still be in each other’s lives that way. But just the two of you, one-on-one, when you’ve actually gone out together before, that does feel a bit odd to me. It’s not that it’s completely impossible or anything, it’s just that it makes more sense in my head if you were just best mates who’d never been involved. Then it’d be totally normal to hang out, just the pair of you, without it seeming strange.
+Loading words (f3_neg), N=3: wanna, okay, reason
+erm Ula is to do the case studies so wh the reason why a case study is useful is because case files studies normally involve erm characters they use usually involve a situation that needs some managing or if there's some kind of problem that's arisen the characters need to organise themselves that they can start to align or something or group themselves so that they can resource something or they've been given a task where they have to solve a problem so the case study is always pitching up with something that needs to be done and then you take this characters in the story from Monday to Friday and then you say okay actually this has got enough meat on it to become a case story a case study do you wanna co-create a case study which has also got moving images in the case study? so the case study is not just a boring old text with some answers to some questions at the end the case study is a a real life case study where they have agreed to co-create and act and be in this in this case study so it's not imaginary it's real

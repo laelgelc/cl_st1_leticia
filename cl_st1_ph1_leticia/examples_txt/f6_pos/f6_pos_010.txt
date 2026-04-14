@@ -1,8 +1,8 @@
-Text ID: t003266
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001561_gpt.txt
+Text ID: t000235
+Group: human
+Model: human
+File:   corpus/05_human/t000235_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: bloke, stand
-There was this big, fat American bloke, must’ve been about fifty, in the audience, and he just kept interrupting the compere all the time. Every time the compere said something, he’d shout out, “that’s me!” really loudly. At first everyone was just a bit confused, like, what’s he on about, and people started talking about him. In the end the compere just decided he was a complete nutter and tried not to get drawn in, but the man kept standing up and coming out with loads of stupid things.
+Loading words (f6_pos), N=2: month, least
+you kind of like like what was it? I saw what? a few months ago maybe in May and I was like we were in the car home I was like do you think you're gonna marry ? he was like mm yeah probably and then what? now he's just broke up with her? it was just like he just said they went to did they go to Majorca? or they went on holiday and he was just like it just didn't feel the same I was like well at least you dumped her you know at least you

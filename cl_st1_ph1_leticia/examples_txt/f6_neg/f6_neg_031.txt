@@ -1,8 +1,8 @@
-Text ID: t002074
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000369_gpt.txt
+Text ID: t000654
+Group: human
+Model: human
+File:   corpus/05_human/t000654_human.txt
 
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: pound, able
-I came out of it with about eight thousand pounds of debt, all from that career development loan I took out to do the master’s after I’d been travelling. Altogether I borrowed around ten thousand in the first place – about five thousand went straight on the tuition fees and roughly three thousand was meant to cover my living costs while I was studying. After that, I just had to work to be able to afford food and keep myself going. It was very much a case of juggling everything so I could actually finish the course and still eat.
+Score (f6_neg): -3
+Loading words (f6_neg), N=3: anyone, guy, everyone
+yeah it was just really really weird and he and he sent a sort of statement to the Gaming Society saying you guys are all em hold hands and let's be best friends forever and stuff and gaming isn't about that it's about competition and it was like no it c it's just having fun this guy was just psycho he was just really weird em so that's that's what happened to that and I stopped playing Minecraft shortly after em yeah how are we doing? Yeah okay em so yeah I spoke to em I sort of I gave a talk about all of this to em my class and em they yeah they were really interested in this guy who who had attacked everyone else and sort of las lashed out because he couldn't cos he couldn't get his player versus player experience that he wanted he was hoping to sort of prod people into turning on each other before but instead it just sort of had the opposite effect because on the next one instead of sort of thinking okay from now on it's going to be player versus player I'm going to keep all my resources I'm not going to let anyone near them and set up trash and everything instead eh because I actually did set up some traps on the first map like I had my storage bunker underneath my house and if you dropped down you'd fall in to some lava and then the next time I went there he'd destroyed the em barrier around the lava the lava had escaped and just burnt all of my resources

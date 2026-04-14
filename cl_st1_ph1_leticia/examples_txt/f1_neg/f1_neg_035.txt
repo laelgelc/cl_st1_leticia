@@ -1,8 +1,8 @@
-Text ID: t001193
-Group: human
-Model: human
-File:   corpus/05_human/t001193_human.txt
+Text ID: t002346
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000641_gpt.txt
 
-Score (f1_neg): -4
-Loading words (f1_neg), N=4: stick, nothing, try, same
-we get it's the recorded delivery the recorded messages now that we get and it there's one that we seem to be stuck on and they ring the fax number first and then literally about four minutes later it rings ours so you know to ignore it the fax nothing happens but then the main phone one goes and I just leave it and it always cuts into the same sort of point government scheme which says you can borrow on PPI not PPI government scheme for new boiler and and you can't get hold of it you can't do anything and find out who it is or try and block it because it just comes up it's international or withheld
+Score (f1_neg): 1
+Loading words (f1_neg), N=1: f2 score: 0
+they've released the hardbacks first because they know people just can't wait for the paperbacks, don't they? And then you end up with these really annoying mixed sets. Like with our Harry Potter ones – we’ve got some in hardback and some in paperback, and it just looks a bit of a mess on the shelf. It bothers me more than it should, probably. I think that’s exactly what the publishers are banking on, though, because some people will then go out and buy a whole extra set just so everything matches properly. When I look along our shelves, most of the series we’ve got have at least one random hardback stuck in the middle. It’s the same with your Diary of a Wimpy Kid books, isn’t it?

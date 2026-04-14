@@ -1,8 +1,8 @@
-Text ID: t003894
+Text ID: t004194
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000484_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000784_gpt.txt
 
-Score (f1_pos): -1
-Loading words (f1_pos), N=1: f1 neg words (N=1): try
-So I answered the phone and it was really early in the morning, and they asked me if I’d seen this Facebook post about my bike, that they thought they’d found it. They said someone had been desperately trying to get hold of me. Apparently there was this woman on a bus who’d just put up a post saying she’d seen my bike, just there leaning against a road sign. So it all kicked off from that call, really, with them trying to pass on her message as quickly as possible.
+Score (f1_pos): 5
+Loading words (f1_pos), N=5: change, moment, idea, way, plan
+no no it's still a long way off, so I don't think it'll be the inauguration of the new space at all. They can't really start borrowing anything until we've got a very clear idea of what the exhibition is actually about, so everything's a bit hypothetical at the moment. What I'm really doing now is just working on the plan on the computer, trying to get this up properly, maybe changing some of the titles as I go, and then I want to open it in Illustrator to sort it all out.

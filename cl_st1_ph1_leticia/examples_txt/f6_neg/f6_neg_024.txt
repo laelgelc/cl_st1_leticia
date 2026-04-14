@@ -1,8 +1,10 @@
-Text ID: t004946
+Text ID: t004901
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001536_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001491_gpt.txt
 
-Score (f6_neg): -1
-Loading words (f6_neg), N=1: able
-I’ve even been thinking we might try to get dual citizenship somewhere else, just to open things up a bit. I’ve seriously considered doing a PhD abroad as well, depending on how my master’s goes. We’ve looked at places like Canada, Argentina, or the States, somewhere we might actually be able to afford a property and a bit of land. Here, I just don’t see any prospect of getting on the property ladder at all. It feels like we’re completely shut out, so if we ever want our own place, it probably means leaving and starting again somewhere cheaper.
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: guy, everyone
+Yeah, so even though that whole setup was really dodgy and kind of corrupt, that guy himself was actually lovely. He spoke really good English, properly looked after everyone, and tried to make sure we were okay. His hotel wasn’t even the nicest place we stayed, but he still made such an effort, which was funny considering how weird the whole system was with them owning the booths and dragging you to their own places.
+
+Then you’d go somewhere else and try to do something simple like book a snorkelling trip, and the guy there would just completely ignore you, sitting behind the desk playing some computer game and not even looking up. The contrast between the two was just so stark.

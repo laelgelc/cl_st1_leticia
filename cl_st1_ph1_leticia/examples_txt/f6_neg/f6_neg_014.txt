@@ -1,8 +1,8 @@
-Text ID: t000100
-Group: human
-Model: human
-File:   corpus/05_human/t000100_human.txt
+Text ID: t002357
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000652_gpt.txt
 
-Score (f6_neg): -1
-Loading words (f6_neg), N=1: pound
-maybe I was furious at the weekend cos I got my erm renewal for my car insurance and it came up and the cost was six hundred and thirty-two pounds I was like no no no no when I renewed it last year I got it down to four hundred and eighty pounds why has it now gone up by over a hundred and fifty pounds? so I rang them up and I was like erm excuse me this is this is wrong and I'm not paying it and she was like oh okay they reduced it to four hundred and thirty-five they actually dropped it to two hundred pounds just because I called up and complained about like
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: guy, everyone
+Yeah, it was kind of like a virtual communist state, actually. What I did was I went to the central co-ordinates of the map and I built this town, so you’d have all the communal facilities there and a big mine underneath that everyone could use. And then there was this one guy who was really, really dedicated, and he just made the place look incredible – he went round improving all the buildings and then he built this absolutely huge barn for all the animals. After that it really became this proper focal point on the map, and people started building all their stuff around it.

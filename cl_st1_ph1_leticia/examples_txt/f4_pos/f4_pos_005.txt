@@ -1,8 +1,12 @@
-Text ID: t000942
-Group: human
-Model: human
-File:   corpus/05_human/t000942_human.txt
+Text ID: t001979
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000274_gpt.txt
 
-Score (f4_pos): 3
-Loading words (f4_pos), N=3: fact, great, somebody
-erm no not only are you going to be able to provide some learning to fill some stuff that's gonna be difficult for you to fill otherwise but certainly it's also giving you that warm touchy friendly feeling because everybody wants to say oh we are a lovely university and we are so friendly with our students and they love us so you're trying to warm warm up the bed so to speak by giving people this expectation that okay this case study may not come university but the fact that you've putting it in your online course at university by association means that students might expect that they can do something similar themselves they cou they too could go to a lecturer and say well you know what I've had this great idea how about we go for a coffee and have a chat about it? and the lecturer was like oh my god somebody's come and asked me to go and have a coffee with them and they're an undergrad student I don't even talk to undergrads the you know what I mean? so there's this kind of like you're selling on a a feeling you're not selling just a product you're selling a feeling of the product too like a warmth to it bringing in this idea of like Oxford and Cambridge where you used to go round for a cup of tea with your you know your personal tutor and your personal tutor would ask you all sorts of questions about your life and what you want to do with your life and give you biscuits that idea you know? friendly warm helpful and the good thing about it is is that what you're what you're proving to others is that it's sustainable cos what they're saying is you can come if you want to you can come to our website you can have a look and preview at some of our case studies if you want to make a case study with us about something we are happy to do that but it needs to be done in a formatted way meaning we need you to come and do Monday and then get a person to come and do Tuesday and then Wednesday and Thursday it's not just come and ring on our door on our door and say hey and have got this fantastic idea for a case study you're like great but it's a format that we have to put that into
+Score (f4_pos): 4
+Loading words (f4_pos), N=4: push, bother, clear, make
+With a new top set of first years, that first week I wouldn’t bother with maths at all. I’d tell them straight, “You’re not doing maths this week, we’re doing behaviour.” I made it clear I was only interested in how they behaved in my lessons. What they did elsewhere, that was between them and whoever was teaching them, but in my room it was my rules.
+
+I’d get them talking, saying, “You know how to behave, don’t you? And you know how to muck about as well.” And they’d admit it, of course. Once they’d said it themselves, I’d push them: “Right then, if you know the difference, you don’t play up for me, agreed?” And they’d agree, because they’d more or less talked themselves into it.
+
+Doing that in the first week set the pattern. I used to say to them, “If we get this sorted now, this is how it’ll be for the next five years.” And it generally was.

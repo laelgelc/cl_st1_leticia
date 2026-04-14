@@ -1,8 +1,8 @@
-Text ID: t003299
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001594_gpt.txt
+Text ID: t000733
+Group: human
+Model: human
+File:   corpus/05_human/t000733_human.txt
 
-Score (f5_neg): -1
-Loading words (f5_neg), N=1: thinking
-right so this lad I know, he's really, really self‑conscious about this one thing on his body, but it’s nothing to do with his penis at all. There’s this tablet or pill or maybe it’s like a cream or something that he could take to sort it out, like properly improve it, but the big side effect is erectile dysfunction. So he’s just not going near it, he won’t take it, because that freaks him out more than the thing he’s actually bothered about. And I’m sat here thinking, why would older men choose to go on something like that, knowing that’s a major risk? Like, why would you risk not being able to get it up just for something that’s basically cosmetic?
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: fuck, set
+but it also it's just ridiculous because it's like people just cos they have the ability to ask for stuff just ask for things and that's what's really strange about my job is like you can't just be like do you actually want that? and like have you actually sat there? I was like been like this is what I wanted to create it's like let's get like a chess set and a badger and like let's shoot like maybe up a hill and oh I'm just like just take five more minutes and like make a decision rather than just exercising a right to like make someone fucking work for you

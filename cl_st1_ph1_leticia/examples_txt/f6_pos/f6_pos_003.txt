@@ -1,8 +1,8 @@
-Text ID: t001897
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000192_gpt.txt
+Text ID: t001664
+Group: human
+Model: human
+File:   corpus/05_human/t001664_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: stand, chat
-so like gunpowder tea is actually just this processed loose-leaf tea, not like actual gunpowder in a gun or anything. I only found that out properly when I’d been chatting loads about tea with this woman, and then later on we walked past this tea stand and there was this guy actually selling gunpowder tea. I was so shocked because I genuinely thought my friend had been joking before. But yeah, it turned out to be real and it was literally just sold as loose-leaf tea.
+Loading words (f6_pos), N=2: month, least
+I remember really this is a really nice memory actually erm and I were like off and on through school and I always fancied him well ever since I moved school in year n year eight I would always have a crush on him and we used to get on really well although my friends were always popular girls they were all really skinny very athletic not stunningly pretty but like I would always be the least out of all of us and then like in year nine ten while we were away doing Trident when you do do like work experience and I was like fuck this and really dieted loads and lost about two stone in two and a half months mm

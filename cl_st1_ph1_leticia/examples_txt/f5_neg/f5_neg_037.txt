@@ -1,8 +1,8 @@
-Text ID: t000599
-Group: human
-Model: human
-File:   corpus/05_human/t000599_human.txt
+Text ID: t003283
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001578_gpt.txt
 
 Score (f5_neg): -1
-Loading words (f5_neg), N=1: single
-yeah he had a hea he had plan in his head you know he wanted to move to Cambridge he wanted to he wants to do his own thing and you can see that in him like you can see him very much likes doing his own thing he's really independent erm so I don't he was ready to meet a girl who was then gonna like dictate that or like have an opinion on like you know what he's doing and so for ages I think he was holding onto this idea that like he wanted to be independent he wanted to be single he wanted to be this he wanted to be that but actually like you can't choose when you meet someone like
+Loading words (f5_neg), N=1: somebody
+I just think if you really want to help somebody, you’ve got to put them in a position where they can actually help themselves. If you hand over money to someone who’s already terrible with money, you’re not really solving anything, you’re just postponing the problem. It’s the same on a bigger scale, like with countries where loads of money’s been thrown at them without changing anything fundamental. In the end, the only real solution is to teach people how to sort out their own problems, not just keep bailing them out.

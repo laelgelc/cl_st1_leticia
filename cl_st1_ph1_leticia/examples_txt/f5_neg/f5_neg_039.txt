@@ -1,8 +1,14 @@
-Text ID: t000720
-Group: human
-Model: human
-File:   corpus/05_human/t000720_human.txt
+Text ID: t003348
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001643_gpt.txt
 
 Score (f5_neg): -1
-Loading words (f5_neg), N=1: full
-to the you know enough it wasn't full it was obviously not being checked someone had not done their job erm but I think it never made her happy she just she bought houses and put rooms in the roof or put extensions on and loads spent loads of money and then moved on to the next one she never settled never settled erm until basically the money had gone and then she got back down to normal to to reality and you know had to work and but she had a lot of money when she was young but it just couldn't buy her happiness and it couldn't what she was trying to do always was holiday and trying to compensate for what she'd lost really and it you know you can't and er yeah it was very very sad and now twenty-six the same age as just moved in on the twenty-third moved in to his first flat on his own well with his girlfriend you know left home but but he's been living with for a number of years
+Loading words (f5_neg), N=1: great
+Well, I’ll just say, to start with, that we’re putting the recorder on now, and what we’re going to be doing is talking together about our experiences of having, and being treated for, gynaecological cancers. The idea is that this isn’t just for us, but that the recording will be used for research connected with Cambridge University Press, and also for a charity called The Eve Appeal.
+
+The Eve Appeal is very much about campaigning for greater awareness of gynaecological cancers among women, and in particular younger women. There’s this assumption that younger women are terribly open about sex and about their bodies, but in fact a lot of them don’t really know the names of the various bits, or the proper terminology, and that can have quite serious consequences. If you don’t know what things are called, or you feel awkward about saying the words, you’re less likely to go and get things checked, or even to notice when something’s wrong.
+
+So part of what we’re doing here is not just telling our stories about cancer and treatment, but also, in a way, demonstrating that you can talk about these things plainly, and that it’s important to do so. It ties in with what The Eve Appeal is trying to get across: that knowing your own body, and having the language to describe it, is actually a matter of health, not just embarrassment or prudishness.
+
+They put out this press release about all of that – about younger women, and about the lack of knowledge and the terminology – and it was quite striking. I wondered, when you read The Eve Appeal’s press release on this issue, what did you feel?

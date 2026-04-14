@@ -1,2 +1,2 @@
-variables loading on this pole = 7
-build (.71), fact (.67), become (.61), great (.41), change (.37), set (.32), somebody (.32)
+variables loading on this pole = 9
+push (.53), bother (.45), feel (.39), stick (.37), clear (.35), carry (.34), expect (.32), make (.32), head (.30)

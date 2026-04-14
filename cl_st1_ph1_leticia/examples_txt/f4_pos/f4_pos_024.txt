@@ -1,12 +1,12 @@
-Text ID: t003334
-Group: profiled_gpt
+Text ID: t003484
+Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t001629_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000074_gpt.txt
 
-Score (f4_pos): 3
-Loading words (f4_pos), N=3: build, set, somebody
-No, there was absolutely nothing to draw on when I started – nobody had done the job before, and I didn’t really have any direct experience of that specific role myself. To make it slightly more interesting, my manager more or less disappeared for the first few weeks because there was this huge exhibition going on, which was taking up all his time. So there was virtually no direction, no “this is how we do things”, no framework to slot into.
+Score (f4_pos): 4
+Loading words (f4_pos), N=4: feel, clear, expect, make
+there was this one girl, she was barely sixteen, special needs, very vulnerable, and her gran had been looking after her for years. then her grandmother just couldn’t cope any more, she was worn out, and instead of finding some sort of supported placement or something with proper supervision, the council just handed this girl her own flat. I just looked at it and thought, how on earth is that safe? how is that appropriate for someone like her? she was essentially on her own, and it felt like we were just setting her up for trouble.
 
-It meant I really did have to build the job myself from the ground up: decide what it should look like, how to structure it, what priorities to set, how to make contact with schools and universities, and how to fit that into the wider company picture. That could have been completely overwhelming if I hadn’t already been self‑employed before, because you do get used to having to create your own structure and make decisions without somebody constantly signing things off.
+what really struck me was that in school she was actually fine. with clear boundaries and structure she behaved well, she knew what was expected and she responded to it. it really showed how much difference that kind of environment can make.
 
-In a way, that previous experience is what made it manageable – I’m used to working without someone hovering over me, and I actually function better like that. I don’t need or want micromanagement; I’m quite happy to go in, tell him the key things he needs to know, and then just get on with it. So although those first weeks were pretty stark in terms of support, it suited the way I work, and it allowed me to shape the role myself.
+and she wasn’t unusual, either. we had a lot of pupils like that, coming to us from mainstream schools. they’d usually been excluded from classrooms, shoved out because they were “difficult”, and they’d spent so long not really being in a learning environment that when they arrived with us they were genuinely surprised to be asked to do any work at all. it was like the whole idea of school as a place where you actually learn had just never been made real for them.

@@ -1,2 +1,2 @@
-variables loading on this pole = 1
-um (1.71)
+variables loading on this pole = 11
+build (.75), become (.69), sense (.55), change (.46), moment (.38), idea (.37), more (.37), own (.36), different (.35), way (.35), plan (.32)

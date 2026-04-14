@@ -1,8 +1,12 @@
-Text ID: t000001
-Group: human
-Model: human
-File:   corpus/05_human/t000001_human.txt
+Text ID: t002115
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000410_gpt.txt
 
-Score (f1_pos): -1
-Loading words (f1_pos), N=1: f1 neg words (N=1): carry
-well he's simply told I need a photo of this so he'll carry out whatever research he needs to to understand how he's going to do that with support of a logistics team and contact with scientists erm to get out there erm get the shot get what's important for the magazine somebody else is writing a story about it they could be working with him they could be independent they could be operating out of a library they could be at a university talking to scientists I don't know erm but it would kind of make sense that somehow the people he's working with and people who are writing the story
+Score (f1_pos): 5
+Loading words (f1_pos), N=5: change, idea, own, different, way
+A lot of academics really do work very hard to give students feedback, but I’ve found that if you give too much, it just overwhelms them. The trick is to make it really succinct – otherwise they can’t take it in and it stops being useful. 
+
+I actually did some research on this using metaphor cards around the idea of “evaluation”. What really struck me was how they now talk about evaluation. None of them had backgrounds in marketing or accounting, yet the language they used was all about marketing and accountability. That’s seeped in purely through this pervasive management discourse in universities.
+
+So even though they started out as something quite different – subject specialists, researchers, that kind of thing – they now frame what they do in these managerial terms. It shows how powerful that management speak is, and how much it’s changed the way they think about their own work and about evaluating students.

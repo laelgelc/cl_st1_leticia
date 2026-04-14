@@ -1,12 +1,8 @@
-Text ID: t002261
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000556_gpt.txt
+Text ID: t001665
+Group: human
+Model: human
+File:   corpus/05_human/t001665_human.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: anyone, stand
-so yeah like, as far as I was concerned we were still friends and everything, I didn’t think there was a massive drama or owt. But then this whole thing kicked off with these girls. They started calling me a slag, and they were literally ringing my doorbell over and over and banging on my door. I could hear them outside, so I just watched them through the peephole for a bit and even recorded it, ‘cause it was getting ridiculous.
-
-After a while I’d had enough, so I opened the door and properly confronted them. I was like, what are you doing, why are you ringing my doorbell, what do you actually want? They were acting like they didn’t even know who I was, asking who I was, and I’m stood there like, I live here, why are you at my door?
-
-Anyway, after that I tried to be reasonable about it, so I sent this really polite message. I just said I didn’t want anyone unnecessary being let into our flat, especially after what had happened with my mate who’s got really bad eyesight. He’d got confused about this blonde girl in a black dress, and it’d all got a bit messy, so I was just trying to stop it happening again.
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: pound
+erm and I said just say thank you and let me pay for just one thing out of everything please and he was like okay then and that's only because erm we'd left the antiques place and I'd chosen this erm and I was going to buy it for myself and he said oh I'll get it for your birthday and I said oh you know I think do you not think sixty pound is a bit excessive for a birthday present really? I said but why don't we go halves then because I would have bought it for myself anyway? no no no I'll pay for it and I said well I I feel a bit uncomfortable actually if you pay pay that much for a birthday gift I I would really appreciate it you'd just let me pay half cos I just think that's a bit

@@ -33,157 +33,141 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac2	SD fac2
-group	human	1705	0.88328446	0.93816248
-group	profiled_gpt	1705	-0.16480938	0.49212613
-group	unprofiled_gpt	1705	-0.16480938	0.52780025
+group	human	1705	-0.15249267	0.45214143
+group	profiled_gpt	1705	0.09032258	0.36101897
+group	unprofiled_gpt	1705	0.06803519	0.33924446
 
 === FACTOR LOADINGS (f2_neg) ===
 variables loading on this pole = 6
-huge (-.82), (em (-.69)), massive (-.53), (build (-.52)), (awful (-.34)), big (-.30)
+god (-.67), (fuck (-.66)), (pound (-.60)), (shit (-.46)), gonna (-.45), (single (-.41))
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f2_neg_001.txt (text ID t001892) =====
-Text ID: t001892
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000187_gpt.txt
-
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: huge, massive, big
-like when you think about it, if I had a massive fry-up as my main meal I'd feel like that was loads, but then you look at her and it's insane how much she can put away. she’ll eat these huge portions and just never seems to get any bigger. she’s got like totally normal-sized thighs but she’s absolutely tiny on top, it just doesn’t add up. I’m honestly so jealous, I can’t get my head round how she can eat that much and not put on any weight at all.
-
---- Loading words for this example (neg): huge, massive, big
-
-
-===== EXCERPT: f2_neg_002.txt (text ID t002144) =====
-Text ID: t002144
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000439_gpt.txt
-
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: huge, massive, big
-yeah we had it really similar when we went out to Florida, we just sort of turned up with nothing booked at all, no accommodation or anything, just figured we’d sort it when we got there. We ended up in a TGI Friday’s and got chatting to this Puerto Rican couple, and they were just ridiculously friendly, straight away. Next thing we know they’re like, “oh you haven’t got anywhere to stay? Come and stay with us, we’ll take you out,” that sort of thing. And it wasn’t just them either, loads of people we met out there were like that, really welcoming, really up for looking after you and showing you around.
-
-We hit this massive St Patrick’s Day street party while we were there as well, just huge, everything shut off and everyone out in the street drinking. The booze was insanely cheap, like properly cheap, so of course we just got absolutely hammered. Then later on in Miami, down on South Beach, Radio One were doing some big thing, loads of music and that, and we got really, really drunk there as well. I remember just ending up on the beach and properly projectile vomiting on the sand, it was that bad. One of those nights where you’re having a brilliant time but you’re in a right state by the end of it.
-
---- Loading words for this example (neg): huge, massive, big
-
-
-===== EXCERPT: f2_neg_003.txt (text ID t002474) =====
-Text ID: t002474
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000769_gpt.txt
-
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: huge, massive, big
-it was quite entertaining really, they were absolutely mad. there’s this picture I remember, of one of them in this massive room where the whole back wall was just covered in these huge square storage units. they filled the whole space, stacked up to like ten or twelve feet high, all meant for the kids to stick their clothes and belongings in. they had this big rule that kids weren’t allowed to climb them at all. and then at one point, they came back in and there was this one child just sitting alone right on the top, and nobody had any idea how he’d managed to get up there.
-
---- Loading words for this example (neg): huge, massive, big
-
-
-===== EXCERPT: f2_neg_004.txt (text ID t002631) =====
-Text ID: t002631
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000926_gpt.txt
-
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: huge, massive, big
-What I’m thinking is that what we’re talking about is almost the reverse of what Ridley Scott did. With his projects, they started with this massive quantity of footage – loads of people all over the place filming “a day in the life” – and then the team sifted through it all afterwards and carved out a really powerful narrative from this huge pile of material.
-
-What I’m imagining here is starting with just one really high‑quality “day in the life of”, something quite focused and thoughtful, and then letting it grow outwards from there. So instead of big quantity narrowing down to quality, it’s one strong piece that gradually expands as other connected people add their own days, their conversations, their goals, their needs.
-
-As it scales, you’d hope it still keeps that sense of quality, but now you’re also seeing, much more clearly, what resources people actually require along the way.
-
---- Loading words for this example (neg): huge, massive, big
-
-
-===== EXCERPT: f2_neg_005.txt (text ID t002682) =====
-Text ID: t002682
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000977_gpt.txt
-
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: huge, massive, big
-yeah it's not like it's heavy or anything, it's just this massive box, which makes it such a hassle to deal with. It kind of reminds me of our defence, actually. We've got these two big lads at the back, both of them huge, like one of them's about six foot two and looks properly middle-aged, and they're just so slow and rubbish. Then you've got this young wing back who's really skinny and physically weak, but somehow he's miles better than them. He's not strong at all, but he can actually play, which just shows how bad the other two are. For defenders, they're just nowhere near the level they should be.
-
---- Loading words for this example (neg): huge, massive, big
-
-
-===== EXCERPT: f2_neg_006.txt (text ID t002812) =====
-Text ID: t002812
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001107_gpt.txt
-
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: huge, massive, big
-We got in really late and honestly, when we first arrived I thought we’d made a massive mistake. Our street looked so rough – loads of vandalism, graffiti everywhere, it just felt a bit dodgy. But then in the daytime it was actually really nice, totally different vibe, so that was a bit of a relief.
-
-The annoying thing with Barcelona is everything’s so spread out. All the main sights are miles apart, so we ended up walking absolutely everywhere. We could’ve done the tour buses or figured out the public transport, but because it was such a short trip we just hadn’t really researched anything properly. Compared to Paris, where all the big attractions are quite close together, it did feel a bit of a faff.
-
-We did a ridiculous amount of walking. I didn’t really mind, but the others aren’t used to that much, so they were flagging a bit. The first day was still really nice though. We just wandered around and stumbled across this festival thing, which was really fun.
-
-In the evening we went to this massive light and fountain exhibition. It’s at this gorgeous building that’s now the national museum – it looks like it used to be a palace or stately home, up on a hill with fountains and big sweeping steps. At the bottom there’s this huge fountain and they do a music and water display. That was miles away too, so more walking. And because I was the one who’d vaguely suggested it, I somehow ended up in charge of directions, even though I’d never been there before.
-
-We did see the Sagrada Família and that was incredible – you walk in and just go “wow”. The city’s definitely worth going to, even if it’s not as pretty as some others I’ve been to. The beach was actually fine as well, despite what people say.
-
---- Loading words for this example (neg): huge, massive, big
-
-
-===== EXCERPT: f2_neg_007.txt (text ID t002295) =====
-Text ID: t002295
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000590_gpt.txt
+===== EXCERPT: f2_neg_001.txt (text ID t001195) =====
+Text ID: t001195
+Group: human
+Model: human
+File:   corpus/05_human/t001195_human.txt
 
 Score (f2_neg): -2
-Loading words (f2_neg), N=2: huge, massive
-we were in this sand oasis in peru right and we suddenly felt this really strong tremor go through everything and it was weird because you’re basically sitting in this massive bowl of sand with these huge dunes all around you and all i could picture was the whole lot just sort of giving way and collapsing in on us like the sides just sliding down and filling up the hole we were in it was a proper freaky moment actually because you’re just stuck there thinking if this keeps going there’s nowhere to run you’re literally at the bottom of a sandpit and that really scared me
+Loading words (f2_neg), N=2: god, gonna
+and then she said oh do you you wanna do you wanna come? goes do you wanna go for a flight in the Dakota? and I was saying cos he said something about the Dakota and I was saying ah hang on I know what that is I know what that is it was in a film it was in a film and he was going what and I said hang on hang on and I was going Driving Miss Daisy no no that wasn't that that was a car and I said Memphis Belle and he's like yeah that's right and 's going oh my god you're gonna get brownie points now you're gonna get a better time than me cos you actually knew what it was I didn't know what it was she said
 
---- Loading words for this example (neg): huge, massive
-
-
-===== EXCERPT: f2_neg_008.txt (text ID t002291) =====
-Text ID: t002291
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000586_gpt.txt
-
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: huge, big
-So in loads of those Latin American countries – like Venezuela, Colombia, Ecuador, Peru, Bolivia – they've all basically got three zones. You’ve got this really dry coastal desert, then the big mountain range, and then on the other side you’ve got proper jungle. It’s mad to think the Incas managed to build and organise an empire across all of that, over such a huge area and such different landscapes. One of the coolest things from that time are the Nazca Lines – have you heard of them?
-
---- Loading words for this example (neg): huge, big
+--- Loading words for this example (neg): god, gonna
 
 
-===== EXCERPT: f2_neg_009.txt (text ID t002342) =====
-Text ID: t002342
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000637_gpt.txt
+===== EXCERPT: f2_neg_002.txt (text ID t001258) =====
+Text ID: t001258
+Group: human
+Model: human
+File:   corpus/05_human/t001258_human.txt
 
 Score (f2_neg): -2
-Loading words (f2_neg), N=2: huge, big
-stop eating with your hands please, use your fork and knife properly, yeah? Anyway, the mum is going to teach this really big woman how to do the aerial hoop, that’s the idea. She’s secretly training, and by the end she’ll be good enough to perform in the circus. In the grand finale she’ll do this amazing hoop act, and she’ll be wearing this huge pink dress that looks a bit like a blancmange, all wibbly wobbly and over-the-top, which will make the whole thing even more spectacular.
+Loading words (f2_neg), N=2: god, gonna
+so funny right? I went so er I went way too far right we were in shopping and erm oh my god and erm so we were in shopping and sh the the dad was looking for a Christmas er pudding Christmas cake and he said to mum oh you know I'm not gonna get it from here cos it's too expensive and then he went wandering off and she was like they'd already been it's not like arguing it was just bickering do you know what I mean? so they were a bit fed up with each other
 
---- Loading words for this example (neg): huge, big
+--- Loading words for this example (neg): god, gonna
 
 
-===== EXCERPT: f2_neg_010.txt (text ID t002193) =====
-Text ID: t002193
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000488_gpt.txt
+===== EXCERPT: f2_neg_003.txt (text ID t001261) =====
+Text ID: t001261
+Group: human
+Model: human
+File:   corpus/05_human/t001261_human.txt
 
 Score (f2_neg): -2
-Loading words (f2_neg), N=2: huge, massive
-yeah so we’d all actually got on the plane to come back to Heathrow, and then they suddenly told us to get off, didn’t say why, just that there’d be a delay. They herded everyone into this tiny little waiting room and then basically abandoned us there. No toilets we were allowed to use, no water, no food, and nobody telling us what was happening. We could still see all these men in orange overalls crawling all over the outside of the plane, like Guantanamo jumpsuits, just carrying on working while we sat there.
+Loading words (f2_neg), N=2: god, gonna
+and so then and then so then she started so she was obviously like she texted me like fuming mate I'm fuming and I'm like oh god I know what this is gonna be about now and erm and so she was like yeah yyou won't y like can't see him Boxing Day cos of his mum or something and I was like I was like oh alright okay and then er and then a little while later she's like oh you know you know he said I couldn't see him Boxing Day? apparently he's he's he did that cos he wants to surprise me on Boxing Day and come round to my house and I was like oh that's good then at least you're seeing him and then a a couple of days later she was like pretty sure he just said that to shut me up and I was like what? I was like what?
 
-After a few hours people just started to lose patience, and it turned into this huge mutiny. Everyone started demanding water, food, some sort of information, anything really. We were in there something like twenty hours in the end. Only then did the airline finally let us out, and suddenly they were all apologetic, giving us free food and so on – and then they just cancelled the flight anyway. I’m convinced they only did any of that because we all kicked up such a massive fuss together.
+--- Loading words for this example (neg): god, gonna
 
---- Loading words for this example (neg): huge, massive
+
+===== EXCERPT: f2_neg_004.txt (text ID t001351) =====
+Text ID: t001351
+Group: human
+Model: human
+File:   corpus/05_human/t001351_human.txt
+
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: god, gonna
+oh my god when we were in I didn't see many couples I was so happy there was a lot of groups of friends in the erm nando's I went to I was so happy but then we went like it was early so we was like let's just go cinema and just watch something we are not watching Fifty Shades my sister's seventeen anyway she can't watch it so we was gonna watch erm the Kingsman right? cos you said it was good and my sister said her friend said it was good too so we are on our way there and had clocked that the movie was starting in was six minutes we was twenty minutes away
+
+--- Loading words for this example (neg): god, gonna
+
+
+===== EXCERPT: f2_neg_005.txt (text ID t001354) =====
+Text ID: t001354
+Group: human
+Model: human
+File:   corpus/05_human/t001354_human.txt
+
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: god, gonna
+erm yeah so I'd already been referred for my back and er then I ended up doing this stuff which drove me mad and erm then I got referred again and I missed two appointments so she was absolutely hopping mad with me so I went in there and I thought oh my god she's gonna be s she did give me such a hard time and erm actually I said look I'll be perfectly frank what I want is I want a set of exercises cos I am so stiff I don't know what to do with myself and I've got knee pain and back pain and actually she was really very switched on erm and she says yes I am extraordinarily erm stiff
+
+--- Loading words for this example (neg): god, gonna
+
+
+===== EXCERPT: f2_neg_006.txt (text ID t001434) =====
+Text ID: t001434
+Group: human
+Model: human
+File:   corpus/05_human/t001434_human.txt
+
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: god, gonna
+he said I've got a workshop I've got an office down the bottom of my garden he said with electricity heating a toilet I work from there he said and er I've got everything I need the kids keep saying to me get out dad get out he said there are one or two families I said where are you gonna go? where are you not gonna get one or two families that are gonna spoil? he said I know he said so I'm quite happy and I said erm I said I said ring a bell? he went oh god yeah
+
+--- Loading words for this example (neg): god, gonna
+
+
+===== EXCERPT: f2_neg_007.txt (text ID t000454) =====
+Text ID: t000454
+Group: human
+Model: human
+File:   corpus/05_human/t000454_human.txt
+
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: gonna
+I'm sorry like I don't have time to make them some of my problem like before even asking me like I hadn't even gotten back to France at that point when they had the booking for these people coming in saying yeah we are gonna like put us kids in school for a year and see how it goes in France and like naming the schools and stuff before I even knew that there was going to be that long term tenant before they even aske my mum even asked me if I was okay with it she sent a message to tthis woman like saying yeah will be help h will be happy to come over every night and give tutoring she'll give so much advice cos she's lived through all of this kind of stuff and I was just like no I'm sorry like not to sound selfish but when I moved over there there was no one there
+
+--- Loading words for this example (neg): gonna
+
+
+===== EXCERPT: f2_neg_008.txt (text ID t000453) =====
+Text ID: t000453
+Group: human
+Model: human
+File:   corpus/05_human/t000453_human.txt
+
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: god
+over uni that is literally the only people that I have ever gossiped with like about my parents my mum god her life just sounds so fucking sad like she'll literally be like yeah so we were at book club and then said this and I was just well like I'm actually the one that's in like the cleaner business so why didn't she like refer this person to me I could do with the extra money and she knows that but no she went and gave it to some other person and I was like is your life actually that fucking sad that you are gossiping to me about book club?
+
+--- Loading words for this example (neg): god
+
+
+===== EXCERPT: f2_neg_009.txt (text ID t000452) =====
+Text ID: t000452
+Group: human
+Model: human
+File:   corpus/05_human/t000452_human.txt
+
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: gonna
+and it turned into a massive argument and then my dad being the peacekeeper that he is would always come to me and be like you're not handling the situation appropriately go apologise to your mum and I would just be like what the fuck is actually happening can I not actually have an opinion in this house it's like you always just gonna be there so that you can just keep the peace regardless of what I'm feeling or whatever so I ended up having arguments with my dad about it just for my mum's benefit
+
+--- Loading words for this example (neg): gonna
+
+
+===== EXCERPT: f2_neg_010.txt (text ID t000450) =====
+Text ID: t000450
+Group: human
+Model: human
+File:   corpus/05_human/t000450_human.txt
+
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: god
+no no no please let me finish that god is a thing that people can talk to and pray to by putting their hands together and somehow talking to him wherever he is and and he answers their prayers even though there's about seven billion people on the planet probably about two of those probably at least one billion are praying at that time I don't know not one billion praying at that very time but a lot so yes I don't think he is listen to all of those at the same time if he was real and like
+
+--- Loading words for this example (neg): god

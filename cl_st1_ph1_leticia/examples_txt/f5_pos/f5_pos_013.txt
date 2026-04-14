@@ -1,8 +1,14 @@
-Text ID: t001597
-Group: human
-Model: human
-File:   corpus/05_human/t001597_human.txt
+Text ID: t002099
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000394_gpt.txt
 
-Score (f5_pos): 1
-Loading words (f5_pos), N=1: reason
-but I think cos certainly at the end of the day I would just go and have a beer and you know one beer leads to another I could never just have a beer and feel chilled I'd have to have I'd have to get pissed and I and at the end when I drank I used to go out by myself go to the pub drink by myself to get pissed and you realise how how miserable that was you see I see other people who are drinkers who go there to drink to get pissed and it's very it's sad very insular to do that isn't it? it's very so erm yeah so but thankfully I'm not er I don't do that anymore er but I have periods when I when I get pissed very occasionally think but that that's only happened once in the last years and years I didn't you know years and years and years so er no I agree that there are there are things in your in your genes that can influence that erm you know if that's what they tell us but I think that there are things that er I think there are also psychological reasons why we drink as well
+Score (f5_pos): 2
+Loading words (f5_pos), N=2: awful, single
+whether it’s “me” or “us”, I don’t think there’s any point trying to pin blame on either of us. You haven’t done anything wrong, and I really don’t want you sitting there feeling guilty or beating yourself up about it, because that’s just not what this is about.
+
+What’s happened between us hasn’t been about you doing some specific bad thing, or me doing some specific bad thing. It’s the way our characters have interacted over the last two years, the way we fit – or don’t fit – together. That’s what’s led us here, not some single action you should feel ashamed of or held responsible for.
+
+I know you might not see it that way, but from my side I’ve been absolutely eaten up by guilt about ending it. I’ve gone over and over it in my head, feeling awful about hurting you and about not being able to make it work. So if anyone’s been drowning in guilt, it’s me.
+
+And that’s exactly why I’m saying this: the whole guilt thing, for both of us, it just doesn’t help. It keeps us stuck. If you’re going to move on – and if I’m going to move on – we both have to drop this idea that someone has to be “at fault”. There doesn’t have to be a villain here. It’s just the way things have turned out between two people over time, and the only way either of us gets any peace is by letting go of the guilt and that way of thinking.

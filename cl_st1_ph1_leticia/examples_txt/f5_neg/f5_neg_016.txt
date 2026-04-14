@@ -1,12 +1,8 @@
-Text ID: t003335
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001630_gpt.txt
+Text ID: t000465
+Group: human
+Model: human
+File:   corpus/05_human/t000465_human.txt
 
-Score (f5_neg): -1
-Loading words (f5_neg), N=1: single
-well I’m basically there to build the relationships with the universities, so I go out and work with them on different projects and that sort of thing. I do some of the careers fairs as well, but HR really have the main responsibility for those, I just get involved where I’m needed. 
-
-A big chunk of it at the moment is redesigning the graduate and apprentice assessment processes, so looking at how we select them and trying to improve all of that. And then, because of my background, they’ll pull me in for bits of HR and coaching, which I do really enjoy. 
-
-I couldn’t do the pure HR and coaching side every single day though, and with this role I feel I’m losing some of that because there just isn’t the time to do everything. But there we are, you can’t have everything in life, can you?
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: fuck, great
+narrow boat he bought it he's a retired fireman he was married to my sister but she died he's married again now and he's got he comes up here to Liverpool a long boat he bought her here he got it made here made to measure and me and went on it for a week and went down the bleeding canals it's great it's lovely if you ever want a quiet day go on a canal boat and it's really soothing you know what I mean? all the people wave to you as you're going up and down their garden you know? and like I say it's dead quiet fucking watching the little ducks and

@@ -1,8 +1,8 @@
-Text ID: t001027
-Group: human
-Model: human
-File:   corpus/05_human/t001027_human.txt
+Text ID: t002059
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000354_gpt.txt
 
 Score (f2_neg): -1
-Loading words (f2_neg), N=1: big
-yeah yeah I really struggled when we went bowling I felt so boring that's why I went home when you all went on to play pool in town but I realised that you know I think that was just where I was at at the time and part of the detox process possibly I'm quite capable of carrying a party head on dancing the night away and being stone-cold sober but in that moment I wasn't so I don't know I do wonder if a big bit of me kind of reaches the point where I think no I'm not really into this scene anymore you know at some point somebody always arrives with a tray of shots and that sometimes leads to another tray of shots and there have been times in my life when that's a fantastic thing keep it rolling let's go yeah yeah yeah but for the most part I kind of think actually no I don't want to be in that scene yeah it's not such fun I don't know I kind of think drugs are better from that viewpoint because you don't have a stinking hangover in the morning
+Loading words (f2_neg), N=1: god
+so in psalm ninety‑one it says really clearly that if you dwell in the shelter of the most high and you actually trust his word and his character then you don’t need to be afraid of anything you know all the promises are there about protection from harm and danger like no evil will befall you and he will command his angels concerning you and you’ll not fear the terror of night or the arrow that flies by day and all of that and in theory if I really believe that and really live in it then fear should just go away because it doesn’t come from god so I keep telling myself that if I’m frightened and scared I need to remember those verses and hold on to them and that should be enough but even though I know it in my head I still find myself struggling with fear in such ordinary everyday situations like I’ve been really frightened to take public transport and even stupid things like when there’s a spider in the kitchen I just panic and it’s ridiculous but I can’t help it and it makes everything feel so stressful at the moment because I feel like I should be able to trust and be calm and yet my body is still reacting with fear all the time and I’m just really worn out by it

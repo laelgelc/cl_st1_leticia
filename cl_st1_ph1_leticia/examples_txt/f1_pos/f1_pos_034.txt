@@ -1,8 +1,8 @@
-Text ID: t002138
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000433_gpt.txt
+Text ID: t000319
+Group: human
+Model: human
+File:   corpus/05_human/t000319_human.txt
 
-Score (f1_pos): -1
-Loading words (f1_pos), N=1: f1 neg words (N=1): clear
-when we went out driving on the Sunday it was actually fine for us, the roads were all right, but do you remember there was that massive line of cars just parked up on the verges all the way round the loop road? The main road had been cleared, you could drive round it no problem, but people obviously couldn’t get into their side roads, so they’d just left the cars there and walked home. I remember thinking it was really strange. Do you remember that at all?
+Score (f1_pos): 5
+Loading words (f1_pos), N=5: become, moment, more, own, way
+yeah I guess so I suppose there's sort of peaks of activity I just can't help but feel that there's a sort of a you know a world regime that's geared towards economic outcomes with the environment and society being sacrificed and that seems to be the theme of the moment and the theme of the last thirty years or more but when that collapses and that shifts I don't know it just seems like a momentous thing I do see humanity becoming more loving and more open and I wonder in a way if the refugee issue is getting people to address their own prejudices and to start thinking in terms of human as humans rather than religion

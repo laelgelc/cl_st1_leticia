@@ -1,8 +1,8 @@
-Text ID: t001004
-Group: human
-Model: human
-File:   corpus/05_human/t001004_human.txt
+Text ID: t003381
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001676_gpt.txt
 
 Score (f2_neg): -1
-Loading words (f2_neg), N=1: massive
-and I don't have these other adults I mean it probably sounds crazy but I personally think we should a we should all be euthanised euthanised sorry we should all be sterilised and you should apply to have children and you should meet X amount of criteria before you have a child and then that child probably should effectively I mean I don't see why we don't have systems for having children if you need to apply for a driving licence and you need to apply t it's a massive criteria to adopt it takes years to be able to adopt but yet you can just pump out a child no worries with no nobody evaluating you in any sense whatsoever that to me is is ridiculous absolutely ridiculous and the only reason it exists is because it's that easy to have a child so
+Loading words (f2_neg), N=1: gonna
+so then she comes back over and she’s like can I see your receipt, so I give it her and I’m like nah I wanted chilli beans, not baked beans, and she’s looking at it and goes yeah they’re on there, I’ll go and get them. so off she goes again, and I’m sat there thinking finally I’m gonna get these beans, and then she disappears into the back to speak to the chef. next thing she comes back and she’s like yeah erm the five chilli beans are actually already in the burrito, that’s what you’ve just eaten. so I’ve basically sent her running round for beans that were already in my meal, like made her go back and forth for absolutely nothing. I’d just completely misunderstood it and felt like a right idiot.

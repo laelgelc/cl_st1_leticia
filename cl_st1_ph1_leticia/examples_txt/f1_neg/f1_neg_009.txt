@@ -1,8 +1,8 @@
-Text ID: t002346
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000641_gpt.txt
+Text ID: t001115
+Group: human
+Model: human
+File:   corpus/05_human/t001115_human.txt
 
-Score (f1_neg): -5
-Loading words (f1_neg), N=5: bother, stick, least, everything, same
-they've released the hardbacks first because they know people just can't wait for the paperbacks, don't they? And then you end up with these really annoying mixed sets. Like with our Harry Potter ones – we’ve got some in hardback and some in paperback, and it just looks a bit of a mess on the shelf. It bothers me more than it should, probably. I think that’s exactly what the publishers are banking on, though, because some people will then go out and buy a whole extra set just so everything matches properly. When I look along our shelves, most of the series we’ve got have at least one random hardback stuck in the middle. It’s the same with your Diary of a Wimpy Kid books, isn’t it?
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+well no if you if you don't value education you won't accept it and that's another problem with the whole system is that you can't force an education on someone you can give them the opportunity but if they don't achieve not in terms of well a significant proportion of the time it will be down to them not accepting it and you can't do anything about that well I've seen some fairly non-academic people achieve a lot for them and on the other hand I've seen people who probably are reasonably intelligent not give a shit and so part is the government's fault no I'm sorry you do just people won't you know if you grow up in a council estate and neither your parents will work you will not achieve in life and that's not the government's fault that's you should have

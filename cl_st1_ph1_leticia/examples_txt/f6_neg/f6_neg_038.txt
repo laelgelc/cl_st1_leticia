@@ -1,8 +1,8 @@
-Text ID: t003218
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001513_gpt.txt
+Text ID: t000606
+Group: human
+Model: human
+File:   corpus/05_human/t000606_human.txt
 
-Score (f6_neg): -1
-Loading words (f6_neg), N=1: able
-Well they want him over in Ireland to look at various things, you know, check the post, talk to a few people, make sure the security system’s working and the house is all right. Just generally see that everything’s in order over there. He doesn’t have to go up to Scotland yet, but there’s been a lot of to-ing and fro-ing with Scotland. It looks now as though the chap who’s just been made redundant from Barton Willmore, who’s been involved from the start, will be able to carry on acting for them.
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: anyone, everyone
+and then you could like you know? devote your time to more purer pursuits and but that's ki you know? but yeah I've always wanted since I was very very young I wanted to live forever and people people would go why do you want to live forever? that's just nuts I was surprised cos I thought everyone wanted to live forever but it's like nearly hardly anyone I talked to goes no like sorry hardly everyone ii nearly everyone I talked to goes no I've never come across somebody who's yeah I want to live forever too

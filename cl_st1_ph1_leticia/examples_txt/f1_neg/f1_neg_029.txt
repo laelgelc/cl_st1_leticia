@@ -1,8 +1,8 @@
-Text ID: t003805
+Text ID: t005114
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000395_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001704_gpt.txt
 
-Score (f1_neg): -5
-Loading words (f1_neg), N=5: stick, moment, try, everything, same
-I just feel like my judgment is really clouded at the moment, and that’s not normally how I am. Usually I’m very decisive, I know what I think and what I’m going to do, and I stick to it. This time it’s different. Inside, it’s like there’s this really complicated tangle going on. Part of it is guilt – guilt about ending this, about hurting you, about walking away from something that wasn’t all bad. At the same time, I’m trying to move on, to give myself permission to step away, and to hold on to the reasons why it feels like the relationship needs to end. Those two things are pulling against each other, and that’s what’s making everything feel so unclear.
+Score (f1_neg): 1
+Loading words (f1_neg), N=1: f2 score: 0
+it's actually impossible though, like with the aural stuff, because you literally have to just know straightaway what the cadence is and say it with the chord numbers, like if it’s a perfect cadence you’ve got to go “I–V” instantly. And then you’ve got to recognise how the whole piece has progressed, whether it’s gone into diminished, or it’s major, or minor, and all of that. They expect you to just hear it and say exactly what’s happening. And on top of that you have to sing the bass part of a melody as well, which is just ridiculous. It’s not like you can just practise that the same way as pieces.

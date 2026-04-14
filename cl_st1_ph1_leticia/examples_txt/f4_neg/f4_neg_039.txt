@@ -1,8 +1,8 @@
-Text ID: t001705
-Group: human
-Model: human
-File:   corpus/05_human/t001705_human.txt
+Text ID: t003045
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001340_gpt.txt
 
 Score (f4_neg): -1
-Loading words (f4_neg), N=1: horrible
-um but you know that was fairly standard Magnum fair but then he dropped her off at her house and um like the nice twin sister he dropped her off at her house and um then you re like y you you sort of had a view of like from behind like a wall like that so you could see them so there was someone in the house and you're like oh my God And then you left her there in the house um and sh and then the end er so it ended with her ringing him going I think I've k er I think I've killed someone can you come round and like help? Um and you were like oh my God um but they search the house and there's no trace of any blood any body anything at all and it was like uh what's happened? You know um and it kind of oh you know the tension ramped up and ramped up and then there's a scene you know the per er the er you c you knew there was someone in a cupboard watching Magnum in the shower through this cupboard and it was properly scary and horrible um but then it transpired just to make matters worse that the the other twin the nasty twin well the the the second twin sister had actually been killed when they were kidnapped and this other the first twin had multiple personality disorder and had been sort of doing both of them and it was just h really horrible er you know and sort of quite dark um but not at all
+Loading words (f4_neg), N=1: minute
+I went out and bought myself this little recorder because I’m absolutely hopeless at identifying birdsong. The idea was that I’d go into the woods, record what I was hearing, then come back home and match the sounds up with this DVD I’ve got. In theory it sounded ideal, but in practice it’s been rather a flop. The minute I press “record” they all seem to go quiet, or else three or four of them start up at once and it’s just a muddle of noise. And, to be honest, on the odd occasions I have managed to get something recorded, I’ve never actually sat down and listened back to any of it. So the whole plan hasn’t quite worked out as I imagined.

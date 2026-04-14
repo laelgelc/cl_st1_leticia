@@ -1,14 +1,8 @@
-Text ID: t002892
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001187_gpt.txt
+Text ID: t001663
+Group: human
+Model: human
+File:   corpus/05_human/t001663_human.txt
 
-Score (f1_neg): -5
-Loading words (f1_neg), N=5: bother, expect, least, nothing, try
-So there we are, absolutely soaked, mud everywhere, and we don’t know a soul. I’m just trying to get this Year Nine lad registered for his cross-country. I keep going up to different people with clipboards, asking where I’m supposed to sign him in. Every time they’re checking their lists, and his name’s not there, his school’s not there, nothing. Properly awkward. 
-
-Eventually one of them says, “Oh yes, it’s fine, he’s in the one o’clock race, just come back about quarter past two,” so I think, right, at least we’re sorted. Because it’s chucking it down and the mud is ridiculous, we decide not to bother walking the course like everyone else seems to be doing. Instead I go back, move the car a bit closer so we don’t have to trek miles in that weather.
-
-We head back to the tents later on to collect his race bib, expecting it all to be straightforward now. I give them his details again and they look down the list and say, “No, his school’s not on here.” And I’m thinking, we’ve already done this, we’ve already been told he’s in the race. Then it turns out we’re at the wrong team’s tent altogether. We’ve been standing there, in the rain, talking to the wrong people.
-
-So all that faffing about, all that trudging through the mud, and we’re not even in the right place. At that point I’m just trying to get him to the correct tent and sorted, but it’s all a bit of a farce, really.
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+so it's difficult cos like I can't say to him oh you're working too much cos he basically pays for the lifestyle that I have in the summer anyway like normally I pay for everything but in the summer he pays for the lifestyle I have and it's difficult I can't I don't want to shout at him I don't like shouting at anyone like especially my boyfriend or a guy or whoever it doesn't matter who it is I don't like shouting at anyone or making anyone feel bad and I'm not that sort of person I'm not one of these girls that like where the fuck were you? who have you been texting? all that sort of shit like if he wants to go out or any guy that I'm with if they want to go out with some girls or some guys it doesn't matter who it is I don't care okay have a good night I wanna go out with my friends sort of thing that's the sort of person that I am so er it's been hard lately

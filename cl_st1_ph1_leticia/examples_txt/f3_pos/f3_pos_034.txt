@@ -1,8 +1,8 @@
-Text ID: t001923
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000218_gpt.txt
+Text ID: t000652
+Group: human
+Model: human
+File:   corpus/05_human/t000652_human.txt
 
 Score (f3_pos): 1
-Loading words (f3_pos), N=1: minute
-they're literally on the phone all the time, like every night, and it goes on for ages. even when it's really late and I'm trying to sleep, I can hear him through the wall, just this constant monotone drone. his voice is so irritating, it just does my head in. and the worst bit is I'm lying there thinking, are they talking dirty or something, and I really don't wanna know but I can't not hear it. it makes it a hundred times worse, just imagining what they're saying. I honestly just wish he'd shut up for five minutes. I don't get how they have that much to talk about, like every single night. what can you possibly be saying for that long?
+Loading words (f3_pos), N=1: huge
+yeah yeah it really was so em I found the most obvious place on the map after the last one had been diluted because eh version one point O came out em so I went to the coordinate zero zero and started building this town and there's this eh there's this one guy on the server that was a bit too keen just spent hours and hours and hours playing on it and I just sort of set up the basics and he made it look beautiful we had a communal mine as well which which was really nice and em to to keep the animals as well eh just wanted sort of little fence pens but this guy made a huge huge great barn

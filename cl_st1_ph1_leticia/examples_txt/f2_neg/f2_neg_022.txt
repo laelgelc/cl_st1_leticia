@@ -1,8 +1,8 @@
-Text ID: t004958
+Text ID: t004605
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001548_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001195_gpt.txt
 
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: huge, massive, big
-what I'm imagining is a system where you still have your own house, you can stay in it forever if you like, but the big structural stuff and disasters aren’t your personal financial problem. The maintenance and repairs would be funded collectively through taxes, so if something major goes wrong, a government agency comes and fixes it rather than you being landed with a huge bill. The reason I think that’s important is my friend in America – they’d just taken out a mortgage and then there was this freak weather, I think in Nashville or somewhere in Tennessee, and their house flooded. They ended up with this massive debt for something they couldn’t possibly have predicted.
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: god
+she said to me did I want to go up for a flight in the Dakota and I was like oh my god yes please because I knew exactly what it was soon as she said it I could picture it I said I’ve seen that in a film I’m sure I’ve seen that in a film and at first I was going is it “Driving Miss Daisy”? no that’s not right and I was racking my brains and then it just came to me it’s “Memphis Belle” that’s where I’d seen it and he was laughing and said I’d get brownie points for knowing what it was and I’d get a better time than her because she didn’t know what it was at all which was really funny

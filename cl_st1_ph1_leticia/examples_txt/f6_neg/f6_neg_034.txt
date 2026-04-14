@@ -1,8 +1,8 @@
-Text ID: t003294
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001589_gpt.txt
+Text ID: t000017
+Group: human
+Model: human
+File:   corpus/05_human/t000017_human.txt
 
-Score (f6_neg): -1
-Loading words (f6_neg), N=1: pound
-and that’s where it all started spiralling really, and to be honest I don’t actually understand what’s gone on with my account now. I’m going to write to the bank and say I don’t understand it, and that I’ve already spoken to them about it. I paid in that two hundred pound cheque a couple of months ago to clear it, and instead it’s just been swallowed up by more charges, so I’m back where I started. I’ll ask for a meeting to go through the account, otherwise it’s just going to get out of control.
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: anyone, everyone
+I dunno because I just think like I dunno I just no I I I suppose that's not what I'm saying what I'm saying is like I think that sometimes it's just in you like if if you're the sort of person who wants to do something then you'll do it like I don't know how much the school counts surely not everyone who goes to a public school comes out with a good job surely not everyone who goes to a public school ends up doing something good I'm sure loads of them end up doing normal things like I'm sure there's loads of people who went to private school who are just doing jobs that that th like anyone's doing you know? I think you've gotta it's gotta be in you to to do to be r you've gotta be driven and like you can't really teach that can you I mean?

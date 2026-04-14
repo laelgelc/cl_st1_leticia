@@ -1,10 +1,8 @@
-Text ID: t002627
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000922_gpt.txt
+Text ID: t001420
+Group: human
+Model: human
+File:   corpus/05_human/t001420_human.txt
 
-Score (f1_neg): -5
-Loading words (f1_neg), N=5: stick, carry, least, moment, try
-I’d actually got a CD of hymns in the car as a standby, just in case we ended up without an organist. I’d brought it along thinking, well, if I’m the only one running this show, at least I can stick that on and we’ll have something to sing to. As it turned out, the organist did arrive, so we didn’t need the CD in the end.
-
-When we got going, there was this bit of confusion over the verses. I thought we were supposed to skip verse two, but the organist went straight through and played all the verses. There was a woman in front of me singing away very loudly, and she carried on with the wrong verse while I was behind her trying to sing the right one. For a moment it was all a bit of a muddle, but eventually it sorted itself out and we got back on track.
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+and that you know you'll go you'll go much further than you know what she's like trying to get by on her Trying to get by on her looks and her a laugh and a smile and you know er you know that there is that doesn't last you know I'm so proud of you and you'll go really far and she was like um and then I and I was like oo that you know that's really nice of her to say it shit about my sister but at the time we just knew

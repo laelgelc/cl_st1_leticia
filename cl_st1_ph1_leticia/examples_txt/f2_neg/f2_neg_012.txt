@@ -1,10 +1,8 @@
-Text ID: t002354
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000649_gpt.txt
+Text ID: t000473
+Group: human
+Model: human
+File:   corpus/05_human/t000473_human.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: huge, big
-so what I did with the arena was I had to make sure the monsters would actually spawn inside it, right, because if there’s too much light they just don’t appear. I ended up enclosing the whole redstone arena so that the sunlight couldn’t get in, which meant you’d get all these monsters popping up on this dimly lit floor that still reacted when you stepped on it. The idea was that players could go in and fight them on this kind of glowing, dangerous surface. 
-
-The build itself was really simple, just a dome on a circle, nothing fancy in terms of architecture, but because it was right near a bunch of other people’s stuff it drew loads of attention. People were really up for helping out with it. From the outside, in the middle of this big sandy desert biome, it just looked like this huge stone dome rising out of the sand, so we ended up calling it the “desert dome.”
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: god
+like they are rough as fuck I'm in my killer heels hooker heels people going to work in them you know tottering along the girls with like their boobs hanging out of their work shirts and dr like skirts up here full works for the office I was like holy fuck bleach blond hair like breaking off cos it's that shit I was like oh my god like you look horrendous but where I grew up it was like that I my friends that I've left at home would think that was acceptable so I've moved here and I've been here for three years now and I've kind of got a bit got a bit soft in my own age thinking that the people that live here are are general standard no they're not the farther north you go peterborough is the standard that I should be used to so I think is quite safe and then you hear and you're like what the fuck because no matter how rough the people are and I mean I've told you about people sending for fighter from you would never see that never

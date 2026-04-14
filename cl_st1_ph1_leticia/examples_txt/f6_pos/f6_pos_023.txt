@@ -1,8 +1,8 @@
-Text ID: t005033
+Text ID: t004273
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001623_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000863_gpt.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: bloke, stand
-This bloke just turned up on the doorstep, said he’d been sent by Eon to change our meter. It wasn’t even booked or anything, he just said he often does extra ones if he’s nearby and it’s convenient, and that it’d only take him about fifteen minutes. So I’m stood there thinking about what I’m in the middle of, but he’s very matter-of-fact, like, “If it suits you I can just do it now, won’t take long.” The whole thing was completely unannounced, but he clearly makes a habit of squeezing in these extra jobs when he can.
+Loading words (f6_pos), N=2: pound, least
+they're just notoriously unprofessional, these estate agents, they don't answer calls, they don't ring back, nothing, and I really think they ought to go to the ombudsman and at least register how negligent they've been, even if it doesn't actually come to very much in the end. they even tried to fob her off with three hundred pounds compensation, which she refused, because it's ridiculous given what happened. she actually came home thinking she'd been burgled, completely anxious and inconvenienced, you know, coming in and finding things not as she'd left them and feeling really unsettled by the whole thing.

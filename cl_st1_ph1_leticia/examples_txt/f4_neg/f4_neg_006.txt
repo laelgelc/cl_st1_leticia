@@ -1,8 +1,8 @@
-Text ID: t004310
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t000900_gpt.txt
+Text ID: t001520
+Group: human
+Model: human
+File:   corpus/05_human/t001520_human.txt
 
-Score (f4_neg): -2
-Loading words (f4_neg), N=2: awful, horrible
-he had these horrible yellow blisters all over his face in the end, it was awful, so we had to take him down to the chemist and get something to put on them. Once they’d sorted him out a bit he did actually come back up and join us on the slopes, but honestly you could hardly see any of his face. He had the goggles on and everything pulled right up, he looked just like the Milk Tray man, you know, all covered up and mysterious, it was hilarious.
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: minute
+and then in the morning when he finally had got to sleep I had to get up obviously at six o'clock and I was like going in for a cuddle to like say well I've gotta get up in a minute and he was just like oh just leave me alone and obviously every girl knows that is a no no you do not say that because you take these things really personally so I got up and he was like oh where are you going? Oh well you told me to leave you alone so I'm leaving you alone and I had a bit of a strop on you know I was really tired six in the morning and I thought that

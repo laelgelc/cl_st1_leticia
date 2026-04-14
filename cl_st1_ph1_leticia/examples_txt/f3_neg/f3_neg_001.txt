@@ -1,12 +1,8 @@
-Text ID: t003166
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001461_gpt.txt
+Text ID: t000687
+Group: human
+Model: human
+File:   corpus/05_human/t000687_human.txt
 
 Score (f3_neg): -3
-Loading words (f3_neg), N=3: sense, seem, pick
-well he thought that he could erm evade capture and eventually make his way to Pakistan and either hide there or somehow get back home but obviously that didn’t work out at all and because he disappeared the American army had to stop a lot of the missions that they’d been planning and focus everything on searching for him instead so it became this huge thing with loads of resources thrown at trying to find this one soldier
-
-and now the same journalist who did the first series is doing this one about him she’s investigating his case by listening to these recorded phone calls that he’s had with another journalist so you actually hear his own version of what happened and what he was thinking at the time and then she’s also talking to the Taliban about it through an interpreter so you get their side as well about how they saw him and what they did with him
-
-but I’m still not really sure what the actual crime is that they’re trying to investigate because the basics seem really clear he deserted his post he walked away he was picked up by the Taliban and held and tortured for years so it’s not like a mystery in that sense it’s more like they’re digging into it anyway and I don’t quite know what they’re hoping to uncover beyond what we already know from those facts
+Loading words (f3_neg), N=3: wanna, okay, reason
+like but everyone goes everyone says to me literally says to me how come you get how come will like come up to you and be like talk to you for like a long extended period of time and like how he'll like give you a hug and how he won't be a dick I said there is one reason only and that's cos doesn't wanna bang me and doesn't has never ever wanted to bang me and 's never got with me not even fucking kissed me or anything that is why me and are okay but if you're an object of like he thinks that he he's fancied you at some point whatever it may be

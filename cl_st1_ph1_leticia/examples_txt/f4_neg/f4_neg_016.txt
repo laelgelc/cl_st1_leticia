@@ -1,8 +1,8 @@
-Text ID: t004764
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t001354_gpt.txt
+Text ID: t001230
+Group: human
+Model: human
+File:   corpus/05_human/t001230_human.txt
 
 Score (f4_neg): -1
-Loading words (f4_neg), N=1: awful
-so in the end, after all that faffing about, I did actually go and see her. I was expecting an absolute roasting because I’d missed those two appointments and they’d been so furious with me before. I went in thinking, right, I’ll just be upfront, and I said, look, I really need some exercises, I am just so incredibly stiff, my back and my knees are awful. I can’t move properly. And to my surprise she was actually very good, really competent, and she said yes, I am indeed extraordinarily stiff, which at least made me feel a bit vindicated.
+Loading words (f4_neg), N=1: minute
+he has said as a result of all of this he's come to a new way of thinking so three weeks three Fridays ago I met him for a cup of tea at marina and erm because he's he'd got some stuff to discuss and I just thought you know I haven't been responding to him and in fairness I need to just hear him out he'd sent this letters to me and I have just ignored them not responded to them or anything erm I've started going swimming ten minutes later so I don't have to come

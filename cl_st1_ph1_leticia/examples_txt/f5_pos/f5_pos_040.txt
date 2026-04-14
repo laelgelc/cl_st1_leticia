@@ -1,8 +1,8 @@
-Text ID: t002584
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000879_gpt.txt
+Text ID: t001109
+Group: human
+Model: human
+File:   corpus/05_human/t001109_human.txt
 
 Score (f5_pos): 1
-Loading words (f5_pos), N=1: reason
-yeah so at the moment my main research model's kind of stuck, because we can't actually test it until we get this specific bit of kit in, and the company’s only just decided to buy it – mostly for their own reasons rather than mine. once it turns up, in a few months or so, I’ll go back to that project and actually validate what I’ve done. in the meantime they’ve put me on this other job, a really odd reverse‑engineering thing for a Japanese car manufacturer, working out how a European rival’s car does its safety features.
+Loading words (f5_pos), N=1: pick
+she like she gave me petrol money and stuff like that wasn't the point though the point was just she's taking the piss love for her phone the only reason she wanted it is so she could text all weekend anyway erm drove to Tesco's picked her up a SIM card gave her my old phone just to cos I wasn't sure if it was gonna work or not it might've got blocked so I don't know if it'll work but we'll give it a go luckily it didn't it not blocked so we can reuse it for you if you want it

@@ -1,8 +1,8 @@
-Text ID: t002357
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000652_gpt.txt
+Text ID: t000468
+Group: human
+Model: human
+File:   corpus/05_human/t000468_human.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: huge, big
-Yeah, it was kind of like a virtual communist state, actually. What I did was I went to the central co-ordinates of the map and I built this town, so you’d have all the communal facilities there and a big mine underneath that everyone could use. And then there was this one guy who was really, really dedicated, and he just made the place look incredible – he went round improving all the buildings and then he built this absolutely huge barn for all the animals. After that it really became this proper focal point on the map, and people started building all their stuff around it.
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: gonna
+that's it and she worked she used to work in there and I used to say to her they they tell you your hours are seven until eleven I said but they're not I said who clears up after they've all gone home? and they won't close the bar until they've got to if it's eleven o'clock be closing at eleven you know what I mean though? but I'm too but er but she used to like it you know what I mean? if you like a job you're gonna stick to it like though

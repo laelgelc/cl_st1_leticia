@@ -1,8 +1,8 @@
-Text ID: t000691
-Group: human
-Model: human
-File:   corpus/05_human/t000691_human.txt
+Text ID: t003265
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001560_gpt.txt
 
-Score (f2_pos): 4
-Loading words (f2_pos), N=4: wanna, erm, okay, cos
-he can't yeah he can't like and when we were standing there and his mum was like you know we you know we can't do anything about it now and he was like no no no it's alright don't worry I'll get knocked up and then we'll lean on you for everything and like she and he was like yeah or no or do you not wanna do that? alright okay no worries so I tell you what er when er erm and like move out and you give them two grand give me two grand too cos we could be in exactly the same situation like and he's just kind of like pulling out every little bit but obviously it's not his mum's fault
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: odd, bloke
+Yeah, that trip just wasn’t as much fun as the first time we went, really. The doorman at the Comedy Store was so unwelcoming it sort of killed it for us, so we didn’t bother staying. We just wandered round Leicester Square for a bit instead, not really knowing what to do next. Then this bloke came up selling tickets and asked if we fancied a comedy night at a hotel. It sounded a bit odd, and the venue was quite strange when we got there, but actually it turned out to be really funny in the end.

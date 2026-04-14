@@ -1,8 +1,8 @@
-Text ID: t003482
+Text ID: t003645
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000072_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000235_gpt.txt
 
-Score (f6_pos): 3
-Loading words (f6_pos), N=3: bloke, stand, chat
-After the headmaster let me in, nobody said a word about me having been left outside. It was as if nothing odd had happened at all. The Asian woman on the “let me help you” desk just carried on chatting away with this bloke, about anything and everything under the sun, really. She didn’t pause or even glance up to ask if I needed something. I was just standing there, feeling more and more awkward, worrying I was going to be late. I waited like that until the bell finally rang.
+Score (f6_pos): 2
+Loading words (f6_pos), N=2: month, least
+I was in the car with him a couple of months ago and I actually asked if he thought he’d marry her, and he just went, “yeah, probably.” And now they’ve broken up. They went on holiday – I think it was Majorca or something – and when they got back he said it just “didn’t feel the same” anymore. So he ended it after that. At least he actually made the decision to finish it, rather than just dragging it out, especially after being together that long.

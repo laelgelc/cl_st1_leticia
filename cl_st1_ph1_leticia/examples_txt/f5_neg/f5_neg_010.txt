@@ -1,8 +1,8 @@
-Text ID: t003288
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001583_gpt.txt
+Text ID: t001038
+Group: human
+Model: human
+File:   corpus/05_human/t001038_human.txt
 
-Score (f5_neg): -1
-Loading words (f5_neg), N=1: manage
-So the agency told him he still owed them loads of money, even though he’d been working really hard and doing all these campaigns. He’d been earning a lot and thought he was doing brilliantly, but they kept saying he was in debt. Eventually, after ages, he managed to clear this massive £150,000 debt, and he was expecting them to be like, you know, “well done” or at least a bit celebratory about it. Instead they just turned round and said he now owed another £17,000, because they’d supposedly been spending money on his behalf.
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: set, somebody
+on a wavelength yeah yeah I guess when I think about you I see somebody who is evolving or I mean you know how we are dynamic creatures we are always evolving we always changing you know I I don't think a personality is ever set but I suppose you have certain characteristics or a certain resonance or a certain vibe that you get on for a period of time because it suits you and you explore everything within that vibe and then something shifts or changes and you move and you do become a different person on a cellular level on a de and well on a cellular level you are not you are a completely different human being to the physical organism you were seven years ago everything about you has shifted and changed and also sort of psychologically spiritually emotionally well you are a different person in every moment you are reinvented in every now but I do think you hit these like you know you are at one now which is a life changing oh okay choice of two big paths and there's another probable you that's carrying on business as usual but this wider path is the you that is now recreating or creating something new and I think good for you be assertive and be proud of who you are don't do yourself down or call yourself a sad git for going to bed at ten o'clock you know be proud of that

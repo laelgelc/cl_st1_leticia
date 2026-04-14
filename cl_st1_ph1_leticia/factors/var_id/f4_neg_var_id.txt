@@ -1,2 +1,2 @@
-variables loading on this pole = 5
-v000005 (-.77), v000037 (-.72), (v000080 (-.63)), (v000010 (-.39)), (v000067 (-.36))
+variables loading on this pole = 2
+v000051 (-.42), (v000023 (-.38))

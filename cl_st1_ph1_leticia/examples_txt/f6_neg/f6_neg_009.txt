@@ -1,8 +1,16 @@
-Text ID: t000039
-Group: human
-Model: human
-File:   corpus/05_human/t000039_human.txt
+Text ID: t002139
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000434_gpt.txt
 
-Score (f6_neg): -1
-Loading words (f6_neg), N=1: pound
-the car was actually worth about five hundred at a push erm so they offered me six fifty and I said look like cards on the table like this is how much cash I've got so the closer you can get to that figure the better so we went away and oh we'll have to go and speak to my manager and he came back and was just like you have got yourself one hell of a deal here like I can give you nine hundred pounds for your car and I'm like okay he's like is that a deal? I'm like yeah
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: anyone, everyone
+No, what gets me is it only has to snow about half an inch now and everyone seizes on it as an excuse not to go to work. Any little dusting and suddenly it’s “oh, can’t possibly get in, roads are treacherous”, and they just give up and abandon their cars. You see them all over the place, just left there at the slightest sign of trouble.
+
+I mean, I remember one time when it really did snow properly, not this token stuff. I had to get to the office, it was miles away, and I still got in. Drove all that way in genuinely bad conditions, taking it slow, being careful, doing what you have to do. And when I finally arrived, the people who actually lived nearby hadn’t even bothered to turn up. They were right on the doorstep, practically walking distance compared to my journey, and they’d just decided “nah, can’t make it, too much snow”. That really annoyed me because I’d put the effort in, done the long, hard drive, and then the local lot hadn’t even tried.
+
+And then there was that time years back with the really severe snow, when the roads just weren’t gritted at all. They knew it was coming, it wasn’t like it crept up on anyone. The forecasts were all saying it was going to be bad, but nothing was done. I remember the M11 in particular – people were stuck there for hours and hours. Some of them were out there for twenty‑four hours, just sitting in their cars, completely stranded. No grit, no proper preparation, nothing moving.
+
+That was the thing that really stuck with me: they had plenty of warning, and still the authorities didn’t bother to get the gritters out or organise anything properly. It wasn’t as if they didn’t have time. They just seemed to hope it would all somehow be fine, and then when it hit, the whole system ground to a halt. You had lorries jack‑knifed, cars all over the place, and absolutely no sign that anyone had taken it seriously beforehand.
+
+So on the one hand you’ve got people using the tiniest bit of snow as an excuse to stay at home and abandon their cars, and on the other hand you’ve got this example where there really was a proper snowfall and the roads were a complete mess because no one had prepared. It just shows how badly it can go wrong when they don’t grit the roads and don’t plan ahead, especially when they’ve been told the bad weather’s on its way and still don’t do anything about it.

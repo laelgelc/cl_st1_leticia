@@ -1,8 +1,8 @@
-Text ID: t001577
-Group: human
-Model: human
-File:   corpus/05_human/t001577_human.txt
+Text ID: t003138
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001433_gpt.txt
 
-Score (f2_pos): 3
-Loading words (f2_pos), N=3: er, erm, cos
-and er to this I said alright he'd like to come and visit cos he was gonna go on a well actually what he said was he says oh no I'm gonna in the next year I'm gonna chuck my job and I'm gonna erm get a lodge and share the house with someone er I'm gonna go sailing in the Bay of Biscay on a on a uh very large boat I'm gonna take up hang driving again cos he was all in hang driving and I'm gonna cycle round Britain he's a typical er
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: odd, bloke
+It was funny, actually – it was only yesterday. This bloke came past and I stopped him and said something to him, and he just went, “Yeah, yeah,” agreed straightaway. As I was taking his address down, I said, “Oh, I know that area,” and he said, “Do you?” So I told him I grew up round there, on [that particular road], from when I was about five until I moved away in my twenties. Then we got talking about schools and I said I’d gone out of catchment for secondary, and he knew exactly what I meant. It turned out we had all these little links – same sort of local area, same schools – just one of those odd small‑world moments.

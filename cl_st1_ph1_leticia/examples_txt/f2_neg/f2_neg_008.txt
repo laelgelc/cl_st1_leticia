@@ -1,8 +1,8 @@
-Text ID: t002291
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000586_gpt.txt
+Text ID: t000453
+Group: human
+Model: human
+File:   corpus/05_human/t000453_human.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: huge, big
-So in loads of those Latin American countries – like Venezuela, Colombia, Ecuador, Peru, Bolivia – they've all basically got three zones. You’ve got this really dry coastal desert, then the big mountain range, and then on the other side you’ve got proper jungle. It’s mad to think the Incas managed to build and organise an empire across all of that, over such a huge area and such different landscapes. One of the coolest things from that time are the Nazca Lines – have you heard of them?
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: god
+over uni that is literally the only people that I have ever gossiped with like about my parents my mum god her life just sounds so fucking sad like she'll literally be like yeah so we were at book club and then said this and I was just well like I'm actually the one that's in like the cleaner business so why didn't she like refer this person to me I could do with the extra money and she knows that but no she went and gave it to some other person and I was like is your life actually that fucking sad that you are gossiping to me about book club?

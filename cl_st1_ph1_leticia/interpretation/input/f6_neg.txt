@@ -33,141 +33,155 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac6	SD fac6
-group	human	1705	-0.00762463	0.40165509
-group	profiled_gpt	1705	0.13137830	0.45744446
-group	unprofiled_gpt	1705	0.12844575	0.46526684
+group	human	1705	-0.03108504	0.49489915
+group	profiled_gpt	1705	-0.08973607	0.50888259
+group	unprofiled_gpt	1705	-0.08680352	0.52134772
 
 === FACTOR LOADINGS (f6_neg) ===
-variables loading on this pole = 6
-pound (-.62), (fact (-.52)), (least (-.39)), (month (-.38)), able (-.31), (clear (-.31))
+variables loading on this pole = 5
+anyone (-.73), (massive (-.41)), guy (-.40), everyone (-.33), (shit (-.30))
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f6_neg_001.txt (text ID t000487) =====
-Text ID: t000487
-Group: human
-Model: human
-File:   corpus/05_human/t000487_human.txt
+===== EXCERPT: f6_neg_001.txt (text ID t002440) =====
+Text ID: t002440
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000735_gpt.txt
+
+Score (f6_neg): -3
+Loading words (f6_neg), N=3: anyone, guy, everyone
+Well they’re all busy, some of them have actually got jobs as well, so it’s a bit hard to get everyone together. Age-wise it’s quite mixed. There’s that half-Malaysian girl, she’s only twenty-one, and the American girl’s twenty-two. Then there’s that Dutch girl who’s really moody and doesn’t talk to anyone. There’s a Pakistani guy who’s about my age, and then the rest of them are sort of around twenty-five to thirty-five, somewhere in that range. So yeah, it’s definitely a mixed group.
+
+--- Loading words for this example (neg): anyone, guy, everyone
+
+
+===== EXCERPT: f6_neg_002.txt (text ID t001730) =====
+Text ID: t001730
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000025_gpt.txt
 
 Score (f6_neg): -2
-Loading words (f6_neg), N=2: pound, able
-erm no so said oh I can get you a much better pension a superann I've already I've already moved across it's gonna be way way better and he sort of went through it with us and at the time it seemed like so he transferred what I'd paid into my superann across to them which went into one pot and then I started paying into another pot and then quite soon we realised that unless we were activity managing this it was gonna fall behind superann and so we thought oh this we're just we are not clever enough we are not gonna be able to do it so we tried moving it back to superann and they wouldn't accept it back so I've got two frozen little pots one of which is going to pay me twelve pounds a year and one
+Loading words (f6_neg), N=2: anyone, everyone
+yeah so the cottage itself is working out really pricey, it’s like a hundred quid plus each just for the three nights, and that’s before you even think about food or petrol or anything, and people are having to take time off work as well. For that amount of money you sort of expect there to be a bit more thought put into what we’re actually going to do while we’re there, but there hasn’t really been much planning around keeping everyone entertained.
 
---- Loading words for this example (neg): pound, able
+They did float this idea of going quad biking, which sounded fun, but that was going to be another fifty quid each on top, and loads of people straightaway were like, “no, that’s too much,” so that’s been dropped now. Since then, as people have tried to suggest other things we could do that are maybe cheaper or just a bit more organised, it’s started to get a bit tense.
 
+The girls who originally organised it are getting quite tetchy about it, because I think they feel like people are stepping on their toes and sort of taking over their plans. But it’s not really that – it’s more that when someone comes up with a decent idea, everyone else in the group gets behind it, and then it looks like the support is shifting towards that instead of what was first suggested. So yeah, it’s all a bit awkward at the moment, because you’ve got this expensive weekend, not much properly sorted to do, and then a bit of a power struggle going on whenever anyone tries to help by offering new ideas.
 
-===== EXCERPT: f6_neg_002.txt (text ID t001356) =====
-Text ID: t001356
-Group: human
-Model: human
-File:   corpus/05_human/t001356_human.txt
-
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: pound, able
-a good good attitude but it just doesn't help in the long run like she wouldn't have any money in her account like I like to have a hundred pounds in her account for when she needs money urgently for an audition or reeds or something turns up and otherwise I have to be available at precisely that moment lots of things have deadlines you know you've got to be able to do it sometimes and she wouldn't have it her account and of course we just ended up with me having to do three very complicated transfers against the clock and I'm thinking you know if you'd only had the bloody money
-
---- Loading words for this example (neg): pound, able
+--- Loading words for this example (neg): anyone, everyone
 
 
-===== EXCERPT: f6_neg_003.txt (text ID t001045) =====
-Text ID: t001045
-Group: human
-Model: human
-File:   corpus/05_human/t001045_human.txt
+===== EXCERPT: f6_neg_003.txt (text ID t001740) =====
+Text ID: t001740
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000035_gpt.txt
 
 Score (f6_neg): -2
-Loading words (f6_neg), N=2: pound, able
-erm well just under twenty-eight and erm she's earning like earning thirty thirty-five something like that and we're in the car and we're driving back home and she was like well you know like? I've got I've got to earn as much as I was like why? because well just I couldn't I couldn't be in a r in a I couldn't be married to him it's like if earned sixty thousand and I didn't earn that much you know it's a massive competition I was like but you never see him because he's always working she goes yeah but I must I'll I'll earn sixty thousand pounds I was like but you don't having work a good work life balance like wouldn't you rather earn less and have a better work life balance? she went no because if he earns that much I have to earn that much I was like I was like but sometimes you actually don't see each other for like a whole week and she went so? it was like I'd rather earn less money and be able to have a life outside of work
+Loading words (f6_neg), N=2: anyone, everyone
+Sometimes it’s even just the little things, like when I’ve had a rubbish day at work and I just want to come home and stay in a bad mood for a bit. I want to stew on it, sit and be grumpy, and not have to put on a face for anyone. But when you’re living in someone else’s family home, in a house full of people, you can’t really do that. You can’t just sit and be, or be openly miserable, because you’re always kind of “on” around everyone.
 
---- Loading words for this example (neg): pound, able
-
-
-===== EXCERPT: f6_neg_004.txt (text ID t001533) =====
-Text ID: t001533
-Group: human
-Model: human
-File:   corpus/05_human/t001533_human.txt
-
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: pound, able
-but in the evening you know they have to come back there's a curfew and someone's monitoring so it's more like a a safe house I suppose you could say and of course they can do courses and things within the prison grounds but why not have that why not let them erm do that more and let people earn as well? like just because you're in prison does that mean you shouldn't be able to make a living? because I think this is a problem when they release prisoners they they are given erm like a rail warrant it's called they're given free transport to whatever city they're from in the UK and about forty pounds
-
---- Loading words for this example (neg): pound, able
+--- Loading words for this example (neg): anyone, everyone
 
 
-===== EXCERPT: f6_neg_005.txt (text ID t001578) =====
-Text ID: t001578
-Group: human
-Model: human
-File:   corpus/05_human/t001578_human.txt
+===== EXCERPT: f6_neg_004.txt (text ID t001720) =====
+Text ID: t001720
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000015_gpt.txt
 
 Score (f6_neg): -2
-Loading words (f6_neg), N=2: pound, able
-and it's about I think if you really want to help someone you've got to help them the biggest thing is helping someone help themselves you can't just it's like if someone's crap with money I mean in an individual if an individual's crap with money you don't just you don't just throw a hundred pounds at them because if they can't manage money they're not going to be able to manage a hundred pounds the if you really want to help someone I would say you've got to teach them how to deal teach them themselves how to solve the problem
+Loading words (f6_neg), N=2: anyone, everyone
+I do think class and circumstances make a difference – they clearly do – but I still feel you’ve got to try and do what you believe is right, regardless. In an ideal world everyone would have the same opportunities, and that’s how it ought to be, even if it obviously isn’t like that now. I don’t think anyone should feel proud or ashamed of where they’ve ended up, or of things like their race or gender or where they were born. Those things shouldn’t matter in terms of your value as a person, even if society often acts as though they do.
 
---- Loading words for this example (neg): pound, able
-
-
-===== EXCERPT: f6_neg_006.txt (text ID t000324) =====
-Text ID: t000324
-Group: human
-Model: human
-File:   corpus/05_human/t000324_human.txt
-
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: pound, able
-that's another bunch of years so you know what I mean? I to be able to fund a PhD I need to be able to have enough money to live on for four years that's a lot of time you know what I mean? and I would need to save at least thirty thousand pounds each so that's the plan we go back to the Middle East we save fifteen grand each and we travel Africa and do another qualification we do a Delta that would cover that year we go back and do two more years and save thirty grand each and that will be enough for us for us to do a PhD
-
---- Loading words for this example (neg): pound, able
+--- Loading words for this example (neg): anyone, everyone
 
 
-===== EXCERPT: f6_neg_007.txt (text ID t000836) =====
-Text ID: t000836
-Group: human
-Model: human
-File:   corpus/05_human/t000836_human.txt
+===== EXCERPT: f6_neg_005.txt (text ID t002048) =====
+Text ID: t002048
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000343_gpt.txt
 
 Score (f6_neg): -2
-Loading words (f6_neg), N=2: pound, able
-hello uhu six S yeah six yeah well six it's not six S yeah six okay alright that's brill I'll do that tomorrow then please erm and then I'll send you the erm SIM number so you can ring I'll send you the SIM number so you can ring so I can be back on my original contract so I'm not on this stupid pay as you go I needed your account details and stuff I wasn't able to get into it I needed erm how much my original bill was which I know now is fifty-three pounds so I've got that erm whichever mother's maiden name is it yours or mine? was it yours your your mum's? so it's your mum's? right I thought so and that's yeah I thought so and I need your sorting code and account details of the card that you paid on
+Loading words (f6_neg), N=2: anyone, everyone
+So my boss sent this email round saying that after talking to the controller, apparently this new process and system are working really well, everyone’s on board, all that. And I’m just sitting there thinking, how? Because since they changed the roles we’ve ended up doing loads of extra admin, picking up bits that used to be someone else’s job. It doesn’t feel streamlined at all, it’s just more work. I honestly doubt she’s actually asked anyone if they’re happy with it, because I can’t think of a single person who is. It just feels completely out of touch.
 
---- Loading words for this example (neg): pound, able
-
-
-===== EXCERPT: f6_neg_008.txt (text ID t000025) =====
-Text ID: t000025
-Group: human
-Model: human
-File:   corpus/05_human/t000025_human.txt
-
-Score (f6_neg): -1
-Loading words (f6_neg), N=1: pound
-it's quite expensive so people are paying like a hundred quid a hundred and something quid for three nights in this place right? and obviously people are also having to book time off work and they're having to book the Friday and the Monday off work erm but what they haven't contemplated is if you are asking people to go to just like a house for the weekend you've got to put some serious planning into like keeping those people entertained for the entire weekend and people were kind of s sort of saying like oh you know like I'm on a budget I can't do loads I can't spend loads of money so and have been trying to come up with different ideas to like do things on the cheap erm but one of their activities that they were suggesting for us to do during the day was to go quad biking which most of us like were like oh that sounds quite cool but it was fifty pound per person which is quite a lot of money erm so a lot of people were like no I'm not gonna do it so before you know it they were like oh we're gonna have to we'll have to get rid of the quad biking so then people are like oh so what are we gonna do instead? and people start suggesting things and and are getting really tetchy then cos people are kind of like taking over or sort of saying you know like one person will say something and if a few people like it you've suddenly got a whole group of people that are going oh yeah we should definitely do this
-
---- Loading words for this example (neg): pound
+--- Loading words for this example (neg): anyone, everyone
 
 
-===== EXCERPT: f6_neg_009.txt (text ID t000039) =====
-Text ID: t000039
-Group: human
-Model: human
-File:   corpus/05_human/t000039_human.txt
+===== EXCERPT: f6_neg_006.txt (text ID t002031) =====
+Text ID: t002031
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000326_gpt.txt
 
-Score (f6_neg): -1
-Loading words (f6_neg), N=1: pound
-the car was actually worth about five hundred at a push erm so they offered me six fifty and I said look like cards on the table like this is how much cash I've got so the closer you can get to that figure the better so we went away and oh we'll have to go and speak to my manager and he came back and was just like you have got yourself one hell of a deal here like I can give you nine hundred pounds for your car and I'm like okay he's like is that a deal? I'm like yeah
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: anyone, everyone
+right now I actually couldn’t work at a university in England, not in the way I was doing in Korea. Here, if you’ve just got an MA like me, you *can* sometimes teach English as a foreign language at a university, but that’s usually in the EFL or language‑centre type roles, and only if you’ve got loads of ESL teaching experience behind you. That’s quite different from linguistics: in linguistics departments, basically everyone who’s a lecturer has a PhD, it’s just expected.
 
---- Loading words for this example (neg): pound
+And the whole “professor” thing is completely different depending on the country. In England, “professor” is the top of a long ladder – you start as a lecturer, then senior lecturer, and it takes years and years before you’d ever get called professor. In America, though, anyone who teaches at a university is called a professor, so I was “Professor” there and in Korea, even though in England I definitely wouldn’t count as one.
+
+--- Loading words for this example (neg): anyone, everyone
 
 
-===== EXCERPT: f6_neg_010.txt (text ID t000043) =====
-Text ID: t000043
-Group: human
-Model: human
-File:   corpus/05_human/t000043_human.txt
+===== EXCERPT: f6_neg_007.txt (text ID t001911) =====
+Text ID: t001911
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000206_gpt.txt
 
-Score (f6_neg): -1
-Loading words (f6_neg), N=1: pound
-I turned a corner like one of there's definitely like there was definitely a like axel problems cos like every time I turned a corner it made flooding noises so like I knew it was dodgy as fuck anyway erm but yeah he managed to get he managed to get me like nine hundred pound for that car so I was dead happy with that and then he went off and then like they obviously had somebody else who actually like closes it all closes the deal and like sorts all the payment and all that kind of
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: guy, everyone
+yeah it is complicated, like the way it’s told is really weird. It keeps switching between this guy called Lockwood and the servant, Nelly Dean. Lockwood’s the one who’s actually renting Thrushcross Grange, and he’s kind of the frame for everything. But Nelly grew up with Catherine and Hindley and works at one of the mansions, so she’s the one who really knows everyone. Technically you might not say she’s the official narrator, but she’s basically the one telling all the stories.
 
---- Loading words for this example (neg): pound
+--- Loading words for this example (neg): guy, everyone
+
+
+===== EXCERPT: f6_neg_008.txt (text ID t001853) =====
+Text ID: t001853
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000148_gpt.txt
+
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: anyone, everyone
+I was thinking about your dad actually, how he used to do that long commute down towards London. Even with working from home two days a week, going in three times must’ve been exhausting. And then when he was working near Coventry as well, that’s just another level. Leaving stupidly early in the morning before anyone else was even up, and then not getting back until a couple of hours after everyone in the evening… I honestly don’t know how he managed that routine, it sounds absolutely knackering.
+
+--- Loading words for this example (neg): anyone, everyone
+
+
+===== EXCERPT: f6_neg_009.txt (text ID t002139) =====
+Text ID: t002139
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000434_gpt.txt
+
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: anyone, everyone
+No, what gets me is it only has to snow about half an inch now and everyone seizes on it as an excuse not to go to work. Any little dusting and suddenly it’s “oh, can’t possibly get in, roads are treacherous”, and they just give up and abandon their cars. You see them all over the place, just left there at the slightest sign of trouble.
+
+I mean, I remember one time when it really did snow properly, not this token stuff. I had to get to the office, it was miles away, and I still got in. Drove all that way in genuinely bad conditions, taking it slow, being careful, doing what you have to do. And when I finally arrived, the people who actually lived nearby hadn’t even bothered to turn up. They were right on the doorstep, practically walking distance compared to my journey, and they’d just decided “nah, can’t make it, too much snow”. That really annoyed me because I’d put the effort in, done the long, hard drive, and then the local lot hadn’t even tried.
+
+And then there was that time years back with the really severe snow, when the roads just weren’t gritted at all. They knew it was coming, it wasn’t like it crept up on anyone. The forecasts were all saying it was going to be bad, but nothing was done. I remember the M11 in particular – people were stuck there for hours and hours. Some of them were out there for twenty‑four hours, just sitting in their cars, completely stranded. No grit, no proper preparation, nothing moving.
+
+That was the thing that really stuck with me: they had plenty of warning, and still the authorities didn’t bother to get the gritters out or organise anything properly. It wasn’t as if they didn’t have time. They just seemed to hope it would all somehow be fine, and then when it hit, the whole system ground to a halt. You had lorries jack‑knifed, cars all over the place, and absolutely no sign that anyone had taken it seriously beforehand.
+
+So on the one hand you’ve got people using the tiniest bit of snow as an excuse to stay at home and abandon their cars, and on the other hand you’ve got this example where there really was a proper snowfall and the roads were a complete mess because no one had prepared. It just shows how badly it can go wrong when they don’t grit the roads and don’t plan ahead, especially when they’ve been told the bad weather’s on its way and still don’t do anything about it.
+
+--- Loading words for this example (neg): anyone, everyone
+
+
+===== EXCERPT: f6_neg_010.txt (text ID t002269) =====
+Text ID: t002269
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000564_gpt.txt
+
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: anyone, everyone
+right so everyone have a look at your new loyalty card now, but don’t show it to anyone, it’s still secret. If you’ve just become a Cylon you’ve got two options: you can stay undercover and carry on pretending to help, or on your turn you can reveal yourself. If you reveal, you get a super crisis card and you can use your special Cylon ability, then you move over to the Cylon area on the board. If, like me, you’ve drawn this different sympathiser card, you have to reveal it straight away. That means you’re not actually a Cylon, you don’t get a super crisis card, and you can’t activate the Cylon fleet location. So I’m revealing my status now.
+
+--- Loading words for this example (neg): anyone, everyone

@@ -1,8 +1,8 @@
-Text ID: t003192
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001487_gpt.txt
+Text ID: t001663
+Group: human
+Model: human
+File:   corpus/05_human/t001663_human.txt
 
-Score (f6_neg): -1
-Loading words (f6_neg), N=1: able
-I actually said to him, you know, I want to put a complaint in about the complaint itself, the way it had all been handled before. But I did make it clear I had no problem with him personally. I told him he’d been really good on the phone, that I appreciated him listening and actually getting it sorted. I thanked him for that, because he’d done what nobody else seemed able to do. So the complaint wasn’t about him at all, just about how badly the whole thing had been dealt with beforehand.
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: anyone, guy
+so it's difficult cos like I can't say to him oh you're working too much cos he basically pays for the lifestyle that I have in the summer anyway like normally I pay for everything but in the summer he pays for the lifestyle I have and it's difficult I can't I don't want to shout at him I don't like shouting at anyone like especially my boyfriend or a guy or whoever it doesn't matter who it is I don't like shouting at anyone or making anyone feel bad and I'm not that sort of person I'm not one of these girls that like where the fuck were you? who have you been texting? all that sort of shit like if he wants to go out or any guy that I'm with if they want to go out with some girls or some guys it doesn't matter who it is I don't care okay have a good night I wanna go out with my friends sort of thing that's the sort of person that I am so er it's been hard lately

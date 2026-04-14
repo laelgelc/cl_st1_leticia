@@ -1,8 +1,8 @@
-Text ID: t000220
-Group: human
-Model: human
-File:   corpus/05_human/t000220_human.txt
+Text ID: t002996
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001291_gpt.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: massive, big
-well that's fine well it just comes at the point of year where you're like feeling sort of down about February um yeah the weather's pretty cold and you just go Great now we've gotta you know suddenly find energy from somewhere And the problem is is that no-one apart from like obviously teachers like nobody's got the time off afterwards so I I I'm looking at it like I'm gonna be absolutely shattered I've got a massive deadline coming up and big important meetings got two bible studies to write um and yeah I'm gonna come out of this with less than no energy it's like
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: god
+I really don’t like the word “god” because of all the patriarchal, old-man-in-the-sky imagery attached to it. For me it’s much more about an all‑encompassing energy, source, or “all that is.” When I look at homeless people, I see them as other selves, choosing an experience of lack to learn and grow from. Because of that, simply handing over money feels like it creates an energetic imbalance if nothing flows back. I’m far more comfortable with some kind of exchange, like work for help, as in that gardening example earlier.

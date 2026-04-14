@@ -1,8 +1,10 @@
-Text ID: t000089
-Group: human
-Model: human
-File:   corpus/05_human/t000089_human.txt
+Text ID: t002886
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001181_gpt.txt
 
-Score (f1_pos): 1
-Loading words (f1_pos), N=1: um
-but I was working quite a lot of hours and you'd you'd work eight and a half hours there and then at David Lloyd you do eight hours and I did quite a lot of travelling and basically I was late for two shifts um and they sat me down and they were like Elliot we're gonna have to review the whole system we're w we're not gonna keep you on as the um on this sabbatical don't think it's working for us and I was just like obviously a bit shocked and stunned I was like oh well kind of er can I explain? And type thing er well we've we've made the decision and I was like okay er and so what about then the freelancing? I'm afraid we're gonna have to let you go
+Score (f1_pos): 5
+Loading words (f1_pos), N=5: become, sense, idea, own, way
+So basically, the whole thing started off really nicely. She was like, “Why don’t you all come to Paris for my marathon?” and her parents had already pre-booked these hotel rooms, so she said they could just transfer them into our names. We were all, “Yeah, that sounds amazing,” and kind of mentally committed to Paris on that basis. Then a few weeks later she turned round and said actually she was just going to stay with her parents instead, but we were still welcome to come if we sorted our own accommodation and travel. 
+
+Because it’s the marathon, everything’s really busy and expensive now, and it’s suddenly become really awkward for us. So tomorrow me and the other two are meeting up with this guy friend to look at options and see if there’s any way Paris still makes sense, or if we should just sack it off and go somewhere else like Prague instead. I do feel a bit rude about it, though, like the three of us might end up going, “Right, we’re off to Prague, bye,” and leaving her out when it was her marathon idea in the first place.

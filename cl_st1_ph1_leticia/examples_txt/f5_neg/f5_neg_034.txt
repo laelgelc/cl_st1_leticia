@@ -1,8 +1,8 @@
-Text ID: t000003
-Group: human
-Model: human
-File:   corpus/05_human/t000003_human.txt
+Text ID: t003204
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001499_gpt.txt
 
-Score (f5_neg): -1
-Loading words (f5_neg), N=1: manage
-and also being very efficient and fast and you know managing everything until she came along so she's taken a real burden of hi of work from him you know cos she does all of the organisational things for the retreat and she's really good at dealing with the students like she's very erm she's a very compassionate woman but she's also not worried to discipline people she was a policewoman after all so you know and sometimes that needs to happen and it's quite delicate inside that environment you know you don't want to create any discordance within people between people and it's not really appropriate to do so but you do people do have to follow certain rules and stuff so that it works for everyone
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: set, great
+Yeah, it’s really a problem for me when it’s too warm. In my last place I didn’t have to pay any bills, which sounded great, but the heating was all centrally controlled and set ridiculously high. I had no way to turn it down. I actually much prefer cold air in the room and just being warm under the duvet, but instead I ended up having to sleep all winter with a fan on and only a sheet over me. It was just far too hot to sleep properly.

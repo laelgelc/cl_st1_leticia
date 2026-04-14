@@ -1,12 +1,8 @@
-Text ID: t004973
+Text ID: t004816
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001563_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001406_gpt.txt
 
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: huge, massive, big
-well basically the way it works is there’s the three of us, and we’ve kind of got into a rhythm now. He’s the one who kicks things off and keeps an eye on the overall quality, and then I’m the one who does all the texts and graphics, so all the visual side and the wording, and then the other one actually implements it all. So between us we take things from the first idea right through to the finished thing.
-
-It started out really small, almost like a one-man band, with pretty much everything being run by one person and just a few little retreats. But over time it’s grown and grown into this really big programme, with loads of different retreats and a massive amount of administration to keep it all going.
-
-Now there are lots of people involved in different bits of it, but even so, the three of us are still doing a huge share of the work. We’re still the ones who carry most of the responsibility for getting things done and keeping it all running smoothly.
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: god, gonna
+I just instinctively feel really sorry for her, though, because her life is nothing like what I’d want for myself. When I found out she was pregnant I just cried, I was devastated, like, “oh my god, that’s it, you’re never gonna go travelling, you’re never gonna do this or that.” In my head it was like all these doors had just shut for her. But then I have to step back and think, maybe she never wanted any of those things anyway, and it’s just me projecting what I want onto her.

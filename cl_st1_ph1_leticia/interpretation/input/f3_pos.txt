@@ -33,141 +33,163 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac3	SD fac3
-group	human	1705	0.30557185	0.69192062
-group	profiled_gpt	1705	-0.13665689	0.55620642
-group	unprofiled_gpt	1705	-0.11730205	0.56008655
+group	human	1705	-0.19530792	0.57427361
+group	profiled_gpt	1705	0.09736070	0.46587676
+group	unprofiled_gpt	1705	0.06275660	0.47980645
 
 === FACTOR LOADINGS (f3_pos) ===
-variables loading on this pole = 9
-fuck (.98), shit (.77), god (.52), guy (.48), (massive (.45)), gonna (.40), (cos (.34)), (great (.34)), minute (.33)
+variables loading on this pole = 6
+huge (.81), thinking (.77), massive (.45), (bloke (.43)), manage (.35), (single (.32))
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f3_pos_001.txt (text ID t000194) =====
-Text ID: t000194
-Group: human
-Model: human
-File:   corpus/05_human/t000194_human.txt
-
-Score (f3_pos): 4
-Loading words (f3_pos), N=4: fuck, shit, guy, gonna
-so can I can I add my two pennies worth? okay with men they clearly I think men are very very good at distinguishing erm what other men are trying to achieve yeah? they're pretty clear I think in the cut in when you get to be a manager you start to wield some power yeah you either like it or you don't hopefully you do like it yeah otherwise you wouldn't do it but from the guys as as you call it you know the types of words you'd use when you were talking about engineers with senior engineers or or management in engineering companies swing their dicks around suck my cock you know the way you would actually describe these people you were working with you know or in meetings with it sounded horrendous it sounded really like too fucking much in many ways yeah and what I didn't like about it was it was so male dominated it was so much male talk it was so much like I'm an alpha male you're not you're be you're a whatever so you're gonna have to follow me because basically I've got the power shut up fuck off and you'll do what I say yeah? and that male dominated world I'm sorry if you don't fit into it it's shit it's crap it's it's gotta be one of the worst places to be if you're if you wanna be your own man yeah like most men want to be their own men who wants to actually just roll over and go yeah fuck off I just wanna be erm dominated by another man no you don't what what man really wants to be dominated by another man? I mean really I don't want to be fucking dominated by another woman so my idea of this psyche the driver is that actually sometimes it gets to the point where I'm not management I'm fucking off I'm gonna be my own fucking boss because no fucking man is going to fucking talk to me like that
-
---- Loading words for this example (pos): fuck, shit, guy, gonna
-
-
-===== EXCERPT: f3_pos_002.txt (text ID t001017) =====
-Text ID: t001017
-Group: human
-Model: human
-File:   corpus/05_human/t001017_human.txt
-
-Score (f3_pos): 4
-Loading words (f3_pos), N=4: fuck, shit, gonna, minute
-what the fuck is the matter with this kid? Look I'm not kidding I just got money and saw neighbour he invited me in and I thought what the hell? Five minutes we sat down and he offered me a smoke on some herbal weed legal high well I had a bad one and had a bad trip for ages and couldn't talk or stand up four people watched me by the way as I ended up looking like I need sectioning so when so so when I got home I was going to text you and threw up a lot I've been back and told him that that shit is dangerous I'm so sorry for this I'm so pissed off for trying it I thought it would do nothing at all yes I would like to as soon as I sort myself out a bit if that's okay all of the above is the truth this kid is fucked in the head genuinely genuinely fucked in the head so he's gone next door had a bit of pot it's affected him really badly so he's gone home been sick hasn't thought to text me during any of this it fucks me off cos I'm not his girlfriend I'm not his wife I'm not gonna sit around making him dinner
-
---- Loading words for this example (pos): fuck, shit, gonna, minute
-
-
-===== EXCERPT: f3_pos_003.txt (text ID t001028) =====
-Text ID: t001028
-Group: human
-Model: human
-File:   corpus/05_human/t001028_human.txt
-
-Score (f3_pos): 4
-Loading words (f3_pos), N=4: fuck, shit, god, minute
-oh shit I've done that before oh that was just after New Year when I was back and I walked into town and was waiting for this bus back and it was like minus seventeen or something ridiculous and I had been at this bus stop and I thought oh thank god only five minutes to the bus and I waited and waited and waited and waited and then I realised fuck it's Saturday and it was more than half an hour oh no I'm never ever doing that again so I'm quite yeah remember to look what day it is
-
---- Loading words for this example (pos): fuck, shit, god, minute
-
-
-===== EXCERPT: f3_pos_004.txt (text ID t000978) =====
-Text ID: t000978
-Group: human
-Model: human
-File:   corpus/05_human/t000978_human.txt
+===== EXCERPT: f3_pos_001.txt (text ID t002630) =====
+Text ID: t002630
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000925_gpt.txt
 
 Score (f3_pos): 3
-Loading words (f3_pos), N=3: shit, guy, gonna
-yeah he joked at me I think what it wa I can't remember what it was he's we're in a war we're er warming up before training of like before Christmas and he said summat about being embarrassed cos I knocked him off balance or something and I started laughing and literally just got me arm and just went like that and threw him and I was like are you having a laugh? cos he weighs nothing and I think he just thought that I was in the same boat as him but I'm light but I'm not wweak but erm yeah the I dunno who was right right wing back but yeah these guys the three slowest centre backs I've ever seen like is probably about as pacey as a regular centre back at this standard but he can't judge a ball and doesn't know what he's doing so this ball's coming down it's dropping I'm thinking right a proper centre back's just gonna head that away easy head it away or bring it down do something with it he goes to it and then goes shit no backs off
+Loading words (f3_pos), N=3: huge, massive, manage
+I’m thinking back to those filmmaking projects in the nineties, I’m pretty sure Ridley Scott was involved, where they got people all over the UK, and then across the world, to film a “day in the life.” Everyone just went off and shot their own everyday stuff and then sent the footage in. Then there was this massive sifting process, going through all that material to pull out the most compelling bits. From that huge pile of ordinary days, they managed to construct a really powerful narrative, just by choosing and arranging what people had submitted. It’s that idea of lots of different lives, all captured separately, then woven together afterwards into something that feels coherent and meaningful, even though none of the contributors were coordinating with each other at the time.
 
---- Loading words for this example (pos): shit, guy, gonna
-
-
-===== EXCERPT: f3_pos_005.txt (text ID t001181) =====
-Text ID: t001181
-Group: human
-Model: human
-File:   corpus/05_human/t001181_human.txt
-
-Score (f3_pos): 3
-Loading words (f3_pos), N=3: shit, guy, gonna
-you might recognise him if you saw him erm we were gonna go to Paris where does her marathon but she's decided that well her parents had already booked it's really weird like her parents had booked a hote two hotel rooms one for them and one for and if he wanted to go but they'd sort of said oh if you decide you'd rather go with your friends like you can just take our bookings or whatever so at first was like oh I'm not really that fussed about my parents coming like if you guys come we can have a trip make a trip of it or whatever and then like things went quiet for a couple of weeks and I was like oh so what's the situation with Paris? so like oh well my parents have decided to come and you know like I'm stressing about everything a little bit so like I'd rather stay in a hotel with them and 'll probably stay with me but I really want you guys to come but you'll just have to make your own arrangements and we were just a bit like mm that sounds a bit shit like that's really awkward then like
-
---- Loading words for this example (pos): shit, guy, gonna
+--- Loading words for this example (pos): huge, massive, manage
 
 
-===== EXCERPT: f3_pos_006.txt (text ID t000473) =====
-Text ID: t000473
-Group: human
-Model: human
-File:   corpus/05_human/t000473_human.txt
+===== EXCERPT: f3_pos_002.txt (text ID t002631) =====
+Text ID: t002631
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000926_gpt.txt
 
 Score (f3_pos): 3
-Loading words (f3_pos), N=3: fuck, shit, god
-like they are rough as fuck I'm in my killer heels hooker heels people going to work in them you know tottering along the girls with like their boobs hanging out of their work shirts and dr like skirts up here full works for the office I was like holy fuck bleach blond hair like breaking off cos it's that shit I was like oh my god like you look horrendous but where I grew up it was like that I my friends that I've left at home would think that was acceptable so I've moved here and I've been here for three years now and I've kind of got a bit got a bit soft in my own age thinking that the people that live here are are general standard no they're not the farther north you go peterborough is the standard that I should be used to so I think is quite safe and then you hear and you're like what the fuck because no matter how rough the people are and I mean I've told you about people sending for fighter from you would never see that never
+Loading words (f3_pos), N=3: huge, thinking, massive
+What I’m thinking is that what we’re talking about is almost the reverse of what Ridley Scott did. With his projects, they started with this massive quantity of footage – loads of people all over the place filming “a day in the life” – and then the team sifted through it all afterwards and carved out a really powerful narrative from this huge pile of material.
 
---- Loading words for this example (pos): fuck, shit, god
+What I’m imagining here is starting with just one really high‑quality “day in the life of”, something quite focused and thoughtful, and then letting it grow outwards from there. So instead of big quantity narrowing down to quality, it’s one strong piece that gradually expands as other connected people add their own days, their conversations, their goals, their needs.
 
+As it scales, you’d hope it still keeps that sense of quality, but now you’re also seeing, much more clearly, what resources people actually require along the way.
 
-===== EXCERPT: f3_pos_007.txt (text ID t001663) =====
-Text ID: t001663
-Group: human
-Model: human
-File:   corpus/05_human/t001663_human.txt
-
-Score (f3_pos): 3
-Loading words (f3_pos), N=3: fuck, shit, guy
-so it's difficult cos like I can't say to him oh you're working too much cos he basically pays for the lifestyle that I have in the summer anyway like normally I pay for everything but in the summer he pays for the lifestyle I have and it's difficult I can't I don't want to shout at him I don't like shouting at anyone like especially my boyfriend or a guy or whoever it doesn't matter who it is I don't like shouting at anyone or making anyone feel bad and I'm not that sort of person I'm not one of these girls that like where the fuck were you? who have you been texting? all that sort of shit like if he wants to go out or any guy that I'm with if they want to go out with some girls or some guys it doesn't matter who it is I don't care okay have a good night I wanna go out with my friends sort of thing that's the sort of person that I am so er it's been hard lately
-
---- Loading words for this example (pos): fuck, shit, guy
+--- Loading words for this example (pos): huge, thinking, massive
 
 
-===== EXCERPT: f3_pos_008.txt (text ID t001077) =====
-Text ID: t001077
-Group: human
-Model: human
-File:   corpus/05_human/t001077_human.txt
+===== EXCERPT: f3_pos_003.txt (text ID t002160) =====
+Text ID: t002160
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000455_gpt.txt
 
 Score (f3_pos): 3
-Loading words (f3_pos), N=3: fuck, shit, gonna
-and so did you we both lived through it together and let's face it I didn't fucking help myself when I put that Facebook status like I was just as much to blame as they were when I put that and yet I apologised and yet it went too far after that but before that as soon as I put that status I were inviting this shit I were inviting the fact that I didn't like them and they didn't like me we made it known by me putting that status you know? and it doesn't matter what you said or it didn't say they were always gonna do what they were gonna do whether I put that status or not or whether you said something or if I said something
+Loading words (f3_pos), N=3: thinking, massive, manage
+So I finally got to go to this place I’d wanted to go to all summer, right, and I went with my boyfriend. We had a really nice time, just us, and I was actually quite chuffed I’d managed to fit it in before everything got busy again. Then my mum comes back, hears about it, and immediately starts having a go that we should’ve waited so it could be a “family outing.”  
 
---- Loading words for this example (pos): fuck, shit, gonna
+She acted like I’d done something properly wrong, like I’d personally offended her by doing something as a couple without her there. It wasn’t even anything massive, just a day out, but she turned it into this big drama about being left out and how we’re supposed to do things together.  
 
+And I’m just sat there thinking, what does she actually expect? That every single thing I do with my boyfriend has to involve her somehow? Does she want an invite to absolutely everything, even the private, intimate bits of our relationship? It’s so ridiculous that I end up being sarcastic in my head, like, shall I pencil her in for when we’re in bed as well?
 
-===== EXCERPT: f3_pos_009.txt (text ID t001351) =====
-Text ID: t001351
-Group: human
-Model: human
-File:   corpus/05_human/t001351_human.txt
-
-Score (f3_pos): 3
-Loading words (f3_pos), N=3: god, gonna, minute
-oh my god when we were in I didn't see many couples I was so happy there was a lot of groups of friends in the erm nando's I went to I was so happy but then we went like it was early so we was like let's just go cinema and just watch something we are not watching Fifty Shades my sister's seventeen anyway she can't watch it so we was gonna watch erm the Kingsman right? cos you said it was good and my sister said her friend said it was good too so we are on our way there and had clocked that the movie was starting in was six minutes we was twenty minutes away
-
---- Loading words for this example (pos): god, gonna, minute
+--- Loading words for this example (pos): thinking, massive, manage
 
 
-===== EXCERPT: f3_pos_010.txt (text ID t000894) =====
-Text ID: t000894
-Group: human
-Model: human
-File:   corpus/05_human/t000894_human.txt
+===== EXCERPT: f3_pos_004.txt (text ID t002474) =====
+Text ID: t002474
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000769_gpt.txt
 
 Score (f3_pos): 3
-Loading words (f3_pos), N=3: guy, gonna, minute
-so he said oh by the end of the week you might manage that so five minutes after he'd gone and his mate decided I've had enough of this little baby slope and they're going to go on this it's the gi the girlfriend of or it's his wife now but of the other guy sshe said oh yeah I'll have a go and I'm like don't be stupid I'm staying here I'm just getting the hang of moving I'm getting hold of that rope I'm not gonna go and s oh right right
+Loading words (f3_pos), N=3: huge, massive, manage
+it was quite entertaining really, they were absolutely mad. there’s this picture I remember, of one of them in this massive room where the whole back wall was just covered in these huge square storage units. they filled the whole space, stacked up to like ten or twelve feet high, all meant for the kids to stick their clothes and belongings in. they had this big rule that kids weren’t allowed to climb them at all. and then at one point, they came back in and there was this one child just sitting alone right on the top, and nobody had any idea how he’d managed to get up there.
 
---- Loading words for this example (pos): guy, gonna, minute
+--- Loading words for this example (pos): huge, massive, manage
+
+
+===== EXCERPT: f3_pos_005.txt (text ID t002722) =====
+Text ID: t002722
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001017_gpt.txt
+
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: thinking, manage
+so yeah, this is the message he sent, right. He says he went next door, they offered him this legal herbal weed thing and he thought, oh yeah, that’s fine, it’s legal. Smoked it, and then suddenly he’s having this really horrible trip, can’t stand up, can’t talk, everyone just sitting around watching him fall to pieces. He’s describing how he’s lying there thinking he’s dying or something, totally out of it, and no one’s actually helping, they’re just sort of staring at him and chatting.
+
+Then eventually he manages to get himself home, staggers back, and as soon as he gets in he’s sick everywhere, proper vomiting, and then he texts saying how sorry he is and how angry he is with himself for being so stupid and taking it in the first place. Going on about how awful it was and how he never wants to touch anything like that again.
+
+And I’m reading this thinking, well, you could’ve texted me while this was actually happening, you know? Instead of waiting till after you’ve been sick and had your drama. I’m not your girlfriend or your wife, sitting around making you dinner and waiting for you to come back from getting off your face. It really annoys me being treated like that.
+
+--- Loading words for this example (pos): thinking, manage
+
+
+===== EXCERPT: f3_pos_006.txt (text ID t002358) =====
+Text ID: t002358
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000653_gpt.txt
+
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: huge, massive
+yeah everyone properly got into that town in the end, it wasn’t just me and that one keen guy. People started putting up these massive houses all the way along this main street, and down the middle you had all the shared buildings – the forge, the brewery, all the communal stuff – so it felt like a proper little place rather than just random blocks everywhere.
+
+then on the first of December we put up this huge Christmas tree in the middle, but we didn’t decorate it at all, just left it bare. and that actually worked really well, because everyone who logged on would add something – chuck a few decorations on, leave presents underneath it for other people – so it slowly turned into this really nice, collaborative thing.
+
+just off to the side there was this castle someone had built, and the bloke who owned it kept trying to stir up player versus player fights, but nobody was really biting, it never really took off the way he wanted. after a while, though, you did start to see a bit of vandalism creeping in again, and some stealing, which kind of spoiled the whole communal vibe we’d built up.
+
+--- Loading words for this example (pos): huge, massive
+
+
+===== EXCERPT: f3_pos_007.txt (text ID t001892) =====
+Text ID: t001892
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000187_gpt.txt
+
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: huge, massive
+like when you think about it, if I had a massive fry-up as my main meal I'd feel like that was loads, but then you look at her and it's insane how much she can put away. she’ll eat these huge portions and just never seems to get any bigger. she’s got like totally normal-sized thighs but she’s absolutely tiny on top, it just doesn’t add up. I’m honestly so jealous, I can’t get my head round how she can eat that much and not put on any weight at all.
+
+--- Loading words for this example (pos): huge, massive
+
+
+===== EXCERPT: f3_pos_008.txt (text ID t002682) =====
+Text ID: t002682
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000977_gpt.txt
+
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: huge, massive
+yeah it's not like it's heavy or anything, it's just this massive box, which makes it such a hassle to deal with. It kind of reminds me of our defence, actually. We've got these two big lads at the back, both of them huge, like one of them's about six foot two and looks properly middle-aged, and they're just so slow and rubbish. Then you've got this young wing back who's really skinny and physically weak, but somehow he's miles better than them. He's not strong at all, but he can actually play, which just shows how bad the other two are. For defenders, they're just nowhere near the level they should be.
+
+--- Loading words for this example (pos): huge, massive
+
+
+===== EXCERPT: f3_pos_009.txt (text ID t002291) =====
+Text ID: t002291
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000586_gpt.txt
+
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: huge, manage
+So in loads of those Latin American countries – like Venezuela, Colombia, Ecuador, Peru, Bolivia – they've all basically got three zones. You’ve got this really dry coastal desert, then the big mountain range, and then on the other side you’ve got proper jungle. It’s mad to think the Incas managed to build and organise an empire across all of that, over such a huge area and such different landscapes. One of the coolest things from that time are the Nazca Lines – have you heard of them?
+
+--- Loading words for this example (pos): huge, manage
+
+
+===== EXCERPT: f3_pos_010.txt (text ID t002362) =====
+Text ID: t002362
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000657_gpt.txt
+
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: massive, manage
+yeah so when I did go back on the server after that break I’d had this idea in my head for ages about doing this absolutely massive tower, like really ambitious, just shooting up into the sky. But then I started thinking it’d be a bit boring if it was just me doing my own big solo thing again, so instead I started setting these little challenges for people, smaller projects that everyone could get involved in.
+
+we were working on one of those and we’d got quite a lot of the structure done when this bloke who reckons he’s an expert with TNT decided he was going to “help” with the digging. he blew out the walls a bit too enthusiastically and basically managed to flood the whole area we were working in. water everywhere, completely ruined what we’d already built.
+
+so after that disaster I just said, look, can we go into creative mode for this bit so we can fix it properly and carry on. they switched creative on and we repaired all the damage and finished what we were doing. and then, because they kind of forgot to turn creative off for me afterwards, I’ve just kept using it since.
+
+with creative mode still on I started putting together these little puzzle challenges, like self‑contained things people can try and solve. I’ve been taking screenshots and videos and sticking them up on Facebook, showing people what I’ve built and inviting them to come on and have a go. it’s turned into this way of using Minecraft less as just a game I play on my own and more as a way of bringing people together, getting friends involved in these creative projects and seeing what they come up with as well.
+
+--- Loading words for this example (pos): massive, manage

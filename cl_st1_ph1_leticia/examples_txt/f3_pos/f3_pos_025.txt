@@ -1,8 +1,8 @@
-Text ID: t004718
+Text ID: t004140
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001308_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000730_gpt.txt
 
 Score (f3_pos): 2
-Loading words (f3_pos), N=2: shit, guy
-so while we were in Mexico he was like extremely stressed the whole time because of this guy he used to work with who was supposed to be his friend but basically turned out to be totally useless and just a massive problem in the business and then he fired him but after he got fired he kept coming into work anyway and acting like he still had authority and giving people instructions that everyone just ignored and doing all this stupid shit around the place and now he’s trying to sue him for part of the business or to be bought out even though he was already considered dead weight and they’d been trying to get rid of him for ages
+Loading words (f3_pos), N=2: huge, massive
+I remember walking up those stairs absolutely terrified, just bracing for this massive punch from that huge jock I’d just threatened. I was fully expecting him to come after me, like any second I’d feel a fist in the back of my head. And then… nothing. He just didn’t follow, didn’t attack, nothing happened at all. Next thing I know, I’m outside, and my friend’s completely losing it at this hot dog lady, screaming at her, and we’re just kind of on this ridiculous little rampage together.

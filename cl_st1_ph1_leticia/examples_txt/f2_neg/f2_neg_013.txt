@@ -1,12 +1,8 @@
-Text ID: t002358
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000653_gpt.txt
+Text ID: t000470
+Group: human
+Model: human
+File:   corpus/05_human/t000470_human.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: huge, massive
-yeah everyone properly got into that town in the end, it wasn’t just me and that one keen guy. People started putting up these massive houses all the way along this main street, and down the middle you had all the shared buildings – the forge, the brewery, all the communal stuff – so it felt like a proper little place rather than just random blocks everywhere.
-
-then on the first of December we put up this huge Christmas tree in the middle, but we didn’t decorate it at all, just left it bare. and that actually worked really well, because everyone who logged on would add something – chuck a few decorations on, leave presents underneath it for other people – so it slowly turned into this really nice, collaborative thing.
-
-just off to the side there was this castle someone had built, and the bloke who owned it kept trying to stir up player versus player fights, but nobody was really biting, it never really took off the way he wanted. after a while, though, you did start to see a bit of vandalism creeping in again, and some stealing, which kind of spoiled the whole communal vibe we’d built up.
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: gonna
+and they have a was telling me they have an office within the hospital so tomorrow when I'm there I'm gonna go straight to Barr Ellison and do it through them so it's just ridiculous that somebody that you don't know that you know just didn't wasn't thinking properly can have so much of an impact and was sitting here thinking of you know when you have a problem you always think there is a way round his there is a way I've just got to find it and I was sat thinking there isn't one there's actually nothing I can do

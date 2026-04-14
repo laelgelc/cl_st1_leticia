@@ -1,8 +1,12 @@
-Text ID: t001356
-Group: human
-Model: human
-File:   corpus/05_human/t001356_human.txt
+Text ID: t001730
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000025_gpt.txt
 
 Score (f6_neg): -2
-Loading words (f6_neg), N=2: pound, able
-a good good attitude but it just doesn't help in the long run like she wouldn't have any money in her account like I like to have a hundred pounds in her account for when she needs money urgently for an audition or reeds or something turns up and otherwise I have to be available at precisely that moment lots of things have deadlines you know you've got to be able to do it sometimes and she wouldn't have it her account and of course we just ended up with me having to do three very complicated transfers against the clock and I'm thinking you know if you'd only had the bloody money
+Loading words (f6_neg), N=2: anyone, everyone
+yeah so the cottage itself is working out really pricey, it’s like a hundred quid plus each just for the three nights, and that’s before you even think about food or petrol or anything, and people are having to take time off work as well. For that amount of money you sort of expect there to be a bit more thought put into what we’re actually going to do while we’re there, but there hasn’t really been much planning around keeping everyone entertained.
+
+They did float this idea of going quad biking, which sounded fun, but that was going to be another fifty quid each on top, and loads of people straightaway were like, “no, that’s too much,” so that’s been dropped now. Since then, as people have tried to suggest other things we could do that are maybe cheaper or just a bit more organised, it’s started to get a bit tense.
+
+The girls who originally organised it are getting quite tetchy about it, because I think they feel like people are stepping on their toes and sort of taking over their plans. But it’s not really that – it’s more that when someone comes up with a decent idea, everyone else in the group gets behind it, and then it looks like the support is shifting towards that instead of what was first suggested. So yeah, it’s all a bit awkward at the moment, because you’ve got this expensive weekend, not much properly sorted to do, and then a bit of a power struggle going on whenever anyone tries to help by offering new ideas.

@@ -1,8 +1,8 @@
-Text ID: t003260
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001555_gpt.txt
+Text ID: t000483
+Group: human
+Model: human
+File:   corpus/05_human/t000483_human.txt
 
 Score (f5_neg): -2
-Loading words (f5_neg), N=2: single, manage
-yeah so the theory test itself was just the usual stuff, like all the normal questions about road signs and speed limits and that, nothing too surprising there. The bit that really got me was the hazard perception section. You have to watch this video and then click within about a second when a hazard actually appears. And you’re only marked on two hazards in each clip. If you click too late you lose all the points. I failed that bit in every single practice I did, but somehow I managed to pass it in the real test.
+Loading words (f5_neg), N=2: fuck, somebody
+that what that's exactly what said she said you paid your NHS you paid your national insurance if you want it doing it's your choice you paid for it she said so stick to your guns cos she didn't stick to her guns when she went in for the thyroid and they fucked her over and she had to go to hospital and she we like if there's one thing I've learnt in the past six months is that if you think you're entitled to it fight for it cos if you're not at the very end then somebody who's qualified like a surgeon will say no but if you don't fight and fight and fight you'll never know just do it

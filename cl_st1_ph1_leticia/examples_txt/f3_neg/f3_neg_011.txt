@@ -1,8 +1,8 @@
-Text ID: t001959
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000254_gpt.txt
+Text ID: t000524
+Group: human
+Model: human
+File:   corpus/05_human/t000524_human.txt
 
 Score (f3_neg): -2
-Loading words (f3_neg), N=2: seem, pick
-I did have a proper little chat with her last night when I picked her up. I told her straight I was worried, because she’d been having a go at people for no reason and upsetting people, and then getting upset herself really quickly. I said she didn’t seem to be thinking straight, and that she wasn’t enjoying sixth form because of the workload. But I also made sure she knew she’s doing really well, and that what matters to me is her being happy, that’s what I’m concerned about.
+Loading words (f3_neg), N=2: wanna, okay
+okay so from there we will just er today what we wanna try and get out of our session is to er provide a planning platform do some brainstorming about ideas and to try and get something out of 's journey to Singapore and how we can tie that into coming to Indonesia sh because she might be able to experience a little bit erm of some of that connection as well when she's erm when she's around but that's more about having a cool holiday and grooving and going diving and stuff like that so

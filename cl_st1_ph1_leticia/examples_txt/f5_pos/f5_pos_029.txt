@@ -1,8 +1,8 @@
-Text ID: t004097
+Text ID: t004733
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000687_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001323_gpt.txt
 
-Score (f5_pos): 1
-Loading words (f5_pos), N=1: reason
-People always say to me, “Oh, but he’s so nice to you, he’s so respectful with you,” like it’s some big mystery. And I’m like, no, the only reason he’s ever been like that with me is because he’s never wanted to have sex with me, he’s never tried anything, we’ve never been involved like that at all. That’s literally the difference. If he’s ever actually fancied someone, he just turns into a total dick with them. It’s like as soon as there’s any sexual or romantic interest, that’s when he starts treating girls badly.
+Score (f5_pos): 2
+Loading words (f5_pos), N=2: single, pick
+Right, so it’s a word game you play in teams, and you lay out twenty‑five noun cards in a five‑by‑five grid. Each of those cards secretly belongs to either one team, the other team, is neutral, or is one of the special ones that can immediately end the game if someone picks it. One person on each team is the clue‑giver. They can see which cards are theirs, which are the other team’s, which are neutral, and which are dangerous. Their job is to say a single word that links several of their own team’s words at once – like if the target words were “tennis,” “horse,” and “bath,” you’d try to find one clue that connects all three – and then their teammates have to guess those specific cards from the grid.

@@ -1,8 +1,8 @@
-Text ID: t003160
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001455_gpt.txt
+Text ID: t001461
+Group: human
+Model: human
+File:   corpus/05_human/t001461_human.txt
 
-Score (f5_pos): 1
-Loading words (f5_pos), N=1: reason
-it can be for any reason as well, that’s the thing, it might not even be your fault. the crane could break down, or there could be some health and safety issue on site and everything stops, but the wagon’s still sat there and they’ll try and whack all that demurrage on you. and a lot of the transport companies will try it on, say they’ve been there ten hours when they haven’t. but if you’ve got your own person on site, actually clocking it, you can turn round and say no, we’re only paying for two and a half.
+Score (f5_pos): 2
+Loading words (f5_pos), N=2: awful, pick
+well he was just hoping he would just be able to evade evade evade get to Pakistan and then sort of just you know hide away or go home and hide or whatever I don't know what he expected to happen but you know the sort of months after he had vanished you know the army and all the people based in all the soldiers based in that area had to drop whatever missions they were doing to search for this one man who didn't want to be found by the American army or by the or by the Taliban and you know this is it is the same woman from the series from the previous one who is the sort of journalist and she's listening to recorded calls between the soldier and er another journalist who spoke to him at the time and they became quite close and they spoke on the phone all the time erm but she is also speaking to the Taliban via an interpreter and she is like that was just me on the phone to the Taliban so you know so at first I really didn't know if I sort of liked it because it is so different to anything I'm not really sure what the crime is or what she's investigating or trying to work out because it all seems pretty clear he left because of this because he didn't want to do it anymore and he was picked up by these people er and it was awful

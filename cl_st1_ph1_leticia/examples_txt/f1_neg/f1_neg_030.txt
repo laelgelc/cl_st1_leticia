@@ -1,8 +1,8 @@
-Text ID: t005097
+Text ID: t004594
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001687_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001184_gpt.txt
 
-Score (f1_neg): -4
-Loading words (f1_neg), N=4: least, nothing, try, everything
-After my bank account was hacked, I had a lot of trouble for a while, it was just ongoing hassle. The only good thing was the way the bank handled it. They were actually monitoring everything really carefully and blocking payments and standing orders that weren’t legitimate. Somehow they managed to work out exactly which transactions to stop, so nothing actually went through that shouldn’t have. Then I started getting all these letters, several every week, from the bank. Each one was asking for my signature to authorise a standing order I’d never even tried to set up. It was all a bit unsettling, but at least they kept checking before letting anything happen.
+Score (f1_neg): 1
+Loading words (f1_neg), N=1: f2 score: 0
+Nan’s basically running out of money to pay for the care home, and I’m wondering if that means it’ll end up falling to the next level of family to cover it. The staff there reckon she’s strong enough to make it to a hundred and five, but she just hasn’t got the funds to stay there that long on her own. I’ve been trying to work out what it costs: it’s around eight or nine hundred quid a week, something like that, and she does get some sort of grant towards it, but even so it’s a huge amount every year.

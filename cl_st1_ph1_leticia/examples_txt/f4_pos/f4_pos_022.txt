@@ -1,12 +1,28 @@
-Text ID: t002359
-Group: profiled_gpt
+Text ID: t005029
+Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000654_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001619_gpt.txt
 
-Score (f4_pos): 3
-Loading words (f4_pos), N=3: build, change, set
-so yeah after everything got burnt down this bloke actually sent this big statement to the Gaming Society, like this manifesto thing, saying that games shouldn’t be about friendship and co‑operation, they should be about competition and conflict and all that, and that what we’d built was somehow wrong because people were just being nice to each other. And that really put me off, to be honest. I just kind of lost the heart for it after that and stopped playing Minecraft for a while, because you spend all that time building something communal and then someone comes along and says you’re doing gaming wrong and proves it by wrecking everything.
+Score (f4_pos): 5
+Loading words (f4_pos), N=5: push, feel, clear, expect, make
+…so this is from Reza Aslan and Hasan Minhaj, it’s a letter they wrote to American Muslims after the Supreme Court legalised same‑sex marriage in the States.
 
-what made it worse was that it all came out of him being annoyed that nobody wanted to do player versus player with him. He’d built his castle and was sat there waiting for battles that never happened, and instead of just accepting that people were more into building and co‑operating he escalated it into this big destructive performance. He even used this lava trap I’d set up – which was meant as a sort of defensive or playful thing – and turned it into a way to burn the whole place down.
+They start off by talking about how a lot of Muslims in America actually supported marriage equality, even if they personally believe homosexuality is a sin. They make this distinction between what you think is morally right in your religion and what you think the law in a secular country should be. So they’re basically saying: look, you can think something is haram, but still think the state shouldn’t discriminate against people who do it.
 
-later on I ended up giving a talk to my class about the whole incident, using it as an example. they were really interested in how he’d reacted, and especially in how, when I changed my approach completely on the next map, it made him just lose it even more. that contrast – me going one way, him going the opposite way and just freaking out – was something they found really intriguing.
+Then they go into how Muslims themselves are a marginalised minority in America. They talk about Islamophobia, about Muslims being demonised in the media, treated with suspicion, and how people are always questioning whether Muslims really belong there. They remind Muslims that they’re constantly asking for understanding and empathy from wider society – asking people not to judge all Muslims because of extremists, asking people to defend their civil liberties, to stand up against surveillance, hate crimes, all of that.
+
+From there they say: if we expect other people to defend *our* rights, we can’t then turn around and say “oh but not *their* rights” when it comes to LGBT people. They call that out as hypocrisy – like, you can’t demand religious freedom and protection from discrimination for Muslims, and then support taking away civil rights from gay people because you don’t like what they do. They’re very clear that civil rights aren’t something you only extend to people you agree with or people who share your theology.
+
+They also talk about the money and energy some Muslims have put into opposing same‑sex marriage – campaigning, lobbying, trying to get laws changed to restrict other people’s lives. And they contrast that with the way Muslims complain when laws or policies target them. So if we don’t want people voting on *our* marriages, or our mosques, or our right to dress how we want, why would we be okay with people voting on whether two men or two women can get married?
+
+Another thing they bring up is coalition‑building. They say Muslims in America are a small minority, so if they want to protect their own civil rights, they need allies. And the most natural allies are other marginalised groups – including LGBT communities – who also know what it feels like to be vilified and excluded. So if Muslims stand with LGBT people now, even when it’s uncomfortable, those communities are more likely to stand with Muslims when Islamophobia flares up, or when there’s another attempt to ban hijabs or spy on mosques. It’s very practical as well as moral.
+
+They make a point about empathy too: that it’s not real empathy if it only applies to people who live exactly like you. They’re saying: we know what it’s like to be told our families are “wrong”, our way of loving God is “wrong”, our presence in the country is “wrong”. LGBT people are told similar things all the time. So even if you believe their relationships are sinful, you should still recognise that feeling of being pushed to the margins and fight against it.
+
+They’re careful to say they’re not telling Muslims to change their theology or suddenly declare homosexuality halal. The letter is more about behaviour in the public sphere than private belief. You can keep your belief that something is a sin, they say, but you shouldn’t support laws that deny people basic civil rights because of that. In other words: your religious beliefs shouldn’t be turned into weapons against another minority.
+
+They also address this idea that supporting civil marriage equality is the same as “glorifying” homosexuality. They argue it isn’t: it’s just accepting that in a pluralistic society, the government doesn’t enforce any one group’s religious rules on everyone else. You can teach your kids what you believe, you can practise your faith, but you don’t get to use the state to impose your rules on people who don’t share your religion.
+
+Towards the end they come back to this central message: Muslims know what oppression and marginalisation feel like in America, so they should be the *first* to stand up when they see another vulnerable group being targeted, even if they disagree with that group’s lifestyle or beliefs. They tie it explicitly to Islamic values – things like justice, standing with the oppressed, and defending people from zulm (injustice) regardless of who they are.
+
+And they finish on that point: that defending the civil rights of LGBT people – not because you suddenly think everything they do is religiously fine, but because you believe no one should be treated as a second‑class citizen – is both the right thing to do *and* the Muslim thing to do. They’re basically saying: if we really take our own experience of marginalisation seriously, and if we take our deen’s emphasis on justice seriously, then we can’t pick and choose whose dignity we defend.

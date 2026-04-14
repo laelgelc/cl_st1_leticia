@@ -1,2 +1,2 @@
-variables loading on this pole = 6
-pound (-.62), (fact (-.52)), (least (-.39)), (month (-.38)), able (-.31), (clear (-.31))
+variables loading on this pole = 5
+anyone (-.73), (massive (-.41)), guy (-.40), everyone (-.33), (shit (-.30))

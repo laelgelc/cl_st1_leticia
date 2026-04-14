@@ -33,167 +33,141 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac5	SD fac5
-group	human	1705	0.03695015	0.38507372
-group	profiled_gpt	1705	-0.12609971	0.39797652
-group	unprofiled_gpt	1705	-0.09912023	0.40409340
+group	human	1705	-0.12199413	0.52665189
+group	profiled_gpt	1705	0.05689150	0.50785007
+group	unprofiled_gpt	1705	0.05630499	0.50034889
 
 === FACTOR LOADINGS (f5_neg) ===
-variables loading on this pole = 8
-single (-.84), thinking (-.56), manage (-.45), (awful (-.40)), (become (-.34)), full (-.34), (horrible (-.34)), (erm (-.32))
+variables loading on this pole = 4
+fuck (-.74), set (-.52), somebody (-.51), great (-.40)
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f5_neg_001.txt (text ID t002160) =====
-Text ID: t002160
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000455_gpt.txt
+===== EXCERPT: f5_neg_001.txt (text ID t000413) =====
+Text ID: t000413
+Group: human
+Model: human
+File:   corpus/05_human/t000413_human.txt
 
 Score (f5_neg): -3
-Loading words (f5_neg), N=3: single, thinking, manage
-So I finally got to go to this place I’d wanted to go to all summer, right, and I went with my boyfriend. We had a really nice time, just us, and I was actually quite chuffed I’d managed to fit it in before everything got busy again. Then my mum comes back, hears about it, and immediately starts having a go that we should’ve waited so it could be a “family outing.”  
+Loading words (f5_neg), N=3: fuck, set, somebody
+so students aren't gonna be interested in you because you've already before you've even set foot in the lecture theatre you've already really made yourself non-accessible you may be brilliant in your mind but your mind isn't working effectively because it isn't actually flowing outwards it's just keeping itself within and students will go on Facebook but I tell you I've seen the difference when somebody fucking says something in a really interesting way you know mobiles get put away laptops get put down and people go I've actually seen that happen which is I've also seen the reverse of course it's like boring just whatever but it's not like students go to university to be bored they actually go cos they think they're gonna be excited
 
-She acted like I’d done something properly wrong, like I’d personally offended her by doing something as a couple without her there. It wasn’t even anything massive, just a day out, but she turned it into this big drama about being left out and how we’re supposed to do things together.  
-
-And I’m just sat there thinking, what does she actually expect? That every single thing I do with my boyfriend has to involve her somehow? Does she want an invite to absolutely everything, even the private, intimate bits of our relationship? It’s so ridiculous that I end up being sarcastic in my head, like, shall I pencil her in for when we’re in bed as well?
-
---- Loading words for this example (neg): single, thinking, manage
+--- Loading words for this example (neg): fuck, set, somebody
 
 
-===== EXCERPT: f5_neg_002.txt (text ID t001765) =====
-Text ID: t001765
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000060_gpt.txt
+===== EXCERPT: f5_neg_002.txt (text ID t001501) =====
+Text ID: t001501
+Group: human
+Model: human
+File:   corpus/05_human/t001501_human.txt
 
-Score (f5_neg): -2
-Loading words (f5_neg), N=2: manage, full
-So this girl I was at school with got in touch on Facebook, saying she had a bit of a problem. Her fiancé’s mum down in Essex is absolutely set on making the cakes for their wedding herself – she wants to do a fruit cake, a chocolate biscuit cake and a sponge. Lovely idea, but of course she can’t really be traipsing up here with fully stacked cakes days in advance, and they still need something that looks like a proper tiered wedding cake on the day.
+Score (f5_neg): -3
+Loading words (f5_neg), N=3: set, somebody, great
+and then I went to erm I suppose when they were about six and seven so within the sort of erm if you like the the sort of common threads of the job within universities erm a careers adviser would be allocated to certain disciplines so they would have effectively a kind of portfolio of academic departments so erm for example at we had somebody who erm had been a biochemistry academic so he covered all science and engineering disciplines erm and within that element of the role erm you would erm develop good relationships with the head of department and with usually there would be a particular member of academic staff who would be responsible for things like erm erm supporting the student managing more sort of personal tutoring that goes on through which you would be able to get your services sort of advertised erm in some departments this is where the greatest variation is erm in some universities and in some departments within certain universities but not others there might be a careers module so some careers advisers would also be lecturers erm and some of ours did that in certain departments so in managements and in I can't remember the other department but that would be a taught module that they would mark and so on so that's a quite a different set of responsibilities really because effectively you're having to design a teaching package and so and the funding as a manager gets quite erm a lot more complicated if you're getting internal money from departments for buying out certain careers adviser time erm but the what careers advisers in all universities do would be to see students on an individual basis and to see and to see students on in a group basis so whereas you might if you've got erm a commitment a teaching commitment within the department you'd be slotted into the timetable we also ran erm a programme of erm group work sessions which students could book into erm completely independent of their department so we would cover erm a whole variety of things and that would be we'd we'd sort of debate what was necessary for the forthcoming year and look at movements in the market and what we might need to ensure they know about and erm look at erm how successful they'd been in previous year as to whether we repeated them but you'd always get the sort of four or five core bread and butter sort of topics which are about marketing yourself finding out about employers erm performing at interview passing selection tests erm networking creative job hunting all those sort of bout five or six sort of core eh sessions we would we would run anyway but there might be other things which we'd top it up with depending on perhaps you know if the market had slumped in one particular area or something we might run sessions on erm erm you know alternatives to or
 
-I said to her, look, the only way this is going to work is if his mum does the fruit cake well in advance and gets that to me early so I can ice it properly. Then she can bring the chocolate biscuit and the sponge up the day before the wedding. I’ll ice those as separate cutting cakes, and we’ll use polystyrene tiers on top to build up the display so it still looks like a full stacked cake.
-
-I told her that’s really the only practical way to manage the timing and the stacking. She came back saying I was amazing and she was just so relieved it was actually possible.
-
---- Loading words for this example (neg): manage, full
+--- Loading words for this example (neg): set, somebody, great
 
 
-===== EXCERPT: f5_neg_003.txt (text ID t002099) =====
-Text ID: t002099
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000394_gpt.txt
+===== EXCERPT: f5_neg_003.txt (text ID t000417) =====
+Text ID: t000417
+Group: human
+Model: human
+File:   corpus/05_human/t000417_human.txt
 
-Score (f5_neg): -2
-Loading words (f5_neg), N=2: single, thinking
-whether it’s “me” or “us”, I don’t think there’s any point trying to pin blame on either of us. You haven’t done anything wrong, and I really don’t want you sitting there feeling guilty or beating yourself up about it, because that’s just not what this is about.
+Score (f5_neg): -3
+Loading words (f5_neg), N=3: fuck, somebody, great
+but I've often found I said to my first year students whether they were mature students or first year students put your hand up when you're really genuinely confused okay or genuinely excited anything that's going on within you in terms of like you feel something put your hand up in a right kind of breath of you know pause and just say but what are the mismisconceptions about this? that gets people thinking even if you don't know fuck all and if you know shitloads because everyone's got a contribution to make I think the misconception about human geography is about this I think the misconception is about somebody's sitting there going what is a misconception? but they'll learn because you'll be having a three four five way dialogue so they'll go the misconception is that I've actually got this wrong I was tell you about that earlier but I think that's a really good way of rather than saying tell me what I want to hear you're actually asking the lecturer to do the reverse of that is like tell me what I don't want to hear tell me something that I don't actually understand and I think for you that would be great because you need challenging you need to not be bored with the fact that a lot of people you're studying with are gonna know nothing about this
 
-What’s happened between us hasn’t been about you doing some specific bad thing, or me doing some specific bad thing. It’s the way our characters have interacted over the last two years, the way we fit – or don’t fit – together. That’s what’s led us here, not some single action you should feel ashamed of or held responsible for.
-
-I know you might not see it that way, but from my side I’ve been absolutely eaten up by guilt about ending it. I’ve gone over and over it in my head, feeling awful about hurting you and about not being able to make it work. So if anyone’s been drowning in guilt, it’s me.
-
-And that’s exactly why I’m saying this: the whole guilt thing, for both of us, it just doesn’t help. It keeps us stuck. If you’re going to move on – and if I’m going to move on – we both have to drop this idea that someone has to be “at fault”. There doesn’t have to be a villain here. It’s just the way things have turned out between two people over time, and the only way either of us gets any peace is by letting go of the guilt and that way of thinking.
-
---- Loading words for this example (neg): single, thinking
+--- Loading words for this example (neg): fuck, somebody, great
 
 
-===== EXCERPT: f5_neg_004.txt (text ID t002162) =====
-Text ID: t002162
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000457_gpt.txt
+===== EXCERPT: f5_neg_004.txt (text ID t000816) =====
+Text ID: t000816
+Group: human
+Model: human
+File:   corpus/05_human/t000816_human.txt
 
 Score (f5_neg): -2
-Loading words (f5_neg), N=2: thinking, full
-so then it gets to like eleven o’clock at night, and I’ve got to be up at four for this stupid early flight, and she suddenly starts going on about how she “hasn’t seen me” and we’ve “not spent any time together”. And I’m just sat there thinking, are you actually kidding me? You’ve been out all day. I literally turned down plans with other people so I could have that last proper day with her, like I’d told everyone, “don’t come over, it’s my last family day at home”.
+Loading words (f5_neg), N=2: fuck, great
+it was good yeah it was really nice with like some tatties and eh like carrot and swede mash or something and he was oh yeah that's two pounds no and I know knew for one it should be like three ninety-nine and I was like oh that's really great and he was like oh I didn't see your veg on your way out thanks it's so bad like obviously the feminist in me is like oh you should you know shouldn't allow it you shouldn't allow it and then I'm like well I'm fucking poor
 
-So I said that to her, I was like, look, I chose not to see my friends so we could spend the day together, and you chose to be out doing your own thing. And then she starts crying, full on tears, and somehow I’m the one who’s meant to feel bad about it. I’m exhausted, I’ve got to pack, and now I’m being made to feel guilty for something that wasn’t even my fault.
-
-And I did say to her, like, it was her decision to spend three weeks in England and then only come back two days before I had to leave. That wasn’t on me. If she really wanted all this “mother–daughter time” she keeps going on about, she could’ve come back earlier or not gone for so long. It just felt so unfair that she dumped all that emotion on me right before I left, when I’d actually tried to make the effort and she hadn’t.
-
---- Loading words for this example (neg): thinking, full
+--- Loading words for this example (neg): fuck, great
 
 
-===== EXCERPT: f5_neg_005.txt (text ID t001725) =====
-Text ID: t001725
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000020_gpt.txt
+===== EXCERPT: f5_neg_005.txt (text ID t000005) =====
+Text ID: t000005
+Group: human
+Model: human
+File:   corpus/05_human/t000005_human.txt
 
 Score (f5_neg): -2
-Loading words (f5_neg), N=2: manage, full
-So in this dream I was in this sort of Charlie’s Angels set‑up, and my boss from work was Charlie. We were walking down the street together, and as we went along we were kind of collecting these girls who had bags with them. They all ended up coming with us on this coach trip to New York. 
+Loading words (f5_neg), N=2: somebody, great
+yes yeah well you know ththese bods are too actually and in fact they even organised the they found something something up there and and ththey organised a biopsy for it so I went up to the dental hospital and somebody did the biopsy on that erm and again if that had happened through the you know the the dentist that would have cost a heck of a lot that was quite funny because what happened with that I mean it turned out to be nothing the biopsy was absolutely fine but it my whole cheek swelled up er so that I had a completely uneven face you know this is was normal and this was like a great big balloon and as it coincided with the time when I was completely bald you know that was the only time when I thought I cannot
 
-On the coach my boss was wondering whether to tell everyone “the plan”, and I was arguing that we should tell them. Then suddenly it sort of jumped, and I found myself getting off this bus with really high steps. Somehow I’d managed to balance my plastic bowl full of gravy on top of this really high wall. 
-
-When I got off I suddenly thought, oh no, my gravy’s up there on the wall, what am I going to do about the gravy? And that was the big worry in the dream.
-
---- Loading words for this example (neg): manage, full
+--- Loading words for this example (neg): somebody, great
 
 
-===== EXCERPT: f5_neg_006.txt (text ID t002802) =====
-Text ID: t002802
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001097_gpt.txt
+===== EXCERPT: f5_neg_006.txt (text ID t000043) =====
+Text ID: t000043
+Group: human
+Model: human
+File:   corpus/05_human/t000043_human.txt
 
 Score (f5_neg): -2
-Loading words (f5_neg), N=2: single, manage
-Only three of us can really read music properly, but we still have a lot of fun with it. The others manage with their colour‑marked notes, but it gets quite tricky once you’ve got loads of bells going, up to twelve at a time. All the notes are written in one straight line on a single clef, so when everyone’s ringing away it’s hard to pick out which note is yours. With that many bells sounding together, and everything crowded onto one line, finding your own bit can be a real challenge.
+Loading words (f5_neg), N=2: fuck, somebody
+I turned a corner like one of there's definitely like there was definitely a like axel problems cos like every time I turned a corner it made flooding noises so like I knew it was dodgy as fuck anyway erm but yeah he managed to get he managed to get me like nine hundred pound for that car so I was dead happy with that and then he went off and then like they obviously had somebody else who actually like closes it all closes the deal and like sorts all the payment and all that kind of
 
---- Loading words for this example (neg): single, manage
-
-
-===== EXCERPT: f5_neg_007.txt (text ID t003153) =====
-Text ID: t003153
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001448_gpt.txt
-
-Score (f5_neg): -2
-Loading words (f5_neg), N=2: thinking, full
-so this text comes through from EE saying, “your friends and family forty percent plan charge discount has been removed,” and I’m thinking, what’s going on here then? And then straight after, there’s another bit saying it’s been re‑applied. Anyway, I get this other notification saying my bill’s ready, which I don’t usually bother with online, but I thought, I’ll log in and have a look this time. So I go on and check it, and it shows the full price as twenty‑one ninety‑nine, but with the friends and family discount on it, my bill’s only ten ninety‑nine, which I think is really good.
-
---- Loading words for this example (neg): thinking, full
+--- Loading words for this example (neg): fuck, somebody
 
 
-===== EXCERPT: f5_neg_008.txt (text ID t003260) =====
-Text ID: t003260
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001555_gpt.txt
+===== EXCERPT: f5_neg_007.txt (text ID t000829) =====
+Text ID: t000829
+Group: human
+Model: human
+File:   corpus/05_human/t000829_human.txt
 
 Score (f5_neg): -2
-Loading words (f5_neg), N=2: single, manage
-yeah so the theory test itself was just the usual stuff, like all the normal questions about road signs and speed limits and that, nothing too surprising there. The bit that really got me was the hazard perception section. You have to watch this video and then click within about a second when a hazard actually appears. And you’re only marked on two hazards in each clip. If you click too late you lose all the points. I failed that bit in every single practice I did, but somehow I managed to pass it in the real test.
+Loading words (f5_neg), N=2: set, great
+they toured the whole production you know and then erm and there's a great story about Irving Thalberg who sort of revolutionised Marx Brothers I think he made them worse but there you go but erm he you know wro Thalberg was a a rewriting you you'd rewrite the script like fifteen times you know before even think about setting up a camera up and Thalberg he was only he died when he was thirty-seven I think you know so he must have been in his thirties just a young kid who's head of head of MGM studios er and this guy one of the scriptwriters went to him you know with his like fifteenth rewrite of er Night at the Opera and he he just waited there he was waiting to be criticised and Thalberg just read this thing you know you know absolutely stone faced read through the rewrites he'd done just totally stone faced and then looked at him and said that's some of the funniest things I've ever read
 
---- Loading words for this example (neg): single, manage
+--- Loading words for this example (neg): set, great
 
 
-===== EXCERPT: f5_neg_009.txt (text ID t002722) =====
-Text ID: t002722
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001017_gpt.txt
+===== EXCERPT: f5_neg_008.txt (text ID t000483) =====
+Text ID: t000483
+Group: human
+Model: human
+File:   corpus/05_human/t000483_human.txt
 
 Score (f5_neg): -2
-Loading words (f5_neg), N=2: thinking, manage
-so yeah, this is the message he sent, right. He says he went next door, they offered him this legal herbal weed thing and he thought, oh yeah, that’s fine, it’s legal. Smoked it, and then suddenly he’s having this really horrible trip, can’t stand up, can’t talk, everyone just sitting around watching him fall to pieces. He’s describing how he’s lying there thinking he’s dying or something, totally out of it, and no one’s actually helping, they’re just sort of staring at him and chatting.
+Loading words (f5_neg), N=2: fuck, somebody
+that what that's exactly what said she said you paid your NHS you paid your national insurance if you want it doing it's your choice you paid for it she said so stick to your guns cos she didn't stick to her guns when she went in for the thyroid and they fucked her over and she had to go to hospital and she we like if there's one thing I've learnt in the past six months is that if you think you're entitled to it fight for it cos if you're not at the very end then somebody who's qualified like a surgeon will say no but if you don't fight and fight and fight you'll never know just do it
 
-Then eventually he manages to get himself home, staggers back, and as soon as he gets in he’s sick everywhere, proper vomiting, and then he texts saying how sorry he is and how angry he is with himself for being so stupid and taking it in the first place. Going on about how awful it was and how he never wants to touch anything like that again.
-
-And I’m reading this thinking, well, you could’ve texted me while this was actually happening, you know? Instead of waiting till after you’ve been sick and had your drama. I’m not your girlfriend or your wife, sitting around making you dinner and waiting for you to come back from getting off your face. It really annoys me being treated like that.
-
---- Loading words for this example (neg): thinking, manage
+--- Loading words for this example (neg): fuck, somebody
 
 
-===== EXCERPT: f5_neg_010.txt (text ID t003288) =====
-Text ID: t003288
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001583_gpt.txt
+===== EXCERPT: f5_neg_009.txt (text ID t000942) =====
+Text ID: t000942
+Group: human
+Model: human
+File:   corpus/05_human/t000942_human.txt
 
-Score (f5_neg): -1
-Loading words (f5_neg), N=1: manage
-So the agency told him he still owed them loads of money, even though he’d been working really hard and doing all these campaigns. He’d been earning a lot and thought he was doing brilliantly, but they kept saying he was in debt. Eventually, after ages, he managed to clear this massive £150,000 debt, and he was expecting them to be like, you know, “well done” or at least a bit celebratory about it. Instead they just turned round and said he now owed another £17,000, because they’d supposedly been spending money on his behalf.
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: somebody, great
+erm no not only are you going to be able to provide some learning to fill some stuff that's gonna be difficult for you to fill otherwise but certainly it's also giving you that warm touchy friendly feeling because everybody wants to say oh we are a lovely university and we are so friendly with our students and they love us so you're trying to warm warm up the bed so to speak by giving people this expectation that okay this case study may not come university but the fact that you've putting it in your online course at university by association means that students might expect that they can do something similar themselves they cou they too could go to a lecturer and say well you know what I've had this great idea how about we go for a coffee and have a chat about it? and the lecturer was like oh my god somebody's come and asked me to go and have a coffee with them and they're an undergrad student I don't even talk to undergrads the you know what I mean? so there's this kind of like you're selling on a a feeling you're not selling just a product you're selling a feeling of the product too like a warmth to it bringing in this idea of like Oxford and Cambridge where you used to go round for a cup of tea with your you know your personal tutor and your personal tutor would ask you all sorts of questions about your life and what you want to do with your life and give you biscuits that idea you know? friendly warm helpful and the good thing about it is is that what you're what you're proving to others is that it's sustainable cos what they're saying is you can come if you want to you can come to our website you can have a look and preview at some of our case studies if you want to make a case study with us about something we are happy to do that but it needs to be done in a formatted way meaning we need you to come and do Monday and then get a person to come and do Tuesday and then Wednesday and Thursday it's not just come and ring on our door on our door and say hey and have got this fantastic idea for a case study you're like great but it's a format that we have to put that into
 
---- Loading words for this example (neg): manage
+--- Loading words for this example (neg): somebody, great
+
+
+===== EXCERPT: f5_neg_010.txt (text ID t001038) =====
+Text ID: t001038
+Group: human
+Model: human
+File:   corpus/05_human/t001038_human.txt
+
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: set, somebody
+on a wavelength yeah yeah I guess when I think about you I see somebody who is evolving or I mean you know how we are dynamic creatures we are always evolving we always changing you know I I don't think a personality is ever set but I suppose you have certain characteristics or a certain resonance or a certain vibe that you get on for a period of time because it suits you and you explore everything within that vibe and then something shifts or changes and you move and you do become a different person on a cellular level on a de and well on a cellular level you are not you are a completely different human being to the physical organism you were seven years ago everything about you has shifted and changed and also sort of psychologically spiritually emotionally well you are a different person in every moment you are reinvented in every now but I do think you hit these like you know you are at one now which is a life changing oh okay choice of two big paths and there's another probable you that's carrying on business as usual but this wider path is the you that is now recreating or creating something new and I think good for you be assertive and be proud of who you are don't do yourself down or call yourself a sad git for going to bed at ten o'clock you know be proud of that
+
+--- Loading words for this example (neg): set, somebody

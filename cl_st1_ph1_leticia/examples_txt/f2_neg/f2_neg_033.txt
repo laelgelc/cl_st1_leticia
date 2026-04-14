@@ -1,8 +1,8 @@
-Text ID: t000590
-Group: human
-Model: human
-File:   corpus/05_human/t000590_human.txt
+Text ID: t003092
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001387_gpt.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: massive, big
-yeah you could be I mean we were we had we felt quite a big tremor when we were in this oasis in Peru and it's like a big it's just sand and like we're staying in the centre and there's literally you like a picture postcard oasis like just sand everywhere and everyone's like sandboarding and stuff it was quite cool but I felt this massive tremor when we were like in the thing and in my head I'm going surely the sand is just going to wobble and just fill in this hole do you know that's what I was thinking in my head it's going to kind of shake the hole full
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: gonna
+so like it was her birthday and she was meant to be picking me up, yeah? she’d said she’d get me when she was going to the train station for everyone else. then literally last minute she was like, oh can you just make your own way to mine, I’m gonna go get them instead. and I was like, right, okay then, fine, whatever. then I found out later they’d all gone out for a meal without even inviting me, and she’d told them to just get a taxi. I just sort of accepted it but it really stung.

@@ -1,8 +1,8 @@
-Text ID: t002168
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000463_gpt.txt
+Text ID: t000124
+Group: human
+Model: human
+File:   corpus/05_human/t000124_human.txt
 
-Score (f1_pos): -1
-Loading words (f1_pos), N=1: f1 neg words (N=1): everything
-like we were both really ambitious, like properly into working hard and doing well, but our parents just made it into this constant competition. Every time we got exam results it was all, who got what, who did better, and it just did my head in. Instead of being happy, I’d feel like I had to apologise for not being perfect, or for doing better than her. It stopped being about me feeling proud of myself and turned into this weird pressure from them, and it made everything really tense between us. I hated that my marks, which I’d worked for, ended up causing awkwardness and distance with my friends.
+Score (f1_pos): 5
+Loading words (f1_pos), N=5: moment, idea, more, different, way
+and they'll try and put me to point er well what do you think you're doing? and I well you know these are the reasons why I'm going in this direction why I've left that direction and I'm in a transition which is working towards this and creating something different you know and if you put it in context of the bigger picture which er could be like you were talking about the idea of of the way the education market is working et cetera that one way to learn about how to do something is to talk to people who have already done it or are doing it and if you come across enough of them you're gonna pick up little tit-bits of stuff and you're gonna see a common theme between them and you're gonna look at it and go well okay I can run with those things I don't like those bits but I'll run my way this way and that's the beauty about what entrepreneurialship stuff is that that people all are doing it by themselves they have a common thread that's why they make it work but the reality is is all of us could be ten of us could be doing all sorts of different stuff going in different directions and we will all meet at the same point at the end and that's the great thing about it that there's more one more than one way to skin a cat you know? so if I'm talking to these guys and they're like well why are you doing this? well because I admire what you do which is you're doing it I'm interested in that and I'm interested in more than just telling your story I wanna find out from you about the things that matter to you and how you've gone about it cos I expect to learn something from that and that there's v always value in learning something from anybody else so they might not get that they might not understand my perception of them or my perception of the bigger picture er that they're a part of but I certainly think by the time I get there I'll have a feeling for what that particular moment is about it might not be the bigger picture because one of the questions might be is there a bigger picture? to a certain extent or something like that well my extent will be shorter than what their extent is cos I've already travelled a longer journey

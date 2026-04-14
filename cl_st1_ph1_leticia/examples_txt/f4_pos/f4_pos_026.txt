@@ -1,10 +1,8 @@
-Text ID: t001947
-Group: profiled_gpt
+Text ID: t004588
+Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000242_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001178_gpt.txt
 
-Score (f4_pos): 3
-Loading words (f4_pos), N=3: build, become, set
-so what I'm thinking is that your bit, really, would be doing the hard graft of actually finding the right people and testing them out properly. You’d be the one working out who’s reliable, who hits the quality we need, who can deliver on time, and then building those ongoing working relationships so they’re solid and dependable.
-
-By doing that, you’re not just getting the work done for our own projects; you’re learning how to manage that whole outsourcing process end‑to‑end. And once you’ve got that nailed, you’ve effectively got a skill set you can sell. You become the middleman: you bring in outside business that needs things done, you farm that work out to your trusted people, and you take a fee for putting it all together.
+Score (f4_pos): 4
+Loading words (f4_pos), N=4: feel, clear, make, head
+It’s such a weird feeling, though. On paper that valuation makes me feel really rich, but of course it’s completely notional unless somebody actually comes along and pays that much. It’s all locked up in the bricks and mortar, and we’ve still got the mortgage hanging over us as well. That’s why I’m starting to think quite hard about how we might release some of the value in the house. I’d really like to get to a point where we’re not so dependent on my salary, especially if we have a couple of lean years while I’m working out what else to do and where other income might come from. But at the moment it’s all very vague; I don’t have the practical details clear in my head, so we can’t really sit down and have a proper, concrete discussion about it yet.

@@ -1,12 +1,8 @@
-Text ID: t002017
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000312_gpt.txt
+Text ID: t000664
+Group: human
+Model: human
+File:   corpus/05_human/t000664_human.txt
 
 Score (f3_pos): 1
-Loading words (f3_pos), N=1: guy
-So we’re in the car, and he’s really nervous and says he’s probably going to cry, but he still wants to tell me everything. Then he comes out with it: he doesn’t have a driving licence anymore because he’s been banned. He reminds me that he’d sort of mentioned something before, but only in a really vague way, never any proper details. 
-
-Now he finally explains: he was arrested for reckless driving. He’d had a drink, and he was just over the legal limit. That’s why he lost his licence. He’s clearly really emotional about it, but he’s determined to get it all out and be honest with me. 
-
-I’m just sitting there listening, processing that this sweet, nice guy I’ve been seeing is suddenly telling me he’s been banned from driving because he was done for reckless driving after drinking, and that he’d kind of glossed over it before but is only now actually owning up to what happened.
+Loading words (f3_pos), N=1: manage
+my erm er a woman in my office she turned around and she sai her husband's been off all this week and she was like this weekend I think I'm gonna have to go out and find a builder and I'm like why? and goes well my husband's been at home this week and he was supposed to strip down loads of stuff and varnish it and fix it and he was really keen to do it but I just don't think he's managed I think he's gonna do a really bad job so I have like somebody on standby and like that's love isn't it? that's faith in your other half and she was like no I just want it done properly cos no she's gonna let him try and then she's gonna absolutely undermine him and just

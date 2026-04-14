@@ -1,8 +1,8 @@
-Text ID: t002682
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000977_gpt.txt
+Text ID: t001354
+Group: human
+Model: human
+File:   corpus/05_human/t001354_human.txt
 
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: huge, massive, big
-yeah it's not like it's heavy or anything, it's just this massive box, which makes it such a hassle to deal with. It kind of reminds me of our defence, actually. We've got these two big lads at the back, both of them huge, like one of them's about six foot two and looks properly middle-aged, and they're just so slow and rubbish. Then you've got this young wing back who's really skinny and physically weak, but somehow he's miles better than them. He's not strong at all, but he can actually play, which just shows how bad the other two are. For defenders, they're just nowhere near the level they should be.
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: god, gonna
+erm yeah so I'd already been referred for my back and er then I ended up doing this stuff which drove me mad and erm then I got referred again and I missed two appointments so she was absolutely hopping mad with me so I went in there and I thought oh my god she's gonna be s she did give me such a hard time and erm actually I said look I'll be perfectly frank what I want is I want a set of exercises cos I am so stiff I don't know what to do with myself and I've got knee pain and back pain and actually she was really very switched on erm and she says yes I am extraordinarily erm stiff

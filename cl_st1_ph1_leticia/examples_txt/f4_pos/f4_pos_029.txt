@@ -1,8 +1,12 @@
-Text ID: t002655
-Group: profiled_gpt
+Text ID: t003671
+Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000950_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000261_gpt.txt
 
-Score (f4_pos): 3
-Loading words (f4_pos), N=3: become, set, somebody
-and he was saying you know in the centre of Athens all those lovely little specialist shops, rows of them, have just gone because they can’t afford to keep them going anymore. There’s so much unemployment, people just haven’t got the money, and a lot of them can’t even get proper healthcare now. He said it’s got that bad that the pharmacies have started doing this thing where they sell unfinished, returned medications. So if somebody’s brought tablets back, they’ll split them up and sell them on at set rates, because people can’t afford to pay for a full prescription. It’s all become a sort of make-do system just so people can get any treatment at all.
+Score (f4_pos): 4
+Loading words (f4_pos), N=4: bother, feel, clear, make
+so I waited about two months after I’d requested my credit rating, and then today I finally got an email back. And the email literally said, “what is your query?” and that they wouldn’t call me back. They just refused to phone, which I think is ridiculous after all that time.
+
+What really bothers me is that the credit report itself doesn’t make any sense. There’s this whole list of “status history” with numbers, but it doesn’t actually explain what the numbers mean. It covers things like my old New Look store card and my Vodafone mobile account, past and current stuff all lumped together, and I’m just left guessing.
+
+I thought about contacting Vodafone to get them to clarify, but I don’t feel confident doing that. All I’ve got is a PO box address and no proper, clear contact information, so I don’t even know how to approach them about it.

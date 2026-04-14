@@ -1,8 +1,8 @@
-Text ID: t000342
-Group: human
-Model: human
-File:   corpus/05_human/t000342_human.txt
+Text ID: t002305
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000600_gpt.txt
 
-Score (f1_neg): -4
-Loading words (f1_neg), N=4: real, try, speak, same
-even with the normal classes just like you know in mainstream schools er I remember working in a group once in a group with like kids with real low abilities things like that and also there were two girls there one from Thailand and one from Poland and they just put them in the same group and I was just thinking oh how am I going to cope? I mean you know they don't really speak much English neither of them but then you know they were sat together and before too long I just found that they were kind of you know trying to communicate with each oth each other and just helping each other which was brilliant
+Score (f1_neg): 1
+Loading words (f1_neg), N=1: f2 score: 0
+I do actually think they’re better for having had that argument, you know. It kind of forced everything out into the open. But at the same time, I honestly reckon he’s a big part of why we haven’t seen her properly in ages. She’s ended up in that same position as me, with this really lazy boyfriend, so she ends up doing absolutely everything. She’s the one making all the plans, sorting everything out, and then even driving over to see him in the week. It’s no wonder she’s always tied up and we never really get to catch up anymore.

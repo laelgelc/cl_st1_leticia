@@ -1,12 +1,8 @@
-Text ID: t003506
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t000096_gpt.txt
+Text ID: t000031
+Group: human
+Model: human
+File:   corpus/05_human/t000031_human.txt
 
 Score (f4_pos): 3
-Loading words (f4_pos), N=3: become, change, set
-if you can actually see it on the page, it becomes much easier to keep the whole thing in your head. So, think of it as three major acts laid out in front of you. The first act sets everything up, the third act pays everything off, and the second act in the middle is usually the longest one, partly because that’s where you tend to get all the montage-y stuff, the development, the complications.
-
-That middle section is where a lot of filmmakers go wrong. They either rush it, or they pad it, or they lose the thread of what the story is actually doing. When you draw it out, you can literally see if that second act is bloated or thin, or if it’s doing the work it’s meant to do.
-
-And then, alongside that, you sketch the character arc. You want a really clear, visible personal trajectory: the person at the end should be recognisably changed from who they were at the beginning. Something obviously significant has to have happened to them, so that the audience doesn’t have to guess. They can look at that line you’ve drawn and say, “Right, that’s where everything shifted, that’s where something amazing happened to this person.”
+Loading words (f4_pos), N=3: bother, stick, make
+like it's awkwar it's really awkward and I'm like stuck in the middle of it because they always ask me about like even last night like she hadn't bothered telling anybody else that she wasn't coming so like I basically said on the girl's group like oh erm dinner at for my birthday let me know if you can make it and everybody else said yes and like just like rather than cos she doesn't wanna look bad she won't say like oh I can't make it so she just won't say anything but then it's even more noticeable so like erm today was just like question mark like asking like cos she said like oh what are you doing for your birthday? and then nobody replied and then she put question mark like to say like oh she's away and apparently had to like like text her to say like are you coming tonight? do I need to play like lay an extra place? because she just doesn't say anything and then it just makes yourself it I dunno that's what makes her a target do you know what I mean? it's really bad

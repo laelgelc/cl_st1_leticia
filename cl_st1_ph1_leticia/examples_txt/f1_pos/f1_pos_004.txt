@@ -1,8 +1,12 @@
-Text ID: t000348
-Group: human
-Model: human
-File:   corpus/05_human/t000348_human.txt
+Text ID: t002237
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000532_gpt.txt
 
-Score (f1_pos): 1
-Loading words (f1_pos), N=1: um
-yeah oh I know ridiculous for the greenhouse yeah beetroot's b I tell you uh you get good ideas going round um garden centres round the um the kitchen gardens you get lots of tips then cos you can see that you can grow beetroots and then in between them you can put a carrot uh you can put something in between them that doesn't need as much space you get loads of good ideas by going round those um the Women's Institute often do a garden and you get uh you can get ideas for growing all sorts of things
+Score (f1_pos): 6
+Loading words (f1_pos), N=6: sense, change, more, own, different, way
+I think if you give students really big, knotty historical topics, like the suffragettes or the world wars, you’ve got far more chance of actually catching their curiosity. There are so many different angles for them to hook into – the politics, the personalities, the military strategy, the social changes – that almost everyone can find something that genuinely interests them. It’s richer, more three‑dimensional, and it invites you to ask questions and make connections.
+
+My own experience of history at school was nothing like that. It was all chopped up into these very narrow, self‑contained little slices, and we were marched through them one by one. There wasn’t that sense of a big picture you could wander around in and explore from different directions. Because of that, it never really lit that spark of curiosity for me; it just felt like a series of disconnected topics.
+
+The way it was taught, I mostly ended up just copying things off the board, rather than actually thinking about them or analysing what they meant. I’ve never been particularly good at straight memorisation, and no one ever really taught us how to memorise effectively either – it was just assumed you could do it. Looking back, that feels like a real shame, especially considering how much that education cost.

@@ -1,8 +1,8 @@
-Text ID: t001238
-Group: human
-Model: human
-File:   corpus/05_human/t001238_human.txt
+Text ID: t001712
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000007_gpt.txt
 
 Score (f6_pos): 1
-Loading words (f6_pos), N=1: chat
-odd not to and then he said oh are you going to bar? so I said yeah said oh I'll come with you so he came up to the bar with me so I said do you want a drink? so he said oh oh alright then another pint of Peroni so I said oh I've got a few to get so he said oh I'll help you carry them back so I said you'll know all the Shakespeare stuff now cos you've he said well I want to hear it from your perspective cos I trust you so I just said you've been chatting with I said she told you all of the no no no tell me tell me so we're taking drinks back and forward and I was telling him but then our two drinks are last on the bar
+Loading words (f6_pos), N=1: month
+It got to the point where my stomach was almost solid, you know, and it was really sticking out. Over a few months it just got bigger and bigger, and in the end I thought, this isn’t right, so I went to the doctor. She sent me for loads of tests, all sorts, and they did eventually find fibroids. But they said the fibroids weren’t actually causing the swelling, so that didn’t explain it. In the end she said it was probably IBS, and that it might well be brought on by stress.

@@ -1,8 +1,8 @@
-Text ID: t001991
-Group: profiled_gpt
+Text ID: t004313
+Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000286_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000903_gpt.txt
 
-Score (f2_pos): 1
-Loading words (f2_pos), N=1: okay
-it was right where the deer hit, just by the windscreen, that the whole roof was completely caved in, you know, really crushed down. apparently a couple of other motorists had stopped as well, and one of them just kept asking him, are you sure you're alright, do you want an ambulance, that sort of thing. but the driver kept insisting he was fine, said he only had a few cuts on him. looking at the state of the car though, from what I’ve heard, it’s just unbelievable that he was actually okay.
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: chat, bloke
+yeah he really wanted to get into the reds, you know, he was quite up for it, but I just kept saying no and sticking to my nice safe blues. I was really stubborn about it, I just wouldn't do red runs at all. Then one night we were in this bar and we got chatting to this bloke, and he just sort of laughed and said, “Why won’t you do reds?” and I said, “No, no, no, I only do blues.” And he goes, “They’re not reds, they’re dark blues.” He was saying some of the reds are actually easier than the hardest bits of the blues I’d already done. That really made me think, because I’d coped fine with those tricky blue sections. So he said, “Tomorrow, don’t think of it as a red, think of it as a dark blue and just try one.” And that’s what persuaded me to give it a go the next day.

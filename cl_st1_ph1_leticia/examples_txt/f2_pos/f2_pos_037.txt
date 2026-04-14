@@ -1,8 +1,8 @@
-Text ID: t003451
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t000041_gpt.txt
+Text ID: t001678
+Group: human
+Model: human
+File:   corpus/05_human/t001678_human.txt
 
 Score (f2_pos): 1
-Loading words (f2_pos), N=1: cos
-no not at all like there was just no pressure from him whatsoever he was just really chilled out about it he just came along with me on the test drives and we were just chatting away and he was more like asking me how I felt about each one rather than trying to sell them to us he was like what do you like about this one what do you not like about that one and stuff like that and then when we went back inside he just sort of said so which one do you prefer then and I just said I actually liked the Clio better inside and it felt a bit roomier even though it was only a three door but that suited me fine cos I hardly ever have anyone in the back anyway so it just made more sense for me really
+Loading words (f2_pos), N=1: odd
+right? so the I looked at erm the blog that got sent out from you've got all the stats on who collected what where and how many people opened it and all that kind of stuff and what devices they used right? so of the hundred odd peo it was about a hundred people went to seventy-one percent opened opened it and read it yeah? of that seventy-one percent something like ninety percent were using Apple s Apple systems yeah? so that's in New Zealand but predominantly that's what you'd expect to see in western countries and Asian countries you'd probably see er the Samsung stuff yeah? so it's America versus North Korea China er South Korea China or whatever yeah? but you try and get it out on all platforms that's what it's about

@@ -1,14 +1,8 @@
-Text ID: t002685
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000980_gpt.txt
+Text ID: t000479
+Group: human
+Model: human
+File:   corpus/05_human/t000479_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: bloke, stand
-our keeper right he looks terrifying like properly scary, covered in tattoos, big bloke, you’d look at him and think no one’s getting near his goal. Ball comes in and he just completely misses it, like goes to get it and somehow doesn’t, and they score again. And it’s the same sort of goal over and over, just balls in behind, our defence is that bad they just keep doing it and it keeps working.
-
-What makes it worse is me and one of the lads in midfield actually had good games. We’d gone with a proper five‑man midfield, really solid, keeping the ball, doing what we’re meant to do, but if every time they go forward they look like they’re gonna score it doesn’t matter. We lost four one in the end and we had to take every single chance we got, and we didn’t.
-
-There’s this one lad in our team who would be the perfect centre back, like exactly what we need, strong, can read the game, everything. But they won’t stick him there because he’s “too good going forward” so they want him up the pitch. And I’m just stood there thinking what’s the point? However well I play, or we play in midfield, we’re always gonna lose if the back lot are that bad.
-
-It’s just this horrible feeling of knowing before you even start that you’re probably gonna lose no matter what you do. Proper frustrating and you just feel helpless with it. At least we’ve got a two‑week break now before the next game, so maybe everyone’ll calm down a bit and we can figure something out.
+Loading words (f6_pos), N=2: month, pound
+yeah I think so Yeah I think so I think 's having a bit of a hard time of it with I think she's coming to the point of there's always been quite a gap between them intelligence wise and so far they've kind of dealt with it as in doesn't know and said well actually I I like all the qualities that he has so I'm just ignoring that but she spent the last three to six months going through his divorce with him and basically doing his accounts and she's of and shit loads of money like thousands and thousands of pounds that his

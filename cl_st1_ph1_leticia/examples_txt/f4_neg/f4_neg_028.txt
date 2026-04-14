@@ -1,8 +1,8 @@
-Text ID: t002272
-Group: profiled_gpt
+Text ID: t004566
+Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000567_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001156_gpt.txt
 
-Score (f4_neg): -2
-Loading words (f4_neg), N=2: awful, horrible
-like some people who have like suspected er irritable bowel or whatever they get it so bad they literally can’t get out of bed they’re in loads of pain and everything and they end up going into hospital and having all these different tests and scans done and they can’t find anything wrong with them at all so in the end the doctors are just like well it must be irritable bowel then because nothing else is showing up and they still feel awful and sometimes they just have to stay in bed for the whole day because it’s that bad for them which just sounds really horrible
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: minute
+when I was little they wanted me to cut my nails for the violin and I just wouldn’t, even then my nails were long and I was stubborn about it so I stopped after a few weeks. later on, at secondary school, I went onto brass instruments instead. anyway, when I was over in Boston today visiting my real dad and his wife, I asked to have a go on her violin. we went right back to the beginning of the tutor book and after about a minute I could play “Twinkle Twinkle Little Star” again, which really surprised them.

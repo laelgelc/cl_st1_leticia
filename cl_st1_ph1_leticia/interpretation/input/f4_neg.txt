@@ -33,151 +33,141 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac4	SD fac4
-group	human	1705	0.22815249	0.54506357
-group	profiled_gpt	1705	0.19002933	0.60921643
-group	unprofiled_gpt	1705	0.18768328	0.59533661
+group	human	1705	0.33372434	0.65770570
+group	profiled_gpt	1705	0.82639296	0.94216946
+group	unprofiled_gpt	1705	0.79648094	0.94334178
 
 === FACTOR LOADINGS (f4_neg) ===
-variables loading on this pole = 5
-awful (-.77), horrible (-.72), (shit (-.63)), (bother (-.39)), (pound (-.36))
+variables loading on this pole = 2
+minute (-.42), (fact (-.38))
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f4_neg_001.txt (text ID t005115) =====
-Text ID: t005115
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t001705_gpt.txt
-
-Score (f4_neg): -2
-Loading words (f4_neg), N=2: awful, horrible
-So there was this one *Magnum* episode that was just incredibly dark and scary, completely unlike what it’s usually like. Magnum drops what seems to be the nice twin back at her house, and then it looks as though there’s someone else in the house, but you never quite see who it is. It’s all very unsettling and you’re not sure what’s going on.
-
-Later, she rings Magnum in a panic and says she’s killed someone. He rushes over, but when he gets there there’s no body, no blood, no sign that anything’s actually happened. It’s really eerie, because you’ve got this feeling that something awful has gone on, but there’s literally no evidence.
-
-There’s this really tense bit where Magnum’s in the house and there’s someone watching him from inside a cupboard. You know they’re there, he doesn’t, and it’s just horribly creepy, much more like a psychological thriller than a light detective show.
-
-In the end it turns out that the whole business with the “other” twin isn’t what it seems at all. The twist is that the other twin actually died when they were both kidnapped as children. The one who survived has multiple personality disorder, so the “other” twin we think is out there causing trouble is actually just another personality inside her. So all the stuff about the horrible twin and the persecution and the attempted murders is actually her. It makes the whole story really horrible and quite dark, especially compared to what *Magnum* is normally like.
-
---- Loading words for this example (neg): awful, horrible
-
-
-===== EXCERPT: f4_neg_002.txt (text ID t005017) =====
-Text ID: t005017
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t001607_gpt.txt
-
-Score (f4_neg): -2
-Loading words (f4_neg), N=2: awful, horrible
-yeah Matt Haig followed me on Twitter, which is the only reason I followed him back really, because I haven’t actually read any of his books yet, but I really want to. I keep meaning to pick one up. He tweets quite a bit about dealing with depression and stuff, and lately he’s been talking a lot about all the abuse he gets on Twitter.  
-
-some of it’s from people he actually knows, which is just awful. it’s one thing getting random trolls having a go, but when it’s people you know in real life, that must feel so much worse. he’ll tweet something quite normal and then suddenly there’s this pile-on in the replies, and you can tell it really gets to him sometimes.  
-
-it just makes me think how horrible it must be for people who are properly in the public eye, where everything they tweet is scrutinised and picked apart. like, every single word you put out there is analysed and judged and people are just waiting to jump on you. I can’t even imagine having to think that hard about every tweet, knowing it might blow up and get you loads of abuse. it must be exhausting and really, really grim.
-
---- Loading words for this example (neg): awful, horrible
-
-
-===== EXCERPT: f4_neg_003.txt (text ID t004880) =====
-Text ID: t004880
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t001470_gpt.txt
-
-Score (f4_neg): -2
-Loading words (f4_neg), N=2: awful, horrible
-We’d literally spent the whole weekend together – Friday, Saturday, Sunday – and by the end of it I was just exhausted from nonstop socialising. Saturday night was the worst, though, because there was this absolutely awful Essex girl out with us. She had this really horrible accent, and she wasn’t even wearing a bra, so it was just like, oh my god. Later on, when we were talking to someone who hadn’t been out with us, we were trying to describe her, and it was so hard to convey quite how bad she actually was.
-
---- Loading words for this example (neg): awful, horrible
-
-
-===== EXCERPT: f4_neg_004.txt (text ID t005006) =====
-Text ID: t005006
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t001596_gpt.txt
-
-Score (f4_neg): -2
-Loading words (f4_neg), N=2: awful, horrible
-once we got back to the airport and she had wifi again, it all just kind of fell apart. he started sending her these really horrible messages, calling her a bitch and saying she didn’t appreciate him, and then he basically refused to say what she wanted to hear because he doesn’t love her. that’s when she just started crying. I was meant to be getting my bus, I’d actually left to go and catch it, but after seeing her like that I couldn’t just leave her there for an hour on her own. so I decided to drive her all the way from Gatwick to Oxford instead, so she didn’t have to wait around feeling awful. it just makes me really sad, because even after all that, she still has this hope that somehow they’re going to work things out, and I don’t think he’s good for her at all.
-
---- Loading words for this example (neg): awful, horrible
-
-
-===== EXCERPT: f4_neg_005.txt (text ID t004717) =====
-Text ID: t004717
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t001307_gpt.txt
-
-Score (f4_neg): -2
-Loading words (f4_neg), N=2: awful, horrible
-she's dipped out of that whole champagne afternoon tea thing for her fiftieth, you know, because it just got ridiculously expensive, so instead she's gone off on this trip to Dubai and Sri Lanka. it's kind of business-related, so I think she's managed to swing it as a lovely holiday that the business is basically paying for. but you know what her mum’s like – she’s been absolutely horrible to her for years, really manipulative, calling her all sorts of names and doing awful things, and she’s only in her seventies, it’s not like she’s ancient or anything.
-
---- Loading words for this example (neg): awful, horrible
-
-
-===== EXCERPT: f4_neg_006.txt (text ID t004310) =====
-Text ID: t004310
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t000900_gpt.txt
-
-Score (f4_neg): -2
-Loading words (f4_neg), N=2: awful, horrible
-he had these horrible yellow blisters all over his face in the end, it was awful, so we had to take him down to the chemist and get something to put on them. Once they’d sorted him out a bit he did actually come back up and join us on the slopes, but honestly you could hardly see any of his face. He had the goggles on and everything pulled right up, he looked just like the Milk Tray man, you know, all covered up and mysterious, it was hilarious.
-
---- Loading words for this example (neg): awful, horrible
-
-
-===== EXCERPT: f4_neg_007.txt (text ID t003799) =====
-Text ID: t003799
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t000389_gpt.txt
-
-Score (f4_neg): -2
-Loading words (f4_neg), N=2: awful, horrible
-Despite everything, despite yesterday and all the doubts and the horrible conversation, I do love you and I do care about you. That’s never been in question for me. What’s actually been the hardest part in all of this is knowing I’ve upset you. I’ve felt awful for the last two weeks because I made you feel terrible and I knew I’d done it. That’s just been sitting with me. And the last clear memory I had of you before I saw you again on Saturday evening was you being really, really upset.
-
---- Loading words for this example (neg): awful, horrible
-
-
-===== EXCERPT: f4_neg_008.txt (text ID t003428) =====
-Text ID: t003428
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t000018_gpt.txt
-
-Score (f4_neg): -2
-Loading words (f4_neg), N=2: awful, horrible
-I just mean, you’ve clearly spent ages thinking all this through, and I really haven’t. With stuff like, say, something awful on the news about Homs, me and my family just kind of go, “Oh God, that’s horrible,” and then we get on with what we were doing. We don’t sit there researching it or reading loads more or deciding we’re going to go on a march or anything like that. It’s not that I don’t care – I am sympathetic, I do think it’s awful – but I’m just not the sort of person who’s actually moved to do something about it, and I guess my dad’s the same.
-
---- Loading words for this example (neg): awful, horrible
-
-
-===== EXCERPT: f4_neg_009.txt (text ID t004756) =====
-Text ID: t004756
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t001346_gpt.txt
+===== EXCERPT: f4_neg_001.txt (text ID t000019) =====
+Text ID: t000019
+Group: human
+Model: human
+File:   corpus/05_human/t000019_human.txt
 
 Score (f4_neg): -1
-Loading words (f4_neg), N=1: horrible
-I got into Hong Kong, when it was still British, at the beginning of September and it was just boiling. I only had a day to sort out this missing luggage business, and I had hardly any money on me, so I was already pretty wound up and hot and bothered. Then I flew on to Beijing, still in that heat, and the stress of it all must have got to me, because on the very first morning I woke up and there was blood everywhere from a nosebleed. It was absolutely horrible. And of course, in the student accommodation there, we didn’t have access to ice or anything sensible like that. We didn’t even have properly cold water, just this sort of tepid stuff that came out of the tap, which was no use at all when you’re trying to deal with a nosebleed in that kind of heat.
+Loading words (f4_neg), N=1: minute
+but it would be the same it was weird though like we only used to get an hour lunch break and it used to take me um on the bus it was like dunno fifteen or twenty minutes on the bus if you got if you got a bus straight away you could get home fifteen ten fifteen minutes probably but then you only have a half an hour at home and then you've gotta get the bus back But sometimes I used to do it but some I remember walking home sometimes and that would take like twenty-five minutes and then I'd get home for like ten minutes and walk back seems crazy
 
---- Loading words for this example (neg): horrible
+--- Loading words for this example (neg): minute
 
 
-===== EXCERPT: f4_neg_010.txt (text ID t004798) =====
-Text ID: t004798
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t001388_gpt.txt
+===== EXCERPT: f4_neg_002.txt (text ID t000075) =====
+Text ID: t000075
+Group: human
+Model: human
+File:   corpus/05_human/t000075_human.txt
 
 Score (f4_neg): -1
-Loading words (f4_neg), N=1: awful
-we were all in that tight little circle after everyone had left the church, and I was just crying, properly breaking down, and people were kind of taking turns comforting me and hugging me. I remember talking about how we should meet up and how sad everything was, and it was all just really emotional. And the whole time, while I was being hugged and trying to talk through how awful it felt, they were just there, standing off a bit, staring at me in this really weird way. We didn’t say a single word to each other, not even a hello, nothing at all, just that strange, silent staring.
+Loading words (f4_neg), N=1: minute
+and actually reality things like the Jeremy Kyle show they they would aspire to be on that being sort of having their private lives put under the spotlight cos they've got on to television you know actually it's irresponsible broadcasting actually erm and I was in the I'd taken a school trip away we'd had this girl with us and I'd I'd said I wanted to take her cos I thought she needed to get away from home actually it was a bit of a nightmare and mum was just I let the have their mobile phones in the coach on the way down but I said you know if there's any misuse any problem they we will I will collect them in and you will have them for an hour or so each day so that you can phone home let them know you're alright that would be it oh and this woman this girl's mum spent every five minutes she was calling her the mum was actually the one that was sort of was the problem and in the end we had various problems with phones so I took them all in at the end of the day and said right okay that's it you will be able to phone home tomorrow afternoon at this time well this mother it transpired the girl did phone her but I think maybe she couldn't get hold of her so she obviously didn't leave a message or anything cos they've never got any credit on their phones so it's sort of that home they don't have home they don't have landlines because they don't pay the bills so the landlines disappear so anyway I said to the parents categorically before we left that his I would do this if there's problems I'd also said we will call you if there are any problems so if you don't hear anything you know they're fine well I got back at the end of the few days it was a week actually
 
---- Loading words for this example (neg): awful
+--- Loading words for this example (neg): minute
+
+
+===== EXCERPT: f4_neg_003.txt (text ID t001625) =====
+Text ID: t001625
+Group: human
+Model: human
+File:   corpus/05_human/t001625_human.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: minute
+no er go and have a cup of tea and get yourself back here in thirty minutes so she did she got to the restaurant absolutely packed got herself a cup of tea and erm a four bar Kit Kat which she loves sat down she sat down opposite erm an elderly gentleman and she put the the Kit Kat in the middle unwrapped and everything and she took it and had her first bite and then the elderly gentleman took it and took snapped a bar off and ate a bar of her Kit Kat
+
+--- Loading words for this example (neg): minute
+
+
+===== EXCERPT: f4_neg_004.txt (text ID t001632) =====
+Text ID: t001632
+Group: human
+Model: human
+File:   corpus/05_human/t001632_human.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: minute
+that's why I was a bit late cos I was having I was hearing about the first day which is a horrendous start cos she ever she got to to Clapham South tube station to discover both the Northern and the Victoria lines were down and erm she had to run all the way to Wandsworth Common to pick up a train which she just missed the train that was in she got the wrong ticket oh it was just unbelievable the things but she got Victoria she had to get a taxi there was a lot of traffic I mean it was just a nightmare I how she managed to only be five minutes late I still don't know but anyway she a the gym manager and erm she looks so she manages this gym and she also does a lot of erm er sports therapy treatments and it looks like from tonight she's also side it looks like she's gonna be doing er Pilates you know Pilates class as well cos she's a trained Pilates teacher in a company calle an organisation called erm which is a gym which is on the side of a private club called the which is in it's all terribly posh she's
+
+--- Loading words for this example (neg): minute
+
+
+===== EXCERPT: f4_neg_005.txt (text ID t001518) =====
+Text ID: t001518
+Group: human
+Model: human
+File:   corpus/05_human/t001518_human.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: minute
+no not in a working context and that's the thing and when I went to the when I talked to the specialist they were like what? you mean you've had no help? and I was like no the GP just said that you guys would sort me out with this they were like oh right at the end of the like you know the three appointment programme well we'll have to sit down and review what you're doing cos a lot of the people in the clinic it is really it's it is quite depressing in a way but they are all off work or chosen not to work or you know they they they can't walk more than ten minutes and I'm going you know it's terrible but like you know and some of them are bed bound and some of them go to a doctor's appointment and that's it they're laid up for a week and er you know it is quite extreme
+
+--- Loading words for this example (neg): minute
+
+
+===== EXCERPT: f4_neg_006.txt (text ID t001520) =====
+Text ID: t001520
+Group: human
+Model: human
+File:   corpus/05_human/t001520_human.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: minute
+and then in the morning when he finally had got to sleep I had to get up obviously at six o'clock and I was like going in for a cuddle to like say well I've gotta get up in a minute and he was just like oh just leave me alone and obviously every girl knows that is a no no you do not say that because you take these things really personally so I got up and he was like oh where are you going? Oh well you told me to leave you alone so I'm leaving you alone and I had a bit of a strop on you know I was really tired six in the morning and I thought that
+
+--- Loading words for this example (neg): minute
+
+
+===== EXCERPT: f4_neg_007.txt (text ID t001478) =====
+Text ID: t001478
+Group: human
+Model: human
+File:   corpus/05_human/t001478_human.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: minute
+that's why is insisting I go on this presentation skills workshop which is awful you have to give a presentation in the morning and she said when they'd confirmed my place and she sent me an email to say now you must remember that I did my presentation on Ladybird books and did hers on baking so you've got a really high standard to maintain here but a talk for about five minutes on whatever you fancy erm and then you do the workshop and then you have to give a presentation on your job at the end of the day but you should come prepared with some material and then you hone it during the day so so she said it was really useful I mean I'm dreading that there's gonna be role-play and
+
+--- Loading words for this example (neg): minute
+
+
+===== EXCERPT: f4_neg_008.txt (text ID t001441) =====
+Text ID: t001441
+Group: human
+Model: human
+File:   corpus/05_human/t001441_human.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: minute
+yeah yeah and if you missed your friend that was a funny one I lost my phone years ago and Zara and I used to work in the same shopping centre meadow Hall so I'd f I'd not got my phone I told her to meet me I got my break I get my break at the same time as yours so I get my break and I'm sat waiting for her for fifteen minutes she never turns up I can't text her she can't text me what am I gonna do? So I go back she couldn't get the same break cos she changed hers so it was just we missed each other for forty-eight hours
+
+--- Loading words for this example (neg): minute
+
+
+===== EXCERPT: f4_neg_009.txt (text ID t001415) =====
+Text ID: t001415
+Group: human
+Model: human
+File:   corpus/05_human/t001415_human.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: minute
+and you can't speak to the people in escalations they only deal with email I said well that's not really good enough so cos they're not responding to my emails anyway sure enough literally five seconds after I'd kicked off on the phone five minutes later the email comes through with their response exactly the same you can pay twenty-four pounds and we will have it re er or we will repair it or at this stage erm we can send it off to the manufacturer for refurbishment they were calling it now and erm we will deduct the cost of it from your eventual refund so I thou oh what a hassle so we got back onto Citizens Advice who were just said
+
+--- Loading words for this example (neg): minute
+
+
+===== EXCERPT: f4_neg_010.txt (text ID t001381) =====
+Text ID: t001381
+Group: human
+Model: human
+File:   corpus/05_human/t001381_human.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: minute
+mm yeah we erm there was erm Sunday night I think the ones in were on they were due to start at six but there was problems and they had to get someone in from Luton to to take over or something so they didn't start until seven but we we've got like a single-storey extension out the back and we just sat on the roof of that and watched them and they lasted like fifteen minutes so everyone was obviously waiting there for an hour or more just to see fifteen minutes and they weren't even they tried to do it to music as well but it was just a bit creepy
+
+--- Loading words for this example (neg): minute

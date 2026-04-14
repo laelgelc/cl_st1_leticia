@@ -1,12 +1,14 @@
-Text ID: t004095
+Text ID: t005060
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000685_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001650_gpt.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: bloke, stand
-and we’d gone out, and it was me and her and maybe one of his mates, and there was this group of lads. And it was really obvious that they were actually saying hi to me more when I was with her, like I suddenly became more interesting just because I was stood next to her. Then this one lad comes over, grabs my face and tries to kiss me, and I just sort of turned so it was on the cheek, you know, keep it as just a cheek kiss. 
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: month
+Well my cancer was endometrial cancer, which is cancer of the lining of the womb. The classic thing you’re told about it is that, in post‑menopausal women, it usually presents as unexpected or persistent bleeding – you know, you’ve stopped your periods and then suddenly you start bleeding again, or you have this ongoing bleeding that doesn’t go away. That’s the big red flag.
 
-Another bloke clocked it happening, properly noticed him doing it. Later on, the same lad comes back over again and he’s being really tactile – like, touching my face, leaning right in, whispering in my ear, putting his hand on my waist and all that. And then he just drops in this comment about knowing what she’s like, in this way that was so blatant, like he was basically saying he’d slept with her. 
+In my case it was muddied because I was about fifty‑three and I was still having periods. So from the doctor’s point of view, it didn’t look like that clear, post‑menopausal picture where you immediately think, “this is something sinister, we must investigate.” She didn’t jump to cancer at all, and to be fair, I didn’t either.
 
-It was totally like a badge of honour thing for him, not just a casual “oh by the way I’ve been with your girlfriend” kind of comment. He was saying it like it made him look big in front of me, like it was something to be proud of, and it was just so obvious that was what he was doing.
+What actually happened was this rather long, drawn‑out period – about eighteen months to two years – of feeling generally unwell. Nothing dramatic, just not right. My periods started changing, not in some huge, dramatic way at first, but they weren’t like they had been. Then it moved on to this constant spotting, so that I never really seemed to be clear. After that, it progressed to more persistent bleeding – not just the odd day here and there, but something that was pretty much always going on.
+
+So there was this slow progression: first feeling off‑colour, then noticing the periods changing, then the spotting that never quite went away, and finally the more continuous bleeding. All of that was happening while I was still technically having periods, which is why, I think, the doctor didn’t immediately see it as anything particularly alarming.

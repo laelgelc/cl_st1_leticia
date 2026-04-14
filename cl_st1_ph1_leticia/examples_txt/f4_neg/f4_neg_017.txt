@@ -1,8 +1,8 @@
-Text ID: t004704
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t001294_gpt.txt
+Text ID: t001201
+Group: human
+Model: human
+File:   corpus/05_human/t001201_human.txt
 
 Score (f4_neg): -1
-Loading words (f4_neg), N=1: awful
-it’s almost like they’re welding really, the way they’re having to work on those pipes, it sounds awful. He said the weather’s lovely up there, really nice, but that doesn’t help when they’re stuck at the docks instead of actually being on site. The customer wants eight pipes next week, that’s what they’re asking for, but they can’t even leave the docks at the moment. They’re not allowed to move anything until the customer pays the VAT on the first batch, and that’s two hundred and thirty thousand pounds. There are still six more deliveries due in about ten days, and because of all this there are only a few people on site.
+Loading words (f4_neg), N=1: minute
+erm my car isn't reliable in the slightest and I'm just not enjoying it at all like aside from the like the congestion traffic et cetera et cetera like obviously with it getting darker now for the whole hour I'm driving home I'm just I'm squinting and I'm starting in like into headlights and it's just not very nice and I I get to work in the morning and I'm exhausted because I've had to concentrate so hard for the last hour just to get myself to work I'm exhausted by the time I start and when I get home I'm exhausted because I've done a whole day's work and then I've had to drive home for an hour so I'm getting home and it's it's not even seven o'clock and I'm absolutely shattered whereas like even though the train is a little bit more of a faff but when I get to work on on the mornings I get the train even though I've left probably for work about forty minutes earlier than I would be car I'm actuall I've got more energy by the time I get to work and then

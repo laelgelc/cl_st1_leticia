@@ -1,8 +1,8 @@
-Text ID: t004617
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t001207_gpt.txt
+Text ID: t001327
+Group: human
+Model: human
+File:   corpus/05_human/t001327_human.txt
 
 Score (f4_neg): -1
-Loading words (f4_neg), N=1: awful
-I think it’s possible I’ve gone off quite a few foods just from having been really sick on them. One of the worst times was when I was horribly ill on that camel safari in the Indian desert. We were camped downwind of these incredibly flatulent camels, and everything just tasted awful, even my own gas. All we had to eat was chapatti and a bit of dal, and it all tasted disgusting to me by then. We were sleeping out in the open as well, with dung beetles moving around us in the dark.
+Loading words (f4_neg), N=1: minute
+and it started it it star it he he was getting into it was like a life story you know and and then after I don't know about ten or fifteen minutes he said oh do you want a coffee or something? yeah thank you very much so I thought oh well I know it's a nice sunny day and I'm missing the sunshine but I've got nothing else to do so you know I'll chat with him and he was telling me about all what he used to do how he used to be a colonel in the army

@@ -1,8 +1,8 @@
-Text ID: t000649
-Group: human
-Model: human
-File:   corpus/05_human/t000649_human.txt
+Text ID: t003139
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001434_gpt.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: huge, massive
-and close it off so that the sunlight didn't get on it so these monsters would spawn in this arena and you could just go and fight them and there'd be enough lighting that you'd see and the light the floor would light up as they were these monsters were walking around on it and em people really got behind that and it was a really simple design it was em it was just a dome so it was quite easy to figure out how to do it and the floor was just a circle of red stone so loads of people were really keen to to help out and help me make this and it was fairly close to where everyone was doing their business and building their things and it also from a distance it just looked bloody huge eh I called it the desert dome because there's just this massive sandy desert and then in the middle there's this stone dome just standing there
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: god
+He was telling me about how he’s got this workshop and office at the bottom of his garden, all done out with electricity, heating, even a toilet, and that’s where he works from. He said he’s got everything he needs there, really content, even though his kids keep saying he should move because there’s a few troublesome families round there now. I asked him something, just said to him, “ring a bell?” and straightaway he knew exactly what I meant. He just went, “oh god yeah,” like it all clicked instantly.

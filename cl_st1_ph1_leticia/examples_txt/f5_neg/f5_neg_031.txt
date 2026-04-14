@@ -1,8 +1,8 @@
-Text ID: t001555
-Group: human
-Model: human
-File:   corpus/05_human/t001555_human.txt
+Text ID: t002555
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000850_gpt.txt
 
 Score (f5_neg): -2
-Loading words (f5_neg), N=2: single, full
-the usual like what's this sign mean? What's this speed limit? The the har the worst part is the hazard perception part which is you watch the video and then you have to click when you see a hazard and it only marks you on two and if you have to click within a second to get the full points so if you click a little bit too late you lose all those points and that's quite difficult when I did all the practices for that I failed it every single time but somehow in the actual test I passed it
+Loading words (f5_neg), N=2: set, somebody
+they were handing out these Colgate cloth bags at the show, with Colgate written on them, and inside you got all sorts of stuff – toothpaste, a toothbrush and that sort of thing. I ended up giving mine to somebody as a Christmas present, and she was quite taken with the whole idea. It set her thinking about using that same sort of approach herself, having a stand at the agricultural shows or similar events. It was something she’d never really considered doing before she saw that bag and what they were doing with it.

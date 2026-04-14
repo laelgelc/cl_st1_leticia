@@ -1,8 +1,8 @@
-Text ID: t001561
-Group: human
-Model: human
-File:   corpus/05_human/t001561_human.txt
+Text ID: t002889
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001184_gpt.txt
 
-Score (f6_pos): 3
-Loading words (f6_pos), N=3: bloke, stand, chat
-oh but the funniest thing about that whole night was they had this big fat American man he was about fifty odd or something and he sat there and erm whenever the comedian the compere wasn't it? He'd say blah blah blah blah blah and this American would go that's me and your like everybody would be like what? And er he'd start chatting to him and then I think the compere realised he's a nutter let's not speak to him anymore but this bloke must have he kept standing up saying just loads of stupid things
+Score (f6_pos): 2
+Loading words (f6_pos), N=2: month, pound
+I mean, nan’s basically running out of money to pay for that care home, and I’m starting to wonder what happens when her money’s gone – does it then fall to the next level of family to cover it? The staff there reckon she’s strong enough to go on to about a hundred and five, but she just can’t afford to stay there that long on her own funds. It’s eight, nine hundred pounds a week, something like three and a half thousand a month. She does get some kind of nursing grant, but even so, it’s a huge amount every year.

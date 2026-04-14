@@ -1,8 +1,8 @@
-Text ID: t000135
-Group: human
-Model: human
-File:   corpus/05_human/t000135_human.txt
+Text ID: t002100
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000395_gpt.txt
 
-Score (f3_pos): 3
-Loading words (f3_pos), N=3: fuck, gonna, minute
-so like I get to this hotel right it gets worse this hotel's like a smoking hotel so I get checked into my room and it fucking stinks like new sheets and everything but just that smell of people who have been smoking in the room so I think right I'm gonna go and get some fresh air and I'm gonna go and get some food right? so I walk out and I'm thinking this is an industrial estate I have no idea where I'm gonna find any food and like within five minutes I come across a petrol station so I'm thinking right last resort I'll go in and buy some crisps and some chocolate so I've got food I thought I'll carry on walking I seriously do not encounter another human being like there's nobody walking around this bloody industrial estate after walking about like two or three miles I find this like random Italian restaurant like and it's literally like it's literally like the only restaurant that I've come across and everything else is just like it's just a village it's all residential and then like commercial like it was just
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: huge, thinking
+I feel like my judgment’s really clouded at the moment, and that’s not normally me at all. Usually I’m very decisive, I know what I want and I act on it, but with this I just can’t see things clearly. Inside it’s a bit of a mess; I’m torn between this huge sense of guilt about ending it and hurting you, and at the same time trying to move on and convince myself that it has to end. That internal struggle is what’s making everything so confusing. I’m trying to justify to myself why the relationship needs to end, but because I feel so bad about causing you pain, it’s hard to trust my own thinking, and that’s really unsettling for me.

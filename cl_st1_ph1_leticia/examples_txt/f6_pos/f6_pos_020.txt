@@ -1,8 +1,8 @@
-Text ID: t002145
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000440_gpt.txt
+Text ID: t001533
+Group: human
+Model: human
+File:   corpus/05_human/t001533_human.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: bloke, stand
-we’d been on it all day, just drinking and drinking, and by the evening I was absolutely gone. There’s this other bloke with us, he decides he’s going to be flash and buys this bottle of really expensive champagne, about a hundred and twenty dollars or something stupid like that. At the time he’s looking all right on it, you know, like he can handle it, and I’m the one who’s completely hammered. Someone’s filming us down on the beach, and I just end up properly projectile vomiting all over the sand, really grim. That’s all on video somewhere. He’s still standing there with his fancy bottle, acting fine, and then not that long after, it catches up with him as well. All that champagne he’s just paid for, he ends up throwing it back up on the beach too, pretty much the same as me.
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: pound
+but in the evening you know they have to come back there's a curfew and someone's monitoring so it's more like a a safe house I suppose you could say and of course they can do courses and things within the prison grounds but why not have that why not let them erm do that more and let people earn as well? like just because you're in prison does that mean you shouldn't be able to make a living? because I think this is a problem when they release prisoners they they are given erm like a rail warrant it's called they're given free transport to whatever city they're from in the UK and about forty pounds

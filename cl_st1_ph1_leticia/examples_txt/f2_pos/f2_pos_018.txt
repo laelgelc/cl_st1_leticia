@@ -1,8 +1,8 @@
-Text ID: t001665
-Group: human
-Model: human
-File:   corpus/05_human/t001665_human.txt
+Text ID: t002481
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000776_gpt.txt
 
-Score (f2_pos): 3
-Loading words (f2_pos), N=3: erm, okay, cos
-erm and I said just say thank you and let me pay for just one thing out of everything please and he was like okay then and that's only because erm we'd left the antiques place and I'd chosen this erm and I was going to buy it for myself and he said oh I'll get it for your birthday and I said oh you know I think do you not think sixty pound is a bit excessive for a birthday present really? I said but why don't we go halves then because I would have bought it for myself anyway? no no no I'll pay for it and I said well I I feel a bit uncomfortable actually if you pay pay that much for a birthday gift I I would really appreciate it you'd just let me pay half cos I just think that's a bit
+Score (f2_pos): 1
+Loading words (f2_pos), N=1: odd
+Yeah, I got some odd looks on parents’ day, but most people just called me by my nickname anyway. Loads of people at camp end up with weird nicknames the kids give them. There was this one boy in my bunk who everyone called Skittles. That came from a basketball game we played called knockout – he turned up to it wearing loads of different coloured clothes all at once. He actually won the game, and because he was so bright and multicoloured, everyone just started calling him Skittles after that, and the name sort of stuck.

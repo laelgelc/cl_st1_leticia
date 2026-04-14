@@ -1,8 +1,8 @@
-Text ID: t000524
-Group: human
-Model: human
-File:   corpus/05_human/t000524_human.txt
+Text ID: t002416
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000711_gpt.txt
 
-Score (f2_pos): 3
-Loading words (f2_pos), N=3: wanna, erm, okay
-okay so from there we will just er today what we wanna try and get out of our session is to er provide a planning platform do some brainstorming about ideas and to try and get something out of 's journey to Singapore and how we can tie that into coming to Indonesia sh because she might be able to experience a little bit erm of some of that connection as well when she's erm when she's around but that's more about having a cool holiday and grooving and going diving and stuff like that so
+Score (f2_pos): 1
+Loading words (f2_pos), N=1: chat
+well I’d parked the car and I bumped into one of my old students, you know the one who runs that gospel choir that’s been going for years. She was absolutely bubbling over because they’ve been invited by this really famous person to sing at a big charity show, quite a grand affair by the sound of it. So we just sat there in my car while she told me all about it, really excited, going into all the details. I must have had something on in the car without realising, because by the time she’d finished and I’d gone and done my shopping and come back out, the wretched thing wouldn’t start. The battery had clearly run down while we were sitting there chatting.

@@ -1,8 +1,12 @@
-Text ID: t000473
-Group: human
-Model: human
-File:   corpus/05_human/t000473_human.txt
+Text ID: t002358
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000653_gpt.txt
 
-Score (f3_pos): 3
-Loading words (f3_pos), N=3: fuck, shit, god
-like they are rough as fuck I'm in my killer heels hooker heels people going to work in them you know tottering along the girls with like their boobs hanging out of their work shirts and dr like skirts up here full works for the office I was like holy fuck bleach blond hair like breaking off cos it's that shit I was like oh my god like you look horrendous but where I grew up it was like that I my friends that I've left at home would think that was acceptable so I've moved here and I've been here for three years now and I've kind of got a bit got a bit soft in my own age thinking that the people that live here are are general standard no they're not the farther north you go peterborough is the standard that I should be used to so I think is quite safe and then you hear and you're like what the fuck because no matter how rough the people are and I mean I've told you about people sending for fighter from you would never see that never
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: huge, massive
+yeah everyone properly got into that town in the end, it wasn’t just me and that one keen guy. People started putting up these massive houses all the way along this main street, and down the middle you had all the shared buildings – the forge, the brewery, all the communal stuff – so it felt like a proper little place rather than just random blocks everywhere.
+
+then on the first of December we put up this huge Christmas tree in the middle, but we didn’t decorate it at all, just left it bare. and that actually worked really well, because everyone who logged on would add something – chuck a few decorations on, leave presents underneath it for other people – so it slowly turned into this really nice, collaborative thing.
+
+just off to the side there was this castle someone had built, and the bloke who owned it kept trying to stir up player versus player fights, but nobody was really biting, it never really took off the way he wanted. after a while, though, you did start to see a bit of vandalism creeping in again, and some stealing, which kind of spoiled the whole communal vibe we’d built up.

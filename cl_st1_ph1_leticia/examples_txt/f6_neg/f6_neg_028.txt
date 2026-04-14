@@ -1,8 +1,8 @@
-Text ID: t004825
+Text ID: t003425
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001415_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000015_gpt.txt
 
-Score (f6_neg): -1
-Loading words (f6_neg), N=1: pound
-I rang them and asked to speak to this so‑called escalations team, and was told flatly I couldn’t, they only deal with email. I said that was ridiculous when my emails were being completely ignored, but they still wouldn’t put me through. Then, funnily enough, not long after that phone call, an email appears. And it’s just the same thing again – exactly the same offer as before. They’ll repair or refurbish the watch for twenty‑four pounds, and if we later get a refund they’ll knock the twenty‑four quid off. At that point I got back onto Citizens Advice again, because it was just going round in circles.
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: anyone, everyone
+no I mean obviously class and circumstances do make a difference, I’m not denying that at all, but I still feel like you’ve got to try and do what you think is right, you know, live by your own sense of what matters. ideally everyone would have the same chances, the same kind of opportunities laid out in front of them, rather than it all being decided by money or background. and I really don’t think anyone should feel proud or ashamed of where they happen to be born, or what race or gender they are, or any of that. those things shouldn’t count in the way people are judged.

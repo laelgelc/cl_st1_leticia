@@ -1,8 +1,8 @@
-Text ID: t000134
-Group: human
-Model: human
-File:   corpus/05_human/t000134_human.txt
+Text ID: t003288
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001583_gpt.txt
 
 Score (f3_pos): 2
-Loading words (f3_pos), N=2: guy, gonna
-because I no cos I travelled over there with and we had the Thursday together and then he went off to meet a load of friends cos they were doing a he was doing like a road trip with his mates so he was then meeting some friends to fly over to Vegas and they were gonna do their little road trip so we just flew out together cos it was convenient erm I had a night on my own then before I went to start my tour and so before I went I was like oh I don't wanna be bored like I don't wanna be sat there in my hotel room on a Friday night going oh I'm in New York I'm on my own what do I do? saw that the Yankees were playing and got like a twenty quid ticket and I was like oh yeah I'll go it until I got there that I realised that I had to like travel I had to get the subway out to the Bronx and then you have to walk from this like shitty subway station to to the Yankees game I actually got like I got stopped by a guy before I'd even got into the stadium I was absolutely bricking it on my way back so like he stopped me and he was like I was on my own and he he stopped me and like he was being fairly salacious and I was like
+Loading words (f3_pos), N=2: massive, manage
+So the agency told him he still owed them loads of money, even though he’d been working really hard and doing all these campaigns. He’d been earning a lot and thought he was doing brilliantly, but they kept saying he was in debt. Eventually, after ages, he managed to clear this massive £150,000 debt, and he was expecting them to be like, you know, “well done” or at least a bit celebratory about it. Instead they just turned round and said he now owed another £17,000, because they’d supposedly been spending money on his behalf.

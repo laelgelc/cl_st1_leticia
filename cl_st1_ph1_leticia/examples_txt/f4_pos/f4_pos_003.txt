@@ -1,8 +1,8 @@
-Text ID: t000652
-Group: human
-Model: human
-File:   corpus/05_human/t000652_human.txt
+Text ID: t003368
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001663_gpt.txt
 
-Score (f4_pos): 3
-Loading words (f4_pos), N=3: build, great, set
-yeah yeah it really was so em I found the most obvious place on the map after the last one had been diluted because eh version one point O came out em so I went to the coordinate zero zero and started building this town and there's this eh there's this one guy on the server that was a bit too keen just spent hours and hours and hours playing on it and I just sort of set up the basics and he made it look beautiful we had a communal mine as well which which was really nice and em to to keep the animals as well eh just wanted sort of little fence pens but this guy made a huge huge great barn
+Score (f4_pos): 4
+Loading words (f4_pos), N=4: feel, stick, make, head
+like I know it sounds awful but it’s really hard to complain when he’s working loads, because that’s literally what’s paying for my summer. I’m just swanning about and he’s knackered at work, so I feel like I’ve got no right to kick off about not seeing him. And I hate shouting, I hate making anyone feel bad, especially him. I’m not that kind of girlfriend at all – I’m really laid-back, I don’t get jealous, I don’t sit there going “where are you, who are you with?” or checking up on him. He can go where he wants, see who he wants, and I’m fine with it. That’s why this is doing my head in a bit, because it’s actually really hard for me to say I’m unhappy with it, when I’m usually so chilled about everything. It’s like I’m stuck between not wanting to be a cow and actually wanting a bit more from him.

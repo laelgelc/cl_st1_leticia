@@ -1,14 +1,8 @@
-Text ID: t002362
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000657_gpt.txt
+Text ID: t000492
+Group: human
+Model: human
+File:   corpus/05_human/t000492_human.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: massive, big
-yeah so when I did go back on the server after that break I’d had this idea in my head for ages about doing this absolutely massive tower, like really ambitious, just shooting up into the sky. But then I started thinking it’d be a bit boring if it was just me doing my own big solo thing again, so instead I started setting these little challenges for people, smaller projects that everyone could get involved in.
-
-we were working on one of those and we’d got quite a lot of the structure done when this bloke who reckons he’s an expert with TNT decided he was going to “help” with the digging. he blew out the walls a bit too enthusiastically and basically managed to flood the whole area we were working in. water everywhere, completely ruined what we’d already built.
-
-so after that disaster I just said, look, can we go into creative mode for this bit so we can fix it properly and carry on. they switched creative on and we repaired all the damage and finished what we were doing. and then, because they kind of forgot to turn creative off for me afterwards, I’ve just kept using it since.
-
-with creative mode still on I started putting together these little puzzle challenges, like self‑contained things people can try and solve. I’ve been taking screenshots and videos and sticking them up on Facebook, showing people what I’ve built and inviting them to come on and have a go. it’s turned into this way of using Minecraft less as just a game I play on my own and more as a way of bringing people together, getting friends involved in these creative projects and seeing what they come up with as well.
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: gonna
+good boy okay right so we're all gonna have like these piles of cards in front of us and they're all gonna be face down when it comes to you you've gotta turn it this way out right? so the table sees it before you do not this way like that but this way you put it face down and the next person will put it face down when you've got two symbols that are matching doesn't matter about the colour the symbols have gotta be matching if you and another person have got the same card with the same symbol you've gotta take the totem pole and the person who doesn't take the totem pole when they should has got to collect all the cards that have gone down

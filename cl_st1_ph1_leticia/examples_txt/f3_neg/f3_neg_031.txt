@@ -1,8 +1,12 @@
-Text ID: t001081
-Group: human
-Model: human
-File:   corpus/05_human/t001081_human.txt
+Text ID: t002020
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000315_gpt.txt
 
 Score (f3_neg): -2
-Loading words (f3_neg), N=2: odd, seem
-he rang quite late last night like quarter past eleven I don't know it just seems like an odd time to ring and he didn't get very much sleep em he got he said he got like two hours sleep the previous day I wasn't really listening I was em I had some But he said something about em you know it's been this weekend thing em and he hadn't had much sleep the previous night and em someone one of his housemate's called I presume it's a sort of different area of the country
+Loading words (f3_neg), N=2: fact, okay
+yeah and I mean that’s exactly it, isn’t it, this idea that somehow some of us are “okay” immigrants and some of us aren’t. When I first came out here, and even before, I’d already heard people talking about Syrians, in particular, as if they were all rapists, and that really shocked me. One of my students actually came out with it this week – all these Syrian immigrants coming over here raping women – and it wasn’t said as a question, it was just stated like a fact.
+
+What strikes me is how long that’s been around. You’re saying you’ve felt it more strongly since the new government came in, but I remember hearing that kind of thing before I even moved to Poland, so it’s not new, it’s just become more acceptable to say out loud. And then you and I are here, both immigrants, both “foreign,” but somehow we’re not being lumped in with that stereotype because we’re white, or British, or teaching English, or whatever it is that makes us supposedly “good” for the economy.
+
+I find that really uncomfortable, because if a Syrian from a war zone isn’t welcome here, why on earth should I feel welcome? I’m as much an immigrant as they are, just with a different passport and skin colour.

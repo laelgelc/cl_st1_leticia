@@ -1,12 +1,8 @@
-Text ID: t002732
-Group: profiled_gpt
+Text ID: t004824
+Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t001027_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001414_gpt.txt
 
-Score (f4_neg): -2
-Loading words (f4_neg), N=2: awful, horrible
-I had that really stark moment with it all when we went bowling and then on to play pool. I just felt utterly boring, like I had nothing to offer, and I ended up leaving early. At the time it felt horrible, but I can see now it was probably part of the whole detox thing, my system and my head just adjusting.
-
-I know I *can* enjoy parties sober – I’ve done it before, I’ve had good nights without drinking – but in that particular moment I just couldn’t. It was like there was a wall between me and everyone else.
-
-More and more, I’m just not interested in the whole drinking scene anyway, especially when it ramps up into those trays of shots. That escalation feels really off-putting now. In a strange way, drugs almost seem better on that front, because at least you don’t wake up with that awful hangover the next day.
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: minute
+So just before Christmas we used one of the Citizens Advice template letters, gave them thirty days to respond and asked them to acknowledge by email. Nothing. I chased them again on the 29th, same request, still nothing. So on Wednesday I rang them, and you said that was Friday, didn’t you. They told me they could only deal with escalations by email, and I said that wasn’t acceptable when they were ignoring my emails. Then, literally minutes after I’d kicked off on the phone, an email arrived: exactly the same offer – we pay £24 for repair, or they send the watch to the manufacturer for “refurbishment” and knock that cost off any refund. Such a hassle.

@@ -1,8 +1,8 @@
-Text ID: t000398
-Group: human
-Model: human
-File:   corpus/05_human/t000398_human.txt
+Text ID: t002499
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000794_gpt.txt
 
-Score (f2_pos): 3
-Loading words (f2_pos), N=3: er, erm, cos
-I mean said to me on the phone when she phoned up she phoned me up and she said oh I'm she said hello well she never rings me on my mobile and I said oh hello are you alright? she said oh well she said erm just ringing you to let you know we're not going tonight cos I'd offered to pick them but she said erm she has to sort out with his football so but thank you for the offer type thing er we're not going tonight and I said why? she said well she said we're having a few problems with I said oh dear and she you know said a few things and she said erm it it's probably our own fault but she said she's done things in the past and we've allowed her to get away with it so she said it's probably our fault and I said to her I said well I said I don't want to interfere don't get me wrong but I said but why are you not going?
+Score (f2_pos): 1
+Loading words (f2_pos), N=1: chat
+so like before the party he’d been messaging me loads, being all flirty, and then at the actual party we barely spoke. it was really weird, ‘cause he’s going out with the girl who was hosting it, and he’d been nominated for “sexiest man” and everything, so I kind of expected we’d at least chat a bit. we only ended up sitting outside together for a little bit, and we were just talking about how he couldn’t really be voted for properly ‘cause he was sleeping with the host, so it was a bit unfair. it wasn’t even a long or deep conversation, just that kind of jokey, awkward chat. then he didn’t win the “sexiest man” thing anyway, which was quite funny after all that build-up, and after that there was pretty much nothing between us the rest of the night. I just left without really speaking to him again.

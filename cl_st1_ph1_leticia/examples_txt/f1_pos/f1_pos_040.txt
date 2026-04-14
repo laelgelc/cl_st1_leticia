@@ -1,8 +1,8 @@
-Text ID: t002183
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000478_gpt.txt
+Text ID: t001540
+Group: human
+Model: human
+File:   corpus/05_human/t001540_human.txt
 
-Score (f1_pos): -1
-Loading words (f1_pos), N=1: f1 neg words (N=1): everything
-Yeah, my mate who used to teach languages at our uni in Hull really told me off, actually. She was like, “You never came to my classes, you’re screwed,” and all that. But when we were out there, it didn’t work out that way at all. I could understand everything people were saying in Italian, then I’d tell him in English what they’d said, and he’d answer back in Italian. I’d listen to him talking away and not understand a word of his replies.
+Score (f1_pos): 4
+Loading words (f1_pos), N=4: build, change, more, way
+some do they're getting better they're definitely travelling more and travelling more is opening up their eyes to ways other people live and what's going on so the society I come back to England and I say oh they've built a new school or something but really England's changing very slowly it's not it's not really changing like is changing very very quickly and they like they don't leave any buildings to stand every time a building hits forty years old they knock it down and build something else so like nothing they can't understand when I say that I grew up in a house that was you know they just find that and like there's a church down the road that's like six hundred years old they just they can't believe it nothing in their country is older than forty years old

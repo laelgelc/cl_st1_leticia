@@ -1,8 +1,8 @@
-Text ID: t002705
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001000_gpt.txt
+Text ID: t000421
+Group: human
+Model: human
+File:   corpus/05_human/t000421_human.txt
 
 Score (f5_pos): 1
-Loading words (f5_pos), N=1: reason
-yeah but it’s not like that’s evenly spread across the globe or anything – it’s way lower in Europe and way higher in Asia. The reason they reckon there are so many is because he and then his son Kublai Khan ruled this massive stretch from Mongolia all the way to Eastern Europe, and they’d just take the wives of the men they’d conquered. If you think about it, a bloke could theoretically father, what, about three kids a day if he was really going for it. So that’s basically how Genghis Khan supposedly ended up with so many children.
+Loading words (f5_pos), N=1: awful
+well do you know what? I think it's amazing that so many of them are still alive and I think that it's almost like they lived through such a horrorhorrible thing that they wanted to kind of make the best of it and have managed to have a kind of a happy fulfilled life afterwards but lots of people who were in the First World War never spoke about what the things they terrible things they saw cos they couldn't really deal with it and they people didn't really understand how to help them or work out what was wrong with them and cos they it's c something called post-traumatic stress when you finish being in a war and then all the awful things you see you kind of your brain needs to process them and work them out they didn't really recognise that so lots of them ended up in hospitals but they weren't really treated properly it was very sad

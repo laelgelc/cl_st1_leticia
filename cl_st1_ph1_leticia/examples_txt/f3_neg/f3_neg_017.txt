@@ -1,8 +1,8 @@
-Text ID: t002340
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000635_gpt.txt
+Text ID: t000417
+Group: human
+Model: human
+File:   corpus/05_human/t000417_human.txt
 
 Score (f3_neg): -2
-Loading words (f3_neg), N=2: sense, pick
-I was thinking we should actually ask Uncle Brian and a few of the others to help out on the day, you know, with the practical bits. We could say properly, “Could you do us a favour?” and get them to bring out some of the food or grab things from the oven. People usually end up helping anyway when they’re bored, milling about with nothing to do. If we give them proper little jobs, it’ll make things run more smoothly. It makes sense to pick the ones who know the house well, so they’re not rummaging around lost, and people Mum and Dad are happy to have wandering in and out of the kitchen and that.
+Loading words (f3_neg), N=2: fact, okay
+but I've often found I said to my first year students whether they were mature students or first year students put your hand up when you're really genuinely confused okay or genuinely excited anything that's going on within you in terms of like you feel something put your hand up in a right kind of breath of you know pause and just say but what are the mismisconceptions about this? that gets people thinking even if you don't know fuck all and if you know shitloads because everyone's got a contribution to make I think the misconception about human geography is about this I think the misconception is about somebody's sitting there going what is a misconception? but they'll learn because you'll be having a three four five way dialogue so they'll go the misconception is that I've actually got this wrong I was tell you about that earlier but I think that's a really good way of rather than saying tell me what I want to hear you're actually asking the lecturer to do the reverse of that is like tell me what I don't want to hear tell me something that I don't actually understand and I think for you that would be great because you need challenging you need to not be bored with the fact that a lot of people you're studying with are gonna know nothing about this

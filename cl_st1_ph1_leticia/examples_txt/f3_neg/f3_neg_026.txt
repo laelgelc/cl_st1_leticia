@@ -1,12 +1,12 @@
-Text ID: t004864
+Text ID: t005017
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001454_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001607_gpt.txt
 
-Score (f3_neg): -2
-Loading words (f3_neg), N=2: sense, pick
-It really just depends when the jobs come in, you know. It all goes in cycles. In the water industry they work on this four‑year cycle, so you’ll have a period where everyone’s planning and then all the tendering goes on, and then they’re buying, and then after that there are cutbacks. So you get these busy spells and then suddenly it all goes quiet for a bit.
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: reason
+yeah Matt Haig followed me on Twitter, which is the only reason I followed him back really, because I haven’t actually read any of his books yet, but I really want to. I keep meaning to pick one up. He tweets quite a bit about dealing with depression and stuff, and lately he’s been talking a lot about all the abuse he gets on Twitter.  
 
-When it went quiet last time, they let people go because there just wasn’t the work coming through. It made sense at the time, because you can’t keep everyone on when there’s nothing for them to do. But now, of course, all the jobs have started coming in again and there’s nobody left to actually do them.
+some of it’s from people he actually knows, which is just awful. it’s one thing getting random trolls having a go, but when it’s people you know in real life, that must feel so much worse. he’ll tweet something quite normal and then suddenly there’s this pile-on in the replies, and you can tell it really gets to him sometimes.  
 
-So he’s ended up having to go himself and do things that really aren’t what you’d expect someone at his level to be doing. The managing director shouldn’t be the one offloading pipes, standing there checking pipe numbers and all that. That’s the sort of thing you’d normally have staff doing, not the MD. But because they got rid of people when it went quiet, and then the work’s picked up again, there’s no one else to send, so he’s having to muck in with that side of it now.
+it just makes me think how horrible it must be for people who are properly in the public eye, where everything they tweet is scrutinised and picked apart. like, every single word you put out there is analysed and judged and people are just waiting to jump on you. I can’t even imagine having to think that hard about every tweet, knowing it might blow up and get you loads of abuse. it must be exhausting and really, really grim.

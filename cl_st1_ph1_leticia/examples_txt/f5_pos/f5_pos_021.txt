@@ -1,10 +1,12 @@
-Text ID: t004414
+Text ID: t005017
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001004_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001607_gpt.txt
 
-Score (f5_pos): 1
-Loading words (f5_pos), N=1: reason
-I don't have other adults around me, really, and that’s a big part of why I think the way I do about having children. It probably sounds completely crazy, but I honestly believe everyone should be sterilised by default, and then you’d have to apply and meet certain criteria before being allowed to have a child. 
+Score (f5_pos): 4
+Loading words (f5_pos), N=4: awful, single, horrible, pick
+yeah Matt Haig followed me on Twitter, which is the only reason I followed him back really, because I haven’t actually read any of his books yet, but I really want to. I keep meaning to pick one up. He tweets quite a bit about dealing with depression and stuff, and lately he’s been talking a lot about all the abuse he gets on Twitter.  
 
-Look at how it works with other things: you need to pass tests and prove you’re responsible to drive a car, and the process for adopting a child is insanely rigorous, with endless checks and assessments. Yet to have your “own” child, there’s nothing like that at all. I find that absurd. The only reason it’s like this, as far as I can see, is because it’s just so easy, biologically, to have a child.
+some of it’s from people he actually knows, which is just awful. it’s one thing getting random trolls having a go, but when it’s people you know in real life, that must feel so much worse. he’ll tweet something quite normal and then suddenly there’s this pile-on in the replies, and you can tell it really gets to him sometimes.  
+
+it just makes me think how horrible it must be for people who are properly in the public eye, where everything they tweet is scrutinised and picked apart. like, every single word you put out there is analysed and judged and people are just waiting to jump on you. I can’t even imagine having to think that hard about every tweet, knowing it might blow up and get you loads of abuse. it must be exhausting and really, really grim.

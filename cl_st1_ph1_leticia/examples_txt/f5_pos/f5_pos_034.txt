@@ -1,8 +1,8 @@
-Text ID: t002922
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001217_gpt.txt
+Text ID: t001348
+Group: human
+Model: human
+File:   corpus/05_human/t001348_human.txt
 
-Score (f5_pos): 1
-Loading words (f5_pos), N=1: reason
-I did say to him afterwards, I apologised that there wasn’t any reading‑in work for him in the end, and I told him I’d thought he was going to help herd people in. Apparently, according to , he’d been quite happy socialising while he was “meeting and greeting” everyone. Then he turned round and, in this really sarcastic way, thanked me for taking his job away from him, saying that was the only reason he’d turned up. I just thought, well, that’s not really fair, is it, given how the evening actually went.
+Score (f5_pos): 2
+Loading words (f5_pos), N=2: horrible, pick
+she wasn't in the office so I picked up erm and I almost thought it was a joke because his voice was so sort of hoarse and funny erm and I can't remember the he he'd never rung up before so I didn't actually know what his voice sounded like you know erm but but he was ringing something to do with a hospital appointment so she sort of which was why he'd rung which he wouldn't normally have done when she was at work and and er so she sort of told me a little bit but at that point I'm not even sure he'd been diagnosed but it was really really fast you know they'd been he'd had a bit of a sore throat when they went on holiday and then when and it didn't get any better while he was on holiday so eventually he went to the doctor and and sort of three months later he was dead it was that sort of thing but it is horrible at the end she said he just he was just almost like a skeleton like because he couldn't swallow

@@ -1,8 +1,8 @@
-Text ID: t001702
-Group: human
-Model: human
-File:   corpus/05_human/t001702_human.txt
+Text ID: t003065
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001360_gpt.txt
 
 Score (f4_neg): -1
-Loading words (f4_neg), N=1: awful
-they went out er and and went out there for Christmas and so did mum and then my mum got there a few days before and and she said it was lovely was fine and I mean and she said the day and arrived she just turned and then had the most awful Christmas she was screaming at she was spending half her time in her bedroom everything they did was wrong erm was just spent the whole time upstairs trying to calm her down and dad was and he was sort of torn between the two
+Loading words (f4_neg), N=1: minute
+I put this toffee sponge in the microwave for something ridiculous like twenty minutes, so the toffee went completely molten and was bubbling away. When I took it out, a big blob of the toffee dropped straight onto my hand and basically encased three of my fingers. It sort of formed this shell, so the outside hardened really quickly but the inside was still absolutely molten. I ran straight to the tap and had freezing cold water on it, trying to get it off, but all that did was harden the outer layer even more.

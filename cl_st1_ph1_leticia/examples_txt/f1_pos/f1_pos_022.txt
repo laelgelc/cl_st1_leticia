@@ -1,8 +1,14 @@
-Text ID: t005082
+Text ID: t004333
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001672_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000923_gpt.txt
 
-Score (f1_pos): -1
-Loading words (f1_pos), N=1: f1 neg words (N=1): everything
-Before mobile phones, you just had the phone at home, or you had to find a phone box in the street if you needed to ring somebody. So you couldn’t just text or call whenever you liked. If you were going to meet someone, you had to make really fixed plans in advance, like, “I’ll meet you outside the cinema at seven o’clock,” and that was it. You couldn’t change it at the last minute, because once you’d left the house there was no way to get hold of each other. Whereas now, with mobiles, people say things like “I’ll text you when I’m there,” and everything’s much more vague and flexible.
+Score (f1_pos): 7
+Loading words (f1_pos), N=7: build, become, sense, idea, more, own, way
+Right, so the way I’m picturing it is that we literally start with just one person on camera. We sit down with them and talk through how we know each other, what we’ve got in common, what we’re interested in – just set up that sense of a real, existing connection.
+
+Then, at the end of that chat, we ask them to nominate someone they’re connected to – a friend, a colleague, a lecturer, whoever – that they think we should talk to next. That next person becomes the focus of the following video. We repeat the same pattern: how they know the previous person, what they share, what they’re into, and then they, in turn, nominate the next person.
+
+If we keep doing that, we end up with this little cluster of people, all linked in some way, and the whole thing becomes a kind of visual map of how networks actually form – whether that’s online, in physical spaces, or in more virtual communities. There’d be a main character whose “journey” we loosely follow, and then these secondary characters who branch off but still feed back into the overall story.
+
+I’d like it to build toward a concrete example: say our original person has an idea, and through this chain of contacts they eventually sit down with a lecturer. The lecturer recognises that what they’re talking about is actually a fantastic idea for an undergraduate research project. The key point is that the original person wouldn’t have got to that opportunity on their own; they only reach it through that physical connection, through the network we’ve been tracing on camera.

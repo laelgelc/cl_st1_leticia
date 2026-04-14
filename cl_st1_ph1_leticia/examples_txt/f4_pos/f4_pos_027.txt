@@ -1,14 +1,14 @@
-Text ID: t002039
-Group: profiled_gpt
+Text ID: t004664
+Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000334_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001254_gpt.txt
 
-Score (f4_pos): 3
-Loading words (f4_pos), N=3: build, become, somebody
-well I I think a lot of what you’ve been saying is right, really. It does feel as if those natural freedoms we took for granted are being chipped away bit by bit. You see it everywhere now – all this surveillance, all the government snooping, and it’s not just here. The Americans are at it, we’re at it in the UK, and then there’s the whole business with CCTV cameras on every corner. You can’t move without feeling you’re being watched or recorded by somebody, somewhere.
+Score (f4_pos): 4
+Loading words (f4_pos), N=4: stick, clear, carry, make
+I do genuinely find that whole system really interesting, partly because it gives the director of studies such a clear window into what’s going on in every classroom. If all the teachers are using the same layout on the board, the same way of presenting vocabulary and aims, then when a student comes to complain about a particular teacher, the director actually has something concrete to go on. They know what’s supposed to be happening in every lesson, so they can say, “Well, this is how it should look,” and check whether that’s happening or not.
 
-At the same time, though, for all that, we’re still relatively lucky compared with some parts of the world. If you look at somewhere like China, for instance, the level of control there is on a completely different scale. They don’t just watch you, they really clamp down on what people can actually do in public. You can’t just have a big public gathering there in the way you could here; they’re very tightly restricted, monitored, broken up if they’re not approved. The state keeps such a firm grip on people’s movements and on any sign of dissent.
+Where they are, it was all put in place through negotiation with the permanent teachers, which makes sense if you’re there all year and you’ve got a stable staff. Everyone can sit down, talk it through, agree on where the vocabulary goes, what colours to use, all of that.
 
-What makes it interesting, and a bit unpredictable, is that in China people’s expectations of freedom are starting to rise. As more people see what life is like elsewhere, and as they become more aware, they begin to want more say, more space to speak and to assemble. That sort of rising expectation can’t be bottled up forever. It’s the kind of thing that, over time, can lead to real upheaval – even revolution – if it goes on long enough without any outlet.
+But at a summer school, that kind of process just isn’t really possible. People are in and out, it’s short-term, and you don’t have the luxury of weeks of discussion. So I’m thinking that if I do try to bring some of those ideas in, it’ll have to be more of a top‑down thing: “This is how we’re doing it this summer.”
 
-But at the moment, the government there still has extremely tight control. They’ve built a whole system designed to keep a lid on those pressures – surveillance, restrictions on gatherings, all of that. So you’ve got this tension: on the one hand, a population whose sense of what freedom ought to look like is slowly expanding, and on the other, a state that’s determined to keep everything firmly in hand. How that plays out in the long run is hard to say, but it does underline how, for all our complaints about being watched here, there are places where the screws are turned much harder.
+I’m not entirely convinced the visiting staff from the London school will actually stick to it, though. I can imagine them nodding and then just carrying on as they always have.

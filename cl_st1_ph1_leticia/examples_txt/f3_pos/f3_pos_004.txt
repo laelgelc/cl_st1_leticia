@@ -1,8 +1,8 @@
-Text ID: t000978
-Group: human
-Model: human
-File:   corpus/05_human/t000978_human.txt
+Text ID: t002474
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000769_gpt.txt
 
 Score (f3_pos): 3
-Loading words (f3_pos), N=3: shit, guy, gonna
-yeah he joked at me I think what it wa I can't remember what it was he's we're in a war we're er warming up before training of like before Christmas and he said summat about being embarrassed cos I knocked him off balance or something and I started laughing and literally just got me arm and just went like that and threw him and I was like are you having a laugh? cos he weighs nothing and I think he just thought that I was in the same boat as him but I'm light but I'm not wweak but erm yeah the I dunno who was right right wing back but yeah these guys the three slowest centre backs I've ever seen like is probably about as pacey as a regular centre back at this standard but he can't judge a ball and doesn't know what he's doing so this ball's coming down it's dropping I'm thinking right a proper centre back's just gonna head that away easy head it away or bring it down do something with it he goes to it and then goes shit no backs off
+Loading words (f3_pos), N=3: huge, massive, manage
+it was quite entertaining really, they were absolutely mad. there’s this picture I remember, of one of them in this massive room where the whole back wall was just covered in these huge square storage units. they filled the whole space, stacked up to like ten or twelve feet high, all meant for the kids to stick their clothes and belongings in. they had this big rule that kids weren’t allowed to climb them at all. and then at one point, they came back in and there was this one child just sitting alone right on the top, and nobody had any idea how he’d managed to get up there.

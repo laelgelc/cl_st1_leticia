@@ -1,12 +1,8 @@
-Text ID: t002390
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000685_gpt.txt
+Text ID: t000603
+Group: human
+Model: human
+File:   corpus/05_human/t000603_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: bloke, stand
-yeah so we were out this one night, me and my mate, and we ended up bumping into this group of lads. It was really weird ’cause they were way more like “alright, alright” with me when I was with her, like proper making a fuss, whereas normally they’re not that bothered. You could just tell the dynamic changed ’cause I was stood with her.
-
-Then at one point, this one lad just suddenly grabbed my face and tried to kiss me. I turned my head so he only got my cheek, like made it into a sort of cheek kiss instead, ’cause I wasn’t having that. Another bloke clocked the whole thing, saw exactly what happened. Later on, that same lad came back over to me and he was being really tactile – touching my face, leaning in and whispering in my ear, putting his hand on my waist and all that.
-
-And then, out of nowhere, he starts going on about this other girl, you know, saying he “knows what she’s like” in this really pointed way. It was so obvious he was basically saying he’d slept with her, like he wanted everyone to know. It was like he was wearing it as a badge of honour or something, bragging about it rather than just quietly saying, “oh by the way, I’ve been with your girlfriend” or whatever. It wasn’t even subtle, it was just really blatant and made the whole thing feel even more awkward.
+Loading words (f6_pos), N=2: month, pound
+yeah it's really nice to see actually cos for ages he was just like properly squirrelling money away like cos he pays a little bit of rent at home but not a lot and he doesn't have a lot of outgoings so he was saving like five hundred pound a month just like literally squirrelling it away bef like before he knew it he had like fifteen grand and he was like oh I've got a deposit for a house blah blah blah and I was like that's great but like are you sure that's what you want? and like since going to Manila I think he's just realised that that's not what he wants like

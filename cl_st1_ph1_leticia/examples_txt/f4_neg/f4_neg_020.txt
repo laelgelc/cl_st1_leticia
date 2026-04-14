@@ -1,8 +1,8 @@
-Text ID: t005010
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t001600_gpt.txt
+Text ID: t001151
+Group: human
+Model: human
+File:   corpus/05_human/t001151_human.txt
 
 Score (f4_neg): -1
-Loading words (f4_neg), N=1: horrible
-well you know this bloke I know who does up flats and things, he’s always finding stuff people have just left behind, really odd bits and pieces, and one time he’s up in this loft and there’s this bottle of gas just sitting there, like someone’s forgotten it, and then another time he comes across this carrier bag absolutely full of porn, just dumped. so he passes this bag of porn on to me, and I’m going through it and there’s this one really extreme thing in there, it’s this huge, really not very attractive Eastern European woman in this horrible floral dress, just sitting there masturbating, and I’m looking at it thinking, who on earth would want to watch this, I just can’t believe there’s actually a market for that sort of thing.
+Loading words (f4_neg), N=1: minute
+ye the grammar's really bad religions youth and active citizenship EU integration and how joining the EU would be good or not lunch and then in the afternoon meet with volunteers in Zid and walking tour true through old part of Podgorica day two workshop on the freedom of journalism visit one newspaper or TV station in the afternoon interviews with some political analysis and journalists day three a democratic workshop topic on human rights introduction working in small groups planned visit of the guest we will do our best to provide the participants with an opportunity to talk with a guest either an MP or representative of the UK embassy in Montenegro about subtopics covered during the workshop each group will have ten to fifteen minutes to interview the guest or to discuss about subtopic visiting the parliament of Montenegro tour of the building er during the visit participants will have the opportunity to get familiar with the parliamentary democracy in Montenegro through interactive methods then presentation and evaluation free in the afternoon day four visit of the Catholic church discussion with people engaged in Don Bosko centre visit of an orthodox cathedral discussion with priest in cathedral er excursion visit the monastery out of city Ostrog day five visit the Madras Muslim school and cultural centre in Dinosa a village near Albanian border visit the gymnasium in Tuzi and mani municipality with majority of MMuslim and Catholic Albanians workshop with students joint lunch excursion for elderly part of group vine roads dinner on the lake day six excursion visit the seaside beach Budva and Kotor

@@ -1,8 +1,8 @@
-Text ID: t002295
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000590_gpt.txt
+Text ID: t000454
+Group: human
+Model: human
+File:   corpus/05_human/t000454_human.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: huge, massive
-we were in this sand oasis in peru right and we suddenly felt this really strong tremor go through everything and it was weird because you’re basically sitting in this massive bowl of sand with these huge dunes all around you and all i could picture was the whole lot just sort of giving way and collapsing in on us like the sides just sliding down and filling up the hole we were in it was a proper freaky moment actually because you’re just stuck there thinking if this keeps going there’s nowhere to run you’re literally at the bottom of a sandpit and that really scared me
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: gonna
+I'm sorry like I don't have time to make them some of my problem like before even asking me like I hadn't even gotten back to France at that point when they had the booking for these people coming in saying yeah we are gonna like put us kids in school for a year and see how it goes in France and like naming the schools and stuff before I even knew that there was going to be that long term tenant before they even aske my mum even asked me if I was okay with it she sent a message to tthis woman like saying yeah will be help h will be happy to come over every night and give tutoring she'll give so much advice cos she's lived through all of this kind of stuff and I was just like no I'm sorry like not to sound selfish but when I moved over there there was no one there

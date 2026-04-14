@@ -33,141 +33,193 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac1	SD fac1
-group	human	1705	-0.60469208	0.84321458
-group	profiled_gpt	1705	-1.07507331	1.06930899
-group	unprofiled_gpt	1705	-1.04868035	1.04728565
+group	human	1705	0.57008798	0.84887197
+group	profiled_gpt	1705	1.04105572	1.15904437
+group	unprofiled_gpt	1705	1.01994135	1.15808091
 
 === FACTOR LOADINGS (f1_pos) ===
-variables loading on this pole = 1
-um (1.71)
+variables loading on this pole = 15
+build (.75), become (.69), sense (.55), (fact (.51)), change (.46), moment (.38), (huge (.37)), idea (.37), more (.37), own (.36), different (.35), way (.35), plan (.32), (clear (.31)), (reason (.30))
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f1_pos_001.txt (text ID t000094) =====
-Text ID: t000094
-Group: human
-Model: human
-File:   corpus/05_human/t000094_human.txt
+===== EXCERPT: f1_pos_001.txt (text ID t003206) =====
+Text ID: t003206
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001501_gpt.txt
 
-Score (f1_pos): 1
-Loading words (f1_pos), N=1: um
-er when we were having lunch once after we'd finished doing some business and we just um had a bite quick bite to eat he told me that er each of the rail companies had to have this uniform insurance you know had to c er had to comply with all the requirements that er we'd set down and er like all insurance it had to be renewed you know they were annual contracts and there was a procedure so that the um at specified times the rail companies whoever they are whichever rail company it was had to provide information at certain times and they didn't they missed a date and er I was worried because um you know if there was a problem with the renewal and there was an accident you know the sce the scenario that I described a little while ago could er could arise you know
+Score (f1_pos): 8
+Loading words (f1_pos), N=8: build, become, sense, change, more, different, way, plan
+well when the children were about six and seven we moved again, and that was when I went to another university and settled into what became quite a long stretch there. By that stage I’d done a few different institutions, so I had a fairly clear sense of how a careers service could be organised, and I went back into a more standard careers adviser role before I ended up managing the whole thing.
 
---- Loading words for this example (pos): um
+In that set‑up, each of us as advisers had what we called a portfolio of academic departments. So you didn’t just sit in a central office waiting for random students to turn up; you were linked to, say, engineering or history or whatever it might be, and you were expected to get to know that world. You built relationships with the academic staff in those departments, talked to them about what their students were like, what employers tended to be interested in them, and what particular issues cropped up. Over time you became “their” careers person, which made it easier for students to see you as part of their course rather than some bolt‑on.
 
+In some departments that relationship went quite a long way. They would actually fund us to deliver taught careers modules that were formally assessed as part of the degree. So you might have a second‑year module on employability or professional development, timetabled like any other class, with assignments and marks that counted. In other departments it didn’t go that far, but we were still expected to provide a programme of support.
 
-===== EXCERPT: f1_pos_002.txt (text ID t000091) =====
-Text ID: t000091
-Group: human
-Model: human
-File:   corpus/05_human/t000091_human.txt
+Whatever the arrangement, there were always two main strands to what we did. One was individual guidance – one‑to‑one appointments where a student could come and talk about their plans, get feedback on applications, practise interviews and so on. The other was group sessions, which we ran within the departments or centrally, covering the core topics that almost everyone needs.
 
-Score (f1_pos): 1
-Loading words (f1_pos), N=1: um
-the situation so they were almost like okay that's the final straw done deal and um he was one of the guys who was in the who was er there was two er the main editor and him er yeah and it it was just er it was quite bitter at the time and it was just such I was so devastated and I felt like oh it was such a such a great opportunity but I was er always I planned I was gonna do er do five years there and er I'd still be there now and I realize some of the things I I've sacrificed
+Those core topics were things like how to market yourself effectively – so CVs, covering letters, application forms – and how to find employers and opportunities in the first place. We did a lot on interviews and on the various selection tests that employers use, and we spent time on networking, because who you know and how you approach people can make quite a difference. We also tried to encourage what we called creative job hunting, getting students to think beyond the obvious big graduate schemes and to look at smaller organisations or less traditional paths.
 
---- Loading words for this example (pos): um
+On top of that core, we were always adding extra sessions in response to what was happening in the job market at the time. If there was a shift in how employers were recruiting, or new kinds of tests, or a sector that was suddenly expanding or contracting, we’d put something on to address it. So the work was a mixture of having a standard offer and then tweaking it constantly as the outside world changed.
+
+--- Loading words for this example (pos): build, become, sense, change, more, different, way, plan
 
 
-===== EXCERPT: f1_pos_003.txt (text ID t000350) =====
-Text ID: t000350
-Group: human
-Model: human
-File:   corpus/05_human/t000350_human.txt
+===== EXCERPT: f1_pos_002.txt (text ID t002039) =====
+Text ID: t002039
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000334_gpt.txt
 
-Score (f1_pos): 1
-Loading words (f1_pos), N=1: um
-it'd be good yeah yes there are and the the apple trees that gr and the fruit trees that grow along the wall um they're a very good idea because I mean we've got these apple trees and they're very intermittent in what they produce um most of our apples this year are from um were from the tree that's on the right which is golden delicious but um the quality for for a golden delicious apple it's not the quality wasn't very good uh but there were hardly any on the um the James Grieves which are good qual when you get those those are superb quality very big um it's a matter of timing the picking before um before the birds and the s grubs get in it uh and before it falls off but allowing them to ripen I mean we had a superb um crop of apples last year cooking apples last year and we gave loads of them away and uh you had a lot didn't you? Um but um but this year we had hardly any from that tree
+Score (f1_pos): 7
+Loading words (f1_pos), N=7: build, become, sense, moment, more, different, way
+well I I think a lot of what you’ve been saying is right, really. It does feel as if those natural freedoms we took for granted are being chipped away bit by bit. You see it everywhere now – all this surveillance, all the government snooping, and it’s not just here. The Americans are at it, we’re at it in the UK, and then there’s the whole business with CCTV cameras on every corner. You can’t move without feeling you’re being watched or recorded by somebody, somewhere.
 
---- Loading words for this example (pos): um
+At the same time, though, for all that, we’re still relatively lucky compared with some parts of the world. If you look at somewhere like China, for instance, the level of control there is on a completely different scale. They don’t just watch you, they really clamp down on what people can actually do in public. You can’t just have a big public gathering there in the way you could here; they’re very tightly restricted, monitored, broken up if they’re not approved. The state keeps such a firm grip on people’s movements and on any sign of dissent.
 
+What makes it interesting, and a bit unpredictable, is that in China people’s expectations of freedom are starting to rise. As more people see what life is like elsewhere, and as they become more aware, they begin to want more say, more space to speak and to assemble. That sort of rising expectation can’t be bottled up forever. It’s the kind of thing that, over time, can lead to real upheaval – even revolution – if it goes on long enough without any outlet.
 
-===== EXCERPT: f1_pos_004.txt (text ID t000348) =====
-Text ID: t000348
-Group: human
-Model: human
-File:   corpus/05_human/t000348_human.txt
+But at the moment, the government there still has extremely tight control. They’ve built a whole system designed to keep a lid on those pressures – surveillance, restrictions on gatherings, all of that. So you’ve got this tension: on the one hand, a population whose sense of what freedom ought to look like is slowly expanding, and on the other, a state that’s determined to keep everything firmly in hand. How that plays out in the long run is hard to say, but it does underline how, for all our complaints about being watched here, there are places where the screws are turned much harder.
 
-Score (f1_pos): 1
-Loading words (f1_pos), N=1: um
-yeah oh I know ridiculous for the greenhouse yeah beetroot's b I tell you uh you get good ideas going round um garden centres round the um the kitchen gardens you get lots of tips then cos you can see that you can grow beetroots and then in between them you can put a carrot uh you can put something in between them that doesn't need as much space you get loads of good ideas by going round those um the Women's Institute often do a garden and you get uh you can get ideas for growing all sorts of things
-
---- Loading words for this example (pos): um
+--- Loading words for this example (pos): build, become, sense, moment, more, different, way
 
 
-===== EXCERPT: f1_pos_005.txt (text ID t001572) =====
-Text ID: t001572
-Group: human
-Model: human
-File:   corpus/05_human/t001572_human.txt
+===== EXCERPT: f1_pos_003.txt (text ID t002489) =====
+Text ID: t002489
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000784_gpt.txt
 
-Score (f1_pos): 1
-Loading words (f1_pos), N=1: um
-some pretty good there was a couple of um it was all r it was all amateur you know it's um there was er er three girls or women three there was one young girl the the one at the e right at the end she was a seventeen year old girl who was a really good singer I thought and she was very pretty too and then there was a girl th there were er they were semi-pros these were these the two other one they were semi-professional they'd done you know they'd done paid work s singing sort of Mariah Carey type stuff and that you know and er er what's that er what's that new girl um that's just won all the awards? Er Adele
+Score (f1_pos): 6
+Loading words (f1_pos), N=6: sense, change, moment, idea, way, plan
+No, it’s still quite a long way off, so I don’t think it’ll be the inauguration of the new space at all. They can’t really start borrowing anything until there’s a very clear idea of what the exhibition is actually about, so everything’s a bit on hold in that sense. For the moment I’m just working on the plan on the computer, trying to get this up properly, maybe change some of the titles, and then open it all in Illustrator so I can lay it out the way I want.
 
---- Loading words for this example (pos): um
-
-
-===== EXCERPT: f1_pos_006.txt (text ID t001705) =====
-Text ID: t001705
-Group: human
-Model: human
-File:   corpus/05_human/t001705_human.txt
-
-Score (f1_pos): 1
-Loading words (f1_pos), N=1: um
-um but you know that was fairly standard Magnum fair but then he dropped her off at her house and um like the nice twin sister he dropped her off at her house and um then you re like y you you sort of had a view of like from behind like a wall like that so you could see them so there was someone in the house and you're like oh my God And then you left her there in the house um and sh and then the end er so it ended with her ringing him going I think I've k er I think I've killed someone can you come round and like help? Um and you were like oh my God um but they search the house and there's no trace of any blood any body anything at all and it was like uh what's happened? You know um and it kind of oh you know the tension ramped up and ramped up and then there's a scene you know the per er the er you c you knew there was someone in a cupboard watching Magnum in the shower through this cupboard and it was properly scary and horrible um but then it transpired just to make matters worse that the the other twin the nasty twin well the the the second twin sister had actually been killed when they were kidnapped and this other the first twin had multiple personality disorder and had been sort of doing both of them and it was just h really horrible er you know and sort of quite dark um but not at all
-
---- Loading words for this example (pos): um
+--- Loading words for this example (pos): sense, change, moment, idea, way, plan
 
 
-===== EXCERPT: f1_pos_007.txt (text ID t000089) =====
-Text ID: t000089
-Group: human
-Model: human
-File:   corpus/05_human/t000089_human.txt
+===== EXCERPT: f1_pos_004.txt (text ID t002237) =====
+Text ID: t002237
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000532_gpt.txt
 
-Score (f1_pos): 1
-Loading words (f1_pos), N=1: um
-but I was working quite a lot of hours and you'd you'd work eight and a half hours there and then at David Lloyd you do eight hours and I did quite a lot of travelling and basically I was late for two shifts um and they sat me down and they were like Elliot we're gonna have to review the whole system we're w we're not gonna keep you on as the um on this sabbatical don't think it's working for us and I was just like obviously a bit shocked and stunned I was like oh well kind of er can I explain? And type thing er well we've we've made the decision and I was like okay er and so what about then the freelancing? I'm afraid we're gonna have to let you go
+Score (f1_pos): 6
+Loading words (f1_pos), N=6: sense, change, more, own, different, way
+I think if you give students really big, knotty historical topics, like the suffragettes or the world wars, you’ve got far more chance of actually catching their curiosity. There are so many different angles for them to hook into – the politics, the personalities, the military strategy, the social changes – that almost everyone can find something that genuinely interests them. It’s richer, more three‑dimensional, and it invites you to ask questions and make connections.
 
---- Loading words for this example (pos): um
+My own experience of history at school was nothing like that. It was all chopped up into these very narrow, self‑contained little slices, and we were marched through them one by one. There wasn’t that sense of a big picture you could wander around in and explore from different directions. Because of that, it never really lit that spark of curiosity for me; it just felt like a series of disconnected topics.
 
+The way it was taught, I mostly ended up just copying things off the board, rather than actually thinking about them or analysing what they meant. I’ve never been particularly good at straight memorisation, and no one ever really taught us how to memorise effectively either – it was just assumed you could do it. Looking back, that feels like a real shame, especially considering how much that education cost.
 
-===== EXCERPT: f1_pos_008.txt (text ID t000695) =====
-Text ID: t000695
-Group: human
-Model: human
-File:   corpus/05_human/t000695_human.txt
-
-Score (f1_pos): 1
-Loading words (f1_pos), N=1: um
-I know well they had their they had like a um a chip like a bike their bike lock um was on the back of the or or on the back s or on the bike somewhere and it just fell off and so she just slammed her brakes on like didn't think so literally just like went from cycling quite fast to stop and so I just couldn't stop in time and my bike and I couldn't pull her like out of the way cos there was parked cars on one side and traffic on the other so I just went into like just crunched into the back of her and I was like What what are you thinking? like you just can't do that and she was like ah I'm really sorry and I was like you just snapped off half the front of my thing and she's like yeah d'you want it back cos she'd picked it up and I was like grrr
-
---- Loading words for this example (pos): um
+--- Loading words for this example (pos): sense, change, more, own, different, way
 
 
-===== EXCERPT: f1_pos_009.txt (text ID t001496) =====
-Text ID: t001496
-Group: human
-Model: human
-File:   corpus/05_human/t001496_human.txt
+===== EXCERPT: f1_pos_005.txt (text ID t003166) =====
+Text ID: t003166
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001461_gpt.txt
 
-Score (f1_pos): 1
-Loading words (f1_pos), N=1: um
-are you er you can understand all the kind of I like thinking about like in the past when they didn't know what the sun and the moon were and the stars and you know how would you how would you see them? What would you say they were? I just think it's interesting how do you explain the moon getting bigger and getting smaller again? You know eclipses and what are stars and these lights in the sky? Like that kind of thing so like in Old English um stars are sky-candles they're very keen on like compounds um sort of descriptive thing I can't remember what they're called um so like um a swan-road is the sea and yeah like they're er no sorry the sun is a sky-candle um I think it's a nice nice image
+Score (f1_pos): 6
+Loading words (f1_pos), N=6: become, sense, more, own, way, plan
+well he thought that he could erm evade capture and eventually make his way to Pakistan and either hide there or somehow get back home but obviously that didn’t work out at all and because he disappeared the American army had to stop a lot of the missions that they’d been planning and focus everything on searching for him instead so it became this huge thing with loads of resources thrown at trying to find this one soldier
 
---- Loading words for this example (pos): um
+and now the same journalist who did the first series is doing this one about him she’s investigating his case by listening to these recorded phone calls that he’s had with another journalist so you actually hear his own version of what happened and what he was thinking at the time and then she’s also talking to the Taliban about it through an interpreter so you get their side as well about how they saw him and what they did with him
+
+but I’m still not really sure what the actual crime is that they’re trying to investigate because the basics seem really clear he deserted his post he walked away he was picked up by the Taliban and held and tortured for years so it’s not like a mystery in that sense it’s more like they’re digging into it anyway and I don’t quite know what they’re hoping to uncover beyond what we already know from those facts
+
+--- Loading words for this example (pos): become, sense, more, own, way, plan
 
 
-===== EXCERPT: f1_pos_010.txt (text ID t000322) =====
-Text ID: t000322
-Group: human
-Model: human
-File:   corpus/05_human/t000322_human.txt
+===== EXCERPT: f1_pos_006.txt (text ID t001829) =====
+Text ID: t001829
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000124_gpt.txt
 
-Score (f1_pos): 1
-Loading words (f1_pos), N=1: um
-and she refused to give up her seat to a white person and I don't think she was abused but I think you know she was certainly shouted at and that was the start when people would then sort of get involved and start having you know um sta started rioting and started protest movements and that was nineteen fifty-nine so that was really late and it wasn't until um JFK um abolished segregation and brought in the Civil Rights Act that um that that sort of thing was sort of made illegal but that wasn't until nineteen sixty-five
+Score (f1_pos): 6
+Loading words (f1_pos), N=6: build, sense, change, moment, own, different
+well I know they're going to have a go at me about it, that’s a given, but I’m not really bothered in that sense, because I can just sit them down and say look, this is why I’m changing direction. I can explain that I’m in this sort of in‑between phase at the moment, where I’m moving away from what I was doing and edging towards creating something different. It’s not that I’m claiming to have invented something totally original, it’s that for me it’s new, and I’m learning a whole load of things I didn’t know before.
 
---- Loading words for this example (pos): um
+I’d talk them through that: that I’m deliberately going out and learning from people who are already doing what I want to be doing. I’m watching what they do, listening to how they talk about it, and trying to pick up as much as I can from them. That’s a big part of it for me, that sense of actually studying people who are already there rather than just sitting around talking about what I might do one day.
+
+And I’d say to them that in this kind of entrepreneurial stuff there are these common themes that run through everyone’s story – you know, taking a risk, changing tack, learning on the job – but at the same time everyone’s path is quite individual. So I’m not trying to copy someone else’s life, I’m trying to understand the patterns and then find my own route through it.
+
+Even if they don’t really get where I’m coming from, or they can’t see the bigger picture I’ve got in my head, there’s still value in what I’m doing. I’d stress that. I’m learning from other people who are doing it already, and that in itself is worthwhile. They might roll their eyes or think I’ve gone a bit mad, but I can at least lay out the logic: I’m changing direction, I’m in a transition, I’m learning from people ahead of me, and I’m trying to build something different for myself. Whether they fully understand it or not, that’s what I’ll be doing.
+
+--- Loading words for this example (pos): build, sense, change, moment, own, different
+
+
+===== EXCERPT: f1_pos_007.txt (text ID t002886) =====
+Text ID: t002886
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001181_gpt.txt
+
+Score (f1_pos): 5
+Loading words (f1_pos), N=5: become, sense, idea, own, way
+So basically, the whole thing started off really nicely. She was like, “Why don’t you all come to Paris for my marathon?” and her parents had already pre-booked these hotel rooms, so she said they could just transfer them into our names. We were all, “Yeah, that sounds amazing,” and kind of mentally committed to Paris on that basis. Then a few weeks later she turned round and said actually she was just going to stay with her parents instead, but we were still welcome to come if we sorted our own accommodation and travel. 
+
+Because it’s the marathon, everything’s really busy and expensive now, and it’s suddenly become really awkward for us. So tomorrow me and the other two are meeting up with this guy friend to look at options and see if there’s any way Paris still makes sense, or if we should just sack it off and go somewhere else like Prague instead. I do feel a bit rude about it, though, like the three of us might end up going, “Right, we’re off to Prague, bye,” and leaving her out when it was her marathon idea in the first place.
+
+--- Loading words for this example (pos): become, sense, idea, own, way
+
+
+===== EXCERPT: f1_pos_008.txt (text ID t002628) =====
+Text ID: t002628
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000923_gpt.txt
+
+Score (f1_pos): 5
+Loading words (f1_pos), N=5: build, idea, more, own, way
+Yeah, exactly, that’s what I was imagining. You’d literally start with one person on camera and just have quite a relaxed chat with them – how we know each other, what we’ve got in common, the sort of stuff we’re both interested in. Then, at the end of that, I’d ask them to think of someone they’re connected to – a friend, a colleague, someone they know online or in “real life” – who might be up for being filmed next.
+
+Then we’d go and film that next person, and repeat the process: how they know the previous person, what they share, what they’re working on or thinking about. Each time, the person we’ve just filmed nominates the next one. So you gradually build up this little cluster of people, almost like following threads in a web, and you can start to see how these networks form, whether they’re online, physical, or some sort of virtual mix.
+
+Out of that, you’d get a main character whose story we follow more closely, and then these secondary characters who are part of their network and help move things along. The story I’ve got in my head is that, through these connections, the main person ends up talking to a lecturer who suddenly spots that what they’re doing is actually a fantastic idea for an undergraduate research project.
+
+The key bit is that the original person couldn’t have got to that point just on their own; they only reach it because they’ve gone through that physical chain of contacts. So the video ends up showing, in a really concrete way, how one conversation leads to another, and how that can open up opportunities you wouldn’t otherwise have access to.
+
+--- Loading words for this example (pos): build, idea, more, own, way
+
+
+===== EXCERPT: f1_pos_009.txt (text ID t002642) =====
+Text ID: t002642
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000937_gpt.txt
+
+Score (f1_pos): 5
+Loading words (f1_pos), N=5: become, idea, more, own, way
+I think to really get the story going we’d have to step back from just “academic integrity” and talk about integrity more broadly. If we frame it as integrity in general – how people act with integrity, how they teach it, how they deal with grey areas – it opens things up and makes it more interesting and relevant to more people.
+
+We’d also need to phrase it in a way that actively encourages people to invite others to be interviewed. So instead of it just being us approaching individuals, it becomes, “Who else do you know who’s grappled with this?” That way, each person feels they can nominate colleagues or friends, and the story naturally spreads through those invitations.
+
+I’d want to link it to a really concrete problem as well, something that’s already worrying people, like students using ghost writers. If we’re explicit about that sort of issue – not skirting around it but actually naming it – then people have something solid to respond to. Talking openly about those kinds of problems can actually be a way of generating solutions, because everyone brings their own experiences and ideas.
+
+So the overall theme would be framed around integrity, but grounded in these specific, real-world problems. That combination – broad principle plus concrete cases – would help people see why it matters and what they can contribute, and it would give the whole project a clear narrative thread.
+
+--- Loading words for this example (pos): become, idea, more, own, way
+
+
+===== EXCERPT: f1_pos_010.txt (text ID t002734) =====
+Text ID: t002734
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001029_gpt.txt
+
+Score (f1_pos): 5
+Loading words (f1_pos), N=5: sense, more, own, different, way
+yeah so the kittens I keep dreaming about, I really see them as a message from my higher self, you know, like a very gentle nudge to just have more fun and be more light-hearted. They’re always so playful and soft in the dreams, and it feels like they’re there to remind me not to take everything so seriously, to bring in that kind of innocent, joyful energy.
+
+And then there are these other dreams I’ve been having, really detailed ones about buildings and houses. Quite often they’re these big old mansions, huge places with loads of rooms, and I’m exploring them or renovating them. Last night’s one was wonderful. I remember being inside this large old house, and I was letting the light in, opening things up, making it brighter. There was this sense of really working on it, like I was painting and decorating, bringing some life back into it.
+
+In the dream there were friends helping me as well, which felt really supportive, like I’m not doing it all on my own. At the same time, there was this slightly threatening man outside on a bike. He wasn’t actually coming in, but he was there, sort of hovering on the edge, a bit menacing, like an outside presence that could be a bit worrying but wasn’t actually invading the house.
+
+I look on all these houses and rooms as parts of my psyche, different aspects of myself. So when I’m renovating or opening up these big old mansions and letting the light in, it really feels like I’m painting, decorating, renovating, and bringing light into the darkened rooms inside me. The kittens fit into that too, like they’re bringing playfulness into those spaces.
+
+So I see the whole lot symbolically – the kittens, the rooms, the light, even that man on the bike outside – and it all feels like a process of inner clearing and transformation. And I actually really welcome it. It doesn’t feel scary; it feels like a good sign, like I’m doing some deep work on myself but in a really gentle, creative way.
+
+--- Loading words for this example (pos): sense, more, own, different, way

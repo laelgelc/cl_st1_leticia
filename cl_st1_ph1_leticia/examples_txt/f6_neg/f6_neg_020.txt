@@ -1,8 +1,8 @@
-Text ID: t001666
-Group: human
-Model: human
-File:   corpus/05_human/t001666_human.txt
+Text ID: t002854
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001149_gpt.txt
 
-Score (f6_neg): -1
-Loading words (f6_neg), N=1: able
-that part where he's I've given him every single excuse for him to be able to just say okay then I'll let you on this occasion he still won't do it and I said to him dad I said you're going to have to get over this you know? because I wouldn't take the money off him and he put in my bag and on the bed I said what are you doing? I said no I said I wanted to pay for it and he said and he got and I put it in my bag and I said thank you I said but you're you're going to have to get over this you know? I said because you know you come down here and you pay for petrol to get here you pay
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: anyone, everyone
+so she were tied to this chair, right, legs tied open and blindfolded, and it’s at this party thing, everyone round her. and he’s there telling her to open her mouth, and she’s saying no at first, like she doesn’t want to, but the crowd’s all egging her on, pressuring her. eventually she does it, opens her mouth, and he puts something in there. and later on she’s saying it were the worst thing that’s ever happened to her, like properly awful, and she’s never told anyone about it before.

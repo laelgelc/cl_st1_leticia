@@ -1,8 +1,8 @@
-Text ID: t003577
+Text ID: t003825
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000167_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000415_gpt.txt
 
 Score (f5_neg): -2
-Loading words (f5_neg), N=2: single, manage
-oh I doubt I'll be the only girl who's ever done it, there'll definitely be other women there, but I love that you think I could be that special. It does sound really scary with the fire and everything, but after today I just feel like, actually, I am quite strong. Getting up those hay bales was so much easier than I expected, and I managed the running and the pulling-myself-up bits, so it’s made me realise I’ve got a decent chance of getting through a tougher race. And like I said, it’s only an hour and a half of my life at most, and it doesn’t matter if I can’t do every single obstacle perfectly. Hearing you say I should do it really makes me want to give it a proper go.
+Loading words (f5_neg), N=2: set, somebody
+the way it works at the moment is completely the other way round, isn’t it – education’s set up so that somebody else has already done all the thinking for you. The lecturer comes in having pre–selected the examples, pre–selected the arguments, and then just delivers the bits they’ve decided are interesting or important. But that doesn’t mean those are the bits that really matter to you or connect with what you care about. I think students ought to be much more active about that, actually pushing back a bit in lectures and saying, “okay, but how does this apply to my area, to the thing I’m interested in?” If people did that more, if there were more questions flying around in lectures, it wouldn’t just help the person asking – it would open things up and make it better for everyone in the room.

@@ -1,8 +1,8 @@
-Text ID: t001517
-Group: human
-Model: human
-File:   corpus/05_human/t001517_human.txt
+Text ID: t003028
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001323_gpt.txt
 
-Score (f5_pos): 1
-Loading words (f5_pos), N=1: em
-em but there another oh yeah this morning I was watching em your favourite darling Big Fat Gypsy Weddings and em it was talking about who gypsies who had married non-gypsies and how some of their relationships work and some of them haven't cos they have in their in the gypsy culture it's a very you know the women stay at home look after the they look after the children they and they clean they clean all the time the men sort of are real men they drink and they fight you know eh deal with horses and stuff and I kind of thought from watching it I thought the relationships which are most likely to work is when you have a gypsy marrying a non a gypsy woman marrying a non-gypsy man because a a a non-gypsy man probably isn't gonna be too worried about a woman that wants to stay at home and look after the children and clean a lot
+Score (f5_pos): 2
+Loading words (f5_pos), N=2: single, pick
+right so it’s a word game, you split into teams and you’ve got twenty‑five noun cards laid out in a five by five grid. Some of those cards belong to the red team, some to the blue team, some are just neutral, and there’s at least one that can end the game straight away if someone picks it. One person on each team is the clue‑giver. They can see which words belong to their team on a separate grid, and their job is to come up with a single word that links several of their team’s words at once. So if my team’s words were “tennis”, “horse” and “bath”, I’d try to think of one clue that connects them, and my teammates then have to guess those target words from the grid.

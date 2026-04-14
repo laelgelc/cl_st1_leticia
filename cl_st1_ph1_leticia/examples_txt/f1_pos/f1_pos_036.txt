@@ -1,8 +1,8 @@
-Text ID: t002142
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000437_gpt.txt
+Text ID: t000709
+Group: human
+Model: human
+File:   corpus/05_human/t000709_human.txt
 
-Score (f1_pos): -1
-Loading words (f1_pos), N=1: f1 neg words (N=1): try
-I’m trying to remember what they call that kind of housing now, there’s some new term for it and it’s completely gone out of my head. When they were doing the riverside bridge, there was that big housing development there. Some of the places were clearly priced to make a decent profit, but under the planning permission they also had to put up this other sort, under this different label I’m thinking of and can’t recall. It’s basically the stuff that isn’t the pricey riverside frontage, but I just can’t get the name.
+Score (f1_pos): 4
+Loading words (f1_pos), N=4: sense, idea, more, way
+but when I went to er Priory which is probably last year now which is the nearest manned site in their in their shop they had guidebooks to and thought that would be a good idea because I've been before but I mean obviously yes there are notices up on the site but you get more information from the guidebooks that they do so I thought right okay I'll do that I'll go and erm I'll buy the guidebook now and at some point I'll go over there and and just hadn't got round to it and hadn't got round to it and it was a beautiful day so I did that and and it's actually really near the fruit farm so it just made sense to go there on the way back

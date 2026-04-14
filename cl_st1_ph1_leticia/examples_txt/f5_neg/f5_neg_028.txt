@@ -1,8 +1,8 @@
-Text ID: t004020
+Text ID: t004972
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000610_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001562_gpt.txt
 
-Score (f5_neg): -2
-Loading words (f5_neg), N=2: single, full
-I think my main point, even if I’m not expressing it perfectly, is that when we try to blend too many objectives into one thing – like a holiday that’s supposed to be relaxing, great couple time, full of activities, and ticking everyone’s boxes – it actually creates pressure. Instead of trying to make one trip or one plan do everything at once, it might work better to separate things out: have some time that’s just for relaxing, some that’s for being together, some for specific activities. When we try to cram all of it into a single experience, it can feel overwhelming rather than enjoyable.
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: set
+well when we were in Tunisia I actually set that little laptop up so it would dual boot with Windows and Linux, you know, so you could choose which one to use when you switched it on, but it never really worked that well in the end, there were just things that didn’t behave properly, like you couldn’t even change the brightness on the screen and bits like that, so it was a bit frustrating, whereas the Linux Mint I’ve got on it now just works really well, it does what I want without those problems

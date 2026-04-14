@@ -1,8 +1,8 @@
-Text ID: t000194
-Group: human
-Model: human
-File:   corpus/05_human/t000194_human.txt
+Text ID: t002630
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000925_gpt.txt
 
-Score (f3_pos): 4
-Loading words (f3_pos), N=4: fuck, shit, guy, gonna
-so can I can I add my two pennies worth? okay with men they clearly I think men are very very good at distinguishing erm what other men are trying to achieve yeah? they're pretty clear I think in the cut in when you get to be a manager you start to wield some power yeah you either like it or you don't hopefully you do like it yeah otherwise you wouldn't do it but from the guys as as you call it you know the types of words you'd use when you were talking about engineers with senior engineers or or management in engineering companies swing their dicks around suck my cock you know the way you would actually describe these people you were working with you know or in meetings with it sounded horrendous it sounded really like too fucking much in many ways yeah and what I didn't like about it was it was so male dominated it was so much male talk it was so much like I'm an alpha male you're not you're be you're a whatever so you're gonna have to follow me because basically I've got the power shut up fuck off and you'll do what I say yeah? and that male dominated world I'm sorry if you don't fit into it it's shit it's crap it's it's gotta be one of the worst places to be if you're if you wanna be your own man yeah like most men want to be their own men who wants to actually just roll over and go yeah fuck off I just wanna be erm dominated by another man no you don't what what man really wants to be dominated by another man? I mean really I don't want to be fucking dominated by another woman so my idea of this psyche the driver is that actually sometimes it gets to the point where I'm not management I'm fucking off I'm gonna be my own fucking boss because no fucking man is going to fucking talk to me like that
+Score (f3_pos): 3
+Loading words (f3_pos), N=3: huge, massive, manage
+I’m thinking back to those filmmaking projects in the nineties, I’m pretty sure Ridley Scott was involved, where they got people all over the UK, and then across the world, to film a “day in the life.” Everyone just went off and shot their own everyday stuff and then sent the footage in. Then there was this massive sifting process, going through all that material to pull out the most compelling bits. From that huge pile of ordinary days, they managed to construct a really powerful narrative, just by choosing and arranging what people had submitted. It’s that idea of lots of different lives, all captured separately, then woven together afterwards into something that feels coherent and meaningful, even though none of the contributors were coordinating with each other at the time.

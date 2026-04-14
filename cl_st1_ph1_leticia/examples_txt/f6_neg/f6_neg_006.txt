@@ -1,8 +1,10 @@
-Text ID: t000324
-Group: human
-Model: human
-File:   corpus/05_human/t000324_human.txt
+Text ID: t002031
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000326_gpt.txt
 
 Score (f6_neg): -2
-Loading words (f6_neg), N=2: pound, able
-that's another bunch of years so you know what I mean? I to be able to fund a PhD I need to be able to have enough money to live on for four years that's a lot of time you know what I mean? and I would need to save at least thirty thousand pounds each so that's the plan we go back to the Middle East we save fifteen grand each and we travel Africa and do another qualification we do a Delta that would cover that year we go back and do two more years and save thirty grand each and that will be enough for us for us to do a PhD
+Loading words (f6_neg), N=2: anyone, everyone
+right now I actually couldn’t work at a university in England, not in the way I was doing in Korea. Here, if you’ve just got an MA like me, you *can* sometimes teach English as a foreign language at a university, but that’s usually in the EFL or language‑centre type roles, and only if you’ve got loads of ESL teaching experience behind you. That’s quite different from linguistics: in linguistics departments, basically everyone who’s a lecturer has a PhD, it’s just expected.
+
+And the whole “professor” thing is completely different depending on the country. In England, “professor” is the top of a long ladder – you start as a lecturer, then senior lecturer, and it takes years and years before you’d ever get called professor. In America, though, anyone who teaches at a university is called a professor, so I was “Professor” there and in Korea, even though in England I definitely wouldn’t count as one.

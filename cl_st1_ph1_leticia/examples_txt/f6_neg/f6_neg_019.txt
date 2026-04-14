@@ -1,8 +1,8 @@
-Text ID: t001668
-Group: human
-Model: human
-File:   corpus/05_human/t001668_human.txt
+Text ID: t002502
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000797_gpt.txt
 
-Score (f6_neg): -1
-Loading words (f6_neg), N=1: pound
-it came from when they they had work done on the bungalow when they first moved in there put a pipe in and it wasn't done properly so about a year ago from now they had to move back out to the Max Mexborough house that's now While they re-did the work that they botched the insurance for the time that they were out of the house for two months when they said well we would have rented out Mexborough for eight hundred pound a month gave them two or three grand plus compensation for time money blah blah
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: guy, everyone
+so I was saying to them that she'd got with this guy at the party, and I honestly thought everyone already knew because it was really public, like not a secret at all. Then she found out I’d mentioned it and got really annoyed with me. She was like, I didn’t want people to know because I really like this one particular guy, and now he’s going to think I’m a slut. And I was just thinking, if anything, he’d probably be happy she’d got with someone else, not judging her for it.

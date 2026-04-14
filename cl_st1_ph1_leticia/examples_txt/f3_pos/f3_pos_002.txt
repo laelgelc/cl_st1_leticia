@@ -1,8 +1,12 @@
-Text ID: t001017
-Group: human
-Model: human
-File:   corpus/05_human/t001017_human.txt
+Text ID: t002631
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000926_gpt.txt
 
-Score (f3_pos): 4
-Loading words (f3_pos), N=4: fuck, shit, gonna, minute
-what the fuck is the matter with this kid? Look I'm not kidding I just got money and saw neighbour he invited me in and I thought what the hell? Five minutes we sat down and he offered me a smoke on some herbal weed legal high well I had a bad one and had a bad trip for ages and couldn't talk or stand up four people watched me by the way as I ended up looking like I need sectioning so when so so when I got home I was going to text you and threw up a lot I've been back and told him that that shit is dangerous I'm so sorry for this I'm so pissed off for trying it I thought it would do nothing at all yes I would like to as soon as I sort myself out a bit if that's okay all of the above is the truth this kid is fucked in the head genuinely genuinely fucked in the head so he's gone next door had a bit of pot it's affected him really badly so he's gone home been sick hasn't thought to text me during any of this it fucks me off cos I'm not his girlfriend I'm not his wife I'm not gonna sit around making him dinner
+Score (f3_pos): 3
+Loading words (f3_pos), N=3: huge, thinking, massive
+What I’m thinking is that what we’re talking about is almost the reverse of what Ridley Scott did. With his projects, they started with this massive quantity of footage – loads of people all over the place filming “a day in the life” – and then the team sifted through it all afterwards and carved out a really powerful narrative from this huge pile of material.
+
+What I’m imagining here is starting with just one really high‑quality “day in the life of”, something quite focused and thoughtful, and then letting it grow outwards from there. So instead of big quantity narrowing down to quality, it’s one strong piece that gradually expands as other connected people add their own days, their conversations, their goals, their needs.
+
+As it scales, you’d hope it still keeps that sense of quality, but now you’re also seeing, much more clearly, what resources people actually require along the way.

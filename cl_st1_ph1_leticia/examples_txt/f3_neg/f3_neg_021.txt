@@ -1,8 +1,8 @@
-Text ID: t004189
+Text ID: t004199
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000779_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000789_gpt.txt
 
 Score (f3_neg): -3
-Loading words (f3_neg), N=3: odd, sense, seem
-Well, you know, what I'm doing now with all these ideas isn’t academic at all, really. It’s much more about trying to make sense of my own fifty years of work, looking back and seeing what on earth I’ve been doing. And that’s why I find it so odd that Plato didn’t seem to recognise creativity as something absolutely fundamental to human nature. It feels so basic, so built-in, that his attitude puzzles me. I’ve been reading this very interesting book called *The Art Instinct*, and I keep going back to it all the time. I’m consulting it so much that I’m not going to lend it out.
+Loading words (f3_neg), N=3: wanna, fact, okay
+you've got no mana left now, so you haven't actually got any abilities you can use, you just have to keep auto‑attacking them. just keep attacking for the moment, that's fine. okay, now there are quite a lot of them coming in, so you wanna run away, run away, don’t stay there too long. yeah, back off a bit, that’s it. in fact, you should probably just back now, because you’ve got quite a lot of gold to spend. can you see how much gold you’ve got down in the bottom left of the screen? look there and tell me what it says.

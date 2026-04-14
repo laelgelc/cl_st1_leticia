@@ -1,8 +1,8 @@
-Text ID: t004289
+Text ID: t004717
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000879_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001307_gpt.txt
 
-Score (f5_pos): 1
-Loading words (f5_pos), N=1: reason
-So at the moment my big research model is kind of on hold, because we can’t actually test it until we get this specific bit of kit. The company’s finally decided to buy it, but really for their own reasons rather than just for my project. Once it turns up, in a few months, I’ll be able to go back to that work and actually validate what I’ve done. Until then, I’m on this other project, which is a bit odd – reverse‑engineering for a Japanese car manufacturer, figuring out how a European rival’s safety features are implemented.
+Score (f5_pos): 2
+Loading words (f5_pos), N=2: awful, horrible
+she's dipped out of that whole champagne afternoon tea thing for her fiftieth, you know, because it just got ridiculously expensive, so instead she's gone off on this trip to Dubai and Sri Lanka. it's kind of business-related, so I think she's managed to swing it as a lovely holiday that the business is basically paying for. but you know what her mum’s like – she’s been absolutely horrible to her for years, really manipulative, calling her all sorts of names and doing awful things, and she’s only in her seventies, it’s not like she’s ancient or anything.

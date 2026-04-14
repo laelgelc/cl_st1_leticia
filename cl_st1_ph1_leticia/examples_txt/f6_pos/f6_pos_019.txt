@@ -1,8 +1,8 @@
-Text ID: t002684
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000979_gpt.txt
+Text ID: t001442
+Group: human
+Model: human
+File:   corpus/05_human/t001442_human.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: bloke, stand
-so this ball comes in and instead of just heading it away he lets it bounce, then he kind of loses his balance, stumbles, and their striker’s straight in. bloke just nips past him, takes advantage, and scores. I’m stood there thinking, why on earth have you let that bounce? just deal with it. I’m actually shouting at him, like, why have you let it bounce, why have you done that? then not long after we lose the ball again, they play it straight through, and exactly the same sort of thing happens. our defenders are so slow they just get burned for pace, outpaced every time, and we’re punished again.
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: month
+erm but yes anyway so that was that for the friendship and then months and months and months passed and I got a drunken barrage of texts after that I'm really sorry can you ever forgive me? and blah blah blah so I said of course you know it's no problem you're a bit of a twat but I still love you erm and then that was the end of that didn't hear from him for months and then got a message today sorry to hear Terry Wogan's died I thought of you kiss kiss kiss like nothing's happened

@@ -1,8 +1,8 @@
-Text ID: t004015
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t000605_gpt.txt
+Text ID: t000284
+Group: human
+Model: human
+File:   corpus/05_human/t000284_human.txt
 
 Score (f4_pos): 3
-Loading words (f4_pos), N=3: build, change, set
-what I mean by “literary predictive” is that science fiction often acts like a kind of model for the future, you know, it sets up these worlds and assumptions and then runs them forward, and a lot of the time it turns out to be surprisingly accurate about how societies actually evolve. Sometimes it even pushes science along, because scientists grow up reading this stuff and then go off and try to build what they’ve imagined. A big recurring theme is this shift from a scarcity model, where everyone’s fighting over limited resources, especially energy, into a post‑scarcity model where you’ve got really abundant, cheap energy. Once you’ve got that, the whole geopolitical picture changes, because you’re not scrambling over oil or food or whatever in the same way. But even with that transformation, the basic human characteristics, the way people are, don’t magically change; it’s the context that shifts, not the core of human nature.
+Loading words (f4_pos), N=3: bother, feel, make
+yeah and er he had this business idea and he'd got it all drawn out all the and it was erm something to do with smashing the you know and you can witness it being done and all this that and the other you can witness the hard drive being made made irre irr unusable and er he was he had it all graphic all these graphics to put up on hi on the website you know and then he felt oh I can't be arsed he couldn't be bothered and when you think about it you know okay you'd get a few but that wouldn't be worth doing would it?

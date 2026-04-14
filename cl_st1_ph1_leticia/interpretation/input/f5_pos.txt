@@ -33,141 +33,159 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac5	SD fac5
-group	human	1705	0.03695015	0.38507372
-group	profiled_gpt	1705	-0.12609971	0.39797652
-group	unprofiled_gpt	1705	-0.09912023	0.40409340
+group	human	1705	-0.12199413	0.52665189
+group	profiled_gpt	1705	0.05689150	0.50785007
+group	unprofiled_gpt	1705	0.05630499	0.50034889
 
 === FACTOR LOADINGS (f5_pos) ===
-variables loading on this pole = 6
-em (.93), (odd (.71)), (shit (.40)), (carry (.34)), (bother (.30)), reason (.30)
+variables loading on this pole = 4
+awful (1.05), single (.52), horrible (.48), pick (.31)
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f5_pos_001.txt (text ID t000657) =====
-Text ID: t000657
-Group: human
-Model: human
-File:   corpus/05_human/t000657_human.txt
+===== EXCERPT: f5_pos_001.txt (text ID t003312) =====
+Text ID: t003312
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001607_gpt.txt
+
+Score (f5_pos): 3
+Loading words (f5_pos), N=3: awful, horrible, pick
+So the author I was on about is Matt Haig – he randomly followed me on Twitter, so I just followed him back. I’ve not actually read any of his books yet, but I do want to at some point, especially because I see his tweets pop up quite a lot. Sometimes he tweets about dealing with depression, and lately he’s been talking loads about all the abuse he gets on Twitter. 
+
+What really got me was him saying some of it comes from people he actually knows in real life, which is just awful. It’s not just random trolls, it’s like people from his own life piling on as well. He’s been really open about how horrible it is, and it just makes you think about how intense it must be when everything you say online gets picked apart. 
+
+It must be horrible for people who’ve got that level of attention, where every tweet is scrutinised and twisted and thrown back at them. You can’t just say something offhand without worrying how it’s going to be received or who’s going to attack you for it. I honestly can’t imagine dealing with that kind of constant pressure on something as daft as Twitter.
+
+--- Loading words for this example (pos): awful, horrible, pick
+
+
+===== EXCERPT: f5_pos_002.txt (text ID t003410) =====
+Text ID: t003410
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001705_gpt.txt
 
 Score (f5_pos): 2
-Loading words (f5_pos), N=2: em, reason
-he has built these massive projects and it they haven't been as collaborative as they were before so I I went back on recently and sort of joined in for a little bit and I'm going to build this massive tower but em I really wanted to wait to involve a lot more people so I made a couple of sort of teeny little challenges because when I was trying this this tower thing we got the guy who gave me the resources for the Mario statue em he help bui em dig a massive hole eh so that we'd have the tower from Bedrock all the way up to the very top so it would be the biggest possible tower so he made loads of channels with dynamite em and we built these walls up so that the water couldn't get through cos it was for some reason we decided to build it on the coast we walled up the eh water and then there's this guy making channels of dynamite and eh a the guy who was em who I was helping he said it's alright knows what he's doing he's he's an expert with TNT he know he knows where the is and I trust him and I was sort of getting further and further away going yeah you trust him and lo and behold he completely blew up the walls the whole thing was just completely flooded and em so asked him nicely if we could have creative mode so we got the resources we were able to fly we built up the wall again and eh he it was only supposed to be for one day and em has had creative taken away from him but for whatever reason and none of the other mods have taken it away from me so I've built some sort of puzzle challenges and stuck them up on Facebook for for people to have a go at and em sort of built them in eh using creative modes and that's yeah it's just another way of trying to bring people together using Minecraft and creative projects and yeah
+Loading words (f5_pos), N=2: awful, horrible
+so there was this one *Magnum* episode that was just properly horrible, like really dark and scary, nothing like it usually is. It starts off all normal, Magnum drops off the twin who seems like the nice one at her house, and you think, yeah, fine, standard episode. But then there’s this sense that there’s someone else in the house, someone you can’t see, and it gets really tense.
 
---- Loading words for this example (pos): em, reason
+Later on she rings Magnum in a panic and says she’s killed someone. So he rushes over, obviously, but when he gets there there’s no body, no blood, nothing at all to prove anything’s happened. It’s all really unsettling because you know something’s wrong but there’s no evidence.
 
+There’s this really creepy bit where Magnum’s in the house and you see that someone’s actually hiding in a cupboard, watching him, and he has no idea. It’s shot so you’re just waiting for something awful to happen, and it just keeps winding you up.
 
-===== EXCERPT: f5_pos_002.txt (text ID t000651) =====
-Text ID: t000651
-Group: human
-Model: human
-File:   corpus/05_human/t000651_human.txt
+And then at the end it turns out the whole thing is even worse than it looked. You find out that the “other” twin, the one everyone thinks is the evil one, actually died back when they were both kidnapped as children. The twin who’s alive has multiple personality disorder, so she’s effectively both of them in one body. So all this stuff about the bad twin and the good twin is really just her. Once they reveal that, it makes the whole story feel really horrible and properly dark, especially compared to what *Magnum* is normally like.
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: em, reason
-yeah yeah so um the there was the third thing that I did em which I didn't even realise would take off as much as it did but the reason I came up with this last idea was em on the map with the desert down in the Mario statue eh there was a little bit of em vandalism going on and I just and and quite a lot of stealing as well and I just thought it would it would lessen the blow on individuals and there'd be a lot more of a community spirit if we just shared all of our resources apart from our most valuable resources which you'd have to hide nicely but em the the things like em dirt and wood and sand and and meat and stuff would be completely communal
-
---- Loading words for this example (pos): em, reason
+--- Loading words for this example (pos): awful, horrible
 
 
-===== EXCERPT: f5_pos_003.txt (text ID t000288) =====
-Text ID: t000288
-Group: human
-Model: human
-File:   corpus/05_human/t000288_human.txt
+===== EXCERPT: f5_pos_003.txt (text ID t003409) =====
+Text ID: t003409
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001704_gpt.txt
 
 Score (f5_pos): 2
-Loading words (f5_pos), N=2: em, reason
-well my limited knowledge of daffodils and tulips is that they'll pretty much survive anything because my family kill plants and we have daffodils and tulips which come up every year regardless of anything em yeah and my dad regularly used to em for some reason best known to himself he used to do the garden em kind of you know before winter started and dig up all these things out the soil saying oh I have to throw them out and me mam was like what? They're my daffodil bulbs what are you doing? And every year he'd dig these things up I don't understand why
+Loading words (f5_pos), N=2: awful, pick
+it's literally impossible though, like for the aural you have to just know straightaway what cadence it is and say it in chord numbers, like a perfect cadence is one–five and stuff. And they play you this bit and you’ve got to say how it’s progressed, like whether it’s gone diminished or major or minor, and I just don’t get how you’re meant to hear that instantly. And then on top of that you have to sing the bass part of a melody, which is just awful, because I can’t pick it out properly. It’s all those things together that make it feel completely impossible for me.
 
---- Loading words for this example (pos): em, reason
+--- Loading words for this example (pos): awful, pick
 
 
-===== EXCERPT: f5_pos_004.txt (text ID t000808) =====
-Text ID: t000808
-Group: human
-Model: human
-File:   corpus/05_human/t000808_human.txt
+===== EXCERPT: f5_pos_004.txt (text ID t002048) =====
+Text ID: t002048
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000343_gpt.txt
 
 Score (f5_pos): 2
-Loading words (f5_pos), N=2: em, reason
-well it's a bit of a concern so I just that's what I deleted all the numbers that I had for you and when you text me saying I'm home I was like right that's get that in em so I've got that number but because my numbers for some reason are all synced so all the details I've got your Face well I haven't got no I deleted everything so I had your Facebook I had your phone number but now see now I've got two three records for because that's that's you know you can never have too many
+Loading words (f5_pos), N=2: single, pick
+So my boss sent this email round saying that after talking to the controller, apparently this new process and system are working really well, everyone’s on board, all that. And I’m just sitting there thinking, how? Because since they changed the roles we’ve ended up doing loads of extra admin, picking up bits that used to be someone else’s job. It doesn’t feel streamlined at all, it’s just more work. I honestly doubt she’s actually asked anyone if they’re happy with it, because I can’t think of a single person who is. It just feels completely out of touch.
 
---- Loading words for this example (pos): em, reason
-
-
-===== EXCERPT: f5_pos_005.txt (text ID t000051) =====
-Text ID: t000051
-Group: human
-Model: human
-File:   corpus/05_human/t000051_human.txt
-
-Score (f5_pos): 1
-Loading words (f5_pos), N=1: reason
-that would be horrible yes so I'm we're gonna get the new car well new to us car on Monday okay? and then we have two weeks where I'm insured on both cars and I'm gonna want to run down the other car petrol wise cos for some reason I put loads of petrol in it well I know why it's cos I teach I'm going to teach in tomorrow which is quite a way away and on Tuesday and I need a lot of petrol for both of those but yeah I want to use up most of that petrol and then we've got to swap tyres over
-
---- Loading words for this example (pos): reason
+--- Loading words for this example (pos): single, pick
 
 
-===== EXCERPT: f5_pos_006.txt (text ID t000097) =====
-Text ID: t000097
-Group: human
-Model: human
-File:   corpus/05_human/t000097_human.txt
+===== EXCERPT: f5_pos_005.txt (text ID t002856) =====
+Text ID: t002856
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001151_gpt.txt
 
-Score (f5_pos): 1
-Loading words (f5_pos), N=1: reason
-no I completely agree with you I completely agree with you but what can happen is that erm what you wanna do so you normally have what is in it? so you've got time here and you've got act there okay? or if you wanted to do you can do time here which I'll guess is a bit normal and then here you can have the escalation of and you have to choose if you want to use the character arc about this man as a as the protagonist then you have to choose what really is the kernel of this person? what is the erm the reason why he keeps moving along this trajectory? what's the common sense of why he's going here?
+Score (f5_pos): 2
+Loading words (f5_pos), N=2: awful, single
+right so it’s like this six‑day Montenegro thing and the itinerary is actually mad detailed yeah, like every single day is crammed. day one in the morning there’s this orientation workshop, then something about the last three decades of Montenegro, then a recapitulation of the political situation and interethnic relations and all that. the grammar in this thing is actually awful though, like you can tell whoever wrote it didn’t really proofread it properly, some of the sentences don’t even make sense.
 
---- Loading words for this example (pos): reason
+then over the six days they’ve got us going to all these different places – media places like TV or radio stations, then political institutions, so probably parliament or some government offices or whatever. they’ve put in visits to religious sites as well, like churches or mosques, so it’s all very “understand the culture and history” type stuff. there’s schools on there too, so we’re going to visit some local school, maybe meet students or teachers, that kind of exchange thing.
 
+and it’s not just workshops and talks, there’s excursions as well, so trips out to other towns or somewhere in the countryside, proper sightseeing built in. every day is like workshop in the morning, visit somewhere in the afternoon, then another activity, just constantly on the move. reading it out you can hear all the clunky English but you still get the idea – it’s going to be really full‑on, loads of institutions, loads of learning, and barely any free time.
 
-===== EXCERPT: f5_pos_007.txt (text ID t000063) =====
-Text ID: t000063
-Group: human
-Model: human
-File:   corpus/05_human/t000063_human.txt
-
-Score (f5_pos): 1
-Loading words (f5_pos), N=1: reason
-but because had got his own business which the university had funded well they'd given him two thousand pounds to help set him up he went to them and said look I've got this business and I'd like to work in it for the year off rather than so an internship in another company as part of the course and they said yes he could do so I mean he's he's got his own business but the reason he's working with is that erm that also gave it a bit more credence because working with and 's business partner eh actually supervises so it's not his dad sort of telling him what to do but he reports to erm he's doing a good job by all accounts they gave him a bonus last month so he was
-
---- Loading words for this example (pos): reason
+--- Loading words for this example (pos): awful, single
 
 
-===== EXCERPT: f5_pos_008.txt (text ID t000081) =====
-Text ID: t000081
-Group: human
-Model: human
-File:   corpus/05_human/t000081_human.txt
+===== EXCERPT: f5_pos_006.txt (text ID t002732) =====
+Text ID: t002732
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001027_gpt.txt
 
-Score (f5_pos): 1
-Loading words (f5_pos), N=1: reason
-on Facebook and it was just before I was about to leave and I heard about it and I said I said to the head she this is appalling you can't you cannot have her back from she will expect to come back from her maternity leave and just slot in as if nothing else has happened what are you going to do about it oh I'll have to have a we'll have to have a chat with her if you re and and nothing actually happened I think there was maybe a chat but nothing ever happened if you were in business that would be reason for you to be disciplined to the point where you could lose your job so
+Score (f5_pos): 2
+Loading words (f5_pos), N=2: awful, horrible
+I had that really stark moment with it all when we went bowling and then on to play pool. I just felt utterly boring, like I had nothing to offer, and I ended up leaving early. At the time it felt horrible, but I can see now it was probably part of the whole detox thing, my system and my head just adjusting.
 
---- Loading words for this example (pos): reason
+I know I *can* enjoy parties sober – I’ve done it before, I’ve had good nights without drinking – but in that particular moment I just couldn’t. It was like there was a wall between me and everyone else.
 
+More and more, I’m just not interested in the whole drinking scene anyway, especially when it ramps up into those trays of shots. That escalation feels really off-putting now. In a strange way, drugs almost seem better on that front, because at least you don’t wake up with that awful hangover the next day.
 
-===== EXCERPT: f5_pos_009.txt (text ID t001676) =====
-Text ID: t001676
-Group: human
-Model: human
-File:   corpus/05_human/t001676_human.txt
-
-Score (f5_pos): 1
-Loading words (f5_pos), N=1: em
-and then she came back saying have you got the receipt on you I said yeah yeah I've got one er and cos they told me about the baked beans thing I said actually it's not baked it it's chilli beans and she said oh yeah yeah it's on your receipt I'll go and get one now for you and then she goes away and jokingly said she's in there now talking to the je talking to the chef saying where are the chilli beans? and he's saying well they're in his burrito like I've put them in there like there's nothing else to go innit and then she comes back out and says the chef says that like we we put em in there so I sent this girl on like errands to get me some beans and they were just in my meal
-
---- Loading words for this example (pos): em
+--- Loading words for this example (pos): awful, horrible
 
 
-===== EXCERPT: f5_pos_010.txt (text ID t001662) =====
-Text ID: t001662
-Group: human
-Model: human
-File:   corpus/05_human/t001662_human.txt
+===== EXCERPT: f5_pos_007.txt (text ID t003012) =====
+Text ID: t003012
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001307_gpt.txt
 
-Score (f5_pos): 1
-Loading words (f5_pos), N=1: reason
-didn't you? it was the most amazing American publication I think by a f an American feminist and in fact actually in a way it was really bad news to me because they had a real thing about women giv being given hysterectomies for no good reason and how it's men wanting to kind of cut of women's bits because they were jealous of them et cetera so they were like really hysterically against people having erm hysterectomies and so on the basis of this I turned down the opportunity of explore having a hysterectomy for quite for a while during all of this process but but the one thing it did do it had diagrams of your body names for all the bits an analysis of the kind of the things that women get plus the symptoms plus kind of conversations with women about how they felt about these things plus you know kind of quite intimate things about sex and bodies and stuff like that and it was a great big tome and they did and it was sort of published in the seventies and it was kind of quite a radical piece of pro really erm possibly reading back on it not as medically informed or sensible as it as it might have been but on the other hand you know a real good medical handbook for women's problems
+Score (f5_pos): 2
+Loading words (f5_pos), N=2: awful, horrible
+yeah so in the end she just said no to the whole thing, didn’t she, the champagne do and all that, it was just ridiculous money, so she’s gone off to Dubai and Sri Lanka instead for her fiftieth. It’s technically a business trip but it’s a lovely holiday really, I think the business is paying for most of it. And you know what her mum’s like, she’s always been awful with her, really manipulative, calling her horrible names, doing dreadful things, and she’s only in her seventies, it’s not like she’s ancient or anything.
 
---- Loading words for this example (pos): reason
+--- Loading words for this example (pos): awful, horrible
+
+
+===== EXCERPT: f5_pos_008.txt (text ID t002829) =====
+Text ID: t002829
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001124_gpt.txt
+
+Score (f5_pos): 2
+Loading words (f5_pos), N=2: awful, pick
+Well I only really know about these rehearsal dinners from friends, I’d never come across them otherwise. It seems to be like a get-together the night before the wedding, either in a restaurant or sometimes a barbecue, that sort of thing. When I flew over, she picked me up from the airport and we went straight there, driving in this awful weather, really heavy rain and fog, and we were just relying on the sat nav to find it. Then I came back on the Monday morning and went straight from the airport to another exam board.
+
+--- Loading words for this example (pos): awful, pick
+
+
+===== EXCERPT: f5_pos_009.txt (text ID t001903) =====
+Text ID: t001903
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000198_gpt.txt
+
+Score (f5_pos): 2
+Loading words (f5_pos), N=2: single, horrible
+There’s this group of people and their beliefs are honestly terrifying. They say that if their own child was instantly killed by a car, they would rejoice. They actually think every single event is a decision made by God, and because of that, everything has to be celebrated, even something as horrible as that. On top of that, they completely banish anyone who leaves their church, even if it’s their own daughter. If she decides to leave, they cut off all contact with her. They insist they’re not sad about it at all, because in their minds she’s now a sinner who’s going to hell, and they don’t want someone like that anywhere near their church or their community.
+
+--- Loading words for this example (pos): single, horrible
+
+
+===== EXCERPT: f5_pos_010.txt (text ID t001723) =====
+Text ID: t001723
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000018_gpt.txt
+
+Score (f5_pos): 2
+Loading words (f5_pos), N=2: awful, horrible
+you've obviously spent like git hours thinking about this and I really haven't, and I think that’s part of what I’m trying to get at. For me, and for my family – like my dad as well – when something awful comes on the telly, say something about Homs, we do register it as horrible. We’ll sit there and go, “God, that’s awful,” and we mean it. But then, quite quickly, we just sort of get on with our everyday lives. We don’t then go off and research it, or read loads more, or start thinking about protesting or anything like that. I’d say I’m sympathetic, but I’m just not the sort of person who’s actually moved to do something about it.
+
+--- Loading words for this example (pos): awful, horrible

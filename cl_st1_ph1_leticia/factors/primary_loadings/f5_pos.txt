@@ -1,2 +1,2 @@
-variables loading on this pole = 2
-em (.93), reason (.30)
+variables loading on this pole = 4
+awful (1.05), single (.52), horrible (.48), pick (.31)

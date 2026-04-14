@@ -1,12 +1,8 @@
-Text ID: t002160
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000455_gpt.txt
+Text ID: t000354
+Group: human
+Model: human
+File:   corpus/05_human/t000354_human.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: massive, big
-So I finally got to go to this place I’d wanted to go to all summer, right, and I went with my boyfriend. We had a really nice time, just us, and I was actually quite chuffed I’d managed to fit it in before everything got busy again. Then my mum comes back, hears about it, and immediately starts having a go that we should’ve waited so it could be a “family outing.”  
-
-She acted like I’d done something properly wrong, like I’d personally offended her by doing something as a couple without her there. It wasn’t even anything massive, just a day out, but she turned it into this big drama about being left out and how we’re supposed to do things together.  
-
-And I’m just sat there thinking, what does she actually expect? That every single thing I do with my boyfriend has to involve her somehow? Does she want an invite to absolutely everything, even the private, intimate bits of our relationship? It’s so ridiculous that I end up being sarcastic in my head, like, shall I pencil her in for when we’re in bed as well?
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: god
+anyway so psalm ninety-one says it it you know he's god's word is the truth so if you know the character you wouldn't feel so scared because you'd be so assured by it anyway it says oh if you make the most high your dwelling even the lord who is my refuge then no harm will befall you no disaster will come near your tent for he will command his entrance concerning you to guard you in all your ways they will lift you up in your hands so that you will not strike your foot against a stone mm the interesting thing is here you will not fear the terror of night nor the arrow that flies by day nor the pestilence that stalks in the darkness nor the plague that destroyed at midday a thousand may fall at your side ten thousand at your right hand but it will not come near you you will only observe with your eyes and see the punishment of the wicked obviously if I'm on the wicked side I would be I dunno but however if you really really really live the word by word the end result would be no fear I mean you know it's difficult I mean I'm absolutely frightened by the spiders in the kitchen but I have to because I cannot keep living in fear so it's a really stressful time you know?

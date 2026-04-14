@@ -1,8 +1,10 @@
-Text ID: t000571
-Group: human
-Model: human
-File:   corpus/05_human/t000571_human.txt
+Text ID: t001826
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000121_gpt.txt
 
-Score (f1_pos): 1
-Loading words (f1_pos), N=1: um
-mm They're all quite yeah yeah though the idea I had with this to do with choices was like hangman somehow so they they'd do something and then they go up to a table and they say can I have the letter E and they go back somewhere else or perha perhaps go to a third place er where there's a leader with their with the blanks and they say E and then the leader's there writes down all the Es um and then they go back to their basic like their home base again and then the next person does whatever they have to do and then goes to the table and says R and then the then goes to the wherever the leader with their piece of paper is and says R but you have to do it carefully because you don't want other teams to see one another's answers otherwise they can just
+Score (f1_pos): 5
+Loading words (f1_pos), N=5: change, moment, idea, more, different
+well the thing is with him he’s ended up in this very particular niche, you know, a specific product area that’s quite fashionable at the moment. as long as governments keep banging on about certain environmental priorities and throwing money at that sort of infrastructure, his little patch is going to keep being funded. so even if he’s sitting there thinking, god this is boring as hell, he’ll probably just stay in it because it’s a saleable product for the company and there’s a market for it round the world.
+
+for me, that’s where I’m a bit different. I just can’t imagine doing exactly the same thing for years on end unless I was genuinely passionate about it. I’d probably give something like that five years, really get into it, then I’d be itching to move on. and that’s not just me making it up now – I remember a lecturer at uni saying, don’t stay in a job more than five years, you’ll go stale. that really stuck with me, this idea that you need to keep changing to stay interested.

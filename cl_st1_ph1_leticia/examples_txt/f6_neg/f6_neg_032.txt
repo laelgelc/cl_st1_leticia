@@ -1,8 +1,8 @@
-Text ID: t003376
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001671_gpt.txt
+Text ID: t000912
+Group: human
+Model: human
+File:   corpus/05_human/t000912_human.txt
 
-Score (f6_neg): -1
-Loading words (f6_neg), N=1: able
-You used to be able to do something called a reverse charge call. So if you’d run out of money, you’d pick up the phone and ring the operator first. You’d tell the operator the number you wanted and ask to reverse the charges. Then the operator would call that person for you and explain that you were asking to reverse the charges. If they agreed to accept the cost of the call, it would all go on their bill instead, and you could still make your call without any money.
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: guy, everyone
+straightaway and then they they had callers calling in saying their opinion and this lady talked about her experience where erm her the father of her kids beat her up in front of her kids broke her nose in front of so many people in public and no one stepped in to do anything everyone just watched and like the question was like what would guys do in that situation? cos loads of people feel like you shouldn't get involved if it's not your business if you go on a first date with someone but like also like no one like even if s they're cheating on someone no one ge deserves to be beaten up like that li I just wanted to know what what would you guys do in that situation?

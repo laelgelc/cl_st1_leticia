@@ -1,8 +1,10 @@
-Text ID: t000137
-Group: human
-Model: human
-File:   corpus/05_human/t000137_human.txt
+Text ID: t002360
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000655_gpt.txt
 
-Score (f6_neg): -1
-Loading words (f6_neg), N=1: pound
-well the thing is I planned most of it I just I didn't plan the accommodation because when I originally looked I said oh it might not be worth it because I can't find any accommodation less than I think it was like a hundred and fifty pound for like one night erm and then like I think who one of them emailed me back like oh how about this? and like I did a I did a really brief like look at the website and I was like oh it doesn't look atrocious but obviously didn't pay any attention to like where the hell it was located
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: guy, everyone
+yeah so when I changed how I was playing, that was when he really sort of lost it, because he wasn’t getting the reaction he wanted anymore. My class were actually really interested in that bit – this one guy trying to stir everyone up and it just backfiring when people stopped playing the way he expected. 
+
+In my write‑up I went back to this idea I’d had of “cyber provincialism”. At first I’d thought of it as these game worlds being completely sealed off from reality, like nothing from outside really gets in. But then I started noticing that stuff like Occupy Wall Street and Occupy London actually does make its way into Minecraft. So I had to rethink it a bit, because clearly real‑world events and movements can filter into the game, and that complicates the idea of it being this totally closed‑off, separate space.

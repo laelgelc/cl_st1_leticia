@@ -1,12 +1,8 @@
-Text ID: t002147
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000442_gpt.txt
+Text ID: t001038
+Group: human
+Model: human
+File:   corpus/05_human/t001038_human.txt
 
-Score (f1_pos): -1
-Loading words (f1_pos), N=1: f1 neg words (N=1): everything
-yeah and I mean the only reason it was really bearable was because everywhere had air conditioning, so you’d sort of stagger from one air‑conned box to another and it was fine, you could cope with it like that. Even though it was spring break and the whole of America seemed to have descended on Florida, we actually managed pretty well just driving and finding somewhere each night. Most nights we’d just roll into a town, find a motel and there’d be a room, no problem at all.
-
-There was only one night where it all went a bit wrong, down in the Keys. We just couldn’t find anywhere, everything was booked solid, and we ended up in this really dodgy sort of trailer‑park‑type holiday camp. It was very rough round the edges, not the sort of place you’d normally pick if you had any choice. The air conditioning there was so suspect we were joking it was probably pumping out carbon monoxide at us while we slept. It did the job, but you did sort of lie there thinking, this can’t be healthy.
-
-But apart from that one night it was all right, really. I always say the only trouble with America was the Americans, but in truth they were actually very good. People were helpful, friendly, all that, and even with the madness of spring break going on around us it was generally a really good trip.
+Score (f1_pos): 4
+Loading words (f1_pos), N=4: become, change, moment, different
+on a wavelength yeah yeah I guess when I think about you I see somebody who is evolving or I mean you know how we are dynamic creatures we are always evolving we always changing you know I I don't think a personality is ever set but I suppose you have certain characteristics or a certain resonance or a certain vibe that you get on for a period of time because it suits you and you explore everything within that vibe and then something shifts or changes and you move and you do become a different person on a cellular level on a de and well on a cellular level you are not you are a completely different human being to the physical organism you were seven years ago everything about you has shifted and changed and also sort of psychologically spiritually emotionally well you are a different person in every moment you are reinvented in every now but I do think you hit these like you know you are at one now which is a life changing oh okay choice of two big paths and there's another probable you that's carrying on business as usual but this wider path is the you that is now recreating or creating something new and I think good for you be assertive and be proud of who you are don't do yourself down or call yourself a sad git for going to bed at ten o'clock you know be proud of that

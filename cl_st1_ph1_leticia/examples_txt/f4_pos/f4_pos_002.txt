@@ -1,8 +1,8 @@
-Text ID: t000005
-Group: human
-Model: human
-File:   corpus/05_human/t000005_human.txt
+Text ID: t002681
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000976_gpt.txt
 
-Score (f4_pos): 3
-Loading words (f4_pos), N=3: fact, great, somebody
-yes yeah well you know ththese bods are too actually and in fact they even organised the they found something something up there and and ththey organised a biopsy for it so I went up to the dental hospital and somebody did the biopsy on that erm and again if that had happened through the you know the the dentist that would have cost a heck of a lot that was quite funny because what happened with that I mean it turned out to be nothing the biopsy was absolutely fine but it my whole cheek swelled up er so that I had a completely uneven face you know this is was normal and this was like a great big balloon and as it coincided with the time when I was completely bald you know that was the only time when I thought I cannot
+Score (f4_pos): 5
+Loading words (f4_pos), N=5: feel, clear, carry, expect, make
+no they really didn’t, and that’s exactly what I was trying to get across to her. I just don’t connect with the way I’m expected to teach at the moment. There aren’t those really engaging, visually attractive, step‑by‑step materials that guide the students through and make the learning objectives clear and motivating. Instead, I end up feeling a bit lost, as if everything depends on me improvising and carrying them. I don’t think it should be like that; the responsibility should sit more with the learners. I see myself more like a film director, shaping things, not doing absolutely everything.

@@ -1,8 +1,12 @@
-Text ID: t000781
-Group: human
-Model: human
-File:   corpus/05_human/t000781_human.txt
+Text ID: t003360
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001655_gpt.txt
 
 Score (f3_neg): -1
-Loading words (f3_neg), N=1: seem
-well I mean er those are all good theories I mean well I don't suppose we'll ever know erm but it seems to me perfectly obvious that that this is the way any creature relates the worl relates to the world you know if you're an ant presumably you have a very different understanding of the world of the size and the scale erm assuming they have brains and things like that which I dare say they don't erm you know and if we were if we were giants we would see it all scale is incredibly important I don't mean size
+Loading words (f3_neg), N=1: fact
+and in fact that whole sense of security I’d had about cancer was even more misplaced than I’d realised, because my grandmother almost certainly had a gynaecological cancer herself. She’d had a hysterectomy, and she’d had radium rods put in, all those years ago, and yet the family story was always, you know, “there isn’t cancer in our family, nobody’s ever had cancer.” It was as if that whole episode with her had just been wiped from the collective memory.
+
+I only really got to the bottom of it when I found her diary from that year. She’d written about going into hospital, about the hysterectomy, and about the radium treatment, quite plainly. When I showed it to the rest of the family it was like a revelation. Until they actually saw her own words in that diary, somehow it had just gone completely over their heads, or been smoothed over, or denied. 
+
+So there I was, going around with this sort of inherited assurance that we were a “cancer‑free” family, when in reality there’d been this very clear instance of gynaecological cancer right there in the previous generation. It made me realise just how powerful those family narratives are, and how they can give you a false sense of safety that isn’t borne out by the facts at all.

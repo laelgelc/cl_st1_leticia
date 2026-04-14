@@ -1,2 +1,2 @@
-variables loading on this pole = 4
-bloke (.61), anyone (.47), stand (.43), chat (.42)
+variables loading on this pole = 3
+month (.63), pound (.63), least (.53)

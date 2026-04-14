@@ -1,8 +1,8 @@
-Text ID: t004669
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t001259_gpt.txt
+Text ID: t001383
+Group: human
+Model: human
+File:   corpus/05_human/t001383_human.txt
 
 Score (f4_neg): -1
-Loading words (f4_neg), N=1: horrible
-so she starts going on about how much she basically hates his mum, and apparently he’s got this twin brother who’s just horrible as well. And then she’s like, “It’s really weird, every time he goes home he just spends all his time with his mum.” And I’m sat there thinking, that’s not that strange at all. Then she tells me he’s gone to see *The Good Dinosaur* with his mum and acts like that’s the weirdest thing ever. And I’m defending him, like, that’s totally reasonable, it’s just a nice PG film to go and watch together.
+Loading words (f4_neg), N=1: minute
+so I took her to the cinema and we we got erm the bus back into town cos you had to go like twenty minutes out of town to the something called the where all the cinema complex were and stuff like that and I took her out we came back and we got dropped off in the middle of town and it were like a Friday night and we were walking up this street and my ex boyfriend came up to me and like swung for me cos er he were a violent shit and I'd

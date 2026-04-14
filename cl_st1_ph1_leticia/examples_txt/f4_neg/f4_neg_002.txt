@@ -1,12 +1,8 @@
-Text ID: t005017
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t001607_gpt.txt
+Text ID: t000075
+Group: human
+Model: human
+File:   corpus/05_human/t000075_human.txt
 
-Score (f4_neg): -2
-Loading words (f4_neg), N=2: awful, horrible
-yeah Matt Haig followed me on Twitter, which is the only reason I followed him back really, because I haven’t actually read any of his books yet, but I really want to. I keep meaning to pick one up. He tweets quite a bit about dealing with depression and stuff, and lately he’s been talking a lot about all the abuse he gets on Twitter.  
-
-some of it’s from people he actually knows, which is just awful. it’s one thing getting random trolls having a go, but when it’s people you know in real life, that must feel so much worse. he’ll tweet something quite normal and then suddenly there’s this pile-on in the replies, and you can tell it really gets to him sometimes.  
-
-it just makes me think how horrible it must be for people who are properly in the public eye, where everything they tweet is scrutinised and picked apart. like, every single word you put out there is analysed and judged and people are just waiting to jump on you. I can’t even imagine having to think that hard about every tweet, knowing it might blow up and get you loads of abuse. it must be exhausting and really, really grim.
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: minute
+and actually reality things like the Jeremy Kyle show they they would aspire to be on that being sort of having their private lives put under the spotlight cos they've got on to television you know actually it's irresponsible broadcasting actually erm and I was in the I'd taken a school trip away we'd had this girl with us and I'd I'd said I wanted to take her cos I thought she needed to get away from home actually it was a bit of a nightmare and mum was just I let the have their mobile phones in the coach on the way down but I said you know if there's any misuse any problem they we will I will collect them in and you will have them for an hour or so each day so that you can phone home let them know you're alright that would be it oh and this woman this girl's mum spent every five minutes she was calling her the mum was actually the one that was sort of was the problem and in the end we had various problems with phones so I took them all in at the end of the day and said right okay that's it you will be able to phone home tomorrow afternoon at this time well this mother it transpired the girl did phone her but I think maybe she couldn't get hold of her so she obviously didn't leave a message or anything cos they've never got any credit on their phones so it's sort of that home they don't have home they don't have landlines because they don't pay the bills so the landlines disappear so anyway I said to the parents categorically before we left that his I would do this if there's problems I'd also said we will call you if there are any problems so if you don't hear anything you know they're fine well I got back at the end of the few days it was a week actually

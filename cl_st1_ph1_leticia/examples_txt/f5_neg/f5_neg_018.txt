@@ -1,8 +1,8 @@
-Text ID: t003392
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001687_gpt.txt
+Text ID: t001110
+Group: human
+Model: human
+File:   corpus/05_human/t001110_human.txt
 
-Score (f5_neg): -1
-Loading words (f5_neg), N=1: manage
-after my bank account was hacked I had a lot of trouble with it all really it was quite a palaver but to be fair the bank were actually very good they were monitoring everything and they were blocking all these illegitimate payments and standing orders that were trying to go out they somehow managed to work out which ones were dodgy and they stopped them before any money went properly missing but then every week I was getting these letters through the post two or three at a time saying they needed my signature to authorise standing orders I’d never even set up or tried to set up so I was constantly having to deal with these forms and queries from them even though I hadn’t asked for any of it
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: fuck, great
+I'll ring up O2 and we can try and get a double deal thing erm anyway and I d it wasn't a great phone but it's just because she wanted to contact and I was just like and apparently that was another thing he had a go at her saying you've been weird with me the last two days it's like yes cos she hasn't had a phone well she has a phone but it doesn't have data so she can't message you every minute of every fucking day you controlling possessive c twat face er

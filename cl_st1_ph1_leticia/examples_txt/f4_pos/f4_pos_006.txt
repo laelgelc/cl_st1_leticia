@@ -1,8 +1,12 @@
-Text ID: t000190
-Group: human
-Model: human
-File:   corpus/05_human/t000190_human.txt
+Text ID: t001839
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000134_gpt.txt
 
-Score (f4_pos): 3
-Loading words (f4_pos), N=3: fact, become, great
-and a lot of like publications it's that thing between quality and content and sometimes the content's great it doesn't really matter how it's written hence the tabloid press like they get obviously I mean it doesn't mean how it comes out if there's a juicy bit of fact or juicy bit of controversial information then you know often it just gets put out regardless of you know the writing but then sometimes you just feel it now cos I read so much more than I used to and I read a lot of different stuff I can really I'm not like you know I'm not very critical of it but I know when I've read something that I don't think is put together very well or I think it's really weirdly written like that you do become better at it
+Score (f4_pos): 4
+Loading words (f4_pos), N=4: feel, stick, make, head
+well I only ended up going on my own because the girl I’d gone out there with had gone off to meet some of her friends, they were doing a road trip or something, so I suddenly had this random free night before my tour actually started. I was just sat there thinking, I really don’t want to be stuck in some New York hotel room on a Friday night, like what a waste, so I thought sod it, I’ll find something to do.
+
+I saw there were cheap tickets for a Yankees game and just bought one without really thinking it through, it was more like, oh that’ll be cool, rather than actually planning it properly. It was only afterwards that it hit me I’d have to get myself up to the Bronx on my own, on the subway, and then walk from this really rough-looking station to the stadium. 
+
+On the way there I was already a bit on edge, and then this really salacious bloke stopped me and started being creepy, which just made me feel even more exposed. By the time I was heading back I was honestly really scared, like properly aware of how stupid it was, just me on my own in that area at that time of night, all because I hadn’t wanted to be bored in my room.

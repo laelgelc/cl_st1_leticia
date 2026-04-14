@@ -33,155 +33,141 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac6	SD fac6
-group	human	1705	-0.00762463	0.40165509
-group	profiled_gpt	1705	0.13137830	0.45744446
-group	unprofiled_gpt	1705	0.12844575	0.46526684
+group	human	1705	-0.03108504	0.49489915
+group	profiled_gpt	1705	-0.08973607	0.50888259
+group	unprofiled_gpt	1705	-0.08680352	0.52134772
 
 === FACTOR LOADINGS (f6_pos) ===
-variables loading on this pole = 8
-bloke (.61), anyone (.47), (massive (.46)), stand (.43), chat (.42), (odd (.42)), (thinking (.42)), (minute (.31))
+variables loading on this pole = 4
+month (.63), pound (.63), least (.53), (moment (.31))
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f6_pos_001.txt (text ID t001777) =====
-Text ID: t001777
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000072_gpt.txt
-
-Score (f6_pos): 3
-Loading words (f6_pos), N=3: bloke, stand, chat
-Once the headmaster let me in, nobody said a word about me having been left outside. It was as if nothing odd had happened at all. The Asian woman on the help desk just carried on chatting away with this bloke, going on and on about anything and everything, and still didn’t even pause to see if I needed help. I was just standing there, feeling increasingly anxious, watching the time and worrying I was going to be late, and then eventually the bell rang and it all kicked off.
-
---- Loading words for this example (pos): bloke, stand, chat
-
-
-===== EXCERPT: f6_pos_002.txt (text ID t002533) =====
-Text ID: t002533
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000828_gpt.txt
+===== EXCERPT: f6_pos_001.txt (text ID t000849) =====
+Text ID: t000849
+Group: human
+Model: human
+File:   corpus/05_human/t000849_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: bloke, stand
-He was telling us about this incident he’d had, where he was demonstrating this water thing in front of a couple of blokes who were very sceptical. They were standing there watching, not really believing any of it, and then one of them said he’d have a go himself. So this chap let him try it, and after he’d done it, the chap looked him over and said, “You’ve got an allergy, haven’t you?” The fellow was a bit taken aback, but he said yes. Then the chap added, quite specifically, “It’s tree pollen you’re allergic to.” And the bloke with the allergy confirmed, “Yes, you’re right.”
+Loading words (f6_pos), N=2: month, pound
+lovely lady and there's a Polish lass as well there's two others so they've got four vets and they've just put out another bumf about who they are all the new vets are there and I met the two of them and they're brilliant and they they're starting a healthy pet club and for nine ninety-nine per that's the lowest maybe it goes up with the age of the dog nine ninety-nine a month you get everything you get your flee your worm two annual checks erm and a few other things on the list erm and that'll work out far cheaper cos at the minute you know before lots of just before lots of medicine for Tobyover the year every three months you've got to do him that comes to erm that's a hundred two hundred pound
 
---- Loading words for this example (pos): bloke, stand
-
-
-===== EXCERPT: f6_pos_003.txt (text ID t001897) =====
-Text ID: t001897
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000192_gpt.txt
-
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: stand, chat
-so like gunpowder tea is actually just this processed loose-leaf tea, not like actual gunpowder in a gun or anything. I only found that out properly when I’d been chatting loads about tea with this woman, and then later on we walked past this tea stand and there was this guy actually selling gunpowder tea. I was so shocked because I genuinely thought my friend had been joking before. But yeah, it turned out to be real and it was literally just sold as loose-leaf tea.
-
---- Loading words for this example (pos): stand, chat
+--- Loading words for this example (pos): month, pound
 
 
-===== EXCERPT: f6_pos_004.txt (text ID t002690) =====
-Text ID: t002690
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000985_gpt.txt
+===== EXCERPT: f6_pos_002.txt (text ID t000197) =====
+Text ID: t000197
+Group: human
+Model: human
+File:   corpus/05_human/t000197_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: stand, chat
-yeah so like you know that lad I know, he’s got that JVC thing coming up, doing the beauty products on the shopping channel. It’s like a grand a session, which is mad money for what it is, just standing there talking about moisturiser or whatever. And that’s just him – I keep thinking what someone properly famous must be on for the same sort of gig, it must be ridiculous, the whole business is just mental when you think about it. 
+Loading words (f6_pos), N=2: month, pound
+mine was like three hundred pounds for three months over the summer and so it would have been about a hundred for just a month but my parents aren't bothering but they're gonna insure me when I come back in April they're gonna insure me for the rest of the insurance be for the rest of the year because my mum's insurance ends in October when I go back to uni so they'll just add me on for the rest of the licence or for the rest of the insurance before it expires over the summer
 
-Then Thursday I was in with my tutor, chatting through what I’m doing and what the plan is. We went over my ideas and where I’m heading, just trying to get it all straight in my head really, working out the next steps and that.
-
---- Loading words for this example (pos): stand, chat
+--- Loading words for this example (pos): month, pound
 
 
-===== EXCERPT: f6_pos_005.txt (text ID t001746) =====
-Text ID: t001746
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000041_gpt.txt
+===== EXCERPT: f6_pos_003.txt (text ID t001664) =====
+Text ID: t001664
+Group: human
+Model: human
+File:   corpus/05_human/t001664_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: anyone, chat
-no not at all he was really good about it, like there was no pushing or anything. When we went out on the test drives he just sort of chatted to me, asked how I was finding each car, what I liked about them, what I didn’t like, that kind of thing. It was really relaxed, just driving round and talking, not like him trying to hard-sell me while I was trying to concentrate. Then when we got back inside he literally just said, “So which one do you prefer?” and left it at that. I told him I actually preferred the Clio, mainly because I liked the interior more and it felt a bit roomier, even though it was only a three-door. I hardly ever have anyone in the back anyway, so that layout made more sense for me.
+Loading words (f6_pos), N=2: month, least
+I remember really this is a really nice memory actually erm and I were like off and on through school and I always fancied him well ever since I moved school in year n year eight I would always have a crush on him and we used to get on really well although my friends were always popular girls they were all really skinny very athletic not stunningly pretty but like I would always be the least out of all of us and then like in year nine ten while we were away doing Trident when you do do like work experience and I was like fuck this and really dieted loads and lost about two stone in two and a half months mm
 
---- Loading words for this example (pos): anyone, chat
-
-
-===== EXCERPT: f6_pos_006.txt (text ID t003143) =====
-Text ID: t003143
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001438_gpt.txt
-
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: bloke, stand
-I was just standing there yesterday, opposite the X-ray department, in my little booth, and this family came past after a scan. The bloke had a shaved head and tattoos, and his wife and little boy were with him, she was pushing him along. He glanced over and I saw him reading the words on my booth, and you could just see something change in his face. Then I heard something about him having a CT scan next, and it just hit me. I thought, he’s probably just been told he’s got cancer. It was all in that moment, the look on his face and the way they were together. It really brought home how fragile everything is, just like that.
-
---- Loading words for this example (pos): bloke, stand
+--- Loading words for this example (pos): month, least
 
 
-===== EXCERPT: f6_pos_007.txt (text ID t002495) =====
-Text ID: t002495
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000790_gpt.txt
+===== EXCERPT: f6_pos_004.txt (text ID t000063) =====
+Text ID: t000063
+Group: human
+Model: human
+File:   corpus/05_human/t000063_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: anyone, stand
-no that was really good, you did really, really well there, honestly. Right, now listen, stand back a bit, don’t go too far forward, stay just behind the minions. Use your Q on them when they get close, yeah, don’t waste it on nothing. Keep an eye on your mana as well, you don’t want to run out when someone jumps you. If you get low, hit five for your health potion and six for your mana potion, remember? Don’t forget those, they’ll keep you in lane longer. 
+Loading words (f6_pos), N=2: month, pound
+but because had got his own business which the university had funded well they'd given him two thousand pounds to help set him up he went to them and said look I've got this business and I'd like to work in it for the year off rather than so an internship in another company as part of the course and they said yes he could do so I mean he's he's got his own business but the reason he's working with is that erm that also gave it a bit more credence because working with and 's business partner eh actually supervises so it's not his dad sort of telling him what to do but he reports to erm he's doing a good job by all accounts they gave him a bonus last month so he was
 
-Now, when the wave’s pushed up, start hitting the turret, but only when it’s safe, yeah? Back off if you see anyone missing, don’t get greedy. If that enemy comes close on their own and you’ve got enough health, you can kill them easy—just Q them, auto‑attack, then back off. You’re really low now though, so don’t dive, just play it safe and wait for another chance.
-
---- Loading words for this example (pos): anyone, stand
+--- Loading words for this example (pos): month, pound
 
 
-===== EXCERPT: f6_pos_008.txt (text ID t002685) =====
-Text ID: t002685
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000980_gpt.txt
+===== EXCERPT: f6_pos_005.txt (text ID t001668) =====
+Text ID: t001668
+Group: human
+Model: human
+File:   corpus/05_human/t001668_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: bloke, stand
-our keeper right he looks terrifying like properly scary, covered in tattoos, big bloke, you’d look at him and think no one’s getting near his goal. Ball comes in and he just completely misses it, like goes to get it and somehow doesn’t, and they score again. And it’s the same sort of goal over and over, just balls in behind, our defence is that bad they just keep doing it and it keeps working.
+Loading words (f6_pos), N=2: month, pound
+it came from when they they had work done on the bungalow when they first moved in there put a pipe in and it wasn't done properly so about a year ago from now they had to move back out to the Max Mexborough house that's now While they re-did the work that they botched the insurance for the time that they were out of the house for two months when they said well we would have rented out Mexborough for eight hundred pound a month gave them two or three grand plus compensation for time money blah blah
 
-What makes it worse is me and one of the lads in midfield actually had good games. We’d gone with a proper five‑man midfield, really solid, keeping the ball, doing what we’re meant to do, but if every time they go forward they look like they’re gonna score it doesn’t matter. We lost four one in the end and we had to take every single chance we got, and we didn’t.
-
-There’s this one lad in our team who would be the perfect centre back, like exactly what we need, strong, can read the game, everything. But they won’t stick him there because he’s “too good going forward” so they want him up the pitch. And I’m just stood there thinking what’s the point? However well I play, or we play in midfield, we’re always gonna lose if the back lot are that bad.
-
-It’s just this horrible feeling of knowing before you even start that you’re probably gonna lose no matter what you do. Proper frustrating and you just feel helpless with it. At least we’ve got a two‑week break now before the next game, so maybe everyone’ll calm down a bit and we can figure something out.
-
---- Loading words for this example (pos): bloke, stand
+--- Loading words for this example (pos): month, pound
 
 
-===== EXCERPT: f6_pos_009.txt (text ID t002390) =====
-Text ID: t002390
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000685_gpt.txt
+===== EXCERPT: f6_pos_006.txt (text ID t001589) =====
+Text ID: t001589
+Group: human
+Model: human
+File:   corpus/05_human/t001589_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: bloke, stand
-yeah so we were out this one night, me and my mate, and we ended up bumping into this group of lads. It was really weird ’cause they were way more like “alright, alright” with me when I was with her, like proper making a fuss, whereas normally they’re not that bothered. You could just tell the dynamic changed ’cause I was stood with her.
+Loading words (f6_pos), N=2: month, pound
+all this started spiralling from so I I to be honest I don't really understand it so I'm just gonna write and say look I don't understand how this has happened I have come in and spoke to you about this before you can see I paid in a cheque of two hundred pounds two months ago to hopefully clear this and it hasn't it's just been eaten by more charges and I'm in the same position again I don't understand it can I have a meeting with you please and go through this account cos it's just gonna get out of control
 
-Then at one point, this one lad just suddenly grabbed my face and tried to kiss me. I turned my head so he only got my cheek, like made it into a sort of cheek kiss instead, ’cause I wasn’t having that. Another bloke clocked the whole thing, saw exactly what happened. Later on, that same lad came back over to me and he was being really tactile – touching my face, leaning in and whispering in my ear, putting his hand on my waist and all that.
-
-And then, out of nowhere, he starts going on about this other girl, you know, saying he “knows what she’s like” in this really pointed way. It was so obvious he was basically saying he’d slept with her, like he wanted everyone to know. It was like he was wearing it as a badge of honour or something, bragging about it rather than just quietly saying, “oh by the way, I’ve been with your girlfriend” or whatever. It wasn’t even subtle, it was just really blatant and made the whole thing feel even more awkward.
-
---- Loading words for this example (pos): bloke, stand
+--- Loading words for this example (pos): month, pound
 
 
-===== EXCERPT: f6_pos_010.txt (text ID t003266) =====
-Text ID: t003266
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001561_gpt.txt
+===== EXCERPT: f6_pos_007.txt (text ID t000324) =====
+Text ID: t000324
+Group: human
+Model: human
+File:   corpus/05_human/t000324_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: bloke, stand
-There was this big, fat American bloke, must’ve been about fifty, in the audience, and he just kept interrupting the compere all the time. Every time the compere said something, he’d shout out, “that’s me!” really loudly. At first everyone was just a bit confused, like, what’s he on about, and people started talking about him. In the end the compere just decided he was a complete nutter and tried not to get drawn in, but the man kept standing up and coming out with loads of stupid things.
+Loading words (f6_pos), N=2: pound, least
+that's another bunch of years so you know what I mean? I to be able to fund a PhD I need to be able to have enough money to live on for four years that's a lot of time you know what I mean? and I would need to save at least thirty thousand pounds each so that's the plan we go back to the Middle East we save fifteen grand each and we travel Africa and do another qualification we do a Delta that would cover that year we go back and do two more years and save thirty grand each and that will be enough for us for us to do a PhD
 
---- Loading words for this example (pos): bloke, stand
+--- Loading words for this example (pos): pound, least
+
+
+===== EXCERPT: f6_pos_008.txt (text ID t000479) =====
+Text ID: t000479
+Group: human
+Model: human
+File:   corpus/05_human/t000479_human.txt
+
+Score (f6_pos): 2
+Loading words (f6_pos), N=2: month, pound
+yeah I think so Yeah I think so I think 's having a bit of a hard time of it with I think she's coming to the point of there's always been quite a gap between them intelligence wise and so far they've kind of dealt with it as in doesn't know and said well actually I I like all the qualities that he has so I'm just ignoring that but she spent the last three to six months going through his divorce with him and basically doing his accounts and she's of and shit loads of money like thousands and thousands of pounds that his
+
+--- Loading words for this example (pos): month, pound
+
+
+===== EXCERPT: f6_pos_009.txt (text ID t000603) =====
+Text ID: t000603
+Group: human
+Model: human
+File:   corpus/05_human/t000603_human.txt
+
+Score (f6_pos): 2
+Loading words (f6_pos), N=2: month, pound
+yeah it's really nice to see actually cos for ages he was just like properly squirrelling money away like cos he pays a little bit of rent at home but not a lot and he doesn't have a lot of outgoings so he was saving like five hundred pound a month just like literally squirrelling it away bef like before he knew it he had like fifteen grand and he was like oh I've got a deposit for a house blah blah blah and I was like that's great but like are you sure that's what you want? and like since going to Manila I think he's just realised that that's not what he wants like
+
+--- Loading words for this example (pos): month, pound
+
+
+===== EXCERPT: f6_pos_010.txt (text ID t000235) =====
+Text ID: t000235
+Group: human
+Model: human
+File:   corpus/05_human/t000235_human.txt
+
+Score (f6_pos): 2
+Loading words (f6_pos), N=2: month, least
+you kind of like like what was it? I saw what? a few months ago maybe in May and I was like we were in the car home I was like do you think you're gonna marry ? he was like mm yeah probably and then what? now he's just broke up with her? it was just like he just said they went to did they go to Majorca? or they went on holiday and he was just like it just didn't feel the same I was like well at least you dumped her you know at least you
+
+--- Loading words for this example (pos): month, least

@@ -1,10 +1,14 @@
-Text ID: t004906
+Text ID: t005022
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001496_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001612_gpt.txt
 
 Score (f3_neg): -2
-Loading words (f3_neg), N=2: sense, seem
-Imagine what it must have been like before people really understood astronomy, when you’re just looking up and seeing the sun and moon and stars and having to make sense of them. You’d have all these stories to explain why the sun moves across the sky, or why the moon changes shape, or why sometimes in an eclipse it goes dark in the middle of the day. Even the way the moon sometimes looks bigger or smaller must have seemed really strange.
+Loading words (f3_neg), N=2: fact, reason
+yeah so like when we were down there it turned into this whole thing about climate change, as it always does with them, and one of them was basically doing that classic “the Earth’s always warmed and cooled, it’s just natural cycles” thing. He was saying like, you know, it’s warmed up before, it’ll cool down again, it’s just what the planet does, and sort of using that as a reason to say what’s happening now isn’t really a big deal, or that it’ll just reverse on its own.
 
-In Old English they described all that with these brilliant compound words. So stars are “sky-candles,” and the sun is a “sky-candle” as well, which I think is such a nice image, this candle burning up in the sky. And the sea is the “swan-road” or the “whale-road.”
+And then other people were pushing back and going, yeah, but the point is how fast it’s happening now, like the rate that the temperature’s going up is way quicker than those natural changes. So it sort of turned into this back-and-forth where they’re basically arguing about the same facts but from totally different angles.
+
+I mostly just sat there and kept my mouth shut, because everything I would’ve said was already being said by someone else anyway, so there didn’t seem much point in me piling on. They kept trying to drag me into it, like “go on, what do you think?” and I was just like, no, I’ve got to drive home later, I’m not getting into this. I really didn’t fancy getting wound up and then having to get in the car.
+
+But yeah, in my head I was just thinking, you’re wrong, like you’re just wrong on this. I didn’t say it out loud, but that’s what I was thinking the whole time while they were going on about it.

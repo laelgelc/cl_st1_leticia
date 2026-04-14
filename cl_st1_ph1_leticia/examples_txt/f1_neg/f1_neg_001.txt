@@ -1,8 +1,8 @@
-Text ID: t002681
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000976_gpt.txt
+Text ID: t000035
+Group: human
+Model: human
+File:   corpus/05_human/t000035_human.txt
 
-Score (f1_neg): -6
-Loading words (f1_neg), N=6: clear, expect, carry, moment, try, everything
-no they really didn’t, and that’s exactly what I was trying to get across to her. I just don’t connect with the way I’m expected to teach at the moment. There aren’t those really engaging, visually attractive, step‑by‑step materials that guide the students through and make the learning objectives clear and motivating. Instead, I end up feeling a bit lost, as if everything depends on me improvising and carrying them. I don’t think it should be like that; the responsibility should sit more with the learners. I see myself more like a film director, shaping things, not doing absolutely everything.
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+it's also it's it's like the silliest little things as well like you know like sometimes you know when you're in a bad mood? sometimes you just wanna be in a bad mood and when you're in front of somebody else's family you can't just be in a shit mood like sometimes I I come home from work and I'm not necessarily a bitch to but I literally just think I a I just wanna be in a bad mood like just let me be in a bad mood and let me just stew let me just

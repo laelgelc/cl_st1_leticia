@@ -1,8 +1,8 @@
-Text ID: t002350
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000645_gpt.txt
+Text ID: t000727
+Group: human
+Model: human
+File:   corpus/05_human/t000727_human.txt
 
 Score (f3_neg): -2
-Loading words (f3_neg), N=2: seem, pick
-so yeah when they told us to get completely obsessed with one theme I picked Minecraft, just decided I’d throw myself into it and learn pretty much everything I could about it. I spent loads of time on different servers and noticed that tons of people seemed to build Mario monuments everywhere. that sort of tied in with what I’d been thinking about already, so I thought it’d be really fun to mash a few ideas together. I ended up deciding on this statue that would combine the garden gnome idea with the Statue of Liberty and Super Mario, all rolled into one big Minecraft build.
+Loading words (f3_neg), N=2: fact, okay
+to go with when the group go and I s cos they were a lovely group so I said yeah okay I will I will do that so I did that and then I got a call again erm just before erm someone had an operation one of the other staff had an operation well they've lost two more staff since then but they hope got two new ones in and one of them's had an operation and erm so I've covered two weeks of her classes the ninth and the day you came home and the sixteenth but she's just had her gallstones removed or something yeah so but I'd I quite like because I like the atmosphere there and it's changing now because they've got no money and it's you know there's no paper for printing there's no materials for teaching with and you know it's cut back cut back cut back whereas well you always had like endless amounts of everything you needed there was no question whether you could do this or do that or colour print or you know there was no iin fact just prior to the Of last Ofsted people were taking in their own printer paper

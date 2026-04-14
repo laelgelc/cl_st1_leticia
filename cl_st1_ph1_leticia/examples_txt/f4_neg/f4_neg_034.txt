@@ -1,8 +1,8 @@
-Text ID: t000080
-Group: human
-Model: human
-File:   corpus/05_human/t000080_human.txt
+Text ID: t003109
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001404_gpt.txt
 
 Score (f4_neg): -1
-Loading words (f4_neg), N=1: awful
-we co it was very very difficult to ge get rid of poor teachers and ah the hoops we had to jump through were a nightmare and so everybody felt really pretty safe there was so they could say well I can do what I like to some extent because we had one woman who was on maternity and the young girl they got in to cover her was doing a good job but she did struggle because this woman who was on maternity hadn't left half the resources that she should have left behind and half the files and the information and so I was having to chase her up trying to get hold of it and it's you know she's put some absolutely awful comments on Facebook about this young teacher
+Loading words (f4_neg), N=1: minute
+I'll just nip outside for a minute in my dressing gown and joggers, not even planning to go anywhere, just stepping out. And then you see these proper keen walkers go past, all in their shorts and that, dead enthusiastic. They’re like, “oh, can we have some water?” and they’re clearly all geared up for this massive walk. And I’m just stood there thinking, I’m a right fat bastard, I’m literally about to go back inside and eat. It’s such a contrast, them all raring to go and me just in my comfy stuff.

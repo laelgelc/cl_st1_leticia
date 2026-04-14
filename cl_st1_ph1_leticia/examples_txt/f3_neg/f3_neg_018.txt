@@ -1,8 +1,8 @@
-Text ID: t002549
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000844_gpt.txt
+Text ID: t000418
+Group: human
+Model: human
+File:   corpus/05_human/t000418_human.txt
 
 Score (f3_neg): -2
-Loading words (f3_neg), N=2: sense, pick
-I had this friend who was a civil servant, working in one of the government departments, and she was always the first to know what was going on. It was purely because she smoked. Ministers would head off to the smoking room for a cigarette, and that included the secretary of state and all sorts of very senior people. She’d be in there with them, chatting away, and she’d pick up information that was way, way above her pay grade. So in that sense, it was definitely sometimes worth being a smoker.
+Loading words (f3_neg), N=2: wanna, reason
+because somebody might go no I disagree with you your misconception about this isn't the same idea of my misconception about in a way it's easier to deal with misconceptions for some really weird reason because yeah I don't quite know why it works like that but it's kind of almost like saying tell me what you don't know and tell me why you don't know it's it's a really different way of learning it's like a pushback rather normally we tell everybody what we've learnt and how good we are at learning and what we can intellectually argue this is the completely reverse of that but I bet you anything it includes more people and I think if you wanna actually have lots of people to talk to about things you're interested in this is the way to build that kind of rapport with your with your fellow learners cos misconceptions are around us

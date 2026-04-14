@@ -1,8 +1,8 @@
-Text ID: t001540
-Group: human
-Model: human
-File:   corpus/05_human/t001540_human.txt
+Text ID: t001785
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000080_gpt.txt
 
-Score (f4_pos): 2
-Loading words (f4_pos), N=2: build, change
-some do they're getting better they're definitely travelling more and travelling more is opening up their eyes to ways other people live and what's going on so the society I come back to England and I say oh they've built a new school or something but really England's changing very slowly it's not it's not really changing like is changing very very quickly and they like they don't leave any buildings to stand every time a building hits forty years old they knock it down and build something else so like nothing they can't understand when I say that I grew up in a house that was you know they just find that and like there's a church down the road that's like six hundred years old they just they can't believe it nothing in their country is older than forty years old
+Score (f4_pos): 3
+Loading words (f4_pos), N=3: feel, stick, expect
+in schools it was almost impossible to get rid of a really poor teacher because of all the procedures you had to go through – endless observations, capability processes, unions involved, governors, everything. it meant people felt incredibly secure, so some of them behaved exactly as they liked, knowing nothing serious would happen. there was one case that really stuck with me: a teacher went off on maternity leave and didn’t leave any of the resources or proper information her replacement needed. the young cover teacher was left to struggle, and instead of helping, the one on maternity leave went on Facebook and posted really nasty, very personal comments about her, all in the public domain. and she still expected to come back and just walk into her job as if nothing had happened.

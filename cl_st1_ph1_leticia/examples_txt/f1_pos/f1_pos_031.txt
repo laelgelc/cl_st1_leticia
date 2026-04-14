@@ -1,8 +1,8 @@
-Text ID: t002157
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000452_gpt.txt
+Text ID: t000418
+Group: human
+Model: human
+File:   corpus/05_human/t000418_human.txt
 
-Score (f1_pos): -1
-Loading words (f1_pos), N=1: f1 neg words (N=1): everything
-when I did used to bring it up with my mum, about her copying those mannerisms, it would just blow up into this massive argument over something really small. then my dad would always step in as the peacekeeper and tell me I was being out of order and that I needed to apologise to her. it made me feel like I wasn’t allowed to have an opinion about it at all. I’d end up arguing with him instead, basically for her benefit, which just made everything feel even more unfair.
+Score (f1_pos): 5
+Loading words (f1_pos), N=5: build, idea, more, different, way
+because somebody might go no I disagree with you your misconception about this isn't the same idea of my misconception about in a way it's easier to deal with misconceptions for some really weird reason because yeah I don't quite know why it works like that but it's kind of almost like saying tell me what you don't know and tell me why you don't know it's it's a really different way of learning it's like a pushback rather normally we tell everybody what we've learnt and how good we are at learning and what we can intellectually argue this is the completely reverse of that but I bet you anything it includes more people and I think if you wanna actually have lots of people to talk to about things you're interested in this is the way to build that kind of rapport with your with your fellow learners cos misconceptions are around us

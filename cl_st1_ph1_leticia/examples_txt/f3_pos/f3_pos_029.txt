@@ -1,8 +1,12 @@
-Text ID: t003866
+Text ID: t004973
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000456_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001563_gpt.txt
 
-Score (f3_pos): 1
-Loading words (f3_pos), N=1: fuck
-it was my last day of the summer at home in france and I’d actually planned it to be this proper family day with her you know like I’d turned down other plans on purpose just so I could be there with her and then she just went out from like nine in the morning running errands and stuff and then by the time it got to like eleven at night I was knackered and had to be up at six for my flight and suddenly she’s like oh we haven’t spent any time together and I was like mum I stayed in for you and you fucked off all day and then when I said that she started crying and doing the guilt thing even though she’d chosen to be away for three weeks and only came back two days before I had to leave
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: huge, massive
+well basically the way it works is there’s the three of us, and we’ve kind of got into a rhythm now. He’s the one who kicks things off and keeps an eye on the overall quality, and then I’m the one who does all the texts and graphics, so all the visual side and the wording, and then the other one actually implements it all. So between us we take things from the first idea right through to the finished thing.
+
+It started out really small, almost like a one-man band, with pretty much everything being run by one person and just a few little retreats. But over time it’s grown and grown into this really big programme, with loads of different retreats and a massive amount of administration to keep it all going.
+
+Now there are lots of people involved in different bits of it, but even so, the three of us are still doing a huge share of the work. We’re still the ones who carry most of the responsibility for getting things done and keeping it all running smoothly.

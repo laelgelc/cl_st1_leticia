@@ -1,8 +1,12 @@
-Text ID: t002454
-Group: profiled_gpt
+Text ID: t003568
+Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000749_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000158_gpt.txt
 
-Score (f4_pos): 2
-Loading words (f4_pos), N=2: change, set
-it's about a New York advertising agency set in the sixties, and it runs right through from about 1960 to 1971. it's been really popular, and I think a lot of that is because it feels very realistic about the big social changes that were happening in American society over that decade. it’s not a documentary, it’s definitely a drama, but they’ve made a real effort to show how things shifted. like, in the very first episode, you see this really professional office environment, and then they take you home with the characters and you see their domestic lives as well.
+Score (f4_pos): 4
+Loading words (f4_pos), N=4: feel, stick, make, head
+I really needed that beer after this afternoon; it’s been so stressful. For the first time I actually didn’t want to go to work, which is weird because I usually like it. It’s just so insanely busy at the moment. I feel like it’s basically just me and my boss, and he’s in New York, so I’m kind of on my own here.
+
+I’m still quite new, and there are just so many projects on the go that I keep worrying something important is going to get missed. It’s not that anyone’s done anything wrong, it’s just that there’s way too much work and not nearly enough people to do it.
+
+What makes it worse is that the two people on six‑month contracts aren’t getting extended. So once they go, we’re going to be even more short‑staffed than we already are. It feels like we’re heading into this massive workload with fewer and fewer people, and I’m stuck in the middle of it, trying not to drop anything.

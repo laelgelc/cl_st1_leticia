@@ -1,2 +1,2 @@
-variables loading on this pole = 2
-pound (-.62), able (-.31)
+variables loading on this pole = 3
+anyone (-.73), guy (-.40), everyone (-.33)

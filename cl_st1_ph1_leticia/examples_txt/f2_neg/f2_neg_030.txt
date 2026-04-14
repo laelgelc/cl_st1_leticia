@@ -1,12 +1,8 @@
-Text ID: t004063
+Text ID: t004929
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000653_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001519_gpt.txt
 
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: huge, massive, big
-yeah everyone really got into that communal town, it was brilliant for a while. People started putting up these really big houses, all sort of clustered around this main street where we had all the shared buildings and resources. It felt like a proper little place, you know, with everything everyone needed right there in the middle.
-
-Then on the first of December we put up this massive Christmas tree, just this huge undecorated thing to start with, and that kind of became the focus. People kept coming back to it, adding decorations, hanging stuff on it, and then they started leaving presents underneath for each other, which was really nice. It turned into this sort of big collaborative project, everyone chipping in.
-
-Not far off there was this castle someone had built, and the guy who owned it was really pushing for player versus player stuff. He kept trying to stir things up, trying to get people to fight each other, but it never really took off the way he wanted. After a while, though, some vandalism started creeping in again, and bits of stealing as well, which kind of spoiled the atmosphere.
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: gonna
+so in the end I texted him and was just like, look, I’m starving, I’m gonna eat, because I hadn’t heard anything and it was getting ridiculous. Then he finally texts back with this whole story about how he’d set off to come over, and his neighbours had called him in on the way to try this legal high. He said he thought it wouldn’t do anything, like it was nothing, and just took it. And I’m there thinking, why would you do that when you know you’re supposed to be coming to mine? It just shows how easily distracted he is, like anything that pops up just derails him completely.

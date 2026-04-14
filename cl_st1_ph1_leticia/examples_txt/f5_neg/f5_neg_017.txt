@@ -1,8 +1,8 @@
-Text ID: t003374
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001669_gpt.txt
+Text ID: t000459
+Group: human
+Model: human
+File:   corpus/05_human/t000459_human.txt
 
-Score (f5_neg): -1
-Loading words (f5_neg), N=1: manage
-I just really want you to feel like you’re achieving things, you know? We could pick a fun run race in September to aim for – it’s a really good time of year for running, not too hot and not too cold. If we started doing a bit of training around Easter, once the weather and the ground are a bit better, I’m sure you could manage the race. I really think you could. Would you like to give it a try? And we could even sponsor ourselves and raise some money at the same time.
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: fuck, great
+EDM country cross-over star Avicii has blamed a chronic porn addiction for the current health issues which have seen the twenty-five-year-old Swede put his music career temporarily on hold speaking from his plush Los Angeles mansion the two times Grammy-nominated producer emotionally revealed that he had no choice but to take a break for from music after doctors warned him of the serious long-term health issues associated with porn addiction porn was always a way of me for way for me to escape the mundane reality of life admitted Avicii real name Tim Bergling it's tough growing up in Sweden we have long dark winters where it can be very hard to leave your house so for me the best way to deal with this was porn and the obobvious masturbation that goes with it when I first broke onto the music scene I temporarily forgot porn I had girls throwing themselves at me so I literally just didn't have enough time or penises to even think about porn or jacking off continued a reminiscent Avicii things were going great for me I was healthy my success was growing and for the first time in my life I had enough money to make sure I had clean underpants on every day things couldn't have gone any better then one day about a year ago I was feeling a bit down after listening to the massive version of my my album Truth so I decided to watch some porn he continued in a regretful tone the first time I want to watch something funny like a midget fucking a horse you know just to cheer me up a little but since I started watching it I got deeper and deeper into it before I knew what I was doing I was jacking off to granny foot fetish dot com in a public toilet

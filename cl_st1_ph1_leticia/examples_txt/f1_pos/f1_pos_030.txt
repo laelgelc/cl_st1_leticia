@@ -1,8 +1,14 @@
-Text ID: t003916
+Text ID: t005038
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000506_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001628_gpt.txt
 
-Score (f1_pos): -1
-Loading words (f1_pos), N=1: f1 neg words (N=1): try
-a valid passport is just one that’s still current and you can actually use, you know, it hasn’t gone out of date. mine had run out, so for a while I didn’t have a valid passport at all, but it didn’t really matter then because we weren’t going anywhere, we weren’t travelling abroad or anything like that. but passports are really important for proving who you are, especially for jobs. they’re actually more important than things like birth certificates or driving licences, because they’re harder to get and they show that you live here permanently. when I was trying to get teaching work it was quite difficult proving my identity without a passport, and that’s really why I went and renewed it, even though I still haven’t been abroad or actually used it since.
+Score (f1_pos): 5
+Loading words (f1_pos), N=5: build, sense, own, different, way
+well basically I’m responsible for all the education liaison for the company, across the whole of the group. The big driver behind it really is this shortage of engineers in the UK, so my remit is to try and address that by what we do externally with young people and the education system.
+
+So I work with schools and universities, getting involved with things like visits, talks, projects, careers stuff, that sort of thing, and also with various events where we showcase engineering and try to encourage people to come into it. There’s a government angle as well, so I link into what they’re doing on STEM and skills and make sure we’re in line with that and contributing where we can.
+
+Before my role existed, all of that was happening in a very bitty way. Different divisions were off doing their own thing in silos, not really talking to each other, so there was no overall coordination or sense of a joined‑up strategy. Part of what I do is pull all that together so we’re not duplicating effort and we present a coherent face to schools, universities, and the various bodies we deal with.
+
+It’s a role I’ve essentially built from scratch, because it simply hadn’t existed before. There wasn’t a template or a previous post‑holder, so I had to shape it myself and work out what it should cover and how it should function across the company.

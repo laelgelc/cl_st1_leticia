@@ -1,8 +1,8 @@
-Text ID: t002342
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000637_gpt.txt
+Text ID: t000452
+Group: human
+Model: human
+File:   corpus/05_human/t000452_human.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: huge, big
-stop eating with your hands please, use your fork and knife properly, yeah? Anyway, the mum is going to teach this really big woman how to do the aerial hoop, that’s the idea. She’s secretly training, and by the end she’ll be good enough to perform in the circus. In the grand finale she’ll do this amazing hoop act, and she’ll be wearing this huge pink dress that looks a bit like a blancmange, all wibbly wobbly and over-the-top, which will make the whole thing even more spectacular.
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: gonna
+and it turned into a massive argument and then my dad being the peacekeeper that he is would always come to me and be like you're not handling the situation appropriately go apologise to your mum and I would just be like what the fuck is actually happening can I not actually have an opinion in this house it's like you always just gonna be there so that you can just keep the peace regardless of what I'm feeling or whatever so I ended up having arguments with my dad about it just for my mum's benefit

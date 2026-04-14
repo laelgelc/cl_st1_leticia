@@ -1,8 +1,8 @@
-Text ID: t003868
+Text ID: t004533
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000458_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001123_gpt.txt
 
-Score (f3_pos): 1
-Loading words (f3_pos), N=1: fuck
-she just doesn’t get how expensive that whole thing was, like when she fucked off to New Zealand for three months. it wasn’t even planned properly, so dad didn’t make any Christmas plans at all. we ended up having to spend Christmas Day at those really old friends of theirs, from like ten in the morning till ten at night. I was just sat there feeling miserable, wishing I could just be on my own instead of stuck there. and all of that was just because she decided to disappear like that. she’s just so fucking selfish, like extremely selfish.
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: huge, massive
+We turned up there with our two sports cars and the caravan, all of it still technically the company’s property, and got this massive shock at the border. They wanted a huge deposit off us, basically to make sure we didn’t just vanish with the cars and the van. Then they said we had seven days to either pay up or get ourselves registered properly. And that’s when we got the second nasty surprise: the law had changed, so instead of six months we now had to stay for a whole year.

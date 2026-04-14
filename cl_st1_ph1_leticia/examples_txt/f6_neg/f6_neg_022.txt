@@ -1,8 +1,8 @@
-Text ID: t004040
+Text ID: t004971
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000630_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001561_gpt.txt
 
 Score (f6_neg): -2
-Loading words (f6_neg), N=2: pound, able
-If she goes to the doctor, she might be able to get the same gloves I’ve got, you know, the special ones that are fifty pounds a pair. The doctor actually gave me two pairs. If I can find my other pair – I’ve lost one – I’ll give her a pair to try. They’re so comfortable, you can put cream on and wear them while you’re doing the housework and everything. They’re much better than those cotton gloves, ’cause the cotton ones just fall off and go all baggy and horrible.
+Loading words (f6_neg), N=2: guy, everyone
+There was this big, fat American bloke, must’ve been about fifty, in the audience, and he just kept interrupting the compere. Every time the compere said something, this guy would shout, “That’s me!” really loudly. At first everyone was just confused, like, what’s he on about? Then people started talking to him, trying to work it out. In the end the compere clearly decided he was a complete nutter and tried not to engage, but the bloke kept standing up and saying loads of stupid things.

@@ -1,14 +1,8 @@
-Text ID: t003309
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001604_gpt.txt
+Text ID: t001018
+Group: human
+Model: human
+File:   corpus/05_human/t001018_human.txt
 
-Score (f5_neg): -1
-Loading words (f5_neg), N=1: full
-so like this is exactly why I get so paranoid about people reading my stuff when it pops up, right, because she is just so nosy. There was this massive argument between her and one of my other housemates, and later on I went downstairs to check if the other girl was okay. I was really careful, like I properly avoided saying her name or anything about her, because I could literally hear her at the top of the stairs listening in.
-
-I was sat there thinking, I know she’s there, so I’m not giving her anything. We just talked about how the other girl was feeling about the whole situation, but we didn’t say her name, we didn’t say anything about her specifically. I was really conscious of it, like “no, I’m not getting dragged into this, I’m not talking about you.”
-
-Then afterwards she messages me, all “what were you saying about me?” and “just tell me what you said,” like she was so sure we’d been bitching about her. She even tried to make out she’d heard something, like she had proof, when I know full well we never mentioned her. She just assumed that if we were talking after the argument it had to be about her.
-
-And I kept saying to her, over and over, “we didn’t talk about you, your name never came up,” but she just wouldn’t let it go. She kept pushing, like if she nagged me enough I’d suddenly confess to something that hadn’t even happened. It really annoyed me, because I’m not lying, and I don’t like that she’s basically accusing me of lying when I was so careful not to say anything about her in the first place.
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: fuck, set
+I'd been yanked t to consciousness by a searing burning sensation around my face and hand a second later fully awake I realized what was happening my hair was on fire I lept to my feet but people were laughing cackling at me in a heart-thumping panic not understanding what had happened or why no one was helping I stumbled out of the room flailing my hands wildly trying to put out the flames on her head I ran out into the street screaming mum I wanted her because as frantic as I was I realized someone must've done this to me deliberately the flames were out as I ran blindly towards our house dialling mum's number someone set me on fire I wailed I'm coming home I was so hysterical I couldn't hear what she said in reply um you're a fucking madwoman what the hell are you talking about?

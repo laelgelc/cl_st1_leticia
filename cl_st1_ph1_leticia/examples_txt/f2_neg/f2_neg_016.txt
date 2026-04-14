@@ -1,8 +1,8 @@
-Text ID: t002194
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000489_gpt.txt
+Text ID: t000487
+Group: human
+Model: human
+File:   corpus/05_human/t000487_human.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: huge, big
-yeah so they ended up taking more than they first thought they’d need to, just to be on the safe side, and then they decided to give him this extra treatment over a few days. and for that the surgeon literally drew this huge box round it on his face in permanent marker, so he didn’t have to keep redrawing it every day. dad was like, ‘yeah that’s fine, I’ll just keep it on for the seven days,’ he honestly didn’t care at all, he was really laid‑back about the whole thing. but my mum was having none of it, she was like, ‘you are not going out with a big black box on your cheekbone!’
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: gonna
+erm no so said oh I can get you a much better pension a superann I've already I've already moved across it's gonna be way way better and he sort of went through it with us and at the time it seemed like so he transferred what I'd paid into my superann across to them which went into one pot and then I started paying into another pot and then quite soon we realised that unless we were activity managing this it was gonna fall behind superann and so we thought oh this we're just we are not clever enough we are not gonna be able to do it so we tried moving it back to superann and they wouldn't accept it back so I've got two frozen little pots one of which is going to pay me twelve pounds a year and one

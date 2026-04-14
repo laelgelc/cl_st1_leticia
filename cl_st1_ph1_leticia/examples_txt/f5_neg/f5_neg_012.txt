@@ -1,8 +1,8 @@
-Text ID: t003305
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001600_gpt.txt
+Text ID: t000746
+Group: human
+Model: human
+File:   corpus/05_human/t000746_human.txt
 
-Score (f5_neg): -1
-Loading words (f5_neg), N=1: full
-this bloke I know, he does flats up, you know, decorating and that, and he’s always finding stuff people leave behind. He was telling me about this bottle of gas he found up in a loft once, just sitting there, which is a bit worrying really. And then there was this carrier bag full of porn someone had left. I’ve got it now. Honestly, one of the things in there is just beyond me – it’s this really big, not at all attractive Eastern European woman, in this horrible floral dress, sitting there masturbating. I watched it thinking, who on earth would want to see this? I genuinely can’t believe there’s a market for that sort of thing.
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: fuck, somebody
+erm I was emailing her and er we emailing about various books and things I said anyway I I've just read one of the worst books I've ever read if not the worst I can't oh it's mesmerisingly bad I got to the end cos I was just couldn't believe that somebody had allowed themselves to put one sentence after another like this and she wrote to me this morning saying well I read it and I th er I thought it was really quite good it's really interesting erm quite good as a portrait of people living in and I just thought well that absolutely confirms it for me that 's got no fucking judgement

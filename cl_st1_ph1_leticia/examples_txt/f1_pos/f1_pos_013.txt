@@ -1,8 +1,12 @@
-Text ID: t000311
-Group: human
-Model: human
-File:   corpus/05_human/t000311_human.txt
+Text ID: t002120
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000415_gpt.txt
 
-Score (f1_pos): 1
-Loading words (f1_pos), N=1: um
-it's really bad so Saturday when I was like having a bit of a freak out um when I said I would go and pick him up in the evening and um we'd go and he said oh um yeah I really wanna see you I wanna make sure you're okay and he was being really sweet and really attentive after being a knob on Friday night obviously and um he said look I'll come over w w we'll do it we'll get the DVDs and I'll shout you to a takeaway and I'll spoil you rotten and it'll be really nice and I said oh you know um it'll be a nice evening nice to see him and I picked him up and er he said like oh thanks for la like I'm really chuffed that you wanted to see me again cos like you know I can understand that the first time was an accident but the second time was me just being an absolute knob like w what happened last week
+Score (f1_pos): 5
+Loading words (f1_pos), N=5: moment, more, own, different, way
+and that’s what I mean about the way education’s set up at the moment – it’s a totally different learning mechanism. Instead of you working things out from your own perspective, you’ve got lecturers standing there who’ve already pre–selected all the examples and the bits they think are interesting. They’ve done all the working out and then just feed you the edited highlights.
+
+What I’d really like is for students to push back a bit more and actually question that. Sit there in a lecture and say, “Right, how does this apply to my area? How does this fit with what I’m interested in?” rather than just passively taking it all in.
+
+If more people did that – properly questioned the material and the lecturer – I honestly think it would make the whole lecture better for everyone in the room.

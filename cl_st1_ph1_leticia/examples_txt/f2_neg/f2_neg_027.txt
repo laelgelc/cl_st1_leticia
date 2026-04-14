@@ -1,16 +1,8 @@
-Text ID: t004067
+Text ID: t004810
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000657_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001400_gpt.txt
 
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: huge, massive, big
-so yeah after I went back on the server I’d actually had this idea in my head for ages about doing this massive tower project, like properly huge, and that was going to be my big thing. But then I started thinking it’d be more fun if it wasn’t just me doing my own giant monument, so instead of just going ahead with the tower I started setting these little challenges for everyone.
-
-so rather than “here’s my big tower, look at it,” it was more like “right, here’s a task, here’s a theme, let’s see what you can come up with,” and that made it feel a lot more collaborative. everyone could chip in and we’d all be working around the same area, bouncing off each other’s ideas while we were building.
-
-then, while we were in the middle of building this big thing together, we had this one guy on the server who was supposed to be the expert with TNT, you know, like he knew how to use it properly. and he ended up blowing up the walls by accident, and the whole place just got completely flooded. it basically wrecked what we were doing.
-
-so at that point I asked if we could have creative mode just so we could fix it all, rebuild the walls, get the water out and carry on with the project without having to start from scratch. they turned creative mode on for me so I could repair it, and then they just kind of left it on for me afterwards.
-
-since then I’ve been using creative mode to make these puzzle challenges, like little constructed puzzles for people to solve, and I’ve been putting them up on Facebook and sharing them around. it’s turned Minecraft into this way of bringing people together, really, with these creative projects and challenges instead of just everyone playing separately.
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: gonna
+they just don't care though do they? I mean, when we had that sixteenth in Brighton at the hotel, we were all underage and we did sneak a bit of alcohol, but they shut the bar, no one was really drunk or anything. And her mum and dad kept coming down from upstairs to check on us, making sure everything was alright. That’s how it should be, really. If there are gonna be people there under eighteen, ultimately the parents have gotta be responsible.

@@ -1,8 +1,8 @@
-Text ID: t004880
-Group: unprofiled_gpt
-Model: gpt
-File:   corpus/05_unprofiled_gpt/t001470_gpt.txt
+Text ID: t001625
+Group: human
+Model: human
+File:   corpus/05_human/t001625_human.txt
 
-Score (f4_neg): -2
-Loading words (f4_neg), N=2: awful, horrible
-We’d literally spent the whole weekend together – Friday, Saturday, Sunday – and by the end of it I was just exhausted from nonstop socialising. Saturday night was the worst, though, because there was this absolutely awful Essex girl out with us. She had this really horrible accent, and she wasn’t even wearing a bra, so it was just like, oh my god. Later on, when we were talking to someone who hadn’t been out with us, we were trying to describe her, and it was so hard to convey quite how bad she actually was.
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: minute
+no er go and have a cup of tea and get yourself back here in thirty minutes so she did she got to the restaurant absolutely packed got herself a cup of tea and erm a four bar Kit Kat which she loves sat down she sat down opposite erm an elderly gentleman and she put the the Kit Kat in the middle unwrapped and everything and she took it and had her first bite and then the elderly gentleman took it and took snapped a bar off and ate a bar of her Kit Kat

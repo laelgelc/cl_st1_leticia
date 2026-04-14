@@ -1,8 +1,10 @@
-Text ID: t001498
-Group: human
-Model: human
-File:   corpus/05_human/t001498_human.txt
+Text ID: t001828
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000123_gpt.txt
 
-Score (f1_pos): 1
-Loading words (f1_pos), N=1: um
-I know ironic um but yeah I dunno it's what what I mean the m the main thing is that I think it massively stresses out and I'm not sure he actually wants to do it or gets much enjoyment from it and I think it's ruining his life so I figure he shouldn't do it and yeah I think cos he feels it's a more worthy hobby than or as he doesn't see it as a hobby he sees it as something worthy rather than um being in the orchestra or rowing can you turn it down a tiny bit? I'm struggling
+Score (f1_pos): 5
+Loading words (f1_pos), N=5: build, sense, change, own, different
+No, I don’t, not in that one‑place, one‑company sense. What appeals to me is having my own business, being able to move about a bit, change things up. Every time you shift location it’s like you get this jolt of new energy. You have to learn new stuff, see things differently, meet different people, and that forces you to keep growing.
+
+Staying in one place, one setup, yeah, you build really strong ties and a sense of community, and there’s something good in that. But it also feels like you’re closing off other paths. You lose the freedom to try different things, to test yourself in new environments, and that’s what I’m drawn to.

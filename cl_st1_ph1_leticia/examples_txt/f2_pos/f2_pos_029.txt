@@ -1,8 +1,8 @@
-Text ID: t002095
-Group: profiled_gpt
+Text ID: t004660
+Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000390_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001250_gpt.txt
 
-Score (f2_pos): 1
-Loading words (f2_pos), N=1: okay
-I did start the day feeling better, that’s true, and I can explain that. I slept better because, after we’d spoken, I felt reassured that you were okay, at least practically, and that you weren’t in immediate distress. But that doesn’t mean I felt good about what I’d done. I still felt really bad about the emotional impact of making that decision on my own. I honestly believed I was doing something that was in both our interests, even if, from your point of view, it wasn’t discussed properly at all.
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: chat, bloke
+I went to this really interesting CLIL talk, actually by the same bloke who did that FCE talk before. He was much better this time, I think because he was doing his own material rather than someone else’s. Afterwards I was chatting to someone who said, “Why have you never worked at [that place]?” and I honestly didn’t know what to say, because I’ve worked pretty much everywhere else. It all felt quite strange, being at a conference where all these different organisations I’m connected with were there – Kaplan, Support for English, and so on. I even managed to quietly observe this Kaplan guy from Salisbury I’ll probably have to deal with in the summer – he’s meant to be notoriously difficult.

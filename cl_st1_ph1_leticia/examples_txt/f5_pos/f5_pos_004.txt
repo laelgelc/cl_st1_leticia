@@ -1,8 +1,8 @@
-Text ID: t000808
-Group: human
-Model: human
-File:   corpus/05_human/t000808_human.txt
+Text ID: t002048
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000343_gpt.txt
 
 Score (f5_pos): 2
-Loading words (f5_pos), N=2: em, reason
-well it's a bit of a concern so I just that's what I deleted all the numbers that I had for you and when you text me saying I'm home I was like right that's get that in em so I've got that number but because my numbers for some reason are all synced so all the details I've got your Face well I haven't got no I deleted everything so I had your Facebook I had your phone number but now see now I've got two three records for because that's that's you know you can never have too many
+Loading words (f5_pos), N=2: single, pick
+So my boss sent this email round saying that after talking to the controller, apparently this new process and system are working really well, everyone’s on board, all that. And I’m just sitting there thinking, how? Because since they changed the roles we’ve ended up doing loads of extra admin, picking up bits that used to be someone else’s job. It doesn’t feel streamlined at all, it’s just more work. I honestly doubt she’s actually asked anyone if they’re happy with it, because I can’t think of a single person who is. It just feels completely out of touch.

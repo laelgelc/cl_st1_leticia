@@ -1,8 +1,8 @@
-Text ID: t001685
-Group: human
-Model: human
-File:   corpus/05_human/t001685_human.txt
+Text ID: t003352
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001647_gpt.txt
 
-Score (f4_neg): -2
-Loading words (f4_neg), N=2: awful, horrible
-and I remember cos I and I remember you saying do leave it don't ever ring the mothers don't ever ever get yourself involved because they would have gone into school it would have been the end of the earth cos you remember they'd come home and sob their hearts out so and so's been really horrible to me and you listen to the story think that's absolutely dreadful what this child's done how awful they must have been brought up really bad you know all these stupid things that go through your head and the next day and you just dread them going into school and they're just really in a state and how awful it's gonna be then they skip out of school that evening and you've had a dreadful day
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: minute
+Well it absolutely opened his eyes. He was quite shocked, really, seeing what actually happens – the stirrups, the speculum, fingers up your bum, all of that. It suddenly dawned on him what women routinely put up with, all the smears and gynae stuff we just accept as normal. For him it was extraordinary that you could meet someone and five minutes later they’re poking about like that. And he’s the complete opposite – he won’t go near a doctor if he can help it, and the thought of anyone doing a rectal examination on him is just beyond the pale.

@@ -1,10 +1,8 @@
-Text ID: t002853
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001148_gpt.txt
+Text ID: t001681
+Group: human
+Model: human
+File:   corpus/05_human/t001681_human.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: anyone, stand
-I was absolutely dying that morning, honestly. I kept having to stop on the way in to be sick, over and over, and I still somehow dragged myself into work. I could barely stand up straight, let alone think. Then I had this meeting and I just sat there nodding and agreeing to everything because I had no idea what anyone was actually talking about, I just wanted it to be over. I must have signed myself up for all sorts without even realising.
-
-When I finally got back to my desk I thought, I can’t do this, I’m not going to make it through the day. And then I saw that someone had left me a can of Coke and a Mars bar on my desk, like a little care package. I just looked at it and thought, that is the black medicine, that is exactly what I need. It really did feel like salvation. I forced down the first mouthful, wondering if it was all going to come straight back up again, but it stayed put and it got me through. That combination of Coke and a Mars bar, that really is black medicine when you’re in that state.
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: month
+it is it is quite difficult and and I think the things that erm because because he did this project work for the last eight years I suppose erm he erm you know he'd often do six months or a year and then have a few months off and but at the moment he had the he went back to work all the responsibilities of the house suddenly got handed to me even though I was working full time I never quite understood how this happened but because he was doing a longer journey somehow or another I got it all those responsibilities but I'm sort of adapting but I do find it quite difficult sometimes thinking actually I open the fridge and think there's nothing in here I wanna eat cos I never get to go to the shops and he has and I don't actually I get fed up with that I wanna go and buy my own stuff but somehow or another it doesn't seem to happen and erm certain things I'd you know he does this he's quite a good cook he does the cooking most of the time which is great but actually if I'm retired I don't want him I want to take back some of that I feel as though I've lost my kitchen

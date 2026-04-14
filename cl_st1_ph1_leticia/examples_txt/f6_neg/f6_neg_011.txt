@@ -1,8 +1,8 @@
-Text ID: t000052
-Group: human
-Model: human
-File:   corpus/05_human/t000052_human.txt
+Text ID: t002311
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000606_gpt.txt
 
-Score (f6_neg): -1
-Loading words (f6_neg), N=1: able
-I mean you can tell maybe they'd sound similar not not that similar to be able to do it it's hard isn't it? But that's because they're you know a lot of hearing is so you have to listen to it again I suppose until you get the context until you understand everything that's going on but there's quite a few business words that I don't know Tom like the word for eh the words for meetings I tried to look it up on the internet and I just can't find it some sort of meeting I said is it a board meeting? No it's not a board meeting it's this so and so meeting it's just I had I looked it up but like with the letters that I think were the word and like there's lots of people saying the same why are they not spelling it right can't figure it out
+Score (f6_neg): -2
+Loading words (f6_neg), N=2: anyone, everyone
+if you've got that kind of abundant cheap energy and resources, then people can actually get on with, you know, purer pursuits rather than just scrabbling to survive or fighting over stuff. And for me, tied into that, I’ve always wanted to live forever, right back to when I was a kid. It’s just always seemed completely obvious and desirable. What really throws me is that almost everyone I talk to about it doesn’t feel the same way at all. I’ve literally never met anyone else who actually wants to live forever.

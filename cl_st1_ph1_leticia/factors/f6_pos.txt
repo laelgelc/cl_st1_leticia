@@ -1,2 +1,2 @@
-variables loading on this pole = 8
-bloke (.61), anyone (.47), (massive (.46)), stand (.43), chat (.42), (odd (.42)), (thinking (.42)), (minute (.31))
+variables loading on this pole = 4
+month (.63), pound (.63), least (.53), (moment (.31))

@@ -1,12 +1,8 @@
-Text ID: t001844
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000139_gpt.txt
+Text ID: t001080
+Group: human
+Model: human
+File:   corpus/05_human/t001080_human.txt
 
-Score (f1_neg): -4
-Loading words (f1_neg), N=4: clear, expect, try, everything
-so I rang this bloke that I found online, off one of those trade sites, and he actually rang me back and said he’d pop round and price it up. I told him straightaway that both of us are out at work in the day, so evenings would be best, and he was fine with that, said an evening was okay. 
-
-but instead of just saying, you know, “I’ll come Thursday at seven” or picking an actual day and time, he just went, “I’ll ring you at some point in the week and then I’ll come over.” which is really not that helpful when you’re trying to plan around work and everything else. 
-
-it was all really vague, like no commitment at all, and I was left thinking, well, when am I supposed to expect you then? I just wanted a clear slot so we could make sure we were in. it’s annoying because we were ready to get it sorted and he just wouldn’t pin anything down properly.
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+yeah there was a stupid erm who Jason Jason blah blah blah who's the black guy? Jason? robinson they had an interview with him today and the interview was asking a shit question he's like and in the world cup from this date jonah Lomu scored the second try which won New Zealand the match and you were the one who missed the tackle how did it feel having him run at you? and Jason Robinson was like well you know he's such a great player I was like bollocks do you remember that one tackle that you missed shut up

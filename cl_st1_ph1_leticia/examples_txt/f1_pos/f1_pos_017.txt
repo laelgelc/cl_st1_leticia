@@ -1,8 +1,10 @@
-Text ID: t000569
-Group: human
-Model: human
-File:   corpus/05_human/t000569_human.txt
+Text ID: t001946
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000241_gpt.txt
 
-Score (f1_pos): 1
-Loading words (f1_pos), N=1: um
-it could be a game c Or could run off backwards But er there's some you could probably do something like that um you could do um say talking about sort of fr foe um friend how many people can we get into an area or into a tab onto a table but not up here like low down so could we get everybody standing on a table this size? Well yes could we get everybody standing on the the shorter tables? Possibly not could we get everyone standing in a very small area of masking tape? So you can have in the
+Score (f1_pos): 5
+Loading words (f1_pos), N=5: build, idea, more, different, way
+What I’d really like us to work towards is having a business that’s set up so we’re not tied to any one place. I’m imagining creating a remote team, where everyone works from wherever they happen to be, and we do the same. That way, if we want to go and spend six months with family, or decide we’d like to base ourselves in a different country for a while, we can just go and do that without having to stop the work.
+
+The idea is that the structure of the business, and the way the team works, is all designed around that flexibility from the start. So we’re not building something that needs an office or us physically being there all the time. Instead, it’s more like we’ve got a group of people we trust, all working remotely, and we can move around and live where we want while the business keeps running in the background.

@@ -1,8 +1,8 @@
-Text ID: t002996
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001291_gpt.txt
+Text ID: t000470
+Group: human
+Model: human
+File:   corpus/05_human/t000470_human.txt
 
 Score (f3_pos): 1
-Loading words (f3_pos), N=1: god
-I really don’t like the word “god” because of all the patriarchal, old-man-in-the-sky imagery attached to it. For me it’s much more about an all‑encompassing energy, source, or “all that is.” When I look at homeless people, I see them as other selves, choosing an experience of lack to learn and grow from. Because of that, simply handing over money feels like it creates an energetic imbalance if nothing flows back. I’m far more comfortable with some kind of exchange, like work for help, as in that gardening example earlier.
+Loading words (f3_pos), N=1: thinking
+and they have a was telling me they have an office within the hospital so tomorrow when I'm there I'm gonna go straight to Barr Ellison and do it through them so it's just ridiculous that somebody that you don't know that you know just didn't wasn't thinking properly can have so much of an impact and was sitting here thinking of you know when you have a problem you always think there is a way round his there is a way I've just got to find it and I was sat thinking there isn't one there's actually nothing I can do

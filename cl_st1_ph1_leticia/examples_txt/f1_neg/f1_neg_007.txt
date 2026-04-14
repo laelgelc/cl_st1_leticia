@@ -1,14 +1,8 @@
-Text ID: t003084
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001379_gpt.txt
+Text ID: t001370
+Group: human
+Model: human
+File:   corpus/05_human/t001370_human.txt
 
-Score (f1_neg): -5
-Loading words (f1_neg), N=5: clear, carry, nothing, everything, same
-so I emailed him back last night and said that couldn’t play because he’s got this tennis tournament on, and then I said I wasn’t sure what was going on with , because he hasn’t really played many matches recently and I was starting to wonder if he’d been dropped or something. 
-
-He came back this morning with this really long email explaining it all. He said no, he absolutely hadn’t been dropped at all, the plan was actually to move him up so he’d be playing in the same team as , but there’d been a bit of a mix‑up and it just hadn’t happened properly. He was really apologetic about it, said sorry for the misunderstanding and everything, and made it clear that was still very much in his plans.
-
-So I replied and said, you know, actually the reason he’s missed a few matches is because of his tennis – it’s just clashed a lot, so it’s not that we’ve been sat there waiting for him to be picked and nothing’s happened. I said that next season it’s probably going to be just , because is likely not to carry on, whereas definitely wants to, and he’s thinking about using it for his GCSE as well, so it’s a bit more important for him. 
-
-And I told him there was really no need for him to be apologising like that, because we could just as easily have dropped him a quick email weeks ago to ask what was going on, we just never quite got round to it.
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: shit
+she just it's just shit like rude in general like she doesn't I just sort of said oh erm me and have decided that perhaps we're gonna er move out at the end of our tenancy she was like right and I was like well I think our tenancy runs out in January she was like yep and I was like erm okay so I don't really know so then she was sort of like I thought well I don't really know what happened with that and she was like well I need it in writing I was like okay well do I just email that to you? and she was like yep email it to me I was like okay

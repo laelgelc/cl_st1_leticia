@@ -1,8 +1,8 @@
-Text ID: t004394
+Text ID: t004815
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000984_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001405_gpt.txt
 
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: huge, massive, big
-I mean, yeah, those people do still have some money pressures, but if I had that kind of money I wouldn’t go mad with it. I’d just get a really good house, but nothing ridiculous, not some massive mansion just for the sake of it. I’d sort everything out so I’d literally never have to worry about money again. And I wouldn’t be blowing almost all of a huge weekly wage every week either. I’d keep a big chunk back every time, so there’s always loads left over.
+Score (f2_neg): -1
+Loading words (f2_neg), N=1: god
+like there was this girl in our year who got like eleven A stars in her GCSEs and she were in the paper and everything, all over the local news, and everyone were like oh my god she's amazing and that, and now she just works in a nightclub and she just doesn't give a fuck, like she’s not bothered at all. and then there’s me who left school with no GCSEs ‘cause I were getting bullied that much I just stopped going, and now I’m at a redbrick uni doing really well. it just shows there’s a difference between having qualifications and actually doing well for yourself.
