@@ -16,10 +16,7 @@ clear
 cos
 decide
 different
-em
 end
-er
-erm
 everyone
 everything
 expect
@@ -96,7 +93,6 @@ think
 thinking
 try
 turn
-um
 wanna
 way
 week

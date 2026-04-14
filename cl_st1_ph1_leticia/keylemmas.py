@@ -31,7 +31,11 @@ VALID_TAG_PREFIXES = ("NN", "NP", "VB", "JJ")
 STOPWORDS = {
     "be",
     "have",
-    "do"
+    "do",
+    "em",
+    "er",
+    "erm",
+    "um"
 }
 
 def ll(a, b, c, d):
