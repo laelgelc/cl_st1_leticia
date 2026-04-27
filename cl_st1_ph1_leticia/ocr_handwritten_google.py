@@ -6,8 +6,8 @@ This script:
 - Uses Google Cloud Vision's DOCUMENT_TEXT_DETECTION to perform OCR, suitable for
   handwritten or dense text images.
 - Accepts the image path as a command-line argument.
-- Prints the recognized text to the console.
-- Saves the recognized text to a .txt file next to the image
+- Prints the recognised text to the console.
+- Saves the recognised text to a .txt file next to the image
   (e.g., docs/image.jpeg -> docs/image.txt).
 
 Usage (from the project root):
@@ -16,8 +16,8 @@ Usage (from the project root):
 
 Examples:
 
-    python ocr_handwritten_google.py docs/WhatsApp_Image_2026-04-27_at_11.37.16.jpeg
-    python ocr_handwritten_google.py docs/notes.jpeg --lang pt
+    python ocr_handwritten_google.py ../docs/WhatsApp_Image_2026-04-27_at_11.37.16.jpeg
+    python ocr_handwritten_google.py ../docs/notes.jpeg --lang pt
 
 Requirements:
 - A Google Cloud project with the Vision API enabled.
