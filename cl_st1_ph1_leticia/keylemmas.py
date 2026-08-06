@@ -19,7 +19,28 @@ from collections import defaultdict
 
 # Case 2 (Included proper nouns; Corrected the errors)
 # POS tags to keep: nouns, main verbs, adjectives (NO ADVERBS)
-VALID_TAG_PREFIXES = ("NN", "NP", "VB", "JJ")
+#VALID_TAG_PREFIXES = ("NN", "NP", "VB", "JJ")
+
+# Case 3 (Broaden the feature set to include categories relevant to conversational interaction)
+# POS tags to keep: content words + conversational/interactional markers
+# Includes nouns, proper nouns, verbs, adjectives, interjections,
+# pronouns, possessive pronouns, adverbs, modals, and wh-categories.
+# coordinating conjunctions and prepositions were also included.
+VALID_TAG_PREFIXES = (
+    "NN",   # Nouns
+    "NP",   # Proper nouns
+    "VB",   # Verbs
+    "JJ",   # Adjectives
+    "UH",   # Interjections
+    "PP",   # Personal pronouns and Possessive pronouns
+    "RB",   # Adverbs
+    "MD",   # Modals
+    "WP",   # Wh-pronouns and Possessive wh-pronouns
+    "WRB",  # Wh-adverbs
+    "WDT",  # Wh-determiners
+    "CD",   # Coordinating conjunctions
+    "IN"    # Prepositions
+)
 
 # stopwords (lowercase)
 #STOPWORDS = {
@@ -28,15 +49,23 @@ VALID_TAG_PREFIXES = ("NN", "NP", "VB", "JJ")
 #    "gruff", "*the", "ed", "martha", "chloe", "*so", "*you", "*so*", "*you*", "*not*", "edith", "doorbell", "michael", "recorded", "attempt", "request"
 #}
 
+
+# This stopwords list was revised because it excluded hesitation expressions that are important to conversational interaction
+#STOPWORDS = {
+#    "be",
+#    "have",
+#    "do",
+#    "em",
+#    "er",
+#    "erm",
+#    "um",
+#    "cos"
+#}
+
 STOPWORDS = {
     "be",
     "have",
-    "do",
-    "em",
-    "er",
-    "erm",
-    "um",
-    "cos"
+    "do"
 }
 
 def ll(a, b, c, d):
