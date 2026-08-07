@@ -102,6 +102,29 @@ Duplicates removed later: 27
 Final unique keywords written: 101
 "
 
+# Case 3 (Broaden the feature set to include categories relevant to conversational interaction)
+# POS tags to keep: content words + conversational/interactional markers
+# Includes nouns, proper nouns, verbs, adjectives, interjections,
+# pronouns, possessive pronouns, adverbs, modals, and wh-categories.
+# coordinating conjunctions and prepositions were also included.
+"
+=== Keyword Quotas ===
+human           → 500 keywords (max)
+profiled_gpt    → 250 keywords (max)
+unprofiled_gpt  → 250 keywords (max)
+=======================
+
+human           → selected 69/500 keywords
+profiled_gpt    → selected 102/250 keywords
+unprofiled_gpt  → selected 88/250 keywords
+
+Total consolidated keywords (incl. duplicates): 259
+Unique keywords (used downstream): 200
+Duplicates removed later: 59
+
+Final unique keywords written: 200
+"
+
 rm -rf columns columns_clean
 python columns.py
 # Output: columns, columns_clean, file_ids.txt, index_keywords.txt
