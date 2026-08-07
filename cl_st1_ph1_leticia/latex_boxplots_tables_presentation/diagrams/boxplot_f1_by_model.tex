@@ -1,0 +1,44 @@
+\begin{figure}[H]
+\centering
+\hspace*{-.25in}
+\begin{tikzpicture}
+\begin{axis}[
+  boxplot/draw direction=y,
+  enlarge x limits=0.01,
+  every boxplot/.style={draw=black, fill=blue!25},
+  ylabel={Mean Dim. 1 Score},
+  ylabel style={font=\scriptsize},
+  height=0.45\textheight, width=\textwidth,
+  yticklabel style={font=\footnotesize},
+  x tick label style={rotate=60, anchor=east, font=\scriptsize},
+  x=7.5,
+  xtick={1,...,2},
+  xticklabels={
+human,
+  gpt
+},
+]
+\addplot[red, densely dashed] coordinates {(0.5,0) (2.5,0)};
+\addplot+[only marks, mark=*, mark options={fill=black, mark size=.8pt}] coordinates {(1,-10) (1,-7) (1,-5) (1,-5) (1,-5) (1,-5) (1,-5) (1,-5) (1,-5) (1,-5) (1,-5) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,-4) (1,1) (1,1) (1,1) (1,1) (1,1) (1,1) (1,1) (1,1)};
+\addplot+[solid, draw=black, fill=blue!25, boxplot prepared={
+  lower whisker=-3.5,
+  lower quartile=-2.0,
+  median=-1.0,
+  upper quartile=-1.0,
+  upper whisker=0.5
+}] coordinates {};
+\addplot[only marks, mark=*, draw=red, fill=red, mark size=1.2pt] coordinates {(1,-1.2697947214076246)};
+\addplot+[only marks, mark=*, mark options={fill=black, mark size=.8pt}] coordinates {(2,-13) (2,-11) (2,-11) (2,-10) (2,-10) (2,-10) (2,-9) (2,-9) (2,-8) (2,-8) (2,-8) (2,-8) (2,-8) (2,-8) (2,-8) (2,-8) (2,-8) (2,-8) (2,-8) (2,-8) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7) (2,-7)};
+\addplot+[solid, draw=black, fill=blue!25, boxplot prepared={
+  lower whisker=-6.0,
+  lower quartile=-3.0,
+  median=-2.0,
+  upper quartile=-1.0,
+  upper whisker=0
+}] coordinates {};
+\addplot[only marks, mark=*, draw=red, fill=red, mark size=1.2pt] coordinates {(2,-2.5498533724340176)};
+\end{axis}
+\end{tikzpicture}
+\caption{Mean Dim. 1 Scores by Model (R² = 15.84\%)}
+\label{fig:means_f1_by_model}
+\end{figure}

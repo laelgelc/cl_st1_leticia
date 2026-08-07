@@ -1,0 +1,13 @@
+\babel@toc {american}{}\relax 
+\contentsline {section}{\numberline {1}POS Dim 1}{1}{section.1}%
+\contentsline {section}{\numberline {2}NEG Dim 1}{10}{section.2}%
+\contentsline {section}{\numberline {3}POS Dim 2}{26}{section.3}%
+\contentsline {section}{\numberline {4}NEG Dim 2}{42}{section.4}%
+\contentsline {section}{\numberline {5}POS Dim 3}{51}{section.5}%
+\contentsline {section}{\numberline {6}NEG Dim 3}{64}{section.6}%
+\contentsline {section}{\numberline {7}POS Dim 4}{73}{section.7}%
+\contentsline {section}{\numberline {8}NEG Dim 4}{83}{section.8}%
+\contentsline {section}{\numberline {9}POS Dim 5}{93}{section.9}%
+\contentsline {section}{\numberline {10}NEG Dim 5}{103}{section.10}%
+\contentsline {section}{\numberline {11}POS Dim 6}{113}{section.11}%
+\contentsline {section}{\numberline {12}NEG Dim 6}{123}{section.12}%
