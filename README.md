@@ -58,3 +58,26 @@ python 04_generate_gpt.py
 The resulting corpus contains the balanced sample of selected conversation turns, with `1705` conversation turns per sub-corpus and `5115` conversation turns in total.
 
 The Lexical Multi-dimensional Analysis (LMDA) was processed according to the corresponding procedures.
+
+#### POS tag selection for keyword features
+
+The valid tag prefixes used in keyword selection were defined to balance lexical content with features that are especially relevant to conversational interaction. An initial narrow selection focused on nouns, proper nouns, verbs, and adjectives. This was later broadened because identity simulation in dialogue is also reflected through interactional, stance-related, and discourse-structuring forms.
+
+The final selection includes:
+
+- `NN`: nouns
+- `NP`: proper nouns
+- `VB`: verbs
+- `JJ`: adjectives
+- `UH`: interjections
+- `PP`: personal and possessive pronouns
+- `RB`: adverbs
+- `MD`: modals
+- `WP`: wh-pronouns and possessive wh-pronouns
+- `WRB`: wh-adverbs
+- `WDT`: wh-determiners
+- `CD`: coordinating conjunctions
+- `IN`: prepositions
+
+This expanded set captures not only referential and descriptive vocabulary, but also forms associated with stance, address, politeness, hesitation, questioning, emphasis, and conversational flow. Because prefix matching is used, broader prefixes such as `PP` and `WP` also cover their possessive subtypes.
+
