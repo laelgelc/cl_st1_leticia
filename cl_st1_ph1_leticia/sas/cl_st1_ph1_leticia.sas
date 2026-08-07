@@ -40,7 +40,7 @@ DATA &project;
       prompt  $15      /* unprofiled / profiled / human */
       model   $20      /* gpt, human */
       source  $5       /* ai / human */
-      v000001 - v000101 3
+      v000001 - v000200 3
   ;
 
   INPUT
@@ -48,7 +48,7 @@ DATA &project;
       prompt  :$15.
       model   :$20.
       source  :$5.
-      v000001 - v000101
+      v000001 - v000200
   ;
 RUN;
 
