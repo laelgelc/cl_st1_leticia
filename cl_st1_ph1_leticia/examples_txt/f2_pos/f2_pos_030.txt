@@ -1,8 +1,8 @@
-Text ID: t004712
+Text ID: t003533
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001302_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000123_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: odd, bloke
-Oh I just want the entire wardrobe from that show, all those fifties outfits are so cool. The whole thing’s about this bloke who does this really odd social experiment, getting all these different people from different backgrounds and subjects to come and live with him as his flatmates in the fifties. And then it keeps jumping forward to when he’s died, and all those old flatmates are about sixty‑five. So you see them as students back then, and then as these older people later on, all tied back to that experiment.
+Score (f2_pos): 7
+Loading words (f2_pos), N=7: build, different, sense, more, also, own, idea
+No, I don’t actually want that. I don’t want to be in one place, in one job, for life. I’m much more drawn to the idea of running my own business and being able to move around. Every time I go somewhere new it feels reinvigorating, like I’m waking up a bit. You learn new things, you’re forced to see things differently, and you get to try out different ways of living and working. Staying in one place, in one role, might build up a strong sense of community and roots, and I can see why that appeals, but it also feels like it would really restrict my freedom to explore other things.

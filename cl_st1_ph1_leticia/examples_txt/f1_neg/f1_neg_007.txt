@@ -1,8 +1,12 @@
-Text ID: t001370
-Group: human
-Model: human
-File:   corpus/05_human/t001370_human.txt
+Text ID: t002288
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000583_gpt.txt
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-she just it's just shit like rude in general like she doesn't I just sort of said oh erm me and have decided that perhaps we're gonna er move out at the end of our tenancy she was like right and I was like well I think our tenancy runs out in January she was like yep and I was like erm okay so I don't really know so then she was sort of like I thought well I don't really know what happened with that and she was like well I need it in writing I was like okay well do I just email that to you? and she was like yep email it to me I was like okay
+Score (f1_neg): -8
+Loading words (f1_neg), N=8: absolutely, nothing, completely, try, even, everything, just, proper
+yeah it was actually a bit dangerous, to be honest, and I was already really wound up from that first typhoon. Then the following week, my first proper day at the new school, another one hits – Typhoon Tembin this time. I remember just thinking, this has got to be some kind of joke.
+
+I tried to get a taxi because the weather was just insane again, but there were none at all, nothing running. So I had to walk it, about half an hour in that really heavy wind and rain, just getting absolutely battered the whole way. I didn’t even properly know where I was going, so I kept having to stop random people in the street, asking for directions, shouting over the wind.
+
+By the time I finally got to the school I was completely drenched, like soaked right through everything. I was kind of hoping they’d take one look at me and be like, “Right, let’s get you some dry clothes or something,” you know, just a bit of help after that walk.

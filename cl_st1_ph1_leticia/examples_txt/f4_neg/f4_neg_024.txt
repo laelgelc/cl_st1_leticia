@@ -1,8 +1,8 @@
-Text ID: t004791
+Text ID: t004507
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001381_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001097_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-yeah like the ones on Sunday night, they were meant to start at six and then they didn’t actually go off till seven. There was some problem and they had to get someone in from Luton to sort it out, so everyone was just standing around waiting for ages. Loads of people had been there for over an hour, and then it only lasted about fifteen minutes in the end. The music was really strange as well, kind of creepy, and I was just thinking it was all a bit odd. We just watched them from the roof of our back extension, it’s only single‑storey but you can see fine.
+Score (f4_neg): -3
+Loading words (f4_neg), N=3: properly, once, straight
+Even though only three of us can properly read music, we still have a lot of fun with it. The others manage with colour-marked notes, but it gets really tricky when there are loads of bells going at once, sometimes up to twelve. All the notes are written in a single straight line on one clef, so when everyone’s ringing together it’s hard to pick out which one is yours. With all that going on, just finding your own note in the middle of the line can be quite a challenge.

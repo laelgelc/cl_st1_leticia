@@ -1,8 +1,8 @@
-Text ID: t000989
+Text ID: t001555
 Group: human
 Model: human
-File:   corpus/05_human/t000989_human.txt
+File:   corpus/05_human/t001555_human.txt
 
 Score (f6_neg): -2
-Loading words (f6_neg), N=2: guy, everyone
-yeah exactly and the some of them were like yeah we've already got someone that does does football for us we've already got someone that does whatever for us do you do cricket? no well okay then then no so it's like that it's a bit it's a bit of a stinker cos there are there are a lot of people who s I know there's there's guys in Lincoln that do it they've started doing it at uni at Lincoln Uni and have got a business going erm they do various sports I think around schools and they do it in school time and whatever they've got that thing set up and they're doing quite well off it erm I met them on a night out once some really arrogant guys but doing well for themselves so it's definitely something that's been that everyone's doing but it's not what what I wanna do anyway I just need a bit I need like access to schools every so often just to put the name out like
+Loading words (f6_neg), N=2: somehow, single
+the usual like what's this sign mean? What's this speed limit? The the har the worst part is the hazard perception part which is you watch the video and then you have to click when you see a hazard and it only marks you on two and if you have to click within a second to get the full points so if you click a little bit too late you lose all those points and that's quite difficult when I did all the practices for that I failed it every single time but somehow in the actual test I passed it

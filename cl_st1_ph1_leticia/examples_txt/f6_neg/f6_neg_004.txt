@@ -1,8 +1,12 @@
-Text ID: t001720
+Text ID: t002160
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000015_gpt.txt
+File:   corpus/05_profiled_gpt/t000455_gpt.txt
 
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: anyone, everyone
-I do think class and circumstances make a difference – they clearly do – but I still feel you’ve got to try and do what you believe is right, regardless. In an ideal world everyone would have the same opportunities, and that’s how it ought to be, even if it obviously isn’t like that now. I don’t think anyone should feel proud or ashamed of where they’ve ended up, or of things like their race or gender or where they were born. Those things shouldn’t matter in terms of your value as a person, even if society often acts as though they do.
+Score (f6_neg): -3
+Loading words (f6_neg), N=3: somehow, single, thinking
+So I finally got to go to this place I’d wanted to go to all summer, right, and I went with my boyfriend. We had a really nice time, just us, and I was actually quite chuffed I’d managed to fit it in before everything got busy again. Then my mum comes back, hears about it, and immediately starts having a go that we should’ve waited so it could be a “family outing.”  
+
+She acted like I’d done something properly wrong, like I’d personally offended her by doing something as a couple without her there. It wasn’t even anything massive, just a day out, but she turned it into this big drama about being left out and how we’re supposed to do things together.  
+
+And I’m just sat there thinking, what does she actually expect? That every single thing I do with my boyfriend has to involve her somehow? Does she want an invite to absolutely everything, even the private, intimate bits of our relationship? It’s so ridiculous that I end up being sarcastic in my head, like, shall I pencil her in for when we’re in bed as well?

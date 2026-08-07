@@ -1,8 +1,8 @@
-Text ID: t002502
+Text ID: t002048
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000797_gpt.txt
+File:   corpus/05_profiled_gpt/t000343_gpt.txt
 
 Score (f6_neg): -2
-Loading words (f6_neg), N=2: guy, everyone
-so I was saying to them that she'd got with this guy at the party, and I honestly thought everyone already knew because it was really public, like not a secret at all. Then she found out I’d mentioned it and got really annoyed with me. She was like, I didn’t want people to know because I really like this one particular guy, and now he’s going to think I’m a slut. And I was just thinking, if anything, he’d probably be happy she’d got with someone else, not judging her for it.
+Loading words (f6_neg), N=2: single, honestly
+So my boss sent this email round saying that after talking to the controller, apparently this new process and system are working really well, everyone’s on board, all that. And I’m just sitting there thinking, how? Because since they changed the roles we’ve ended up doing loads of extra admin, picking up bits that used to be someone else’s job. It doesn’t feel streamlined at all, it’s just more work. I honestly doubt she’s actually asked anyone if they’re happy with it, because I can’t think of a single person who is. It just feels completely out of touch.

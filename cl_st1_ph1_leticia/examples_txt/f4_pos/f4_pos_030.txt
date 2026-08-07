@@ -1,12 +1,8 @@
-Text ID: t003568
+Text ID: t004146
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000158_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000736_gpt.txt
 
-Score (f4_pos): 4
-Loading words (f4_pos), N=4: feel, stick, make, head
-I really needed that beer after this afternoon; it’s been so stressful. For the first time I actually didn’t want to go to work, which is weird because I usually like it. It’s just so insanely busy at the moment. I feel like it’s basically just me and my boss, and he’s in New York, so I’m kind of on my own here.
-
-I’m still quite new, and there are just so many projects on the go that I keep worrying something important is going to get missed. It’s not that anyone’s done anything wrong, it’s just that there’s way too much work and not nearly enough people to do it.
-
-What makes it worse is that the two people on six‑month contracts aren’t getting extended. So once they go, we’re going to be even more short‑staffed than we already are. It feels like we’re heading into this massive workload with fewer and fewer people, and I’m stuck in the middle of it, trying not to drop anything.
+Score (f4_pos): 2
+Loading words (f4_pos), N=2: guy, like
+the second bit's in New York, like early‑nineties Manhattan, and there’s this Black guy just trying to get a cab to Brooklyn and literally no one will stop for him. he’s standing there ages, and every taxi just passes him by. then finally this one cab pulls over and it’s driven by this total clueless guy who’s just arrived from Dresden and used to be a clown. he barely knows what he’s doing, so in the end the passenger’s like, “right, I’m driving,” and basically takes over the cab himself.

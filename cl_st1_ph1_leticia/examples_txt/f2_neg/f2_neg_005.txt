@@ -1,8 +1,8 @@
-Text ID: t001354
+Text ID: t000172
 Group: human
 Model: human
-File:   corpus/05_human/t001354_human.txt
+File:   corpus/05_human/t000172_human.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: god, gonna
-erm yeah so I'd already been referred for my back and er then I ended up doing this stuff which drove me mad and erm then I got referred again and I missed two appointments so she was absolutely hopping mad with me so I went in there and I thought oh my god she's gonna be s she did give me such a hard time and erm actually I said look I'll be perfectly frank what I want is I want a set of exercises cos I am so stiff I don't know what to do with myself and I've got knee pain and back pain and actually she was really very switched on erm and she says yes I am extraordinarily erm stiff
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+she'd be like that's but it mean yeah but never seriously if you when we you have never ask him a question because you ask him a especially if you're trying to get something done because if you ask him a question he will literally go on for about five minutes not even joking five minutes just chatting on about nothing literally in geography last year I'd asked him one thing I'd be like oh is the erm does A match up with four and he'd be like yeah so can you tell me why A matches up with four? and why the AlasAlas why Alaska is suffering from the ? blah blah blah blah blah blah blah blah blah blah blah I really like

@@ -1,8 +1,8 @@
-Text ID: t003425
+Text ID: t004179
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000015_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000769_gpt.txt
 
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: anyone, everyone
-no I mean obviously class and circumstances do make a difference, I’m not denying that at all, but I still feel like you’ve got to try and do what you think is right, you know, live by your own sense of what matters. ideally everyone would have the same chances, the same kind of opportunities laid out in front of them, rather than it all being decided by money or background. and I really don’t think anyone should feel proud or ashamed of where they happen to be born, or what race or gender they are, or any of that. those things shouldn’t count in the way people are judged.
+Score (f6_neg): -3
+Loading words (f6_neg), N=3: honestly, clearly, yet
+It was quite entertaining, honestly, they were mad. I remember this one picture so clearly: the entire outdoor area was just covered in these big square storage units, filling the whole back room. They went right up, must have been ten, twelve feet high, and they were for the kids to put all their clothes and belongings in. There were strict rules that children were not allowed to climb them at all. And yet at one point, they came back and there was this one child, completely on his own, right on top of the thing. No one had any idea how he’d managed to get up there.

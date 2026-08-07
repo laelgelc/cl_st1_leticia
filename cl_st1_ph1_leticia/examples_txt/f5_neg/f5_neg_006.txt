@@ -1,8 +1,10 @@
-Text ID: t000043
-Group: human
-Model: human
-File:   corpus/05_human/t000043_human.txt
+Text ID: t004823
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001413_gpt.txt
 
-Score (f5_neg): -2
-Loading words (f5_neg), N=2: fuck, somebody
-I turned a corner like one of there's definitely like there was definitely a like axel problems cos like every time I turned a corner it made flooding noises so like I knew it was dodgy as fuck anyway erm but yeah he managed to get he managed to get me like nine hundred pound for that car so I was dead happy with that and then he went off and then like they obviously had somebody else who actually like closes it all closes the deal and like sorts all the payment and all that kind of
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: explain
+I was so close to just paying the £24 and getting it over with, because in the grand scheme of things it’s not a lot of money, is it? But I just thought, no, they’re in the wrong here and I’m not paying it. So I rang Citizens Advice and explained the whole thing, and they said no, under the new Consumer Rights Act they can’t do that. 
+
+They pointed me to some template letters on their website, proper legal‑sounding ones, asserting my right to a full refund because the goods were faulty within thirty days. One of them was titled something like “notice before a county court claim” or similar. So I used that, adapted it, and sent it off, and in the letter I also asked them about independent dispute resolution, you know, what their process was for that, because I wanted it all done properly and by the book.

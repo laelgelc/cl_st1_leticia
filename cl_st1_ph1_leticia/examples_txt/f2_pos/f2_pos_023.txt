@@ -1,8 +1,12 @@
-Text ID: t004264
+Text ID: t003728
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000854_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000318_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: chat, bloke
-there’s this bloke on the internet called stinson hunter, right, and what he does is he gets these really young‑looking girls to use as decoys on dating profiles. so they go on there, start chatting to blokes, and then he’ll say he’s only fourteen. if the bloke still carries on talking after that, he basically takes that as them being a paedophile. then he sets it up so he can trap them. there was a whole documentary about him doing it, showing exactly how he catches them.
+Score (f2_pos): 8
+Loading words (f2_pos), N=8: sense, set, far, also, own, almost, idea, lot
+I keep coming back to the sense that what we’re living through now really started in that Thatcher–Reagan era, when this particular brand of neoliberal capitalism got unleashed. It feels like they lit the fuse on something that’s just rolled on and on, reshaping everything around markets and profit, and it’s done a lot of damage to the world. Sometimes I find myself almost blaming them personally for setting us on this course.
+
+But then I also wonder if there’s a strange kind of necessity in it, you know? That maybe things have to swing so far towards selfishness and greed before people collectively say, hang on, this is intolerable. It’s like you need that extreme to provoke a proper global reaction. And now you’ve got people like Corbyn back in the UK and that fella in the States, Bill Sanders, standing up and saying, look, we all have to take responsibility, we have to fight corruption, we can’t just leave it to the same old political class.
+
+It makes me think of the late eighties, when communism suddenly crumbled. For years it looked immovable, and then almost overnight it was gone. I can’t help feeling we might be at a similar kind of turning point with this current system. Maybe it has to get as bad as it possibly can before it just collapses under its own weight and something new emerges. There’s something quite momentous about that idea, that we might be watching the end of a whole way of organising the world, even if we don’t yet know what comes next.

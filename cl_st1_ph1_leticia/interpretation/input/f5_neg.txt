@@ -33,141 +33,151 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac5	SD fac5
-group	human	1705	-0.12199413	0.52665189
-group	profiled_gpt	1705	0.05689150	0.50785007
-group	unprofiled_gpt	1705	0.05630499	0.50034889
+group	human	1705	0.56363636	1.01031809
+group	profiled_gpt	1705	0.34486804	0.88916852
+group	unprofiled_gpt	1705	0.32023460	0.88980662
 
 === FACTOR LOADINGS (f5_neg) ===
-variables loading on this pole = 4
-fuck (-.74), set (-.52), somebody (-.51), great (-.40)
+variables loading on this pole = 6
+(um (-.46)), normal (-.38), explain (-.36), (themselves (-.34)), (chat (-.33)), push (-.32)
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f5_neg_001.txt (text ID t000413) =====
-Text ID: t000413
-Group: human
-Model: human
-File:   corpus/05_human/t000413_human.txt
-
-Score (f5_neg): -3
-Loading words (f5_neg), N=3: fuck, set, somebody
-so students aren't gonna be interested in you because you've already before you've even set foot in the lecture theatre you've already really made yourself non-accessible you may be brilliant in your mind but your mind isn't working effectively because it isn't actually flowing outwards it's just keeping itself within and students will go on Facebook but I tell you I've seen the difference when somebody fucking says something in a really interesting way you know mobiles get put away laptops get put down and people go I've actually seen that happen which is I've also seen the reverse of course it's like boring just whatever but it's not like students go to university to be bored they actually go cos they think they're gonna be excited
-
---- Loading words for this example (neg): fuck, set, somebody
-
-
-===== EXCERPT: f5_neg_002.txt (text ID t001501) =====
-Text ID: t001501
-Group: human
-Model: human
-File:   corpus/05_human/t001501_human.txt
-
-Score (f5_neg): -3
-Loading words (f5_neg), N=3: set, somebody, great
-and then I went to erm I suppose when they were about six and seven so within the sort of erm if you like the the sort of common threads of the job within universities erm a careers adviser would be allocated to certain disciplines so they would have effectively a kind of portfolio of academic departments so erm for example at we had somebody who erm had been a biochemistry academic so he covered all science and engineering disciplines erm and within that element of the role erm you would erm develop good relationships with the head of department and with usually there would be a particular member of academic staff who would be responsible for things like erm erm supporting the student managing more sort of personal tutoring that goes on through which you would be able to get your services sort of advertised erm in some departments this is where the greatest variation is erm in some universities and in some departments within certain universities but not others there might be a careers module so some careers advisers would also be lecturers erm and some of ours did that in certain departments so in managements and in I can't remember the other department but that would be a taught module that they would mark and so on so that's a quite a different set of responsibilities really because effectively you're having to design a teaching package and so and the funding as a manager gets quite erm a lot more complicated if you're getting internal money from departments for buying out certain careers adviser time erm but the what careers advisers in all universities do would be to see students on an individual basis and to see and to see students on in a group basis so whereas you might if you've got erm a commitment a teaching commitment within the department you'd be slotted into the timetable we also ran erm a programme of erm group work sessions which students could book into erm completely independent of their department so we would cover erm a whole variety of things and that would be we'd we'd sort of debate what was necessary for the forthcoming year and look at movements in the market and what we might need to ensure they know about and erm look at erm how successful they'd been in previous year as to whether we repeated them but you'd always get the sort of four or five core bread and butter sort of topics which are about marketing yourself finding out about employers erm performing at interview passing selection tests erm networking creative job hunting all those sort of bout five or six sort of core eh sessions we would we would run anyway but there might be other things which we'd top it up with depending on perhaps you know if the market had slumped in one particular area or something we might run sessions on erm erm you know alternatives to or
-
---- Loading words for this example (neg): set, somebody, great
-
-
-===== EXCERPT: f5_neg_003.txt (text ID t000417) =====
-Text ID: t000417
-Group: human
-Model: human
-File:   corpus/05_human/t000417_human.txt
-
-Score (f5_neg): -3
-Loading words (f5_neg), N=3: fuck, somebody, great
-but I've often found I said to my first year students whether they were mature students or first year students put your hand up when you're really genuinely confused okay or genuinely excited anything that's going on within you in terms of like you feel something put your hand up in a right kind of breath of you know pause and just say but what are the mismisconceptions about this? that gets people thinking even if you don't know fuck all and if you know shitloads because everyone's got a contribution to make I think the misconception about human geography is about this I think the misconception is about somebody's sitting there going what is a misconception? but they'll learn because you'll be having a three four five way dialogue so they'll go the misconception is that I've actually got this wrong I was tell you about that earlier but I think that's a really good way of rather than saying tell me what I want to hear you're actually asking the lecturer to do the reverse of that is like tell me what I don't want to hear tell me something that I don't actually understand and I think for you that would be great because you need challenging you need to not be bored with the fact that a lot of people you're studying with are gonna know nothing about this
-
---- Loading words for this example (neg): fuck, somebody, great
-
-
-===== EXCERPT: f5_neg_004.txt (text ID t000816) =====
-Text ID: t000816
-Group: human
-Model: human
-File:   corpus/05_human/t000816_human.txt
+===== EXCERPT: f5_neg_001.txt (text ID t003949) =====
+Text ID: t003949
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000539_gpt.txt
 
 Score (f5_neg): -2
-Loading words (f5_neg), N=2: fuck, great
-it was good yeah it was really nice with like some tatties and eh like carrot and swede mash or something and he was oh yeah that's two pounds no and I know knew for one it should be like three ninety-nine and I was like oh that's really great and he was like oh I didn't see your veg on your way out thanks it's so bad like obviously the feminist in me is like oh you should you know shouldn't allow it you shouldn't allow it and then I'm like well I'm fucking poor
+Loading words (f5_neg), N=2: normal, explain
+so the story goes that in Woolpit these village children were out and they suddenly came across this brother and sister who had green skin. they brought them back, and the boy was really sad and never settled, and in the end he died. the girl, at first, would only eat green beans, nothing else at all, but gradually she started to eat normal food. as she did that she lost the green colour in her skin, and she began to learn to speak like everyone around her. once she could talk properly she explained that they’d come from a place that was always dark, and they’d followed the sound of music and somehow come out into the sunlight. eventually she grew up and even married someone local.
 
---- Loading words for this example (neg): fuck, great
-
-
-===== EXCERPT: f5_neg_005.txt (text ID t000005) =====
-Text ID: t000005
-Group: human
-Model: human
-File:   corpus/05_human/t000005_human.txt
-
-Score (f5_neg): -2
-Loading words (f5_neg), N=2: somebody, great
-yes yeah well you know ththese bods are too actually and in fact they even organised the they found something something up there and and ththey organised a biopsy for it so I went up to the dental hospital and somebody did the biopsy on that erm and again if that had happened through the you know the the dentist that would have cost a heck of a lot that was quite funny because what happened with that I mean it turned out to be nothing the biopsy was absolutely fine but it my whole cheek swelled up er so that I had a completely uneven face you know this is was normal and this was like a great big balloon and as it coincided with the time when I was completely bald you know that was the only time when I thought I cannot
-
---- Loading words for this example (neg): somebody, great
+--- Loading words for this example (neg): normal, explain
 
 
-===== EXCERPT: f5_neg_006.txt (text ID t000043) =====
-Text ID: t000043
-Group: human
-Model: human
-File:   corpus/05_human/t000043_human.txt
+===== EXCERPT: f5_neg_002.txt (text ID t003717) =====
+Text ID: t003717
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000307_gpt.txt
 
 Score (f5_neg): -2
-Loading words (f5_neg), N=2: fuck, somebody
-I turned a corner like one of there's definitely like there was definitely a like axel problems cos like every time I turned a corner it made flooding noises so like I knew it was dodgy as fuck anyway erm but yeah he managed to get he managed to get me like nine hundred pound for that car so I was dead happy with that and then he went off and then like they obviously had somebody else who actually like closes it all closes the deal and like sorts all the payment and all that kind of
+Loading words (f5_neg), N=2: explain, push
+and he was saying you know because he was really really good at badminton when he was younger he sort of pushes that a bit and says it’s actually really easy to get a high mark in badminton umpiring so that’s why he’s offering that as an option along with things like hockey and orienteering and all that and then on the inset day we got this email through about what they want for the tennis so we’ve got to video all of his tennis strokes and then also sort out a time for them to assess the coaching side of it and there was this whole back and forth about when he’s actually going to come and watch the coaching session and how that’s going to work and he’s gone through it all with him and said yes you can do it and told him what he needs to do and what they’re going to do and all the rest of it and then how stupid is this he’s asked him to get his teacher to send through his CRB form if he’s going to do it which I just think is ridiculous really I mean after all that organising and saying yes you can take it and explaining everything and then suddenly it’s oh we’ll need the CRB form sending through as well which just seems a bit over the top to me
 
---- Loading words for this example (neg): fuck, somebody
-
-
-===== EXCERPT: f5_neg_007.txt (text ID t000829) =====
-Text ID: t000829
-Group: human
-Model: human
-File:   corpus/05_human/t000829_human.txt
-
-Score (f5_neg): -2
-Loading words (f5_neg), N=2: set, great
-they toured the whole production you know and then erm and there's a great story about Irving Thalberg who sort of revolutionised Marx Brothers I think he made them worse but there you go but erm he you know wro Thalberg was a a rewriting you you'd rewrite the script like fifteen times you know before even think about setting up a camera up and Thalberg he was only he died when he was thirty-seven I think you know so he must have been in his thirties just a young kid who's head of head of MGM studios er and this guy one of the scriptwriters went to him you know with his like fifteenth rewrite of er Night at the Opera and he he just waited there he was waiting to be criticised and Thalberg just read this thing you know you know absolutely stone faced read through the rewrites he'd done just totally stone faced and then looked at him and said that's some of the funniest things I've ever read
-
---- Loading words for this example (neg): set, great
+--- Loading words for this example (neg): explain, push
 
 
-===== EXCERPT: f5_neg_008.txt (text ID t000483) =====
-Text ID: t000483
-Group: human
-Model: human
-File:   corpus/05_human/t000483_human.txt
+===== EXCERPT: f5_neg_003.txt (text ID t003722) =====
+Text ID: t003722
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000312_gpt.txt
 
 Score (f5_neg): -2
-Loading words (f5_neg), N=2: fuck, somebody
-that what that's exactly what said she said you paid your NHS you paid your national insurance if you want it doing it's your choice you paid for it she said so stick to your guns cos she didn't stick to her guns when she went in for the thyroid and they fucked her over and she had to go to hospital and she we like if there's one thing I've learnt in the past six months is that if you think you're entitled to it fight for it cos if you're not at the very end then somebody who's qualified like a surgeon will say no but if you don't fight and fight and fight you'll never know just do it
+Loading words (f5_neg), N=2: explain, push
+So we get in the car to talk, and he’s clearly nervous, saying he’s probably going to cry, but he still really wants to tell me everything. Then he comes out with it: he doesn’t have a driving licence anymore, he’s actually banned from driving. He explains that before, he’d only ever sort of mentioned something about it in this really vague way, never giving me any real detail. 
 
---- Loading words for this example (neg): fuck, somebody
+Now he finally admits what actually happened. He tells me he was arrested for reckless driving. He’d had a drink, and he was just over the legal limit, and that’s what led to everything. It’s the first time he’s properly owned up to it with me, rather than skirting around the issue. 
 
+I’m just sitting there in the car, listening, while he’s pushing himself to keep going, even though he’s on the verge of tears, determined to finally be honest about losing his licence and why.
 
-===== EXCERPT: f5_neg_009.txt (text ID t000942) =====
-Text ID: t000942
-Group: human
-Model: human
-File:   corpus/05_human/t000942_human.txt
-
-Score (f5_neg): -2
-Loading words (f5_neg), N=2: somebody, great
-erm no not only are you going to be able to provide some learning to fill some stuff that's gonna be difficult for you to fill otherwise but certainly it's also giving you that warm touchy friendly feeling because everybody wants to say oh we are a lovely university and we are so friendly with our students and they love us so you're trying to warm warm up the bed so to speak by giving people this expectation that okay this case study may not come university but the fact that you've putting it in your online course at university by association means that students might expect that they can do something similar themselves they cou they too could go to a lecturer and say well you know what I've had this great idea how about we go for a coffee and have a chat about it? and the lecturer was like oh my god somebody's come and asked me to go and have a coffee with them and they're an undergrad student I don't even talk to undergrads the you know what I mean? so there's this kind of like you're selling on a a feeling you're not selling just a product you're selling a feeling of the product too like a warmth to it bringing in this idea of like Oxford and Cambridge where you used to go round for a cup of tea with your you know your personal tutor and your personal tutor would ask you all sorts of questions about your life and what you want to do with your life and give you biscuits that idea you know? friendly warm helpful and the good thing about it is is that what you're what you're proving to others is that it's sustainable cos what they're saying is you can come if you want to you can come to our website you can have a look and preview at some of our case studies if you want to make a case study with us about something we are happy to do that but it needs to be done in a formatted way meaning we need you to come and do Monday and then get a person to come and do Tuesday and then Wednesday and Thursday it's not just come and ring on our door on our door and say hey and have got this fantastic idea for a case study you're like great but it's a format that we have to put that into
-
---- Loading words for this example (neg): somebody, great
+--- Loading words for this example (neg): explain, push
 
 
-===== EXCERPT: f5_neg_010.txt (text ID t001038) =====
-Text ID: t001038
-Group: human
-Model: human
-File:   corpus/05_human/t001038_human.txt
+===== EXCERPT: f5_neg_004.txt (text ID t003487) =====
+Text ID: t003487
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000077_gpt.txt
 
 Score (f5_neg): -2
-Loading words (f5_neg), N=2: set, somebody
-on a wavelength yeah yeah I guess when I think about you I see somebody who is evolving or I mean you know how we are dynamic creatures we are always evolving we always changing you know I I don't think a personality is ever set but I suppose you have certain characteristics or a certain resonance or a certain vibe that you get on for a period of time because it suits you and you explore everything within that vibe and then something shifts or changes and you move and you do become a different person on a cellular level on a de and well on a cellular level you are not you are a completely different human being to the physical organism you were seven years ago everything about you has shifted and changed and also sort of psychologically spiritually emotionally well you are a different person in every moment you are reinvented in every now but I do think you hit these like you know you are at one now which is a life changing oh okay choice of two big paths and there's another probable you that's carrying on business as usual but this wider path is the you that is now recreating or creating something new and I think good for you be assertive and be proud of who you are don't do yourself down or call yourself a sad git for going to bed at ten o'clock you know be proud of that
+Loading words (f5_neg), N=2: normal, explain
+I went over to her in the car park and said, “You need to listen to her side of the story,” because the poor girl was trying to explain that she was alright and had tried to call. The mother was just totally incapable of listening, absolutely bawling, and I was trying to get her to calm down and actually hear what her daughter was saying. Eventually it all got resolved, but the girl will never be allowed on a school trip again, which is tragic really, because she’s exactly the sort of child who needs to get away. Being brought up in that environment, that kind of behaviour just seems completely normal to her.
 
---- Loading words for this example (neg): set, somebody
+--- Loading words for this example (neg): normal, explain
+
+
+===== EXCERPT: f5_neg_005.txt (text ID t004828) =====
+Text ID: t004828
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001418_gpt.txt
+
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: normal
+no no actually I’m telling it in the wrong order it didn’t start with the feet at all it started with a neck and back massage while you’re sitting on this little stool and they really work into your shoulders and upper back first and only after that do they move you so you’re lying down and then you get the proper foot massage bit and then right at the end they do this really unusual thing on your lower back sort of loosening everything up there you’d really like it it’s a completely different feeling from a normal massage
+
+--- Loading words for this example (neg): normal
+
+
+===== EXCERPT: f5_neg_006.txt (text ID t004823) =====
+Text ID: t004823
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001413_gpt.txt
+
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: explain
+I was so close to just paying the £24 and getting it over with, because in the grand scheme of things it’s not a lot of money, is it? But I just thought, no, they’re in the wrong here and I’m not paying it. So I rang Citizens Advice and explained the whole thing, and they said no, under the new Consumer Rights Act they can’t do that. 
+
+They pointed me to some template letters on their website, proper legal‑sounding ones, asserting my right to a full refund because the goods were faulty within thirty days. One of them was titled something like “notice before a county court claim” or similar. So I used that, adapted it, and sent it off, and in the letter I also asked them about independent dispute resolution, you know, what their process was for that, because I wanted it all done properly and by the book.
+
+--- Loading words for this example (neg): explain
+
+
+===== EXCERPT: f5_neg_007.txt (text ID t004818) =====
+Text ID: t004818
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001408_gpt.txt
+
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: push
+so she’s like look it’s just a festival, calm down, but he keeps going on and on, saying how much he loves her, how he wants to be with her and all this heavy stuff. she tries to move away from him a bit, like give him the hint, but he’s still right there, proper obsessed. my mate, you know what she’s like, dead protective, steps in and tells him to leave her alone, but he’s insisting he loves her, trying to push past. the girl starts getting scared then, and turns out they were actually lesbians.
+
+--- Loading words for this example (neg): push
+
+
+===== EXCERPT: f5_neg_008.txt (text ID t004799) =====
+Text ID: t004799
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001389_gpt.txt
+
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: explain
+yeah definitely jealousy, like that was a massive part of it. and then at the funeral, after we’d talked, there was this really weird bit where she just sort of stared at me. we didn’t say hi or anything, it wasn’t friendly or warm at all, just this cold, silent moment. I honestly can’t even explain how strange it felt, it was just indescribably weird. and I always think back to it now, like why didn’t I say something? I really regret just standing there and not doing anything.
+
+--- Loading words for this example (neg): explain
+
+
+===== EXCERPT: f5_neg_009.txt (text ID t004792) =====
+Text ID: t004792
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001382_gpt.txt
+
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: push
+At work we had a huge stock transfer, so loads of council properties went over to a housing association. After that, the chief executive really went after one big, very valuable house where a family of eight were living. He just wanted them out so he could sell it off, and he pushed it really hard. I had to step in and say, look, you can’t just evict them like that, it’s illegal, and that stopped it. But that’s the point: once those houses are in the hands of a chief executive instead of an elected councillor, it all becomes about the financial bottom line.
+
+--- Loading words for this example (neg): push
+
+
+===== EXCERPT: f5_neg_010.txt (text ID t004784) =====
+Text ID: t004784
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001374_gpt.txt
+
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: push
+she was literally grumpy the whole weekend, and it felt like the entire trip turned into this weird competition about who knew Paris better. Every time I said something, she had to correct me, like at the Louvre – I’d say one thing and she’d jump in with “no actually it’s this,” like she needed to prove she knew more.
+
+then at Galeries Lafayette it all kicked off again. I sprayed some perfume, just trying stuff out, and she got all stroppy, saying “you’re not allowed to do that.” I was like, that’s ridiculous, of course you’re allowed to test perfume, and I pushed back a bit because it was such an outdated thing to say. she really didn’t like being challenged.
+
+later on, we were in this café and she suddenly comes out with, “I’m really pissed off with you.” apparently she felt I’d snapped at her earlier. from my point of view I hadn’t snapped at all, I’d just disagreed with her, but she’d clearly been stewing about it and decided to confront me there. it just put this cloud over everything.
+
+--- Loading words for this example (neg): push

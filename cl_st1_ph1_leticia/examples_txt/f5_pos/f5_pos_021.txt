@@ -1,12 +1,8 @@
-Text ID: t005017
-Group: unprofiled_gpt
+Text ID: t003185
+Group: profiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001607_gpt.txt
+File:   corpus/05_profiled_gpt/t001480_gpt.txt
 
-Score (f5_pos): 4
-Loading words (f5_pos), N=4: awful, single, horrible, pick
-yeah Matt Haig followed me on Twitter, which is the only reason I followed him back really, because I haven’t actually read any of his books yet, but I really want to. I keep meaning to pick one up. He tweets quite a bit about dealing with depression and stuff, and lately he’s been talking a lot about all the abuse he gets on Twitter.  
-
-some of it’s from people he actually knows, which is just awful. it’s one thing getting random trolls having a go, but when it’s people you know in real life, that must feel so much worse. he’ll tweet something quite normal and then suddenly there’s this pile-on in the replies, and you can tell it really gets to him sometimes.  
-
-it just makes me think how horrible it must be for people who are properly in the public eye, where everything they tweet is scrutinised and picked apart. like, every single word you put out there is analysed and judged and people are just waiting to jump on you. I can’t even imagine having to think that hard about every tweet, knowing it might blow up and get you loads of abuse. it must be exhausting and really, really grim.
+Score (f5_pos): 6
+Loading words (f5_pos), N=6: pound, four, hundred, three, two, five
+look the pink five hundred notes are exactly the same value as lots of the smaller ones, all right? you still have the same amount of money, it’s just in bigger notes. it doesn’t change how much you’ve got at all. it’s like if I gave you a real five pound note instead of five separate pound coins – you’d still have five pounds, wouldn’t you? it’s the same thing. this is a completely ridiculous issue to get stuck on, and we can’t play properly until you get this sorted out. we are not going to sit here arguing about what colour the money is. you’ve got the same value, that’s what matters. now come on, just accept the notes you’ve got and get on with the game. right, I’m counting it out: one, two, three, four, five – there you are, that makes the right amount. now we can carry on.

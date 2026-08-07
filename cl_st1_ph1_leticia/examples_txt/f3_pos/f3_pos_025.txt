@@ -1,8 +1,8 @@
-Text ID: t004140
-Group: unprofiled_gpt
+Text ID: t001871
+Group: profiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000730_gpt.txt
+File:   corpus/05_profiled_gpt/t000166_gpt.txt
 
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: huge, massive
-I remember walking up those stairs absolutely terrified, just bracing for this massive punch from that huge jock I’d just threatened. I was fully expecting him to come after me, like any second I’d feel a fist in the back of my head. And then… nothing. He just didn’t follow, didn’t attack, nothing happened at all. Next thing I know, I’m outside, and my friend’s completely losing it at this hot dog lady, screaming at her, and we’re just kind of on this ridiculous little rampage together.
+Score (f3_pos): 5
+Loading words (f3_pos), N=5: wo, somebody, oh, you, say
+if they haven't got somebody on-site signing for the deliveries the company at the other end can turn round and say they never had them or they didn't get a certain number on the delivery note and then they just won't pay the last bit they owe you. they always keep twenty per cent back, that's the way it works, and that last twenty per cent is only due thirty days after delivery anyway. so if nobody's there checking and signing off each numbered pipe, they can just mess you about and say, oh we never had number so-and-so, and drag it out. that's why they need someone there, really, just to stop that.

@@ -1,8 +1,8 @@
-Text ID: t000452
+Text ID: t000551
 Group: human
 Model: human
-File:   corpus/05_human/t000452_human.txt
+File:   corpus/05_human/t000551_human.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: gonna
-and it turned into a massive argument and then my dad being the peacekeeper that he is would always come to me and be like you're not handling the situation appropriately go apologise to your mum and I would just be like what the fuck is actually happening can I not actually have an opinion in this house it's like you always just gonna be there so that you can just keep the peace regardless of what I'm feeling or whatever so I ended up having arguments with my dad about it just for my mum's benefit
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: he, him
+well he probably didn't want to teach either I know I know he was he was a wicked teacher I mean if anything went wrong his lesson he'd have you in front of him and he used to have what they this great big slipper like that it was a massive one and this boy who er he was he was a bit well he was sort of on the feminine side but he wasn't fe feminine at all he was you know he he'd do himself up and er he grabbed this boy and he tried to get him the in this cupboard where he could get his slipper and he woah that was it cos was like a dad

@@ -1,8 +1,8 @@
-Text ID: t000418
-Group: human
-Model: human
-File:   corpus/05_human/t000418_human.txt
+Text ID: t002015
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000310_gpt.txt
 
-Score (f1_pos): 5
-Loading words (f1_pos), N=5: build, idea, more, different, way
-because somebody might go no I disagree with you your misconception about this isn't the same idea of my misconception about in a way it's easier to deal with misconceptions for some really weird reason because yeah I don't quite know why it works like that but it's kind of almost like saying tell me what you don't know and tell me why you don't know it's it's a really different way of learning it's like a pushback rather normally we tell everybody what we've learnt and how good we are at learning and what we can intellectually argue this is the completely reverse of that but I bet you anything it includes more people and I think if you wanna actually have lots of people to talk to about things you're interested in this is the way to build that kind of rapport with your with your fellow learners cos misconceptions are around us
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): just
+I feel really settled now, especially in my house. I like just coming home, relaxing, not having to go out or get dressed up. That’s kind of my comfort zone at the moment. But recently I’ve had a few things on where I’ve had to really dress up, and I’ve realised how much I don’t like it. I don’t really know how to do it anymore, or what I’m supposed to wear. I suppose if I did it more often I might get used to it, but right now it just feels uncomfortable.

@@ -1,8 +1,8 @@
-Text ID: t003283
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001578_gpt.txt
+Text ID: t000720
+Group: human
+Model: human
+File:   corpus/05_human/t000720_human.txt
 
 Score (f5_neg): -1
-Loading words (f5_neg), N=1: somebody
-I just think if you really want to help somebody, you’ve got to put them in a position where they can actually help themselves. If you hand over money to someone who’s already terrible with money, you’re not really solving anything, you’re just postponing the problem. It’s the same on a bigger scale, like with countries where loads of money’s been thrown at them without changing anything fundamental. In the end, the only real solution is to teach people how to sort out their own problems, not just keep bailing them out.
+Loading words (f5_neg), N=1: normal
+to the you know enough it wasn't full it was obviously not being checked someone had not done their job erm but I think it never made her happy she just she bought houses and put rooms in the roof or put extensions on and loads spent loads of money and then moved on to the next one she never settled never settled erm until basically the money had gone and then she got back down to normal to to reality and you know had to work and but she had a lot of money when she was young but it just couldn't buy her happiness and it couldn't what she was trying to do always was holiday and trying to compensate for what she'd lost really and it you know you can't and er yeah it was very very sad and now twenty-six the same age as just moved in on the twenty-third moved in to his first flat on his own well with his girlfriend you know left home but but he's been living with for a number of years

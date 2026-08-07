@@ -1,170 +1,129 @@
-This pole is driven almost entirely by human speech and is characterised by a small but very coherent lexical cluster:
+Interpretation of Factor 5 (negative pole)
 
-- fuck (-.74)
-- set (-.52)
-- somebody (-.51)
-- great (-.40)
+1. Which sources drive this pole?
 
-Human turns have a clearly lower mean score (more negative) than both GPT conditions:
+- Mean scores:
+  - Human: 0.56  
+  - Profiled GPT: 0.34  
+  - Unprofiled GPT: 0.32  
 
-- human: -0.12
-- profiled_gpt: +0.06
-- unprofiled_gpt: +0.06
+Factor scores are *overall positive* for all three groups, so the **negative pole is relatively under‑represented** across the corpus. No group has a negative mean, but humans are furthest from this pole (highest positive mean), and both GPT conditions are somewhat closer to it. Within the negative exemplars, all 10 are **unprofiled GPT**, so in practice this pole is **driven by unprofiled GPT outputs**.
 
-So this is a *human‑driven* pole; the LLM outputs sit away from it (they are more neutral/positive on this factor), which fits the fact that GPT is generally less likely to use swearing and this kind of colloquial intensification.
+So: this is a relatively marginal discourse style in the corpus, most clearly realised in unprofiled GPT turns.
 
-Below I propose labels, then justify them from loadings and excerpts.
+2. Linguistic loadings
 
----
+Negative pole loadings (strongest to weakest):
 
-## Proposed labels for f5 (negative pole)
+- um (−.46)
+- normal (−.38)
+- explain (−.36)
+- themselves (−.34)
+- chat (−.33)
+- push (−.32)
 
-Possible labels (all for this *single* pole):
+These items cluster around:
 
-1. **“Colloquial, affect‑intensified stance”**
-2. **“Human conversational vividness”**
-3. **“Informal evaluative storytelling”**
+- **Meta‑discourse and stance**: explain, chat  
+- **Normativity / evaluation**: normal  
+- **Reflexivity / self‑reference**: themselves  
+- **Interpersonal pressure / resistance**: push  
+- **Filled pause**: um
 
-I would prioritise something like:
+Taken together, they suggest a discourse where speakers:
 
-> **Colloquial, affect‑intensified stance**
+- Mark **explanation** explicitly (“explain”, “I’ll explain”, “he explains”).
+- Contrast events with what is **“normal”**, invoking norms or expectations.
+- Refer to people reflexively (“themselves”) in ways that often highlight agency, responsibility, or self‑treatment.
+- Describe **pushing** (social pressure, resistance, or assertiveness).
+- Potentially include **hesitation** (“um”), signalling planning or delicacy (though “um” doesn’t appear in the top 10 examples, it is important corpus‑wide).
 
-because it captures:
-- the informal, spoken character (fuck, somebody, set in idiomatic uses)
-- the strong evaluative/attitudinal colouring (fuck as intensifier, great as positive evaluation)
-- the way speakers take a stance and animate stories.
+3. What do the examples show?
 
----
+All examples are narrative/retrospective accounts of interpersonal situations, but with a particular flavour. I’ll highlight how the loading words function.
 
-## Justification from loadings and examples
+a) normal, explain – re‑framing behaviour against norms
 
-### 1. Lexical loadings
+- Woolpit story: “she started to eat normal food… once she could talk properly she explained…”  
+  - “normal food” contrasts an earlier, marked state; “explained” frames a retrospective rationalisation of a strange event.
+- Car park incident: “the poor girl was trying to explain… that kind of behaviour just seems completely normal to her.”  
+  - “explain” is about getting one’s side heard; “normal” explicitly invokes a **normative frame** (what should/shouldn’t be normal in a family).
 
-The four loading items are few but semantically and functionally coherent:
+b) explain, push – effortful disclosure and pressure
 
-- **fuck**  
-  - Very strong negative loading, highest magnitude.  
-  - Used here as:
-    - an intensifier (“dodgy as fuck”, “don’t know fuck all”)
-    - a verb (“they fucked her over”)
-  - Signals high informality, emotional involvement, and often emphasis or indignation.
+- Badminton/CRB story: “he sort of pushes that a bit… explaining everything…”  
+  - “pushes” = someone actively promoting an option; “explaining” = detailed procedural justification.
+- Driving ban confession: “He explains that before… he’s pushing himself to keep going…”  
+  - “explains” = careful, stepwise disclosure; “pushing himself” = emotional effort to reveal uncomfortable truth.
 
-- **great**  
-  - Positive evaluation, often used colloquially (“that’s really great”, “that would be great”).  
-  - In these excerpts it is not formal praise but casual, interpersonal evaluation.
+c) normal – contrastive evaluation
 
-- **somebody**  
-  - Refers to non‑specific persons in narratives (“somebody fucking says something”, “somebody did the biopsy”, “somebody’s sitting there going…”).  
-  - Often used to construct scenarios, generalised characters, or hypothetical participants in a story.
+- Massage story: “a completely different feeling from a normal massage”  
+  - “normal” again marks a **baseline expectation** against which the narrated experience is evaluated.
 
-- **set**  
-  - Appears in idiomatic or semi‑fixed expressions:
-    - “set foot in the lecture theatre”
-    - “a different set of responsibilities”
-    - “before even think about setting up a camera”
-    - “a personality is ever set”
-  - These are narrative/argumentative constructions rather than technical “setting” in a formal sense.
+d) explain – rationalising and making sense
 
-Taken together, these words point to:
+- Consumer rights dispute: “explained the whole thing… proper legal‑sounding… by the book.”  
+  - “explained” introduces a structured, quasi‑legal narrative of events and rights.
+- Funeral/jealousy: “I honestly can’t even explain how strange it felt…”  
+  - Here “explain” marks the **limits of explanation**, but still foregrounds the attempt to make sense of an interpersonal moment.
 
-- **Spoken, informal register** (fuck, great, somebody)
-- **Narrative and scenario‑building** (somebody, set in “set foot”, “set of responsibilities”)
-- **Strong stance and evaluation** (fuck as intensifier, great as positive stance marker)
+e) push – conflict, resistance, and pressure
 
-So the lexical profile is not about a topic (e.g. health, cars, universities) but about *how* speakers talk: vividly, evaluatively, and colloquially.
+- Festival/obsessive guy: “trying to push past”  
+  - Physical/social boundary‑crossing; the narrator’s friend intervenes.
+- Housing association: “he pushed it really hard. I had to step in and say, look, you can’t just evict them like that”  
+  - Institutional pressure vs. ethical/legal resistance.
+- Paris trip: “I pushed back a bit because it was such an outdated thing to say”  
+  - Assertive disagreement in a friendship context.
 
----
+Across these texts, the loading items co‑occur with:
 
-### 2. Evidence from the excerpts
+- **Detailed recounting of interpersonal or institutional conflicts**.
+- Frequent **justification, rationalisation, or explanation of actions**.
+- Explicit **evaluation against norms** (“normal”, “over the top”, “ridiculous”, “illegal”, “by the book”).
+- Descriptions of **pressure, boundary‑pushing, and resistance** (“pushes that a bit”, “pushing himself”, “pushed it really hard”, “pushed back”).
 
-All 10 high‑scoring texts are human; none are GPT. They are long, rambling, and highly conversational. Key patterns:
+4. Integrating loadings and examples
 
-#### a. Swearing as stance and intensification
+Giving equal weight to loadings and examples:
 
-- “when **somebody fucking says** something in a really interesting way” (t000413)  
-- “even if you don't know **fuck all** and if you know shitloads” (t000417)  
-- “it made flooding noises so like I knew it was **dodgy as fuck** anyway” (t000043)  
-- “they **fucked her over** and she had to go to hospital” (t000483)  
-- “I'm **fucking** poor” (t000816)
+- The loadings point to a **meta‑explanatory, norm‑oriented, pressure‑laden discourse**.
+- The examples instantiate this as:
+  - Narratives where speakers or characters **explain themselves or others**.
+  - Strong orientation to **what is normal / acceptable / legal / by the book**.
+  - Recurrent **tension, conflict, or pressure**, often with someone “pushing” and someone resisting or needing to be heard.
+  - A sense of **retrospective sense‑making**: people look back, explain, justify, or fail to explain.
 
-Functions:
-- Intensifying evaluation (dodgy as fuck, fucking poor)
-- Expressing frustration or indignation (fucked her over)
-- Adding vividness and authenticity to reported experience.
+The presence of “um” and “chat” in the loadings (though not in these 10 excerpts) suggests that, corpus‑wide, this pole also includes more **hesitant, conversationally marked explanation** (“um, let me explain”, “in this chat we were trying to…”), reinforcing the idea of on‑the‑spot sense‑making and negotiation.
 
-This is classic high‑involvement, colloquial stance‑taking.
+5. Who is driving this pole?
 
-#### b. “Great” as casual positive evaluation
+- All high‑scoring negative examples are **unprofiled GPT**.
+- Humans have the **highest positive mean**, so they are furthest from this negative pole.
+- Profiled GPT is intermediate.
 
-- “I was like oh that's really **great**” (t000816)
-- “I think for you that would be **great** because you need challenging” (t000417)
-- “that's a quite a different **set** of responsibilities really” … “the **greatest** variation is” (t001501 – “greatest” is morphologically related)
-- “there's a **great** story about Irving Thalberg” (t000829)
-- “I've had this **great** idea” (t000942)
+So this discourse style—high in “explain/normal/push/themselves/chat/um”—is **most characteristic of unprofiled GPT outputs** in this dataset. It looks like the unprofiled model tends to produce elaborated, norm‑referencing, explanatory narratives with explicit markers like “explain” and “normal”, and with stylised depictions of “pushing” and resistance.
 
-“Great” here is not formal or technical; it is a conversational evaluation of ideas, stories, or situations. It contributes to an evaluative, stance‑rich discourse.
+6. Proposed labels for this pole
 
-#### c. “Somebody” as generic participant in vivid scenarios
+Focusing on this pole alone (no versus label), and capturing both the lexical pattern and the discourse function, plausible labels include:
 
-- “when **somebody fucking says** something in a really interesting way” (t000413)
-- “the misconception is about **somebody's** sitting there going what is a misconception?” (t000417)
-- “and **somebody** did the biopsy on that” (t000005)
-- “they obviously had **somebody** else who actually like closes it all” (t000043)
-- “if you think you're entitled to it fight for it … then **somebody** who's qualified like a surgeon will say no” (t000483)
-- “oh my god **somebody's** come and asked me to go and have a coffee with them” (t000942)
-- “I see **somebody** who is evolving” (t001038)
+1. **Norm‑Oriented Explanatory Conflict Narration**  
+   - “Norm‑oriented”: captures “normal” and the frequent appeal to what is acceptable, legal, or expected.  
+   - “Explanatory”: foregrounds “explain” and the meta‑discourse of justifying and making sense.  
+   - “Conflict narration”: reflects “push” and the recurrent interpersonal/institutional tensions.
 
-Uses:
-- Generic “somebody” to build hypothetical or typical scenarios.
-- Non‑specific reference to actors in narratives (somebody did the biopsy, somebody else closes the deal).
-- Constructing imagined dialogues and inner speech (“somebody's sitting there going…”).
+2. **Justificatory, Norm‑Evaluative Storytelling**  
+   - “Justificatory”: many speakers are explaining or defending actions (their own or others’).  
+   - “Norm‑evaluative”: explicit contrasts with “normal”, “over the top”, “ridiculous”, “illegal”.  
+   - “Storytelling”: all examples are extended narratives of events.
 
-This supports the idea that this pole encodes **storytelling and scenario‑building** with generic human participants, rather than precise, technical reference.
+3. **Pressure and Explanation in Everyday Narratives**  
+   - “Pressure”: from “push” and descriptions of being pushed, pushing back, or pushing oneself.  
+   - “Explanation”: from “explain” and the broader pattern of rationalisation.  
+   - “Everyday narratives”: these are ordinary life stories (school trips, driving bans, housing, friendships, massages).
 
-#### d. “Set” in idiomatic, narrative, or evaluative contexts
+Any of these captures the same underlying dimension:
 
-- “before you've even **set foot** in the lecture theatre” (t000413)
-- “that's a quite a different **set** of responsibilities really” (t001501)
-- “before even think about **setting up** a camera” (t000829)
-- “I don't think a personality is ever **set**” (t001038)
-
-These are not technical uses (e.g. “data set”) but idiomatic or abstract uses that fit conversational explanation and evaluation.
-
-#### e. Overall discourse style
-
-Across the excerpts we see:
-
-- Long, loosely structured turns with many discourse markers (“like”, “you know”, “erm”, “sort of”).
-- Heavy use of reported speech and imagined dialogue:
-  - “people go I've actually seen that happen” (t000413)
-  - “the lecturer was like oh my god somebody's come and asked me…” (t000942)
-  - “I said to my first year students…” (t000417)
-- Strong interpersonal orientation and stance:
-  - Encouraging, advising, or challenging the interlocutor (t000417, t001038, t000942).
-  - Expressing indignation or frustration about institutions (NHS, universities, car dealers).
-
-This is not neutral description; it is **highly involved, evaluative, and affect‑laden** talk.
-
----
-
-### 3. Which group drives the pole?
-
-- Mean scores show humans are more negative on f5 than both GPT conditions.
-- All top‑scoring texts at this pole are human.
-- The key loading item “fuck” is extremely unlikely in GPT outputs under normal safety constraints, which will push GPT texts away from this pole.
-- GPT outputs, even when “profiled”, tend to avoid strong profanity and may use “great” in more polished, less colloquial ways, and are less likely to use “somebody” in the generic, scenario‑building style seen here.
-
-So this pole is clearly **human‑driven**, and more specifically driven by **informal, emotionally engaged human conversation**.
-
----
-
-## Why “Colloquial, affect‑intensified stance” fits
-
-- **Colloquial**:  
-  - Swearing, “like”, “you know”, long unplanned turns, generic “somebody”.
-- **Affect‑intensified**:  
-  - fuck as intensifier and expression of anger/frustration; great as positive evaluation; strong emotional colouring of narratives.
-- **Stance**:  
-  - Speakers are not just recounting events; they are evaluating, advising, challenging, and positioning themselves and others (students, lecturers, doctors, car dealers, universities).
-
-Alternative labels like “informal evaluative storytelling” or “human conversational vividness” also capture aspects of this pole, but “colloquial, affect‑intensified stance” foregrounds both the register (informal, human) and the key functional property (strong stance and affect), which are jointly signalled by the loading items and the excerpts.
+- A discourse style where speakers **recount interpersonal or institutional situations by explicitly explaining, justifying, and evaluating them against perceived norms, often in the context of pressure, conflict, or boundary‑pushing**—a style particularly characteristic of unprofiled GPT turns in this corpus.

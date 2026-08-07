@@ -1,8 +1,8 @@
-Text ID: t004793
+Text ID: t004372
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001383_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000962_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-So for her birthday I decided to do something nice and took my sister out to this big cinema complex that’s like twenty minutes out of town. We watched a film there and then we got the bus back. The bus dropped us off in the town centre, and it was a Friday night, so it was already a bit dodgy. We were just walking up the street when my ex-boyfriend showed up. He’s really violent, and we’d just broken up recently, and he came over and tried to hit me.
+Score (f4_neg): -3
+Loading words (f4_neg), N=3: plan, properly, once
+I decided I was going to crack down and get something done, you know, be properly productive. So I went out into the garage and started working out there, cutting these great big boards for the big Norfolk. That took me a while, but it felt good to be doing something practical. Once I’d got that done, I thought, right, next thing is to make a banner. Then I went over to the church to pick up the church banner, but when I got there it was just too wet, conditions were no good for what I’d planned. Still, after all that, I felt absolutely fully alert.

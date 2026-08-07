@@ -1,14 +1,8 @@
-Text ID: t003355
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001650_gpt.txt
+Text ID: t000866
+Group: human
+Model: human
+File:   corpus/05_human/t000866_human.txt
 
-Score (f3_neg): -1
-Loading words (f3_neg), N=1: fact
-Well mine was endometrial cancer, so cancer of the lining of the womb. The classic thing they always say is that in post‑menopausal women it tends to show itself as unexpected or persistent bleeding, and that’s the big red flag. If you’ve stopped your periods and then suddenly start bleeding, they take it very seriously and they’ll usually investigate quite quickly.
-
-In my case it was more complicated because I was about fifty‑three and I was still having periods, so it didn’t look, on the face of it, like that textbook picture. I think that’s part of why my GP didn’t immediately think there was anything particularly sinister going on. It didn’t fit the obvious pattern of “post‑menopausal bleeding equals probable problem”.
-
-What actually happened was that over about eighteen months to two years I just felt generally unwell. There was this long, rather vague period where I knew something wasn’t right. My periods started to change, and then it moved on from that to this constant spotting. At first it was just a bit here and there, but it never really settled down properly.
-
-That then progressed into more persistent bleeding, so it wasn’t just the odd bit of spotting around my period, it was more or less all the time. It was that slow, gradual shift from normal periods, to odd periods, to constant spotting, to ongoing bleeding. Because it developed over such a long stretch of time, and because of my age and the fact I was technically still menstruating, it was very easy – for me and for the doctor – not to see it straightaway as a sign of something as serious as cancer.
+Score (f3_neg): 1
+Loading words (f3_neg), N=1: f4 score: 1
+and it's just on the edge wa the eastern edge of Snowdonia and it's called er sagriha mihangel is Michael St Mihangel is if you like the Church of St Michael and Glyn is a a valley in waWales in Welsh is pensive or thoughtful and we we went there recently just to check on whether any fafafarms that are in my family's background and I found there are only four or five farms in the whole area we found them and in the church we went into the church which is a twelfth century church twelve thirteen century church by the river and there was the most extraordinary statement there my great grandfather was born in in eighteen twenty-one

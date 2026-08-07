@@ -1,8 +1,8 @@
-Text ID: t002311
+Text ID: t001794
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000606_gpt.txt
+File:   corpus/05_profiled_gpt/t000089_gpt.txt
 
 Score (f6_neg): -2
-Loading words (f6_neg), N=2: anyone, everyone
-if you've got that kind of abundant cheap energy and resources, then people can actually get on with, you know, purer pursuits rather than just scrabbling to survive or fighting over stuff. And for me, tied into that, I’ve always wanted to live forever, right back to when I was a kid. It’s just always seemed completely obvious and desirable. What really throws me is that almost everyone I talk to about it doesn’t feel the same way at all. I’ve literally never met anyone else who actually wants to live forever.
+Loading words (f6_neg), N=2: honestly, clearly
+I was absolutely killing myself doing it, you know, loads of hours between the two jobs and all the travelling back and forth. In the middle of all that I ended up being late for a couple of shifts. Next thing I know, they’ve called me in for this meeting. I honestly didn’t think it was going to be anything major, I just thought we’d have a chat and I’d explain what’d been going on. Instead they just turned round and said they were ending it all – the sabbatical cover and the freelance stuff as well. I was totally shocked, tried to explain about the hours and the travelling, but they’d clearly made their mind up already.

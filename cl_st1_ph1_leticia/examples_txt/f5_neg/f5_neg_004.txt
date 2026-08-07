@@ -1,8 +1,8 @@
-Text ID: t000816
-Group: human
-Model: human
-File:   corpus/05_human/t000816_human.txt
+Text ID: t003487
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000077_gpt.txt
 
 Score (f5_neg): -2
-Loading words (f5_neg), N=2: fuck, great
-it was good yeah it was really nice with like some tatties and eh like carrot and swede mash or something and he was oh yeah that's two pounds no and I know knew for one it should be like three ninety-nine and I was like oh that's really great and he was like oh I didn't see your veg on your way out thanks it's so bad like obviously the feminist in me is like oh you should you know shouldn't allow it you shouldn't allow it and then I'm like well I'm fucking poor
+Loading words (f5_neg), N=2: normal, explain
+I went over to her in the car park and said, “You need to listen to her side of the story,” because the poor girl was trying to explain that she was alright and had tried to call. The mother was just totally incapable of listening, absolutely bawling, and I was trying to get her to calm down and actually hear what her daughter was saying. Eventually it all got resolved, but the girl will never be allowed on a school trip again, which is tragic really, because she’s exactly the sort of child who needs to get away. Being brought up in that environment, that kind of behaviour just seems completely normal to her.

@@ -1,8 +1,8 @@
-Text ID: t001442
+Text ID: t000240
 Group: human
 Model: human
-File:   corpus/05_human/t001442_human.txt
+File:   corpus/05_human/t000240_human.txt
 
 Score (f6_pos): 1
-Loading words (f6_pos), N=1: month
-erm but yes anyway so that was that for the friendship and then months and months and months passed and I got a drunken barrage of texts after that I'm really sorry can you ever forgive me? and blah blah blah so I said of course you know it's no problem you're a bit of a twat but I still love you erm and then that was the end of that didn't hear from him for months and then got a message today sorry to hear Terry Wogan's died I thought of you kiss kiss kiss like nothing's happened
+Loading words (f6_pos), N=1: alright
+so if you consider what I'm trying to do at the moment and I have this idea in my head that I want to have a certain amount of things done I want to outsource them one thing I need to know is how f how the fuck do you do outsourcing? alright? I don't know but what I can do when I'm away is I can meet up with two or three different people who actually do it and talk to them and find out in a short period of time a gut feel for how it works right?

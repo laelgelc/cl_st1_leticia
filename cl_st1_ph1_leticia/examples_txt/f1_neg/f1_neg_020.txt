@@ -1,8 +1,10 @@
-Text ID: t000786
-Group: human
-Model: human
-File:   corpus/05_human/t000786_human.txt
+Text ID: t001963
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000258_gpt.txt
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-yeah okay right charge your Q quick and just click there leleft-click there and then just uuse your E there as well but just keep going keep attacking where er where are the bots? the bots aren't even there yet okay it's attacking you good stuff now press two it's using your health pot keep keep using your Q when you can and your E use your E on that as well press two again then press three you're using your pots okay level one of these I can't remember which one's which okay keep taking the turret you see him there? don't attack him otherwise the turret'll attack you now run away run away run away run away always run er up and down your channels okay you've got an E and a Q you can use both yeah good shit and and use your E again use your E over there yeah okay go up to the turret and scroll it
+Score (f1_neg): -7
+Loading words (f1_neg), N=7: bother, completely, try, even, just, afterwards, proper
+so on Saturday morning before we actually met him, she put him on the phone to me for a minute, just to say hi. She’d said beforehand that he was really shy and nervous about meeting her parents and me, so I was just really friendly and chatty, trying to put him at ease a bit. It was literally just a brief, nice conversation because I knew he was worried about it.
+
+But afterwards he completely flipped at her about it. He had a proper go, saying she shouldn’t be telling people he was shy, like she’d been talking about him behind his back. He made out like she’d betrayed him, even though it was just that one thing she’d mentioned to me. He was saying he didn’t even know why he was bothering to come, and acting like we were all laughing at him or something. It was really harsh considering she’d only told me he was nervous so I could be a bit kinder and more understanding when I met him.

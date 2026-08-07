@@ -1,8 +1,8 @@
-Text ID: t003533
+Text ID: t005113
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000123_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001703_gpt.txt
 
-Score (f1_pos): 7
-Loading words (f1_pos), N=7: build, sense, idea, more, own, different, way
-No, I don’t actually want that. I don’t want to be in one place, in one job, for life. I’m much more drawn to the idea of running my own business and being able to move around. Every time I go somewhere new it feels reinvigorating, like I’m waking up a bit. You learn new things, you’re forced to see things differently, and you get to try out different ways of living and working. Staying in one place, in one role, might build up a strong sense of community and roots, and I can see why that appeals, but it also feels like it would really restrict my freedom to explore other things.
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): just
+Well, in the past, when we’ve had shows at the school, I’ve taken some of my art along and put it on display. It wasn’t really the sort of event where you’d sell anything, more just an exhibition, so I never made any sales out of it. With this new show they’re planning for next year, I think it’d be a good idea if you quietly had a word and pushed for them to include things for the women to do as well. If they involve the women properly, you’ll get a lot more support overall, and it’ll make the whole thing work better.

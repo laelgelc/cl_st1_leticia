@@ -1,8 +1,8 @@
-Text ID: t004797
+Text ID: t004392
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001387_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000982_gpt.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: gonna
-so it was her birthday, and she was meant to be picking me up, right? that was the plan. then literally last minute she was like, oh, can you just make your own way to mine, I’m gonna go pick everyone else up. so I was like, fine, whatever, I’ll sort myself out. and then I find out later that they’d all gone out for a meal together beforehand and I hadn’t even been invited to that. and then, on top of it, they were like, oh just get a taxi instead. so I just kind of went along with it, but I really didn’t feel great about it.
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+yeah he still does yeah he had a game the other week actually, playing against some school kids, cos obviously he’s teaching now so it was like a teachers versus pupils thing I think. He’s still captain of the reserves, so he hasn’t played for the first team this season, they’ve kept him there. Every now and then, if he’s free, he’ll turn out for that other side as well, just to get a game in. But at the minute he’s in Wales, that’s where he is now, so he’s not around for our games.

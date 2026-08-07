@@ -1,169 +1,147 @@
-Interpretation of Factor f2 (negative pole)
+This negative pole is best understood as a discourse of **informal, male‑focused narrative about specific episodes in time**, with a strong flavour of spontaneous, colloquial storytelling.
 
-1. Which group drives this pole?
+Below I propose labels and justify them from both the loadings and the examples, and then note which group drives the *opposite* pole (since all high‑scoring texts here are human).
 
-- Mean scores:
-  - human: **-0.15**
-  - profiled_gpt: +0.09
-  - unprofiled_gpt: +0.07  
+---
 
-The **negative** side of Factor 2 is therefore **driven by human speakers**. Both GPT conditions sit on the positive side (i.e. *away* from this pole), suggesting that this dimension captures something that humans do much more than the LLMs.
+## 1. What drives this pole?
 
-2. Linguistic profile of the f2 negative pole
+### Source scores
 
-High negative loadings:
-- god (-.67)
-- fuck (-.66)
-- pound (-.60)
-- shit (-.46)
-- gonna (-.45)
-- single (-.41)
+Mean scores on Factor 2 (overall, not pole‑specific):
 
-Key observations from the loadings:
+- Human: 0.24  
+- Profiled GPT: 0.67  
+- Unprofiled GPT: 0.63  
 
-- **Expletives / taboo items**: god, fuck, shit  
-  These are classic markers of:
-  - emotional stance and evaluation
-  - informality and colloquial speech
-  - spontaneous, low-monitoring production
+So GPT texts tend to be *higher* on Factor 2; humans are *lower*. Since we are interpreting the **negative** pole, this pole is **driven by human turns**: human texts are more likely to have negative scores on this factor than GPT texts.
 
-- **Colloquial future marker**: gonna  
-  - Strongly associated with **spoken, informal, conversational** style.
-  - Often co-occurs with stance-taking and narrative projection (“what’s gonna happen”).
+All 10 high‑scoring negative examples are human.
 
-- **pound, single**  
-  - Likely to be:
-    - “pound” as currency or weight, often in everyday talk about money, shopping, etc.
-    - “single” as relationship status, or as a count noun (“every single time”), both common in informal, personal narratives.
-  - These are less obviously about stance, but they fit **everyday, personal-life, informal topics**.
+---
 
-Overall, the loading set points to:
-- **highly informal, colloquial spoken style**
-- **strong affective / evaluative stance**, often negative or intense
-- **personal, everyday-life content** (money, relationships, complaints, gossip)
+## 2. Linguistic loadings: what characterises this pole?
 
-3. Evidence from the example excerpts
+Negative loadings (strongest to weakest):
 
-All 10 high-scoring texts are **human**. GPT does not appear in the top examples, reinforcing that this is a **human-conversational** pole.
+- shit (−.39)
+- um (−.39)
+- alright (−.38)
+- minute (−.36)
+- he (−.34)
+- him (−.31)
+- awful (−.30)
+- oh (−.30)
 
-Across the excerpts, the loading items are used in very similar ways:
+Key patterns:
 
-a) “oh my god” as an affective discourse marker
+1. **Male third‑person reference**  
+   - he, him: sustained talk *about a male person* (partner, friend, teacher, baby, ex, etc.).
 
-Examples: t001195, t001258, t001261, t001351, t001354
+2. **Temporal granularity / episode timing**  
+   - minute: “five minutes”, “ten or fifteen minutes”, “forty minutes later”, “twenty minutes out of town” – narrators anchor events in short, concrete time spans.
 
-- “oh my god you're gonna get brownie points now”
-- “oh my god and erm so we were in shopping”
-- “oh god I know what this is gonna be about now”
-- “oh my god when we were in I didn't see many couples”
-- “oh my god she's gonna be s she did give me such a hard time”
+3. **Spontaneous, disfluent, colloquial style**  
+   - um, oh, alright: classic markers of **online planning** and **informal stance** in conversation.
+   - shit, awful: **colloquial evaluation**, mild taboo, negative affect.
 
-Functions:
-- Express **surprise, amusement, anxiety, anticipation**.
-- Used as **turn-openers** and **story climaxes**.
-- Very typical of **informal, emotionally engaged storytelling** among peers.
+Overall, the loadings point to **informal, evaluative, time‑anchored storytelling about a male figure**, produced in a very conversational, disfluent style.
 
-b) “gonna” as colloquial future and stance projection
+---
 
-Examples: t001195, t001258, t001261, t001351, t001354, t000454, t000452
+## 3. Evidence from the example excerpts
 
-- “you're gonna get brownie points now”
-- “I'm not gonna get it from here cos it's too expensive”
-- “I know what this is gonna be about now”
-- “we was gonna watch erm the Kingsman”
-- “she's gonna be s she did give me such a hard time”
-- “we are gonna like put us kids in school for a year”
-- “you always just gonna be there so that you can just keep the peace”
+All examples are human conversational narratives. Key recurring features:
 
-Functions:
-- Everyday **future reference** in speech.
-- Often embedded in **reported speech** and **narrative projection** (“what’s going to happen”, “what someone is going to do”).
-- Strongly indexes **informal, spoken, interpersonal** discourse.
+### a. Focus on a male protagonist (“he / him”)
 
-c) Strong negative evaluation and venting (fuck, shit, god in evaluative contexts)
+Every excerpt centres on “he / him”:
 
-Examples: t000453, t000452, t000450
+- A man telling his life story over coffee (t001327).
+- A man with “a new way of thinking” and letters to the speaker (t001230).
+- A male colleague/partner who “needs to grow up” (t000625).
+- A baby boy’s sleep and nap routine (t000292).
+- A talkative male classmate/teacher (t000172).
+- A male friend with “news” and scheduling around him (t000548).
+- A partner on shifts with a noisy vehicle (t000009).
+- A drunk male hockey lad being looked after (t000552).
+- A male teacher and a boy in class (t000551).
+- A violent ex‑boyfriend (t001383).
 
-- “my mum god her life just sounds so fucking sad”
-- “is your life actually that fucking sad”
-- “what the fuck is actually happening”
-- “can I not actually have an opinion in this house”
-- “that god is a thing that people can talk to and pray to”
+The discourse is consistently **third‑person narrative about a specific male individual**, often in relational or caregiving contexts.
 
-Functions:
-- **Intensified negative evaluation** of people and situations.
-- **Venting, frustration, criticism** of family dynamics, religion, or life circumstances.
-- Highly **stance-laden**, with strong personal involvement.
+### b. Fine‑grained timing and short episodes (“minute”)
 
-d) Everyday, personal-life narratives
+“minute” appears in multiple ways:
 
-Across the excerpts, topics include:
-- family arguments and long-term tenants (t000454, t000452)
-- gossip about parents and book club (t000453)
-- relationship drama and Boxing Day plans (t001261)
-- going to Nando’s and the cinema (t001351)
-- shopping for Christmas pudding (t001258)
-- medical appointments and back pain (t001354)
-- casual talk about planes and films (t001195)
+- “ten or fifteen minutes he said oh do you want a coffee” (t001327)
+- “ten minutes later so I don’t have to come” (t001230)
+- “I don’t believe for one minute that he’s being malicious” (idiomatic, but still time‑lexeme; t000625)
+- “forty minutes later so it was only a quick nap” (t000292)
+- “five minutes not even joking five minutes just chatting on about nothing” (t000172)
+- “twenty minutes out of town” (t001383)
 
-These are:
-- **first-person, experience-based stories**
-- rich in **reported speech** and **dialogue**
-- full of **stance markers** and **emotional reactions**
+Speakers **segment and pace the story** with short, concrete time spans, giving a sense of lived, real‑time experience.
 
-4. Integrating loadings and examples
+### c. Informal, disfluent, “live” conversational style
 
-Taking loadings and examples together, this pole is best characterised by:
+Across excerpts:
 
-- **Register/style**:
-  - Highly **informal**, **spoken**, **colloquial**.
-  - Low monitoring, with frequent **discourse markers**, **fillers**, and **expletives**.
-  - Strong presence of **gonna** and formulaic exclamations (“oh my god”).
+- Repetitions and repairs: “it started it it star it he he was getting into it” (t001327); “he he’s up at half five” (t000009).
+- Fillers and hesitations: “erm”, “you know”, “like”, “I mean”.
+- Colloquial intensifiers and stance: “literally”, “not even joking”, “blah blah blah blah blah”, “all that sorta shit”, “he were a violent shit”.
+- Evaluative adjectives: “malicious”, “wicked teacher”, “violent shit”, “awful” (from loadings).
 
-- **Discourse function**:
-  - **Stance-heavy**: speakers evaluate, complain, gossip, and react.
-  - **Narrative and anecdotal**: recounting events, especially interpersonal conflicts and everyday mishaps.
-  - **Affective alignment**: inviting the listener to share emotional reactions (“oh my god”, “what the fuck”).
+This is **unplanned, highly interactive spoken narrative**, not polished or expository.
 
-- **Content domain**:
-  - **Personal and interpersonal**: family, partners, friends, social outings, health.
-  - Often **problem-focused** or **drama-focused**: arguments, frustrations, disappointments, gossip.
+### d. Everyday interpersonal and emotional content
 
-- **Source pattern**:
-  - Strongly associated with **human** turns.
-  - GPT outputs (both profiled and unprofiled) sit away from this pole, suggesting that LLMs are comparatively more restrained in:
-    - expletives and taboo language
-    - highly colloquial forms like “gonna”
-    - raw, emotionally charged venting.
+The stories are about:
 
-5. Possible labels for f2 (negative pole)
+- Relationships and conflict (ex‑boyfriend swinging for her; ignoring letters; being ignored by friends).
+- Care and responsibility (looking after a drunk friend; managing a baby’s sleep; planning around someone’s schedule).
+- Judging others’ behaviour (he “needs to grow up”; “violent shit”; “wicked teacher”).
 
-Focusing on this pole alone (no versus label), plausible discourse-dimension labels are:
+So the discourse is **interpersonal, evaluative, and emotionally coloured**, but still grounded in concrete, everyday events.
 
-1. **Emotionally Charged Colloquial Storytelling**
-   - Captures:
-     - the informal spoken style (gonna, oh my god)
-     - the narrative structure (stories about family, relationships, outings)
-     - the strong affect (fuck, shit, god as expletives and stance markers).
+---
 
-2. **Affective Venting and Gossip in Everyday Talk**
-   - Emphasises:
-     - the **venting/complaining** function (family arguments, “what the fuck is actually happening”)
-     - **gossip-like evaluation** of others (mum’s “fucking sad” life, book club drama)
-     - the everyday, interpersonal focus.
+## 4. Who drives this pole?
 
-3. **Informal Stance-Heavy Personal Narratives**
-   - Highlights:
-     - the **stance** dimension (intense evaluation, emotional alignment)
-     - the **personal narrative** frame (first-person experiences, reported speech)
-     - the **informal spoken** character (gonna, expletives, discourse markers).
+- The **negative pole** is clearly **human‑driven**: all high‑negative examples are human, and humans have the lowest mean on Factor 2.
+- GPT texts (profiled and unprofiled) sit higher on Factor 2, so they are *less* associated with this negative‑pole style. This fits with LLMs typically producing more fluent, less disfluent, less taboo‑laden, and less “messy” conversational text.
 
-Any of these three would be defensible. If a single label is needed, a compact formulation that reflects both the loadings and the examples is:
+So this pole captures a **distinctively human, messy, colloquial narrative mode** that GPT outputs under both prompts tend to under‑produce.
 
-**“Emotionally Charged Colloquial Personal Talk”**
+---
 
-This label:
-- foregrounds **emotionally charged** (fuck, shit, oh my god; venting, frustration, excitement),
-- **colloquial** (gonna, expletives, informal syntax),
-- **personal talk** (family, relationships, everyday experiences),
-and aligns with the fact that this pole is **driven by human conversational turns** rather than LLM-generated ones.
+## 5. Proposed labels for this negative pole
+
+Each label foregrounds a slightly different aspect, but all are consistent with the evidence:
+
+1. **“Informal male‑centred anecdotal narrative”**  
+   - Captures:  
+     - Informal style (um, oh, shit, awful, alright)  
+     - Male focus (he, him)  
+     - Anecdotal, story‑like structure with time anchoring (minute).
+
+2. **“Spontaneous, time‑anchored storytelling about him”**  
+   - Emphasises:  
+     - Spontaneity and disfluency (um, oh, alright, repetitions)  
+     - Fine‑grained temporal framing (minute)  
+     - Third‑person male protagonist (he, him).
+
+3. **“Colloquial, evaluative narratives of everyday male behaviour”**  
+   - Highlights:  
+     - Colloquial lexis and mild taboo (shit, awful)  
+     - Evaluative stance toward the male figure (malicious, violent, wicked, needs to grow up)  
+     - Everyday, relational scenarios (work, school, nights out, childcare).
+
+Any of these would be a defensible label for this pole. If a single concise label is needed, I would choose:
+
+> **Informal male‑centred anecdotal narrative**
+
+because it integrates the key dimensions indicated by both the loadings and the examples:
+- **Informal**: disfluencies, fillers, taboo, stance markers.  
+- **Male‑centred**: dense use of he/him as story focus.  
+- **Anecdotal narrative**: short, time‑anchored episodes told as personal stories.

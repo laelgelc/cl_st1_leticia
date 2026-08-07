@@ -1,8 +1,8 @@
-Text ID: t000413
-Group: human
-Model: human
-File:   corpus/05_human/t000413_human.txt
+Text ID: t003949
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000539_gpt.txt
 
-Score (f5_neg): -3
-Loading words (f5_neg), N=3: fuck, set, somebody
-so students aren't gonna be interested in you because you've already before you've even set foot in the lecture theatre you've already really made yourself non-accessible you may be brilliant in your mind but your mind isn't working effectively because it isn't actually flowing outwards it's just keeping itself within and students will go on Facebook but I tell you I've seen the difference when somebody fucking says something in a really interesting way you know mobiles get put away laptops get put down and people go I've actually seen that happen which is I've also seen the reverse of course it's like boring just whatever but it's not like students go to university to be bored they actually go cos they think they're gonna be excited
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: normal, explain
+so the story goes that in Woolpit these village children were out and they suddenly came across this brother and sister who had green skin. they brought them back, and the boy was really sad and never settled, and in the end he died. the girl, at first, would only eat green beans, nothing else at all, but gradually she started to eat normal food. as she did that she lost the green colour in her skin, and she began to learn to speak like everyone around her. once she could talk properly she explained that they’d come from a place that was always dark, and they’d followed the sound of music and somehow come out into the sunlight. eventually she grew up and even married someone local.

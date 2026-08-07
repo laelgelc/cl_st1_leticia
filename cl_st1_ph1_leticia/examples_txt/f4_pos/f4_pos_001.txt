@@ -1,14 +1,8 @@
-Text ID: t002025
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000320_gpt.txt
+Text ID: t000194
+Group: human
+Model: human
+File:   corpus/05_human/t000194_human.txt
 
-Score (f4_pos): 5
-Loading words (f4_pos), N=5: feel, stick, clear, carry, make
-well what I tend to do is a tiny bit of planning, but really just to have something in my back pocket. I’ve got the “English File Upper Intermediate” PDFs on the laptop, and at the beginning with this student we actually went through the book because that’s what she wanted. Over time, though, we’ve drifted away from following it page by page, and now I mostly use it as a source of topic ideas or the odd exercise if it fits. The lesson itself is really led by whatever she wants to talk about on the day.
-
-The only real “system” I stick to is my A4 sheet. I always divide it into three sections before the lesson starts. One section is for error corrections that I want to come back to at the end, so I’m not constantly interrupting her flow. Another section is for new vocabulary, often idioms, and I’ll jot down the phrase and a quick meaning so she’s got a clear record. The third section is for pronunciation notes.
-
-With the pronunciation, I don’t force phonetics on them unless it actually means something to that particular student. If they’re comfortable with phonetic symbols I’ll use them, but quite often I just write things in a way that I know they’ll remember and understand. The idea is that the sheet makes sense to them, not that it’s technically perfect.
-
-She takes that A4 sheet away with her at the end of the lesson, so it becomes a little personalised record of what we did. During the lesson I’m doing on‑the‑spot correction when it feels appropriate, and if it doesn’t, I just note it down for later and carry on. It’s very straightforward, and with that structure in place it really is easy money.
+Score (f4_pos): 6
+Loading words (f4_pos), N=6: shit, fuck, sorry, gonna, guy, like
+so can I can I add my two pennies worth? okay with men they clearly I think men are very very good at distinguishing erm what other men are trying to achieve yeah? they're pretty clear I think in the cut in when you get to be a manager you start to wield some power yeah you either like it or you don't hopefully you do like it yeah otherwise you wouldn't do it but from the guys as as you call it you know the types of words you'd use when you were talking about engineers with senior engineers or or management in engineering companies swing their dicks around suck my cock you know the way you would actually describe these people you were working with you know or in meetings with it sounded horrendous it sounded really like too fucking much in many ways yeah and what I didn't like about it was it was so male dominated it was so much male talk it was so much like I'm an alpha male you're not you're be you're a whatever so you're gonna have to follow me because basically I've got the power shut up fuck off and you'll do what I say yeah? and that male dominated world I'm sorry if you don't fit into it it's shit it's crap it's it's gotta be one of the worst places to be if you're if you wanna be your own man yeah like most men want to be their own men who wants to actually just roll over and go yeah fuck off I just wanna be erm dominated by another man no you don't what what man really wants to be dominated by another man? I mean really I don't want to be fucking dominated by another woman so my idea of this psyche the driver is that actually sometimes it gets to the point where I'm not management I'm fucking off I'm gonna be my own fucking boss because no fucking man is going to fucking talk to me like that

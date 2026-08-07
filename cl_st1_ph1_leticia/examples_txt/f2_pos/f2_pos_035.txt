@@ -1,8 +1,8 @@
-Text ID: t000278
+Text ID: t000123
 Group: human
 Model: human
-File:   corpus/05_human/t000278_human.txt
+File:   corpus/05_human/t000123_human.txt
 
-Score (f2_pos): 1
-Loading words (f2_pos), N=1: bloke
-Cos I haven't sold it I don't need I don't want to sell it and if I I have any intention to sell it I have to do so much work on it I mean because I've lived there and I just let I haven't needed to I've had things done but I'm not a DIY expert I get people in like I had the roof done when the next door on the other side had theirs done I had double glazing done when my brother's mate he said double glazing I'll do it I had the floorboards done when I had a problem with them I had to get all that sorted I had a new wall outside when some bloke came round had a chimney when these things happen but the thing is there's only so much you can do
+Score (f2_pos): 5
+Loading words (f2_pos), N=5: become, different, more, own, idea
+well no not from my point of view cos I've always kind of thought well well part part of it is if I was doing my own thing my own business like I've said erm it was about the location thing I always liked the idea of moving around because that kind of reinvigorates you it's new stuff you learn new stuff it forces you to look at thing differently you try different stuff just because you're doing that when you're based in one place sure you get to know the community you become better known in the community you know more people there but you're there and that's it you know? erm you don't necessarily get the freedom to go and have a look around and look at other stuff and

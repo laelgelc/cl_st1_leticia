@@ -1,8 +1,8 @@
-Text ID: t004566
+Text ID: t004194
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001156_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000784_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-when I was little they wanted me to cut my nails for the violin and I just wouldn’t, even then my nails were long and I was stubborn about it so I stopped after a few weeks. later on, at secondary school, I went onto brass instruments instead. anyway, when I was over in Boston today visiting my real dad and his wife, I asked to have a go on her violin. we went right back to the beginning of the tutor book and after about a minute I could play “Twinkle Twinkle Little Star” again, which really surprised them.
+Score (f4_neg): -3
+Loading words (f4_neg), N=3: plan, properly, change
+no no it's still a long way off, so I don't think it'll be the inauguration of the new space at all. They can't really start borrowing anything until we've got a very clear idea of what the exhibition is actually about, so everything's a bit hypothetical at the moment. What I'm really doing now is just working on the plan on the computer, trying to get this up properly, maybe changing some of the titles as I go, and then I want to open it in Illustrator to sort it all out.

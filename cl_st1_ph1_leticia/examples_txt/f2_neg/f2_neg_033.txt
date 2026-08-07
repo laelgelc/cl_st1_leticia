@@ -1,8 +1,8 @@
-Text ID: t003092
+Text ID: t002926
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t001387_gpt.txt
+File:   corpus/05_profiled_gpt/t001221_gpt.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: gonna
-so like it was her birthday and she was meant to be picking me up, yeah? she’d said she’d get me when she was going to the train station for everyone else. then literally last minute she was like, oh can you just make your own way to mine, I’m gonna go get them instead. and I was like, right, okay then, fine, whatever. then I found out later they’d all gone out for a meal without even inviting me, and she’d told them to just get a taxi. I just sort of accepted it but it really stung.
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+I’ve been going to that Monday night swim for years, straight after the triathlon club, and for ages I never even saw him there. Now he’s started coming back, and in this letter or text he’s sent he’s saying I must be coming to see him, because I’m always waiting to get in when they finish. So I told him, no, I’ve swum on Mondays for years, this is just what I do. And then, because he said I could easily have come five minutes later if I wanted, I actually did go later the following week, deliberately, just to make the point.

@@ -1,8 +1,8 @@
-Text ID: t005107
+Text ID: t004184
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001697_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000774_gpt.txt
 
-Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-he's a bit of a character really, you know, he can be quite arrogant and awkward and he’s not that easy to get along with a lot of the time, even though there is a sweet side to him as well. I think that mix in his personality does make things more tense, because from where I’m standing it’s pretty clear that his dad really prefers the youngest one. he obviously wants to spend time with the youngest son, and that just kind of throws the contrast with the oldest into sharper relief.
+Score (f1_neg): -8
+Loading words (f1_neg), N=8: stand, totally, absolutely, nothing, try, everything, just, stick
+he was just absolutely impossible to deal with, like really badly behaved and totally uncooperative. He was this huge kid compared to all the others, much bigger than them, and that just made everything harder. In the mornings we’d go in and try to get him out of bed, over and over, and he just would not do it. You’d wake him up, tell him it was time to get up, and he’d kind of half‑respond and then just crawl straight back under the covers again. There was nothing you could do to actually make him comply. It wasn’t like with the smaller kids where you could sort of shepherd them along or scoop them up and get them moving. With him, he was so big and stubborn that you were stuck. You’d stand there trying to insist, but he’d just burrow back into the bed and that was that. All the adults were basically defeated by him every single morning, because there was just no way to physically move him or get him to cooperate.

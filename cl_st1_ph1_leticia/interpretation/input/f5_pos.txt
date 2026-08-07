@@ -33,159 +33,141 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac5	SD fac5
-group	human	1705	-0.12199413	0.52665189
-group	profiled_gpt	1705	0.05689150	0.50785007
-group	unprofiled_gpt	1705	0.05630499	0.50034889
+group	human	1705	0.56363636	1.01031809
+group	profiled_gpt	1705	0.34486804	0.88916852
+group	unprofiled_gpt	1705	0.32023460	0.88980662
 
 === FACTOR LOADINGS (f5_pos) ===
-variables loading on this pole = 4
-awful (1.05), single (.52), horrible (.48), pick (.31)
+variables loading on this pole = 12
+pound (.83), four (.77), hundred (.58), six (.57), month (.55), three (.51), ten (.48), two (.42), five (.36), (single (.32)), manage (.31), (minute (.30))
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f5_pos_001.txt (text ID t003312) =====
-Text ID: t003312
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001607_gpt.txt
+===== EXCERPT: f5_pos_001.txt (text ID t001480) =====
+Text ID: t001480
+Group: human
+Model: human
+File:   corpus/05_human/t001480_human.txt
 
-Score (f5_pos): 3
-Loading words (f5_pos), N=3: awful, horrible, pick
-So the author I was on about is Matt Haig – he randomly followed me on Twitter, so I just followed him back. I’ve not actually read any of his books yet, but I do want to at some point, especially because I see his tweets pop up quite a lot. Sometimes he tweets about dealing with depression, and lately he’s been talking loads about all the abuse he gets on Twitter. 
+Score (f5_pos): 7
+Loading words (f5_pos), N=7: pound, four, six, three, ten, two, five
+they're pink they're not the same? they literally are the same aren't they? they're the same value good grief I'm not going to play with you if you behave like this you have got the same amount of money that you had do you understand that? it is the same amount so could give you five individual things or something representing five it would be the same thing no we can't play until has just sorted herself out of this ridiculous issue right do you understand? you know that a five pound note an actual real one is worth the same as five pounds? so what is the issue? you can't have like loads and loads and loads of of notes if you're not going to sell anything or buy anything or do anything if we need to have them for whenever we all pass go right? now just get on with the game please without having an issue right one two three four five six seven eight nine ten
 
-What really got me was him saying some of it comes from people he actually knows in real life, which is just awful. It’s not just random trolls, it’s like people from his own life piling on as well. He’s been really open about how horrible it is, and it just makes you think about how intense it must be when everything you say online gets picked apart. 
-
-It must be horrible for people who’ve got that level of attention, where every tweet is scrutinised and twisted and thrown back at them. You can’t just say something offhand without worrying how it’s going to be received or who’s going to attack you for it. I honestly can’t imagine dealing with that kind of constant pressure on something as daft as Twitter.
-
---- Loading words for this example (pos): awful, horrible, pick
+--- Loading words for this example (pos): pound, four, six, three, ten, two, five
 
 
-===== EXCERPT: f5_pos_002.txt (text ID t003410) =====
-Text ID: t003410
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001705_gpt.txt
+===== EXCERPT: f5_pos_002.txt (text ID t000849) =====
+Text ID: t000849
+Group: human
+Model: human
+File:   corpus/05_human/t000849_human.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: awful, horrible
-so there was this one *Magnum* episode that was just properly horrible, like really dark and scary, nothing like it usually is. It starts off all normal, Magnum drops off the twin who seems like the nice one at her house, and you think, yeah, fine, standard episode. But then there’s this sense that there’s someone else in the house, someone you can’t see, and it gets really tense.
+Score (f5_pos): 6
+Loading words (f5_pos), N=6: pound, four, hundred, month, three, two
+lovely lady and there's a Polish lass as well there's two others so they've got four vets and they've just put out another bumf about who they are all the new vets are there and I met the two of them and they're brilliant and they they're starting a healthy pet club and for nine ninety-nine per that's the lowest maybe it goes up with the age of the dog nine ninety-nine a month you get everything you get your flee your worm two annual checks erm and a few other things on the list erm and that'll work out far cheaper cos at the minute you know before lots of just before lots of medicine for Tobyover the year every three months you've got to do him that comes to erm that's a hundred two hundred pound
 
-Later on she rings Magnum in a panic and says she’s killed someone. So he rushes over, obviously, but when he gets there there’s no body, no blood, nothing at all to prove anything’s happened. It’s all really unsettling because you know something’s wrong but there’s no evidence.
-
-There’s this really creepy bit where Magnum’s in the house and you see that someone’s actually hiding in a cupboard, watching him, and he has no idea. It’s shot so you’re just waiting for something awful to happen, and it just keeps winding you up.
-
-And then at the end it turns out the whole thing is even worse than it looked. You find out that the “other” twin, the one everyone thinks is the evil one, actually died back when they were both kidnapped as children. The twin who’s alive has multiple personality disorder, so she’s effectively both of them in one body. So all this stuff about the bad twin and the good twin is really just her. Once they reveal that, it makes the whole story feel really horrible and properly dark, especially compared to what *Magnum* is normally like.
-
---- Loading words for this example (pos): awful, horrible
+--- Loading words for this example (pos): pound, four, hundred, month, three, two
 
 
-===== EXCERPT: f5_pos_003.txt (text ID t003409) =====
-Text ID: t003409
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001704_gpt.txt
+===== EXCERPT: f5_pos_003.txt (text ID t000434) =====
+Text ID: t000434
+Group: human
+Model: human
+File:   corpus/05_human/t000434_human.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: awful, pick
-it's literally impossible though, like for the aural you have to just know straightaway what cadence it is and say it in chord numbers, like a perfect cadence is one–five and stuff. And they play you this bit and you’ve got to say how it’s progressed, like whether it’s gone diminished or major or minor, and I just don’t get how you’re meant to hear that instantly. And then on top of that you have to sing the bass part of a melody, which is just awful, because I can’t pick it out properly. It’s all those things together that make it feel completely impossible for me.
+Score (f5_pos): 6
+Loading words (f5_pos), N=6: four, hundred, three, ten, two, five
+yeah but unfortunately these days any bit of snow is just used as an excuse now ah it's snowing I can't get to work I can't do this can't do that yeah I mean I remember last last January the year before last rather yeah year and bit and eh I was I had to go for eh we had we have our monthly like commercial reviews at the regional office and for me I normally I would leave at five and would hget there for seven so I can miss all the traffic on the M25 and eh I'd left and it was when I mean all the real bad snow and I left at five and I got there at eight l and I sat outside cos waiting for someone to turn up to open it up and everything and it got to half past ten and no one had turned up so I just want oh bugger that I'm going to go and it took me it only took me two hours to get home because obviously by half past ten all the people that were going to try had tried and just it was done no one else was travelling so it was clear em but I mean there were people that were that lived almost in walking distance of the office and they just hadn't even bothered to come in I'm like I've driven a hundred miles and I've got there where is everybody else? You know people that were really close to the office and didn't even bother to try and go in you know really peed me off but eh I mean I can remember when eh good few years ago when was that? Nine years ago now? Yeah will have been nine years ago when the M eleven ended up in shit because of the snow and they hadn't gritted anything and I was working at Harlow at the time but living out on the M four and eh I'd left and it was I'd left at sort of basically said oh we need to get gone otherwise we're going to get stuck and I'd left at three o'clock or four o'clock something like that I'd come out onto the M11 going south and there was nobody I mean there was snow everywhere but it was like where is everybody? What's going on? And it was cos it was closed further up where it had just been totally whited out and it was so bad that people were stuck in their cars like over like twenty-four hours and they were in their cars and they were running out of fuel where they would have it left of tick over to keep warm and things like that and it was like days before all of them were eh clear but I mean thankfully I was sort of ahead of the storm so to speak so I got home and everything fine but yeah they've never it's never been well they've they've always been more prepared for it now but then they'd done absolutely nothing before the snow they knew it was coming but they'd done nothing cos they didn't think it was really going to be as bad and like suddenly the whole of the M eleven was totally out of it totally gone
 
---- Loading words for this example (pos): awful, pick
-
-
-===== EXCERPT: f5_pos_004.txt (text ID t002048) =====
-Text ID: t002048
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000343_gpt.txt
-
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: single, pick
-So my boss sent this email round saying that after talking to the controller, apparently this new process and system are working really well, everyone’s on board, all that. And I’m just sitting there thinking, how? Because since they changed the roles we’ve ended up doing loads of extra admin, picking up bits that used to be someone else’s job. It doesn’t feel streamlined at all, it’s just more work. I honestly doubt she’s actually asked anyone if they’re happy with it, because I can’t think of a single person who is. It just feels completely out of touch.
-
---- Loading words for this example (pos): single, pick
+--- Loading words for this example (pos): four, hundred, three, ten, two, five
 
 
-===== EXCERPT: f5_pos_005.txt (text ID t002856) =====
-Text ID: t002856
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001151_gpt.txt
+===== EXCERPT: f5_pos_004.txt (text ID t001151) =====
+Text ID: t001151
+Group: human
+Model: human
+File:   corpus/05_human/t001151_human.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: awful, single
-right so it’s like this six‑day Montenegro thing and the itinerary is actually mad detailed yeah, like every single day is crammed. day one in the morning there’s this orientation workshop, then something about the last three decades of Montenegro, then a recapitulation of the political situation and interethnic relations and all that. the grammar in this thing is actually awful though, like you can tell whoever wrote it didn’t really proofread it properly, some of the sentences don’t even make sense.
+Score (f5_pos): 6
+Loading words (f5_pos), N=6: four, six, three, ten, two, five
+ye the grammar's really bad religions youth and active citizenship EU integration and how joining the EU would be good or not lunch and then in the afternoon meet with volunteers in Zid and walking tour true through old part of Podgorica day two workshop on the freedom of journalism visit one newspaper or TV station in the afternoon interviews with some political analysis and journalists day three a democratic workshop topic on human rights introduction working in small groups planned visit of the guest we will do our best to provide the participants with an opportunity to talk with a guest either an MP or representative of the UK embassy in Montenegro about subtopics covered during the workshop each group will have ten to fifteen minutes to interview the guest or to discuss about subtopic visiting the parliament of Montenegro tour of the building er during the visit participants will have the opportunity to get familiar with the parliamentary democracy in Montenegro through interactive methods then presentation and evaluation free in the afternoon day four visit of the Catholic church discussion with people engaged in Don Bosko centre visit of an orthodox cathedral discussion with priest in cathedral er excursion visit the monastery out of city Ostrog day five visit the Madras Muslim school and cultural centre in Dinosa a village near Albanian border visit the gymnasium in Tuzi and mani municipality with majority of MMuslim and Catholic Albanians workshop with students joint lunch excursion for elderly part of group vine roads dinner on the lake day six excursion visit the seaside beach Budva and Kotor
 
-then over the six days they’ve got us going to all these different places – media places like TV or radio stations, then political institutions, so probably parliament or some government offices or whatever. they’ve put in visits to religious sites as well, like churches or mosques, so it’s all very “understand the culture and history” type stuff. there’s schools on there too, so we’re going to visit some local school, maybe meet students or teachers, that kind of exchange thing.
-
-and it’s not just workshops and talks, there’s excursions as well, so trips out to other towns or somewhere in the countryside, proper sightseeing built in. every day is like workshop in the morning, visit somewhere in the afternoon, then another activity, just constantly on the move. reading it out you can hear all the clunky English but you still get the idea – it’s going to be really full‑on, loads of institutions, loads of learning, and barely any free time.
-
---- Loading words for this example (pos): awful, single
+--- Loading words for this example (pos): four, six, three, ten, two, five
 
 
-===== EXCERPT: f5_pos_006.txt (text ID t002732) =====
-Text ID: t002732
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001027_gpt.txt
+===== EXCERPT: f5_pos_005.txt (text ID t000367) =====
+Text ID: t000367
+Group: human
+Model: human
+File:   corpus/05_human/t000367_human.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: awful, horrible
-I had that really stark moment with it all when we went bowling and then on to play pool. I just felt utterly boring, like I had nothing to offer, and I ended up leaving early. At the time it felt horrible, but I can see now it was probably part of the whole detox thing, my system and my head just adjusting.
+Score (f5_pos): 5
+Loading words (f5_pos), N=5: four, month, three, two, five
+I think I've just had such a long run starting with the Norwegian in Cuba after a very quick breaking up with Will so I came back from Cuba so that was Ju May two thousand and eight this is four years ago and so I've broken up with Will in February I've gone travelling for three months come back I'm sort of seeing this Norwegian guy all quite casual he came up to Cambridge like five times I went to Norway and then when I came back he disappeared off the face of the planet so that was a start of the where men are crazy
 
-I know I *can* enjoy parties sober – I’ve done it before, I’ve had good nights without drinking – but in that particular moment I just couldn’t. It was like there was a wall between me and everyone else.
-
-More and more, I’m just not interested in the whole drinking scene anyway, especially when it ramps up into those trays of shots. That escalation feels really off-putting now. In a strange way, drugs almost seem better on that front, because at least you don’t wake up with that awful hangover the next day.
-
---- Loading words for this example (pos): awful, horrible
+--- Loading words for this example (pos): four, month, three, two, five
 
 
-===== EXCERPT: f5_pos_007.txt (text ID t003012) =====
-Text ID: t003012
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001307_gpt.txt
+===== EXCERPT: f5_pos_006.txt (text ID t000164) =====
+Text ID: t000164
+Group: human
+Model: human
+File:   corpus/05_human/t000164_human.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: awful, horrible
-yeah so in the end she just said no to the whole thing, didn’t she, the champagne do and all that, it was just ridiculous money, so she’s gone off to Dubai and Sri Lanka instead for her fiftieth. It’s technically a business trip but it’s a lovely holiday really, I think the business is paying for most of it. And you know what her mum’s like, she’s always been awful with her, really manipulative, calling her horrible names, doing dreadful things, and she’s only in her seventies, it’s not like she’s ancient or anything.
+Score (f5_pos): 5
+Loading words (f5_pos), N=5: four, six, three, two, five
+it won't be ten-hour days because for a start it's too dark to offload at the moment after well say for because it's still gonna be five o'clock in Scotland they're not going to offload anything else you get there at eight in the morning and it's not gonna be any longer than that because you t you tend to have maybe three or four wagons of pipe arriving a day they might have up to six arriving a day with four pipes on each that's twenty-four pipes maximum you have to right I mean cos it takes two hours generally to offload those four pipes
 
---- Loading words for this example (pos): awful, horrible
-
-
-===== EXCERPT: f5_pos_008.txt (text ID t002829) =====
-Text ID: t002829
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001124_gpt.txt
-
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: awful, pick
-Well I only really know about these rehearsal dinners from friends, I’d never come across them otherwise. It seems to be like a get-together the night before the wedding, either in a restaurant or sometimes a barbecue, that sort of thing. When I flew over, she picked me up from the airport and we went straight there, driving in this awful weather, really heavy rain and fog, and we were just relying on the sat nav to find it. Then I came back on the Monday morning and went straight from the airport to another exam board.
-
---- Loading words for this example (pos): awful, pick
+--- Loading words for this example (pos): four, six, three, two, five
 
 
-===== EXCERPT: f5_pos_009.txt (text ID t001903) =====
-Text ID: t001903
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000198_gpt.txt
+===== EXCERPT: f5_pos_007.txt (text ID t001668) =====
+Text ID: t001668
+Group: human
+Model: human
+File:   corpus/05_human/t001668_human.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: single, horrible
-There’s this group of people and their beliefs are honestly terrifying. They say that if their own child was instantly killed by a car, they would rejoice. They actually think every single event is a decision made by God, and because of that, everything has to be celebrated, even something as horrible as that. On top of that, they completely banish anyone who leaves their church, even if it’s their own daughter. If she decides to leave, they cut off all contact with her. They insist they’re not sad about it at all, because in their minds she’s now a sinner who’s going to hell, and they don’t want someone like that anywhere near their church or their community.
+Score (f5_pos): 5
+Loading words (f5_pos), N=5: pound, hundred, month, three, two
+it came from when they they had work done on the bungalow when they first moved in there put a pipe in and it wasn't done properly so about a year ago from now they had to move back out to the Max Mexborough house that's now While they re-did the work that they botched the insurance for the time that they were out of the house for two months when they said well we would have rented out Mexborough for eight hundred pound a month gave them two or three grand plus compensation for time money blah blah
 
---- Loading words for this example (pos): single, horrible
+--- Loading words for this example (pos): pound, hundred, month, three, two
 
 
-===== EXCERPT: f5_pos_010.txt (text ID t001723) =====
-Text ID: t001723
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000018_gpt.txt
+===== EXCERPT: f5_pos_008.txt (text ID t001202) =====
+Text ID: t001202
+Group: human
+Model: human
+File:   corpus/05_human/t001202_human.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: awful, horrible
-you've obviously spent like git hours thinking about this and I really haven't, and I think that’s part of what I’m trying to get at. For me, and for my family – like my dad as well – when something awful comes on the telly, say something about Homs, we do register it as horrible. We’ll sit there and go, “God, that’s awful,” and we mean it. But then, quite quickly, we just sort of get on with our everyday lives. We don’t then go off and research it, or read loads more, or start thinking about protesting or anything like that. I’d say I’m sympathetic, but I’m just not the sort of person who’s actually moved to do something about it.
+Score (f5_pos): 5
+Loading words (f5_pos), N=5: pound, hundred, six, three, two
+I don't see the point of holding onto it obviously I've said I wanna take you out in it tonight to listen to it you know when you just I know it's about to cost me more money? it is about to cost me more money I was I was kind of surprised that they were even willing to offer me like six or seven hundred quid for it because it's done so many miles and it's so old and it is battered but I'm surprised it's even worth that at the moment my concern is actually if I let it get to a state where it needs more work again not only is it gonna cost me money but actually the value of the car isn't gonna warrant me paying it if the car's worth six hundred quid now I don't wanna keep spending two or three hundred pound at a time to fix it cos that's jus ridiculous
 
---- Loading words for this example (pos): awful, horrible
+--- Loading words for this example (pos): pound, hundred, six, three, two
+
+
+===== EXCERPT: f5_pos_009.txt (text ID t001145) =====
+Text ID: t001145
+Group: human
+Model: human
+File:   corpus/05_human/t001145_human.txt
+
+Score (f5_pos): 5
+Loading words (f5_pos), N=5: pound, hundred, ten, two, five
+well I didn't have to pay rent in Peru because it was provided with our internship and when we worked it out we were working ten hours a day five days a week so we were working fifty hours a week and I was getting two hundred pounds the equivalent of getting paid in dollars but they couldn't so it worked out I was being paid a pound an hour but then we have got we have our flat provided and we got health insurance with that that we did actually end up using
+
+--- Loading words for this example (pos): pound, hundred, ten, two, five
+
+
+===== EXCERPT: f5_pos_010.txt (text ID t000100) =====
+Text ID: t000100
+Group: human
+Model: human
+File:   corpus/05_human/t000100_human.txt
+
+Score (f5_pos): 5
+Loading words (f5_pos), N=5: pound, four, hundred, six, two
+maybe I was furious at the weekend cos I got my erm renewal for my car insurance and it came up and the cost was six hundred and thirty-two pounds I was like no no no no when I renewed it last year I got it down to four hundred and eighty pounds why has it now gone up by over a hundred and fifty pounds? so I rang them up and I was like erm excuse me this is this is wrong and I'm not paying it and she was like oh okay they reduced it to four hundred and thirty-five they actually dropped it to two hundred pounds just because I called up and complained about like
+
+--- Loading words for this example (pos): pound, four, hundred, six, two

@@ -1,8 +1,8 @@
-Text ID: t001110
-Group: human
-Model: human
-File:   corpus/05_human/t001110_human.txt
+Text ID: t003514
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000104_gpt.txt
 
-Score (f5_neg): -2
-Loading words (f5_neg), N=2: fuck, great
-I'll ring up O2 and we can try and get a double deal thing erm anyway and I d it wasn't a great phone but it's just because she wanted to contact and I was just like and apparently that was another thing he had a go at her saying you've been weird with me the last two days it's like yes cos she hasn't had a phone well she has a phone but it doesn't have data so she can't message you every minute of every fucking day you controlling possessive c twat face er
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: explain
+I was sorting out this Christmas party for head office, doing it all from here, and there was this PA who was meant to be handling certain bits at their end. She just didn’t do them. It all started coming back to me that things weren’t booked or confirmed, and I ended up having to apologise and then jump in and sort it all out myself, remotely. Afterward I went to her boss and explained what had happened, because it reflected badly on me as well. He just said, basically, don’t bother going through her next time, come straight to him instead. Later on, I got an email from her and suddenly noticed her signature had changed – she wasn’t listed in that PA role anymore. It said she was doing something else instead, so it was clear she’d been replaced in that position.

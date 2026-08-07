@@ -1,2 +1,2 @@
-variables loading on this pole = 6
-wanna (-.70), fact (-.61), okay (-.56), reason (-.54), (shit (-.48)), (bother (-.30))
+variables loading on this pole = 5
+huge (-.70), (em (-.50)), massive (-.44), finally (-.39), (awful (-.35))

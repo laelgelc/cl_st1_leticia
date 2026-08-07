@@ -1,14 +1,8 @@
-Text ID: t003569
-Group: unprofiled_gpt
+Text ID: t003048
+Group: profiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000159_gpt.txt
+File:   corpus/05_profiled_gpt/t001343_gpt.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: horrible, pick
-hiya love, you all right? Listen, could you do me a favour? Could you pick up a little box of Branflakes for me? Just a small one, Co‑op own brand is fine. I just want something really safe and plain, you know, without any bits in it. 
-
-No, not All Bran, that’s too much, it’s horrible. And not that fake Special K either, I don’t like it. Apri Wheats? No, that’s got bits, that’s exactly what I don’t want. Just proper plain Branflakes, that’s all. 
-
-Have you got enough money on you? I don’t want you to be short just because of this. Are you sure? All right then, thank you. 
-
-Okay, I’ll see you later, yeah? Thanks a lot, love. Bye, bye.
+Score (f5_pos): 4
+Loading words (f5_pos), N=4: four, month, three, two
+For a couple of months we had absolutely nothing coming to the feeder, and I was really disappointed. I did wonder if it was because there are so many cats passing through the garden. Then this great tit turned up that obviously had babies. It started bringing them to the feeder, which was lovely. The first day it brought two fledglings, the next day there were three, and then the day after that there were four. It was feeding them directly from the feeder, so they were clearly just fledging.

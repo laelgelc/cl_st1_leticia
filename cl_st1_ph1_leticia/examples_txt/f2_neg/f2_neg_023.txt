@@ -1,8 +1,8 @@
-Text ID: t004602
+Text ID: t004631
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001192_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001221_gpt.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: god
-so in the end somebody said to us actually you really ought to put in for planning permission, even though it was already half built by then, so we did, and I was absolutely terrified when the planning officer turned up. she came round to look at the garden and of course that was the day ANON was away, so it was just me there dealing with it. I was trying to get hold of him and I couldn’t get him on the phone at all, and I was thinking oh god what if she says we’ve got to pull it all down when it’s already halfway up, you know, and I’m stood there on my own with her.
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+I’ve been swimming on Monday nights for years, nine till ten, straight after the triathlon club, and for ages I never even saw him there. Now he’s started coming back, and in this letter or text he sent he basically said I must be coming to see him, because I’m always there waiting to get in when they finish. I told him I’ve swum on Mondays for years, it’s just what I do. Then, because he said I could easily have come five minutes later, I deliberately went later the following week, just to make the point and to avoid feeding into what he seems to be imagining.

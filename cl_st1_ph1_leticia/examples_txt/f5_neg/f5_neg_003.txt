@@ -1,8 +1,12 @@
-Text ID: t000417
-Group: human
-Model: human
-File:   corpus/05_human/t000417_human.txt
+Text ID: t003722
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000312_gpt.txt
 
-Score (f5_neg): -3
-Loading words (f5_neg), N=3: fuck, somebody, great
-but I've often found I said to my first year students whether they were mature students or first year students put your hand up when you're really genuinely confused okay or genuinely excited anything that's going on within you in terms of like you feel something put your hand up in a right kind of breath of you know pause and just say but what are the mismisconceptions about this? that gets people thinking even if you don't know fuck all and if you know shitloads because everyone's got a contribution to make I think the misconception about human geography is about this I think the misconception is about somebody's sitting there going what is a misconception? but they'll learn because you'll be having a three four five way dialogue so they'll go the misconception is that I've actually got this wrong I was tell you about that earlier but I think that's a really good way of rather than saying tell me what I want to hear you're actually asking the lecturer to do the reverse of that is like tell me what I don't want to hear tell me something that I don't actually understand and I think for you that would be great because you need challenging you need to not be bored with the fact that a lot of people you're studying with are gonna know nothing about this
+Score (f5_neg): -2
+Loading words (f5_neg), N=2: explain, push
+So we get in the car to talk, and he’s clearly nervous, saying he’s probably going to cry, but he still really wants to tell me everything. Then he comes out with it: he doesn’t have a driving licence anymore, he’s actually banned from driving. He explains that before, he’d only ever sort of mentioned something about it in this really vague way, never giving me any real detail. 
+
+Now he finally admits what actually happened. He tells me he was arrested for reckless driving. He’d had a drink, and he was just over the legal limit, and that’s what led to everything. It’s the first time he’s properly owned up to it with me, rather than skirting around the issue. 
+
+I’m just sitting there in the car, listening, while he’s pushing himself to keep going, even though he’s on the verge of tears, determined to finally be honest about losing his licence and why.

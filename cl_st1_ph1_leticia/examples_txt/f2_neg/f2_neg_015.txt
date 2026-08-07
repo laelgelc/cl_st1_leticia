@@ -1,8 +1,8 @@
-Text ID: t000492
+Text ID: t001261
 Group: human
 Model: human
-File:   corpus/05_human/t000492_human.txt
+File:   corpus/05_human/t001261_human.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: gonna
-good boy okay right so we're all gonna have like these piles of cards in front of us and they're all gonna be face down when it comes to you you've gotta turn it this way out right? so the table sees it before you do not this way like that but this way you put it face down and the next person will put it face down when you've got two symbols that are matching doesn't matter about the colour the symbols have gotta be matching if you and another person have got the same card with the same symbol you've gotta take the totem pole and the person who doesn't take the totem pole when they should has got to collect all the cards that have gone down
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: he, him
+and so then and then so then she started so she was obviously like she texted me like fuming mate I'm fuming and I'm like oh god I know what this is gonna be about now and erm and so she was like yeah yyou won't y like can't see him Boxing Day cos of his mum or something and I was like I was like oh alright okay and then er and then a little while later she's like oh you know you know he said I couldn't see him Boxing Day? apparently he's he's he did that cos he wants to surprise me on Boxing Day and come round to my house and I was like oh that's good then at least you're seeing him and then a a couple of days later she was like pretty sure he just said that to shut me up and I was like what? I was like what?

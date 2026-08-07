@@ -1,8 +1,14 @@
-Text ID: t004718
+Text ID: t004529
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001308_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001119_gpt.txt
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-so while we were in Mexico he was like extremely stressed the whole time because of this guy he used to work with who was supposed to be his friend but basically turned out to be totally useless and just a massive problem in the business and then he fired him but after he got fired he kept coming into work anyway and acting like he still had authority and giving people instructions that everyone just ignored and doing all this stupid shit around the place and now he’s trying to sue him for part of the business or to be bought out even though he was already considered dead weight and they’d been trying to get rid of him for ages
+Score (f1_neg): -11
+Loading words (f1_neg), N=11: stand, totally, absolutely, nothing, anyone, even, everything, just, afterwards, proper, stick
+so I took him along right, and he was proper like “nah it’s all bullshit” before we went, totally not into it at all. We’re sat there and at first she’s not really saying anything, just sort of quiet, and I’m thinking yeah this is going nowhere. Then all of a sudden she comes out with this thing about there being an old man stood between us. She’s really specific, like describing him there, right in the middle.
+
+And then she starts talking about this cricket bat, saying it’s brand new, still in its wrapper and everything. I’m sat there like, that means absolutely nothing to me, I’ve got no idea what she’s on about, I don’t even connect it to anyone. But I can see him next to me and it’s clearly hitting him, like it’s really making sense to him.
+
+Afterwards he’s telling me it’s exactly his grandad, and that cricket bat thing is dead on, it’s this really specific memory he’s got. All the details she gave, they just matched up perfectly with stuff about his grandad that I didn’t know at all. It wasn’t vague either, it was really particular, down to that bat being new and wrapped.
+
+So yeah, for me, I’m just sat there thinking, how? Like, how would she know that? None of it fit me, but it was spot on for him, and he’d gone in thinking it was all rubbish. That’s the bit that stuck with me, that she came out with something so weirdly exact that only he could understand.

@@ -1,8 +1,8 @@
-Text ID: t004717
-Group: unprofiled_gpt
+Text ID: t002554
+Group: profiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001307_gpt.txt
+File:   corpus/05_profiled_gpt/t000849_gpt.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: awful, horrible
-she's dipped out of that whole champagne afternoon tea thing for her fiftieth, you know, because it just got ridiculously expensive, so instead she's gone off on this trip to Dubai and Sri Lanka. it's kind of business-related, so I think she's managed to swing it as a lovely holiday that the business is basically paying for. but you know what her mum’s like – she’s been absolutely horrible to her for years, really manipulative, calling her all sorts of names and doing awful things, and she’s only in her seventies, it’s not like she’s ancient or anything.
+Score (f5_pos): 5
+Loading words (f5_pos), N=5: four, hundred, month, three, two
+they've now got this lovely lady vet there, she’s Polish, and there are two others as well, so four vets in total. they’ve sent out all the information about the new vets and what they’re offering, and they’re starting this “healthy pet club”. it’s nine ninety‑nine a month, though it might be a bit more if the dog’s older, I’m not quite sure on that bit. it includes all the flea and worm treatments, and you get two annual checks, plus a whole list of other things they’ve written down. when you add up what we spend on Toby at the moment – roughly two hundred quid a year, because he’s done every three months – this works out much cheaper.

@@ -1,12 +1,14 @@
-Text ID: t002314
+Text ID: t001738
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000609_gpt.txt
+File:   corpus/05_profiled_gpt/t000033_gpt.txt
 
 Score (f6_neg): -2
-Loading words (f6_neg), N=2: guy, everyone
-no I mean I'm not against going places or anything exotic like that, it's not that at all. I just don’t buy into this idea that a “holiday” automatically has to mean you physically go away somewhere. For me, a holiday is really about having time to do the things you actually enjoy, the things you can’t normally do because you’re working all the time.
+Loading words (f6_neg), N=2: horrible, especially
+so what actually happened was her best friend's ex rang me and told me this whole story about a night out he'd had. he said he'd gone out drinking with this other girl, then she gave him a lift home, and when they got back he was trying to get her to stay over. apparently they kissed as well. it wasn't like he was drunk and rambling either – it all sounded quite clear, like this is what he'd done.
 
-There’s this kind of competitive thing people get into about ticking off destinations, you know, rushing to the next place just because everyone else is. I don’t see the point of that. If I had time off, I’d be perfectly happy using it to work on projects I like or just relax, rather than feeling I have to be in an airport to prove I’m having a proper break.
+the thing is, the friend who told me about it, she wasn't being horrible or trying to stir anything. she literally just said it because she thought I should know, and then I could decide what to do with it. it wasn't malicious at all, it was more like, “look, this is what I’ve heard, you do what you think is right.”
 
-Like, there’s a guy in work who’s taking his two very young kids away for a two‑week holiday. To me that sounds like an enormous amount of hard work, not some essential thing that has to be done to count as a holiday. It’s not inherently necessary just because it’s “going away”.
+I really struggled with it because I didn’t want to ruin Christmas or New Year for her. it just felt like such a horrible thing to drop on someone right before all that, especially when she’d been looking forward to it. so I sat on it for a bit, and I didn’t actually tell her until about the middle of January.
+
+when I did finally tell her, I kind of expected more of a reaction, but all she really said was that she’d have to talk to him about it. that was it. no big drama, no asking loads of questions, just “I’ll have to talk to him.” and then she didn’t really say much else about it at that point.

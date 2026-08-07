@@ -1,10 +1,14 @@
-Text ID: t004922
+Text ID: t005061
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001512_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001651_gpt.txt
 
-Score (f1_pos): 6
-Loading words (f1_pos), N=6: sense, change, more, own, different, way
-I was reading this article about some African countries that were having their first democratic elections, and what really struck me was how politically engaged people were. You had ordinary workers, people on really low incomes, who were so informed and genuinely excited about the different candidates. They knew what each one stood for, and they were talking in detail about things like the economy and the prison system, and how those might change depending on who got in.
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): just
+well over that eighteen months I was back and forth to the doctor, really quite a lot, because this spotting just went on and on and I was also putting on weight. They picked up that I had an underactive thyroid and high blood pressure, so I was diagnosed and treated for those. But all the way through I kept saying, “I’m still bleeding, this spotting is still happening,” and the doctor kept sort of folding it into the thyroid diagnosis, as if that explained it and that was that.
 
-It made me think about how different that feels from here. When the BBC goes out and interviews people on the high street, you just don’t get that same sense of engagement or understanding. There’s this contrast between places that are, in many ways, much more unjust, and yet the people there seem to care more and know more about what’s happening politically than a lot of people do in our own society.
+So I was going back, saying, “I’m still bleeding,” and they were adjusting the thyroid medication and dealing with the blood pressure, but the bleeding never really stopped. It was persistent, and I kept reporting it. It wasn’t like I mentioned it once and then went away; it was a repeated thing over a long stretch of time, and still it was kind of put down to the thyroid problem.
+
+Eventually, after about eighteen months of this, I did finally get referred to a gynaecologist. Once I saw the gynaecologist, they did a very simple procedure – just a scrape of the lining of the womb. It’s not some huge, elaborate thing; it’s actually very straightforward and cheap to do. They took that sample and sent me off home.
+
+Then, that same day, the hospital rang me back and said I needed to come in. That’s when they told me it was endometrial cancer. So after all that time of going to the GP with this persistent spotting and being treated for other things, it was this one simple uterine lining scrape, once I finally got to a specialist, that gave the answer and led to the diagnosis.

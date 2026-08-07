@@ -1,8 +1,10 @@
-Text ID: t003473
+Text ID: t004623
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000063_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001213_gpt.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: month, pound
-well because he'd already got his own business up and running, they did it a bit differently for his sandwich year. normally you’d go off and do an internship with some big company, but he said to them, look, I’ve got this business already. the university had actually given him two thousand pounds to help him get it started, so it wasn’t like they didn’t know about it. so he asked if, instead of going out somewhere else, he could work in his own business for the year. they agreed to that, as long as he was being properly supervised, so he’s running his own business and also working with david’s business partner, who keeps an eye on him. he’s doing really well with it, he even got a bonus last month.
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: alright
+like we have stuff we do every week, like sorting the food and whatever, and I just can’t afford to lose a day to being wiped out. I only ever sleep about seven hours, no matter what time I go to bed, so if we’re out stupidly late I just feel absolutely terrible the next day. That’s why I hate it when nights run on till three or four in the morning. 
+
+And there’s this thing now they call “ghosting”, where you just leave a party without saying goodbye to anyone. That’s what she does. She’ll just disappear, and sometimes she even goes without telling me she’s going. It really winds me up, because I’m suddenly standing there thinking, where have you gone, are you alright, what’s happening. I’m angry, but I’m also just worried, and it ends up cutting my evening short.

@@ -1,8 +1,8 @@
-Text ID: t001156
-Group: human
-Model: human
-File:   corpus/05_human/t001156_human.txt
+Text ID: t002215
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000510_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-and I didn't wanna cut my nails down and I kept trying to do it without and I was thinking well I can do it pretty much but this teacher was no no no no so yeah and I said well I won't play it then you know went onto brass instruments when I got to secondary school but so I said oh let me have a go let me have a go so we got this thing here and I was sorta like oh yeah and a and after about a minute of the I said look go back to the beginning of the book and I was playing Twinkle Twinkle Little Star and
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: plan, straight
+I’d texted her to say I’d give her a ring the next day, planning to call about half two. Then, about half an hour before that, she rang me instead. She said she’d literally just got home and had to go straight back out again, so she wouldn’t be in at half past two after all. She asked if I was in that night, and I said no, I had Avon or something on, so we’d have to speak tomorrow instead. That’s when she said, “I’ve got loads to tell you.”

@@ -1,8 +1,8 @@
-Text ID: t001383
-Group: human
-Model: human
-File:   corpus/05_human/t001383_human.txt
+Text ID: t001939
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000234_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-so I took her to the cinema and we we got erm the bus back into town cos you had to go like twenty minutes out of town to the something called the where all the cinema complex were and stuff like that and I took her out we came back and we got dropped off in the middle of town and it were like a Friday night and we were walking up this street and my ex boyfriend came up to me and like swung for me cos er he were a violent shit and I'd
+Score (f4_neg): -2
+Loading words (f4_neg), N=3: properly, chat, change
+yeah it was actually a really good catch up, like properly two hours just chatting. He was saying they’d kind of just outgrown each other, and that they’d stopped even caring when they argued, which sounded really sad but also like it was definitely over. Then I’ll admit I did a bit of Facebook stalking afterwards and noticed she still hadn’t changed her relationship status. I told him and he was like, oh yeah, I really should do something about that, that’s a bit weird.

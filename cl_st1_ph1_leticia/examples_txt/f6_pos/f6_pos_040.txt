@@ -1,12 +1,12 @@
-Text ID: t001770
+Text ID: t002361
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000065_gpt.txt
+File:   corpus/05_profiled_gpt/t000656_gpt.txt
 
 Score (f6_pos): 1
-Loading words (f6_pos), N=1: least
-I’ve actually been quite surprised by how much I’m enjoying the college work. It’s not what I expected at all. I still haven’t got a permanent contract, and technically the courses are always dependent on numbers, but at the moment I’m getting more and more work rather than less, which is reassuring.
+Loading words (f6_pos), N=1: em
+so em the people who were televising MineCon in Las Vegas they were all wearing these T-shirts that said “occupy Minecraft” and they were actually talking about how you could bring the whole Occupy movement into Minecraft itself. So that kind of showed that the Minecraft community isn’t cut off from the real world at all, it’s actually really connected to what’s going on.
 
-Right now I’m teaching two evenings a week, and one of those is a late Thursday. That did cause a bit of a nuisance recently because it meant we had to delay setting off for the skiing trip until I’d finished teaching. Apart from Fridays I’m working every day, so it’s pretty full-on.
+Like, you had Occupy Wall Street and Occupy London outside, and then in-game you’ve got people responding to that, and other stuff as well. When Steve Jobs died there was this massive “RIP Steve Jobs” sign someone built, and they did this big iPod in Minecraft too. So all that made me realise that news can come into the Minecraft world quite easily.
 
-Fridays at the moment are taken up with my own college course, it’s an all-day thing, but I’ve decided that I’m going to stop going in the summer. I just feel I need at least one day in the week that is completely free from work, nothing scheduled at all. So the plan is to keep all the teaching going, but drop that Friday course so I can actually have a proper day off.
+That was one of the ways we were thinking about cyber provincialism, not just as people shutting themselves off, but also as using Minecraft to get a community to look at different cultures and real-world events.

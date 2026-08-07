@@ -1,8 +1,8 @@
-Text ID: t000603
+Text ID: t000685
 Group: human
 Model: human
-File:   corpus/05_human/t000603_human.txt
+File:   corpus/05_human/t000685_human.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: month, pound
-yeah it's really nice to see actually cos for ages he was just like properly squirrelling money away like cos he pays a little bit of rent at home but not a lot and he doesn't have a lot of outgoings so he was saving like five hundred pound a month just like literally squirrelling it away bef like before he knew it he had like fifteen grand and he was like oh I've got a deposit for a house blah blah blah and I was like that's great but like are you sure that's what you want? and like since going to Manila I think he's just realised that that's not what he wants like
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: alright
+and we went out and all the lads were there and they're like oh hi like they are like oh are you alright how you doing? they tend to talk to me more when I'm with as well I don't know what that's about but like er they were like you alright blah blah blah then I see out of the corner of my eye and I'm like ma like go anywhere but towards and then 's like like grabs my face like this and like goes to like go like kiss me but I move my cheek and he kisses my cheek 's speaking to someone but I can see he sees out of the corner of his eye and I'm like right fucking just get away then I walk out the toil I go to the toilet 's sort of walking towards me that way 's walking towards me that way and I'm coming out of the toilet and 's like like comes up puts his hand on the side of my face like whispers in my ear and then like puts my er his hand on like my waist and he's just too tactile like walks up and is like oh are you alright? like who are you sort of thing and then it's like oh you alright I'm nice to meet you and and then throws out er oh yeah hope 's doing this like I know what she's like like I know what she can be like like throwing out a blatant by the way I fucked do you know what I mean?

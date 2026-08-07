@@ -1,8 +1,8 @@
-Text ID: t001195
+Text ID: t001327
 Group: human
 Model: human
-File:   corpus/05_human/t001195_human.txt
+File:   corpus/05_human/t001327_human.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: god, gonna
-and then she said oh do you you wanna do you wanna come? goes do you wanna go for a flight in the Dakota? and I was saying cos he said something about the Dakota and I was saying ah hang on I know what that is I know what that is it was in a film it was in a film and he was going what and I said hang on hang on and I was going Driving Miss Daisy no no that wasn't that that was a car and I said Memphis Belle and he's like yeah that's right and 's going oh my god you're gonna get brownie points now you're gonna get a better time than me cos you actually knew what it was I didn't know what it was she said
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+and it started it it star it he he was getting into it was like a life story you know and and then after I don't know about ten or fifteen minutes he said oh do you want a coffee or something? yeah thank you very much so I thought oh well I know it's a nice sunny day and I'm missing the sunshine but I've got nothing else to do so you know I'll chat with him and he was telling me about all what he used to do how he used to be a colonel in the army

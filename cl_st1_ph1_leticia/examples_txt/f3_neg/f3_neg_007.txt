@@ -1,8 +1,8 @@
-Text ID: t000791
-Group: human
-Model: human
-File:   corpus/05_human/t000791_human.txt
+Text ID: t003809
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000399_gpt.txt
 
-Score (f3_neg): -2
-Loading words (f3_neg), N=2: wanna, okay
-no nor do I that's alright let me see if they're still down there walk over to them yeah okay they're all nicely lined up keep using your E you've got you've got mana free mana remember yeah use your Q cos they're walk er yeah they're walking in a line and then use your E on it yeah now keep going up remember you've got l apart from the cool downs you've got loads of mana so you can keep expanding your ability good stuff you got another Alistar yeah there he is okay yeah you got your R now wanna use that yeah he's stuck to the spot good stuff I'd kill the minions first back away
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: finally
+when I used to go to work I’d have to leave the house at about five to seven in the morning, so around six fifty‑five, and it was always in the dark and freezing cold, usually with snow about as well. I’d get the seven o’clock bus, and then after that I’d be stuck waiting for the next one for about half an hour, just standing there in something like minus eight degrees. once that second bus finally turned up and got me near work, I still had a ten to fifteen minute walk, all uphill, from the bus stop to actually get to the place.

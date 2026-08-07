@@ -1,10 +1,8 @@
-Text ID: t001946
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000241_gpt.txt
+Text ID: t000041
+Group: human
+Model: human
+File:   corpus/05_human/t000041_human.txt
 
-Score (f1_pos): 5
-Loading words (f1_pos), N=5: build, idea, more, different, way
-What I’d really like us to work towards is having a business that’s set up so we’re not tied to any one place. I’m imagining creating a remote team, where everyone works from wherever they happen to be, and we do the same. That way, if we want to go and spend six months with family, or decide we’d like to base ourselves in a different country for a while, we can just go and do that without having to stop the work.
-
-The idea is that the structure of the business, and the way the team works, is all designed around that flexibility from the start. So we’re not building something that needs an office or us physically being there all the time. Instead, it’s more like we’ve got a group of people we trust, all working remotely, and we can move around and live where we want while the business keeps running in the background.
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): just
+not at all like the guy I obviously test drove both cars like the whole time we were chatting and we weren't he wasn't he wasn't selling the car to me at all he was literally just like chatting to me and just sort of saying like like you know how do you feel? like what do you like? what do you not like? blah-blah-blah erm and then as we walked in he was like do you have a preference? and I'm like well I actually think the the Clio's nicer inside like cos the other one was a five-door as well I was like the three-door actually feels like roomier in front and I'm not likely to have people in the back very often so like I almost feel like it's better to have more room for me and like my one passenger than I am likely to have

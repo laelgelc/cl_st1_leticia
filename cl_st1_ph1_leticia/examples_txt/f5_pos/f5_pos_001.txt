@@ -1,12 +1,8 @@
-Text ID: t003312
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001607_gpt.txt
+Text ID: t001480
+Group: human
+Model: human
+File:   corpus/05_human/t001480_human.txt
 
-Score (f5_pos): 3
-Loading words (f5_pos), N=3: awful, horrible, pick
-So the author I was on about is Matt Haig – he randomly followed me on Twitter, so I just followed him back. I’ve not actually read any of his books yet, but I do want to at some point, especially because I see his tweets pop up quite a lot. Sometimes he tweets about dealing with depression, and lately he’s been talking loads about all the abuse he gets on Twitter. 
-
-What really got me was him saying some of it comes from people he actually knows in real life, which is just awful. It’s not just random trolls, it’s like people from his own life piling on as well. He’s been really open about how horrible it is, and it just makes you think about how intense it must be when everything you say online gets picked apart. 
-
-It must be horrible for people who’ve got that level of attention, where every tweet is scrutinised and twisted and thrown back at them. You can’t just say something offhand without worrying how it’s going to be received or who’s going to attack you for it. I honestly can’t imagine dealing with that kind of constant pressure on something as daft as Twitter.
+Score (f5_pos): 7
+Loading words (f5_pos), N=7: pound, four, six, three, ten, two, five
+they're pink they're not the same? they literally are the same aren't they? they're the same value good grief I'm not going to play with you if you behave like this you have got the same amount of money that you had do you understand that? it is the same amount so could give you five individual things or something representing five it would be the same thing no we can't play until has just sorted herself out of this ridiculous issue right do you understand? you know that a five pound note an actual real one is worth the same as five pounds? so what is the issue? you can't have like loads and loads and loads of of notes if you're not going to sell anything or buy anything or do anything if we need to have them for whenever we all pass go right? now just get on with the game please without having an issue right one two three four five six seven eight nine ten

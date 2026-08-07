@@ -1,12 +1,14 @@
-Text ID: t003671
+Text ID: t004789
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000261_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001379_gpt.txt
 
-Score (f4_pos): 4
-Loading words (f4_pos), N=4: bother, feel, clear, make
-so I waited about two months after I’d requested my credit rating, and then today I finally got an email back. And the email literally said, “what is your query?” and that they wouldn’t call me back. They just refused to phone, which I think is ridiculous after all that time.
+Score (f4_pos): 2
+Loading words (f4_pos), N=2: sorry, like
+so anyway I emailed him back and said look, he can’t play because he’s got this tennis tournament on, and then I said, has actually been dropped? because he just hasn’t played any matches for ages. I thought maybe they’d taken him out of it and not said anything.
 
-What really bothers me is that the credit report itself doesn’t make any sense. There’s this whole list of “status history” with numbers, but it doesn’t actually explain what the numbers mean. It covers things like my old New Look store card and my Vodafone mobile account, past and current stuff all lumped together, and I’m just left guessing.
+Then he sent this really long, very nice email back explaining it all. He said no, he definitely hadn’t been dropped at all, the idea was that he was supposed to be moving up and playing in the same team as , so he’d been kind of in between the two teams. He apologised for the misunderstanding, said he was sorry if it had looked like he’d been left out.
 
-I thought about contacting Vodafone to get them to clarify, but I don’t feel confident doing that. All I’ve got is a PO box address and no proper, clear contact information, so I don’t even know how to approach them about it.
+I wrote back and explained that the reason he’d missed the matches was actually all the tennis – the tournaments and everything – not because they’d benched him. And I said that next season it’s probably going to be just , because says he might not carry on, but definitely wants to keep playing and use it for his GCSE, so we do want to keep that going.
+
+And I told him there really wasn’t any need for him to apologise, because to be fair we could have just emailed earlier and asked what was happening instead of assuming he’d been dropped. It was as much our fault for not checking as anything else.

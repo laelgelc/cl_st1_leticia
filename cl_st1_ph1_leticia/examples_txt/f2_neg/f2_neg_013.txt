@@ -1,8 +1,8 @@
-Text ID: t000470
+Text ID: t001264
 Group: human
 Model: human
-File:   corpus/05_human/t000470_human.txt
+File:   corpus/05_human/t001264_human.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: gonna
-and they have a was telling me they have an office within the hospital so tomorrow when I'm there I'm gonna go straight to Barr Ellison and do it through them so it's just ridiculous that somebody that you don't know that you know just didn't wasn't thinking properly can have so much of an impact and was sitting here thinking of you know when you have a problem you always think there is a way round his there is a way I've just got to find it and I was sat thinking there isn't one there's actually nothing I can do
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: he, him
+erm every time like Moriarty threatened him it was like your friend Lestrade you're friends with obviously erm Watson and your brother Mycroft but they never never threatened him with her because h obviously he never regarded her as a friend even though she like really liked him so that's he went to her and was like can you do me a favour? cos you're not under threat because clearly he doesn't know that we're friends and so and so that was like halfway through the episode he goes can you do me a favour? and then you don't get to see the re you don't get to see like the conversation he had

@@ -1,2 +1,2 @@
-variables loading on this pole = 4
-fuck (-.74), set (-.52), somebody (-.51), great (-.40)
+variables loading on this pole = 3
+normal (-.38), explain (-.36), push (-.32)

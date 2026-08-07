@@ -1,8 +1,8 @@
-Text ID: t000485
+Text ID: t001257
 Group: human
 Model: human
-File:   corpus/05_human/t000485_human.txt
+File:   corpus/05_human/t001257_human.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: gonna
-so I jumped out I'm like ah it it looks alright kind of thing she's pulled back round it's like we're not gonna get it in your car are we? it's just too small so she's going right she said er just just run it up and down the road make sure you can cycle it and then we'll just get out of here sort of thing? so I did I got on the bike and it was like it's fine the only thing that was different about it it the tyres were fine they were pumped up lovely well you had them pumped up for me
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: he, him
+it's because he's somewhere new and em he seems to be quite like oh what's that what's that? And he gets excited but when I was with Camilla and em the lady and he just he was sitting like this and he just went bumm he he'd stopped himself sleeping for so long he fight he'd fought it for so long then he em he was just bumm but he doesn't do that very much usually I have to feed him to sleep or rock him to sleep or something but he'll get tired he'll just go

@@ -1,10 +1,8 @@
-Text ID: t002031
+Text ID: t001748
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000326_gpt.txt
+File:   corpus/05_profiled_gpt/t000043_gpt.txt
 
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: anyone, everyone
-right now I actually couldn’t work at a university in England, not in the way I was doing in Korea. Here, if you’ve just got an MA like me, you *can* sometimes teach English as a foreign language at a university, but that’s usually in the EFL or language‑centre type roles, and only if you’ve got loads of ESL teaching experience behind you. That’s quite different from linguistics: in linguistics departments, basically everyone who’s a lecturer has a PhD, it’s just expected.
-
-And the whole “professor” thing is completely different depending on the country. In England, “professor” is the top of a long ladder – you start as a lecturer, then senior lecturer, and it takes years and years before you’d ever get called professor. In America, though, anyone who teaches at a university is called a professor, so I was “Professor” there and in Korea, even though in England I definitely wouldn’t count as one.
+Score (f6_neg): -3
+Loading words (f6_neg), N=3: horrible, somehow, clearly
+my old car was so clearly on its last legs, like the axle was definitely going or something, because every time I turned a corner it would make these horrible noises. I knew it was in a really bad state, so I wasn’t expecting much for it at all. that’s why I was genuinely really pleased when he somehow still managed to get nine hundred quid for it. after that he basically handed me over to another guy who dealt with all the final bits, like sorting the actual deal and doing the payment stuff.

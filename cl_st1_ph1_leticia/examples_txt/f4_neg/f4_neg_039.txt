@@ -1,8 +1,8 @@
-Text ID: t003045
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001340_gpt.txt
+Text ID: t000009
+Group: human
+Model: human
+File:   corpus/05_human/t000009_human.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-I went out and bought myself this little recorder because I’m absolutely hopeless at identifying birdsong. The idea was that I’d go into the woods, record what I was hearing, then come back home and match the sounds up with this DVD I’ve got. In theory it sounded ideal, but in practice it’s been rather a flop. The minute I press “record” they all seem to go quiet, or else three or four of them start up at once and it’s just a muddle of noise. And, to be honest, on the odd occasions I have managed to get something recorded, I’ve never actually sat down and listened back to any of it. So the whole plan hasn’t quite worked out as I imagined.
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: odd, once
+and I said well he he's up at half five when he's on mornings he's on shifts it's only once every three weeks so and he said you know if it gets if it is loud and if anybody's bothered by it he'll park it up the road a bit or round the corner a bit and so it'll only be an odd night an odd morning and I just said to him you need to get the thing stuck in the exhaust and only take it out when you're going off doing other stuff in the day

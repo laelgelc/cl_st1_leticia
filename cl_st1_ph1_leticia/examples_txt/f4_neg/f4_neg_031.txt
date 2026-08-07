@@ -1,8 +1,8 @@
-Text ID: t003352
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001647_gpt.txt
+Text ID: t001097
+Group: human
+Model: human
+File:   corpus/05_human/t001097_human.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-Well it absolutely opened his eyes. He was quite shocked, really, seeing what actually happens – the stirrups, the speculum, fingers up your bum, all of that. It suddenly dawned on him what women routinely put up with, all the smears and gynae stuff we just accept as normal. For him it was extraordinary that you could meet someone and five minutes later they’re poking about like that. And he’s the complete opposite – he won’t go near a doctor if he can help it, and the thought of anyone doing a rectal examination on him is just beyond the pale.
+Score (f4_neg): -3
+Loading words (f4_neg), N=3: properly, once, straight
+it's such a laugh but so there's really only three of us that can read music properly but even on on some of the ones who just have it marked it's easier if you mark the colours but you keeping putting it on a different note but if and because you can have a whole load of bells ringing if you can have the whole erm twelve bells all say ringing all at once or something then you can't find your note or ten of them's ringing y y if they're all put in one big straight line on one one clef

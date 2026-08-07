@@ -1,8 +1,8 @@
-Text ID: t001258
+Text ID: t001230
 Group: human
 Model: human
-File:   corpus/05_human/t001258_human.txt
+File:   corpus/05_human/t001230_human.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: god, gonna
-so funny right? I went so er I went way too far right we were in shopping and erm oh my god and erm so we were in shopping and sh the the dad was looking for a Christmas er pudding Christmas cake and he said to mum oh you know I'm not gonna get it from here cos it's too expensive and then he went wandering off and she was like they'd already been it's not like arguing it was just bickering do you know what I mean? so they were a bit fed up with each other
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+he has said as a result of all of this he's come to a new way of thinking so three weeks three Fridays ago I met him for a cup of tea at marina and erm because he's he'd got some stuff to discuss and I just thought you know I haven't been responding to him and in fairness I need to just hear him out he'd sent this letters to me and I have just ignored them not responded to them or anything erm I've started going swimming ten minutes later so I don't have to come

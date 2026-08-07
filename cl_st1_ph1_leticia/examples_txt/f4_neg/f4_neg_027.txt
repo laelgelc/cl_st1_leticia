@@ -1,8 +1,8 @@
-Text ID: t004618
+Text ID: t003706
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001208_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000296_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-I actually ran into this banded sea krait three separate times in the Andaman Isles. The first time, it was literally swimming round my feet and I had no idea what it was. Later on, when I was scuba diving, I saw one all curled up, and another time I watched one come up to the surface for air. It’s an incredibly beautiful snake, but apparently it’s the most poisonous in the world. David Attenborough said its bite can kill you in about ten seconds to a minute, because it needs a really powerful neurotoxin to stop fast‑swimming prey escaping.
+Score (f4_neg): -3
+Loading words (f4_neg), N=3: plan, properly, once
+it would be nice if we could find that missing juggling ball, because I really want to start learning to juggle properly. I’m also planning to work on doing a handstand, and then I’m aiming for us to try juggling together once we’ve both practised a bit. and remember, you need to practise riding your bike again tomorrow. don’t forget that you have to ask to have the bike seat adjusted the next time you see him, so it’s the right height for you.

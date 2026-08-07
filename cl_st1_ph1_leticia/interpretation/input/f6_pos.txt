@@ -33,141 +33,141 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac6	SD fac6
-group	human	1705	-0.03108504	0.49489915
-group	profiled_gpt	1705	-0.08973607	0.50888259
-group	unprofiled_gpt	1705	-0.08680352	0.52134772
+group	human	1705	0.00117302	0.41678237
+group	profiled_gpt	1705	-0.31906158	0.60146071
+group	unprofiled_gpt	1705	-0.30791789	0.60287998
 
 === FACTOR LOADINGS (f6_pos) ===
-variables loading on this pole = 4
-month (.63), pound (.63), least (.53), (moment (.31))
+variables loading on this pole = 3
+em (1.32), alright (.76), (odd (.39))
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f6_pos_001.txt (text ID t000849) =====
-Text ID: t000849
+===== EXCERPT: f6_pos_001.txt (text ID t000657) =====
+Text ID: t000657
 Group: human
 Model: human
-File:   corpus/05_human/t000849_human.txt
+File:   corpus/05_human/t000657_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: month, pound
-lovely lady and there's a Polish lass as well there's two others so they've got four vets and they've just put out another bumf about who they are all the new vets are there and I met the two of them and they're brilliant and they they're starting a healthy pet club and for nine ninety-nine per that's the lowest maybe it goes up with the age of the dog nine ninety-nine a month you get everything you get your flee your worm two annual checks erm and a few other things on the list erm and that'll work out far cheaper cos at the minute you know before lots of just before lots of medicine for Tobyover the year every three months you've got to do him that comes to erm that's a hundred two hundred pound
+Loading words (f6_pos), N=2: em, alright
+he has built these massive projects and it they haven't been as collaborative as they were before so I I went back on recently and sort of joined in for a little bit and I'm going to build this massive tower but em I really wanted to wait to involve a lot more people so I made a couple of sort of teeny little challenges because when I was trying this this tower thing we got the guy who gave me the resources for the Mario statue em he help bui em dig a massive hole eh so that we'd have the tower from Bedrock all the way up to the very top so it would be the biggest possible tower so he made loads of channels with dynamite em and we built these walls up so that the water couldn't get through cos it was for some reason we decided to build it on the coast we walled up the eh water and then there's this guy making channels of dynamite and eh a the guy who was em who I was helping he said it's alright knows what he's doing he's he's an expert with TNT he know he knows where the is and I trust him and I was sort of getting further and further away going yeah you trust him and lo and behold he completely blew up the walls the whole thing was just completely flooded and em so asked him nicely if we could have creative mode so we got the resources we were able to fly we built up the wall again and eh he it was only supposed to be for one day and em has had creative taken away from him but for whatever reason and none of the other mods have taken it away from me so I've built some sort of puzzle challenges and stuck them up on Facebook for for people to have a go at and em sort of built them in eh using creative modes and that's yeah it's just another way of trying to bring people together using Minecraft and creative projects and yeah
 
---- Loading words for this example (pos): month, pound
+--- Loading words for this example (pos): em, alright
 
 
-===== EXCERPT: f6_pos_002.txt (text ID t000197) =====
-Text ID: t000197
+===== EXCERPT: f6_pos_002.txt (text ID t001516) =====
+Text ID: t001516
 Group: human
 Model: human
-File:   corpus/05_human/t000197_human.txt
+File:   corpus/05_human/t001516_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: month, pound
-mine was like three hundred pounds for three months over the summer and so it would have been about a hundred for just a month but my parents aren't bothering but they're gonna insure me when I come back in April they're gonna insure me for the rest of the insurance be for the rest of the year because my mum's insurance ends in October when I go back to uni so they'll just add me on for the rest of the licence or for the rest of the insurance before it expires over the summer
+Loading words (f6_pos), N=2: em, alright
+and and first of all I thought well that is goes back to our common sense cos that's kind of common sense but then I was listening to what people were were were ringing in with and there was such misogyny there was this idea that em well you know if you flaunt it what do you expect? And I thought oh I know okay okay so if a woman suggests that she might be em she might be interested in maybe meeting a man then it's alright for any man to just come and take her I mean that's absolutely ridiculous
 
---- Loading words for this example (pos): month, pound
+--- Loading words for this example (pos): em, alright
 
 
-===== EXCERPT: f6_pos_003.txt (text ID t001664) =====
-Text ID: t001664
+===== EXCERPT: f6_pos_003.txt (text ID t000157) =====
+Text ID: t000157
 Group: human
 Model: human
-File:   corpus/05_human/t001664_human.txt
+File:   corpus/05_human/t000157_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: month, least
-I remember really this is a really nice memory actually erm and I were like off and on through school and I always fancied him well ever since I moved school in year n year eight I would always have a crush on him and we used to get on really well although my friends were always popular girls they were all really skinny very athletic not stunningly pretty but like I would always be the least out of all of us and then like in year nine ten while we were away doing Trident when you do do like work experience and I was like fuck this and really dieted loads and lost about two stone in two and a half months mm
+Loading words (f6_pos), N=2: em, alright
+hi Alright well that's fine I've left it out in the hall for you so just come and get it whenever is convenient no she's still at work she working late this week I think she finishes about six but then she goes running after work she is keep fit yeah do you want me to get her to call you? Okay oh yeah okay so it's just whether that's a good day? So so they were going to do it during the day okay mm hm it's strangers okay and how long do you think it will take? Do you think? Half a day okay that's fine I'll let her know and I'll get her to call you I'll get I'm not sure she's got credit on the phone so if not I'll get her to call you on my phone oh okay I'll em I'll speak to her about it then and I'll let you know or she'll let you know alright thanks speak to you later bye
 
---- Loading words for this example (pos): month, least
+--- Loading words for this example (pos): em, alright
 
 
-===== EXCERPT: f6_pos_004.txt (text ID t000063) =====
-Text ID: t000063
+===== EXCERPT: f6_pos_004.txt (text ID t000280) =====
+Text ID: t000280
 Group: human
 Model: human
-File:   corpus/05_human/t000063_human.txt
+File:   corpus/05_human/t000280_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: month, pound
-but because had got his own business which the university had funded well they'd given him two thousand pounds to help set him up he went to them and said look I've got this business and I'd like to work in it for the year off rather than so an internship in another company as part of the course and they said yes he could do so I mean he's he's got his own business but the reason he's working with is that erm that also gave it a bit more credence because working with and 's business partner eh actually supervises so it's not his dad sort of telling him what to do but he reports to erm he's doing a good job by all accounts they gave him a bonus last month so he was
+Loading words (f6_pos), N=2: em, alright
+but I wouldn't take any crap and eh not I mean you know there was a big like kid a he used to play for Birmingham a big West Indian kid he played for them in the final of the em the Johnson's Plate Trophy at Wembley massive I he was in my class and I I whacked him a few times he played I said right well I probably said bend over and wham you could say it was illegal did it you know? And eh don't hit me don't hit me don't hit me but I wasn't like somebody going around beating people up eh and one teacher said that's illegal and I said alright grass me up so em
 
---- Loading words for this example (pos): month, pound
+--- Loading words for this example (pos): em, alright
 
 
-===== EXCERPT: f6_pos_005.txt (text ID t001668) =====
-Text ID: t001668
+===== EXCERPT: f6_pos_005.txt (text ID t000440) =====
+Text ID: t000440
 Group: human
 Model: human
-File:   corpus/05_human/t001668_human.txt
+File:   corpus/05_human/t000440_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: month, pound
-it came from when they they had work done on the bungalow when they first moved in there put a pipe in and it wasn't done properly so about a year ago from now they had to move back out to the Max Mexborough house that's now While they re-did the work that they botched the insurance for the time that they were out of the house for two months when they said well we would have rented out Mexborough for eight hundred pound a month gave them two or three grand plus compensation for time money blah blah
+Loading words (f6_pos), N=2: em, alright
+and the two of us the two guys we'd been drinking like most of the day and we were real bad and the other's had come and met us and eh the guy that was with I can't remember what the hell is his name I can't remember his name now but he'd been alright when I was chucking up but so far gone and he bought em as we were leaving the bar so that I could be sick on the beach he bought a bottle of eh like Don Perignon or something like that it was like a hun it was a hundred and twenty dollars or something and the footage of me vomiting there on the sun lounger then pans across to him with this bottle of Bollinger doing or whatever it was doing this on it and then two minutes later he's vomiting up this hundred and twenty dollars worth of Champagne or whatever it was on to the beach
 
---- Loading words for this example (pos): month, pound
+--- Loading words for this example (pos): em, alright
 
 
-===== EXCERPT: f6_pos_006.txt (text ID t001589) =====
-Text ID: t001589
+===== EXCERPT: f6_pos_006.txt (text ID t000713) =====
+Text ID: t000713
 Group: human
 Model: human
-File:   corpus/05_human/t001589_human.txt
+File:   corpus/05_human/t000713_human.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: month, pound
-all this started spiralling from so I I to be honest I don't really understand it so I'm just gonna write and say look I don't understand how this has happened I have come in and spoke to you about this before you can see I paid in a cheque of two hundred pounds two months ago to hopefully clear this and it hasn't it's just been eaten by more charges and I'm in the same position again I don't understand it can I have a meeting with you please and go through this account cos it's just gonna get out of control
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: alright
+and erm I said to him well this is where cos I then I thought if he hears that answerphone message come back and hears it he'll go and look for me down in old village which is where I where I was initially but no fortunately he had only just come in and he said well you don't need me then and I said no it's alright come to my rescue bless his heart and he was really good he went in got his machine out and just dislodged the battery and er and checked it all and put the machine on and that's it
 
---- Loading words for this example (pos): month, pound
+--- Loading words for this example (pos): alright
 
 
-===== EXCERPT: f6_pos_007.txt (text ID t000324) =====
-Text ID: t000324
+===== EXCERPT: f6_pos_007.txt (text ID t000467) =====
+Text ID: t000467
 Group: human
 Model: human
-File:   corpus/05_human/t000324_human.txt
+File:   corpus/05_human/t000467_human.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: pound, least
-that's another bunch of years so you know what I mean? I to be able to fund a PhD I need to be able to have enough money to live on for four years that's a lot of time you know what I mean? and I would need to save at least thirty thousand pounds each so that's the plan we go back to the Middle East we save fifteen grand each and we travel Africa and do another qualification we do a Delta that would cover that year we go back and do two more years and save thirty grand each and that will be enough for us for us to do a PhD
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: alright
+oh it doesn't look as big as the like but it wasn't as posh but it was it was white an all-white Range Rover it was lovely he came here dropped stuff off here and he was he was only here a fortnight ago he had to go where way down to somewhere down the south right down south it took him three and a half hours to get there then you know so and er he went in that and the same thing they paid for the petrol so he said they're alright like at Fords if you've asked them you know?
 
---- Loading words for this example (pos): pound, least
+--- Loading words for this example (pos): alright
 
 
-===== EXCERPT: f6_pos_008.txt (text ID t000479) =====
-Text ID: t000479
+===== EXCERPT: f6_pos_008.txt (text ID t001432) =====
+Text ID: t001432
 Group: human
 Model: human
-File:   corpus/05_human/t000479_human.txt
+File:   corpus/05_human/t001432_human.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: month, pound
-yeah I think so Yeah I think so I think 's having a bit of a hard time of it with I think she's coming to the point of there's always been quite a gap between them intelligence wise and so far they've kind of dealt with it as in doesn't know and said well actually I I like all the qualities that he has so I'm just ignoring that but she spent the last three to six months going through his divorce with him and basically doing his accounts and she's of and shit loads of money like thousands and thousands of pounds that his
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: alright
+and I was walking the other day and she was watering some plants and I said oh hello how are you? as you do oh I'm alright she said well I knew she'd been in hospital but I didn't know why cos had said when she'd delivered her Avon she said oh I'm alright like you know she said I'm getting there but it's been a an horrific eighteen months I said well did mention you'd been in hospital I said but you know you don't like to come and knock on the door do you and say oh well 's told me you were in hospital
 
---- Loading words for this example (pos): month, pound
+--- Loading words for this example (pos): alright
 
 
-===== EXCERPT: f6_pos_009.txt (text ID t000603) =====
-Text ID: t000603
+===== EXCERPT: f6_pos_009.txt (text ID t000685) =====
+Text ID: t000685
 Group: human
 Model: human
-File:   corpus/05_human/t000603_human.txt
+File:   corpus/05_human/t000685_human.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: month, pound
-yeah it's really nice to see actually cos for ages he was just like properly squirrelling money away like cos he pays a little bit of rent at home but not a lot and he doesn't have a lot of outgoings so he was saving like five hundred pound a month just like literally squirrelling it away bef like before he knew it he had like fifteen grand and he was like oh I've got a deposit for a house blah blah blah and I was like that's great but like are you sure that's what you want? and like since going to Manila I think he's just realised that that's not what he wants like
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: alright
+and we went out and all the lads were there and they're like oh hi like they are like oh are you alright how you doing? they tend to talk to me more when I'm with as well I don't know what that's about but like er they were like you alright blah blah blah then I see out of the corner of my eye and I'm like ma like go anywhere but towards and then 's like like grabs my face like this and like goes to like go like kiss me but I move my cheek and he kisses my cheek 's speaking to someone but I can see he sees out of the corner of his eye and I'm like right fucking just get away then I walk out the toil I go to the toilet 's sort of walking towards me that way 's walking towards me that way and I'm coming out of the toilet and 's like like comes up puts his hand on the side of my face like whispers in my ear and then like puts my er his hand on like my waist and he's just too tactile like walks up and is like oh are you alright? like who are you sort of thing and then it's like oh you alright I'm nice to meet you and and then throws out er oh yeah hope 's doing this like I know what she's like like I know what she can be like like throwing out a blatant by the way I fucked do you know what I mean?
 
---- Loading words for this example (pos): month, pound
+--- Loading words for this example (pos): alright
 
 
-===== EXCERPT: f6_pos_010.txt (text ID t000235) =====
-Text ID: t000235
+===== EXCERPT: f6_pos_010.txt (text ID t001358) =====
+Text ID: t001358
 Group: human
 Model: human
-File:   corpus/05_human/t000235_human.txt
+File:   corpus/05_human/t001358_human.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: month, least
-you kind of like like what was it? I saw what? a few months ago maybe in May and I was like we were in the car home I was like do you think you're gonna marry ? he was like mm yeah probably and then what? now he's just broke up with her? it was just like he just said they went to did they go to Majorca? or they went on holiday and he was just like it just didn't feel the same I was like well at least you dumped her you know at least you
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: alright
+and then collect her at eleven oh I don't know how we're gonna do it actually maybe we'll t collect her and then go into I don't know how we'll do it anyway something like that and then erm we'll do a walk possibly round the t if the weather's alright we could do a walk round the in the evening and erm there's some fantastic walks some really brilliant walks through the woods it's just spectacularly beautiful actually when we went last weekend very wet but it was lovely lovely and then on Sunday we would probably go down to the and have a walk erm and er er well we could go out out and about there's places to go there's but actually 's on a Saturday so we'd have to think about that work out what we do
 
---- Loading words for this example (pos): month, least
+--- Loading words for this example (pos): alright

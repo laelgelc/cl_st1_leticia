@@ -1,8 +1,8 @@
-Text ID: t000254
+Text ID: t001670
 Group: human
 Model: human
-File:   corpus/05_human/t000254_human.txt
+File:   corpus/05_human/t001670_human.txt
 
-Score (f2_pos): 1
-Loading words (f2_pos), N=1: chat
-I had a little chat with her last night when I and and said to her I'm a little bit worried about you I says because you're having a go at people for for no reason you you're upsetting people you're having a go at I said no you know can says things I says but you get upset with quite quickly you you're not thinking straight I says I'm just a little bit conc I'm concerned about you I'm worried about you I said I know that you're not enjoying the sixth form as such
+Score (f2_pos): 5
+Loading words (f2_pos), N=5: different, than, more, also, lot
+that's what I mean the trouble with the erm running at is that it's it's outdoors running I mean i like on the grass which is very muddy and it's a little bit more difficult than running kind of on the roads and things erm but it's actua it's lovely cos you get to have a a beautiful view so I think we'd need different shoes you can get a different type of running shoes for kind of muddy terrain there's also something called Insane Terrain on er September which is what I was gonna do in September last year but then you were poorly erm which is a running race but lots of fun so they have s er mud and sl water slides and just like fun obstacles to do to make it

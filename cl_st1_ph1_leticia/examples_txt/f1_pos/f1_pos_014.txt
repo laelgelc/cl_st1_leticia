@@ -1,10 +1,8 @@
-Text ID: t001826
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000121_gpt.txt
+Text ID: t000035
+Group: human
+Model: human
+File:   corpus/05_human/t000035_human.txt
 
-Score (f1_pos): 5
-Loading words (f1_pos), N=5: change, moment, idea, more, different
-well the thing is with him he’s ended up in this very particular niche, you know, a specific product area that’s quite fashionable at the moment. as long as governments keep banging on about certain environmental priorities and throwing money at that sort of infrastructure, his little patch is going to keep being funded. so even if he’s sitting there thinking, god this is boring as hell, he’ll probably just stay in it because it’s a saleable product for the company and there’s a market for it round the world.
-
-for me, that’s where I’m a bit different. I just can’t imagine doing exactly the same thing for years on end unless I was genuinely passionate about it. I’d probably give something like that five years, really get into it, then I’d be itching to move on. and that’s not just me making it up now – I remember a lecturer at uni saying, don’t stay in a job more than five years, you’ll go stale. that really stuck with me, this idea that you need to keep changing to stay interested.
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): just
+it's also it's it's like the silliest little things as well like you know like sometimes you know when you're in a bad mood? sometimes you just wanna be in a bad mood and when you're in front of somebody else's family you can't just be in a shit mood like sometimes I I come home from work and I'm not necessarily a bitch to but I literally just think I a I just wanna be in a bad mood like just let me be in a bad mood and let me just stew let me just

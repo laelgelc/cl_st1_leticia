@@ -1,8 +1,10 @@
-Text ID: t001201
-Group: human
-Model: human
-File:   corpus/05_human/t001201_human.txt
+Text ID: t002141
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000436_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-erm my car isn't reliable in the slightest and I'm just not enjoying it at all like aside from the like the congestion traffic et cetera et cetera like obviously with it getting darker now for the whole hour I'm driving home I'm just I'm squinting and I'm starting in like into headlights and it's just not very nice and I I get to work in the morning and I'm exhausted because I've had to concentrate so hard for the last hour just to get myself to work I'm exhausted by the time I start and when I get home I'm exhausted because I've done a whole day's work and then I've had to drive home for an hour so I'm getting home and it's it's not even seven o'clock and I'm absolutely shattered whereas like even though the train is a little bit more of a faff but when I get to work on on the mornings I get the train even though I've left probably for work about forty minutes earlier than I would be car I'm actuall I've got more energy by the time I get to work and then
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: plan, once
+yeah Ely’s on the A10, but it’s not very far up it at all. The thing that kicked off a lot of arguments was when they were talking about sticking ten, twenty thousand new houses up there, and there were absolutely no plans to do anything about the A10 itself. It’s already rammed with people commuting into Cambridge, and then you’ve got everyone going further on into London as well, and they were basically just going to pour all these extra cars onto the same road.
+
+There was some talk about trying to sort it out in a different way, by putting a new commuter station in somewhere south of Cambridge. The idea was that people wouldn’t have to come all the way into Cambridge itself to pick up a train, they could just hop on there instead. But I don’t know if that’s actually going to happen, or if it’s just one of those things that was mentioned once and then quietly forgotten about, because I’ve not heard anything more about it since.

@@ -1,8 +1,8 @@
-Text ID: t004810
+Text ID: t004758
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001400_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001348_gpt.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: gonna
-they just don't care though do they? I mean, when we had that sixteenth in Brighton at the hotel, we were all underage and we did sneak a bit of alcohol, but they shut the bar, no one was really drunk or anything. And her mum and dad kept coming down from upstairs to check on us, making sure everything was alright. That’s how it should be, really. If there are gonna be people there under eighteen, ultimately the parents have gotta be responsible.
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: he, him
+and he rang up one day about a hospital appointment, and of course we shared the phone at that stage, so I answered it. I’d never actually heard his voice before, and it was so hoarse and strange that for a moment I honestly thought someone was putting on a funny voice and having a joke. Then I realised it really was him, and that something must be very wrong. It all went so fast after that. They’d just been on holiday, and it started off as what they thought was just a sore throat while they were away. From that point it was incredibly quick – about three months, I think, from that first sore throat to when he died. In that time he just wasted away, absolutely skeletal in the end, because he simply couldn’t swallow anything. It was that rapid, really, from an apparently minor throat problem on holiday to him being desperately ill and then gone in such a short space of time.

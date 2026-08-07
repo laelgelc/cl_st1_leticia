@@ -1,8 +1,14 @@
-Text ID: t001031
-Group: human
-Model: human
-File:   corpus/05_human/t001031_human.txt
+Text ID: t002062
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000357_gpt.txt
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-okay so I've got some gnocchi stuff actually out of Lidl and it crossed my mind while I was carrying my heavyish rucksack for an hour and a quarter we are next door to Lidl so yeah it is like a spinach gnocchi and then the pesto funnily enough the cheapest pesto is in Alma cheaper than Tesco's cheaper than Lidl it's probably shit but anyway we will try it it looks good it looks quite thick stuff and then I bought six cloves of garlic with me because we are in Poland so it's the law you have to reek of garlic all the time so we can put one or none or six or any number in between in our lovely gnocchi and I think was going to do a salad and I've bought the stereo thing to plug into your laptop for proper movie sound
+Score (f1_neg): -7
+Loading words (f1_neg), N=7: bloke, later, try, even, head, just, proper
+we were all just sat there at the top of this field, right, and it’s like proper familiar, cos on one side you’ve got the primary school that everyone in the village went to, and then further down there’s the pub and that big old mansion near it. We’re just hanging about, not even that drunk or owt, and then we all see this thing.
+
+it were like this white light, but shaped like a person, like you could tell it were sort of human-sized, about five foot nine or summat, and it just went dead fast across the field. it shot from where we were over towards that bit near the pub and the mansion. it weren’t like a person running, it were more like a shooting star but on the ground, there one second and gone the next. we were all just looking at each other like, did you see that as well?
+
+and cos it were right by that mansion it made us think of that story you always hear about the bloke who owns it. people in the village always said his son had this really weird thing happen. apparently he’d been talking to his mum in the house, just normal like, and then later on they told him his mum had already died by then. so everyone says he must’ve been talking to her ghost or summat.
+
+I dunno how true it is, like, it’s just one of those local stories that gets passed round, but when you’ve heard that and then you see this mad white figure of light leg it across the field towards that same place, it proper does your head in a bit. we were all trying to act normal but you can’t help thinking about that lad and his mum and whether there’s actually something going on round there or if it’s just people exaggerating. I’m still not sure what to make of it.

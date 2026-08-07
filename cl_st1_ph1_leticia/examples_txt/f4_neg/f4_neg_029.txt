@@ -1,8 +1,8 @@
-Text ID: t004438
+Text ID: t004122
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001028_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000712_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-I once did that just after New Year, and it really taught me a lesson. I went to the bus stop in this absolutely brutal cold, it must have been about minus seventeen, and I checked the timetable and thought, “Oh good, the bus is in five minutes.” So I stood there and waited, and waited… more than half an hour went by and nothing came. Then it suddenly dawned on me that it was Saturday, so the buses were running differently. I never want to repeat that, so now I have to remember to check what day it is.
+Score (f4_neg): -3
+Loading words (f4_neg), N=3: properly, once, straight
+so he came over in his car to try and get mine going but he couldn't start it at all, it just wouldn't turn over. in the end we had to go to the garage nearby and they came out and jump-started it for me. once it was running, we drove straight down to where he works so he could check everything properly. he got this machine out and tested the alternator, the battery, and something else on the car with it. it turned out the battery itself was fine, it had just completely run down so there wasn’t enough power left in it to start the car.

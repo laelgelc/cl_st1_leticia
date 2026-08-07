@@ -1,8 +1,8 @@
-Text ID: t004710
+Text ID: t003783
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001300_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000373_gpt.txt
 
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: guy, everyone
-I actually thought The Boat That Rocked was really funny, even though everyone kept saying it was rubbish. It’s got such a good cast in it – you know that guy who’s having a baby with Sienna Miller is in it, and Chris O’Dowd as well. It’s all set in the sixties, and the music is just brilliant all the way through. They’re on this pirate radio ship where they literally just drink, take drugs, and play music all day. I was watching it thinking, I want my life to be like that.
+Score (f6_neg): -3
+Loading words (f6_neg), N=3: single, honestly, clearly
+I did actually go to that Wednesday morning lecture every single week, but every week she’d send this email out saying, “Oh, lecture hall was nearly empty, there were like ten people there,” and all this. And I’m just sat there thinking, well, I was there every week, so clearly not everyone’s bunking it. But honestly, who thinks it’s a good idea to put a lecture at ten a.m. the morning after student night? Yeah, we’re there to learn, but people are still going to go out drinking.

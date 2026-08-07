@@ -1,8 +1,8 @@
-Text ID: t002681
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000976_gpt.txt
+Text ID: t001017
+Group: human
+Model: human
+File:   corpus/05_human/t001017_human.txt
 
 Score (f4_pos): 5
-Loading words (f4_pos), N=5: feel, clear, carry, expect, make
-no they really didn’t, and that’s exactly what I was trying to get across to her. I just don’t connect with the way I’m expected to teach at the moment. There aren’t those really engaging, visually attractive, step‑by‑step materials that guide the students through and make the learning objectives clear and motivating. Instead, I end up feeling a bit lost, as if everything depends on me improvising and carrying them. I don’t think it should be like that; the responsibility should sit more with the learners. I see myself more like a film director, shaping things, not doing absolutely everything.
+Loading words (f4_pos), N=5: shit, fuck, sorry, gonna, like
+what the fuck is the matter with this kid? Look I'm not kidding I just got money and saw neighbour he invited me in and I thought what the hell? Five minutes we sat down and he offered me a smoke on some herbal weed legal high well I had a bad one and had a bad trip for ages and couldn't talk or stand up four people watched me by the way as I ended up looking like I need sectioning so when so so when I got home I was going to text you and threw up a lot I've been back and told him that that shit is dangerous I'm so sorry for this I'm so pissed off for trying it I thought it would do nothing at all yes I would like to as soon as I sort myself out a bit if that's okay all of the above is the truth this kid is fucked in the head genuinely genuinely fucked in the head so he's gone next door had a bit of pot it's affected him really badly so he's gone home been sick hasn't thought to text me during any of this it fucks me off cos I'm not his girlfriend I'm not his wife I'm not gonna sit around making him dinner

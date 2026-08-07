@@ -1,10 +1,14 @@
-Text ID: t003432
-Group: unprofiled_gpt
+Text ID: t002743
+Group: profiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000022_gpt.txt
+File:   corpus/05_profiled_gpt/t001038_gpt.txt
 
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: huge, massive
-I’ve even tried to make it as easy as possible, you know? I’ve said to them, “Look, I’ll just get the train down, we can have a couple of hours, grab some lunch, do a bit of shopping, and then I’ll head back.” It doesn’t have to be a massive thing. But every time I go up there, it turns into this whole full-day event. 
+Score (f3_pos): 5
+Loading words (f3_pos), N=5: wo, okay, you, know, say
+I see you as someone who’s evolving, you know. You’re not stuck; you’re in motion. People aren’t fixed objects – we’re dynamic, changing all the time on so many levels: physically, psychologically, spiritually, emotionally. Who you were ten years ago isn’t who you are now, and who you are now won’t be who you are in ten years. That’s natural, and it’s actually really positive.
 
-We end up doing breakfast, then wandering round all afternoon, then going out for dinner, and I’m always catching the last train home. It’s this huge, expensive day out every single time. And I just sit there thinking, why does it have to be like that? It really doesn’t need to be such a big production.
+This feels like a major crossroads for you, a real life junction. On one side there’s “business as usual” – the old patterns, the familiar routes, the people and habits that don’t quite fit anymore. On the other side there’s this new, wider path opening up, with more space, more possibility, more alignment with who you are becoming.
+
+You need to be assertive about that. Own it. Going to bed at ten, being sober, choosing health – these aren’t things to apologise for, they’re things to be proud of. Stop putting yourself down for it, or framing it like some kind of limitation. It’s not a defect, it’s a decision.
+
+Be proud of the choices you’re making now. Stand in them. Say, “This is who I am at the moment, and that’s okay.” The more you do that, the more solid you’ll feel in yourself, and the easier it’ll be to keep walking that wider path instead of slipping back into “business as usual.”

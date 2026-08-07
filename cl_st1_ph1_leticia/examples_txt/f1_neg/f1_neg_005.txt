@@ -1,8 +1,8 @@
-Text ID: t001400
-Group: human
-Model: human
-File:   corpus/05_human/t001400_human.txt
+Text ID: t002755
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001050_gpt.txt
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-they just don't give a shit that I remember when we had a sixteenth birthday party and my friend had one and hotel in Brighton and obviously we were sixteen so none of us should've been drinking so the bar wasn't even open there was no one on the bar and her parents were upstairs in the hotel the entire time and they came down and were checking on us and obviously we were sort of sneaking a bit of stuff in and whatever but generally speaking you weren't no one was taking the piss I mean
+Score (f1_neg): -8
+Loading words (f1_neg), N=8: stand, absolutely, later, nothing, suddenly, everything, just, carry
+yeah it’s either nothing or everything with them, isn’t it. When I was working at Disneyland Paris I saw exactly that sort of thing. We were having this big Fourth of July party in the university residence, loads of American students there, music blaring, everyone really drunk and loud. People kept saying, “Oh the police will turn up in a minute,” but nothing happened at all for ages. No sirens, no normal patrols, absolutely nothing, so everyone just carried on drinking and getting rowdier. Then about an hour later this CRS riot squad suddenly turned up, full gear, shields, helmets, the lot. They didn’t come storming in or say anything, they just took up positions and stood there watching us, which was really unnerving. Nobody stopped the party, they just sort of carried on as if it was normal, drinking and shouting with this line of riot police just waiting and not doing anything.

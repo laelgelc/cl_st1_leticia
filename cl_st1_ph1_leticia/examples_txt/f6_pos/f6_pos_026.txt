@@ -1,8 +1,8 @@
-Text ID: t004873
+Text ID: t004820
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001463_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001410_gpt.txt
 
 Score (f6_pos): 1
-Loading words (f6_pos), N=1: pound
-I reckon the glasses were probably beyond repair anyway – they were more badly damaged than any pair I’ve had in nineteen years. The frames were mangled, lenses out, nose pad gone, and I’d already bodged them together very unprofessionally. In the end it actually worked out brilliantly for me, because they snapped while the optician was trying to fix them. He apologised profusely and offered me a free eye test and to pay for new glasses up to the value of a hundred and twenty pounds.
+Loading words (f6_pos), N=1: alright
+It was one hundred and sixty pounds, which is a lot, but it was what he really wanted. He’d done all this careful searching online, looking at different ones, and that was the one he chose. So in the end I said alright then, and I ordered it from the Watch Shop for him. We arranged it so he could collect it from Goldsmiths, so they could adjust the strap for him there. It was all properly done, all arranged and recorded by email and everything, so we had a clear trail. And then, in less than three weeks, the clasp just broke on it.

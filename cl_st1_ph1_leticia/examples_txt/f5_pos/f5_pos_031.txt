@@ -1,8 +1,8 @@
-Text ID: t001685
-Group: human
-Model: human
-File:   corpus/05_human/t001685_human.txt
+Text ID: t004890
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001480_gpt.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: awful, horrible
-and I remember cos I and I remember you saying do leave it don't ever ring the mothers don't ever ever get yourself involved because they would have gone into school it would have been the end of the earth cos you remember they'd come home and sob their hearts out so and so's been really horrible to me and you listen to the story think that's absolutely dreadful what this child's done how awful they must have been brought up really bad you know all these stupid things that go through your head and the next day and you just dread them going into school and they're just really in a state and how awful it's gonna be then they skip out of school that evening and you've had a dreadful day
+Score (f5_pos): 8
+Loading words (f5_pos), N=8: pound, four, hundred, six, three, ten, two, five
+no listen the pink five hundred notes are exactly the same value as lots of the smaller ones, it all adds up to the same amount of money. you haven’t lost anything at all, you still have the same total, it’s just in different notes. think about it like this: if I gave you a real five-pound note instead of five one-pound coins, you wouldn’t say it’s not the same, would you? it’s just one note instead of several coins, but it’s still five pounds. this is a completely ridiculous issue to get stuck on, and we cannot play until you understand that and stop fussing about it. you need to accept the pink five hundreds, and then we can get on with the game. right, come on, let’s just get on with it now. one, two, three, four, five, six, seven, eight, nine, ten.

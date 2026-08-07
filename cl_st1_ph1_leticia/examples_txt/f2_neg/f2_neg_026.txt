@@ -1,8 +1,8 @@
-Text ID: t004815
+Text ID: t005108
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001405_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001698_gpt.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: god
-like there was this girl in our year who got like eleven A stars in her GCSEs and she were in the paper and everything, all over the local news, and everyone were like oh my god she's amazing and that, and now she just works in a nightclub and she just doesn't give a fuck, like she’s not bothered at all. and then there’s me who left school with no GCSEs ‘cause I were getting bullied that much I just stopped going, and now I’m at a redbrick uni doing really well. it just shows there’s a difference between having qualifications and actually doing well for yourself.
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: he, him
+she was just really emotionally broken at the time, you know, it was a really bad time for everybody, but it’s sort of been repaired now, largely. things are okay between them these days. and his dad was always this very hard‑working, high‑profile doctor, so he did see them all the time, but he just wasn’t really present in that way. like, I remember asking him what was like as a child, and he just couldn’t answer, he kind of dodged it. and later on said, well, that’s because he just wasn’t there, really, when he was little. it’s that kind of thing, not some big dramatic explanation, just that his work and everything meant he wasn’t actually around enough to know.

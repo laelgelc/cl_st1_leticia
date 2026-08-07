@@ -1,10 +1,8 @@
-Text ID: t002144
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000439_gpt.txt
+Text ID: t000924
+Group: human
+Model: human
+File:   corpus/05_human/t000924_human.txt
 
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: huge, massive
-yeah we had it really similar when we went out to Florida, we just sort of turned up with nothing booked at all, no accommodation or anything, just figured we’d sort it when we got there. We ended up in a TGI Friday’s and got chatting to this Puerto Rican couple, and they were just ridiculously friendly, straight away. Next thing we know they’re like, “oh you haven’t got anywhere to stay? Come and stay with us, we’ll take you out,” that sort of thing. And it wasn’t just them either, loads of people we met out there were like that, really welcoming, really up for looking after you and showing you around.
-
-We hit this massive St Patrick’s Day street party while we were there as well, just huge, everything shut off and everyone out in the street drinking. The booze was insanely cheap, like properly cheap, so of course we just got absolutely hammered. Then later on in Miami, down on South Beach, Radio One were doing some big thing, loads of music and that, and we got really, really drunk there as well. I remember just ending up on the beach and properly projectile vomiting on the sand, it was that bad. One of those nights where you’re having a brilliant time but you’re in a right state by the end of it.
+Score (f3_pos): 7
+Loading words (f3_pos), N=7: erm, okay, cos, oh, you, know, say
+yeah it's like a Chinese whispers like you could do say you know Monday to Friday or or whatever so you start out with on Monday and you end up with by Friday and then you interview on Friday and you go okay so you're coming here through a connections of other people who's your connection? well my connection is okay right well we met on Wednesday so we know a little bit about him so tell me okay what's going on there? oh right well we're trying to solve a problem okay this is the problem right good so let's talk about it and then it's like okay er not have you erm met from Monday? no but I can do now because I know how this works I know that we're connected through the social media or we are connected because we were introduced physically at a café whatever so what you're doing is this you're reflecting back on the initial person who started off the here's a problem and then you've actually shown how people are coming on board sharing their common interests and sharing their common concerns and that they're showing that they can go back to that person and have the connection that they didn't originally have had the videos not been made cos the videos in a way this is the narrative it's pushing the story forward

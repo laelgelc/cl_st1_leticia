@@ -1,10 +1,8 @@
-Text ID: t003295
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001590_gpt.txt
+Text ID: t000655
+Group: human
+Model: human
+File:   corpus/05_human/t000655_human.txt
 
-Score (f5_neg): -2
-Loading words (f5_neg), N=2: set, great
-Well, after a bit it all went quiet, you see. No more ack-ack, no more bombers, and this German plane had cleared off. We were still in the shelter, thinking that was that, when suddenly there was this huge explosion. Nothing like the earlier stuff, it was a real great bang. We just sat there, waiting, until eventually the all-clear went.
-
-Once the siren stopped, me and this other lad, he’d be about fourteen, I was only eleven, decided we’d go and have a look. We thought the blast must have been right at the end of the avenue, so we set off walking that way. As we got nearer, there wasn’t shouting, just this sort of low babble, people talking very quietly, almost like whispers all around.
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: explain
+and it caused him to just just go completely the other direction as well he just completely just lost it em so when I explained this to my class they were really sort of intrigued by this idea and em and then in the write up I explained that em my my original idea about em eh eh cyber provincialism which was the concept that sort of started the whole building in Minecraft em project em at first it was like em when I first heard about it I was think maybe em the idea is that these people in their game worlds had sort of closed off from the real world but that wasn't so much the case because there were things that enter into the Minecraft universe that are factors in the real world like there was em occupy Wall Street and occupy London and stuff like that

@@ -1,2 +1,2 @@
-variables loading on this pole = 4
-month (.63), pound (.63), least (.53), (moment (.31))
+variables loading on this pole = 3
+em (1.32), alright (.76), (odd (.39))

@@ -1,8 +1,8 @@
-Text ID: t000354
+Text ID: t000053
 Group: human
 Model: human
-File:   corpus/05_human/t000354_human.txt
+File:   corpus/05_human/t000053_human.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: god
-anyway so psalm ninety-one says it it you know he's god's word is the truth so if you know the character you wouldn't feel so scared because you'd be so assured by it anyway it says oh if you make the most high your dwelling even the lord who is my refuge then no harm will befall you no disaster will come near your tent for he will command his entrance concerning you to guard you in all your ways they will lift you up in your hands so that you will not strike your foot against a stone mm the interesting thing is here you will not fear the terror of night nor the arrow that flies by day nor the pestilence that stalks in the darkness nor the plague that destroyed at midday a thousand may fall at your side ten thousand at your right hand but it will not come near you you will only observe with your eyes and see the punishment of the wicked obviously if I'm on the wicked side I would be I dunno but however if you really really really live the word by word the end result would be no fear I mean you know it's difficult I mean I'm absolutely frightened by the spiders in the kitchen but I have to because I cannot keep living in fear so it's a really stressful time you know?
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: he, him
+yes erm but so I just don't know we'll s oh I sort of left it as well the other thing was he said I could fly to Rome but Perugia is nearer only of course that's a small airport and there are flights from Stansted well I don't want the you know Ryanair of something I don't want to drive down to Stansted in order to fly to Perugia but otherwise he would drive to Rome to pick me up and it's a something like a hundred and fifty kilometres well I don't really want to land him with doing that now so in er I didn't say much but at the time I was thinking oh that's making me feel awkward

@@ -1,8 +1,8 @@
-Text ID: t001726
+Text ID: t002280
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000021_gpt.txt
+File:   corpus/05_profiled_gpt/t000575_gpt.txt
 
 Score (f6_pos): 1
-Loading words (f6_pos), N=1: month
-We can literally go months without seeing each other now. Like, I only saw them in December, and before that it was April, which is ridiculous really. When I bought my house I invited them loads of times, and none of them made the effort to come up, which really annoyed me. I’m the first one of us to buy a house, and it’s not in a braggy way, but if it was any of them I’d definitely go and see them. Then they suddenly invited me on this weekend away and only gave me like two weeks’ notice, and I was already going to Bestival. It just made me think they’d had it planned for ages and just hadn’t bothered to include me.
+Loading words (f6_pos), N=1: alright
+yeah that reminds me of when I properly got conned in Korea by that girl with the guitar. It was my last day there, so I was in a bit of a rush, and she let me try it out quickly. I’m pretty sure she’d tuned it down by about half a step so the action felt alright when I tested it. When I got it home and tuned it properly, the action was absolutely awful. Later I found out she’d actually got the guitar for free from someone else.

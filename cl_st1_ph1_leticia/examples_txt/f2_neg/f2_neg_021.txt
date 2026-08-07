@@ -1,8 +1,8 @@
-Text ID: t004816
+Text ID: t004737
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001406_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001327_gpt.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: god, gonna
-I just instinctively feel really sorry for her, though, because her life is nothing like what I’d want for myself. When I found out she was pregnant I just cried, I was devastated, like, “oh my god, that’s it, you’re never gonna go travelling, you’re never gonna do this or that.” In my head it was like all these doors had just shut for her. But then I have to step back and think, maybe she never wanted any of those things anyway, and it’s just me projecting what I want onto her.
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+so he just started telling me his whole life story really, went on for about ten, fifteen minutes, you know, and he was so friendly he even offered me a coffee. we ended up deciding to stay and chat with him instead of going back out in the sunshine. he was saying how he used to be a colonel in the Jordanian army, then later on he got transferred to the air force, and at one point he actually had thirty-two thousand men under him.

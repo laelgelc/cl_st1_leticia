@@ -1,10 +1,8 @@
-Text ID: t003154
+Text ID: t002570
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t001449_gpt.txt
+File:   corpus/05_profiled_gpt/t000865_gpt.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: month, pound
-well anyway after all that faffing about with the security questions she said to me, she goes, “we’re not really supposed to do this,” but then she said she’d put me on this cheaper thing, so it’s going to be twenty‑one ninety‑nine now instead. I’d said to her right at the start, I just can’t afford forty‑odd quid a month, forty‑one, forty‑two pounds, whatever it is, and asked her what my options were, so that’s when she came back with that offer. 
-
-At the beginning of the call she was really firm, she said, you’ve got to think very carefully about your answers or the call will just be terminated. First thing she asked was roughly what my last bill was, and I just guessed, I said about twenty‑four pounds, and she said, “yeah, that’ll do,” so that went through. Then she asked me where I’d set the plan up, and I was there thinking, oh crikey, was it online or what, and then I remembered going in, so I said, “in store,” and that was right. After that she calmed down a bit and actually talked to me properly.
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: alright
+Yeah, it went alright, actually, just quite tiring. I have to admit I sort of blagged it a bit this afternoon because I hadn’t properly read through my slides beforehand. They were basically the same ones I’ve been using for years, just tweaked, so it wasn’t a disaster or anything, but I wasn’t always entirely sure what was coming up next. Still, it seemed to go fine in the end. In a funny way it might even have been better – because I was less prepared I was a bit quicker and more to the point, rather than rambling on.

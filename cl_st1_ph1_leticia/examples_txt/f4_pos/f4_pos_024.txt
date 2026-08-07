@@ -1,12 +1,8 @@
-Text ID: t003484
+Text ID: t004815
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000074_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001405_gpt.txt
 
-Score (f4_pos): 4
-Loading words (f4_pos), N=4: feel, clear, expect, make
-there was this one girl, she was barely sixteen, special needs, very vulnerable, and her gran had been looking after her for years. then her grandmother just couldn’t cope any more, she was worn out, and instead of finding some sort of supported placement or something with proper supervision, the council just handed this girl her own flat. I just looked at it and thought, how on earth is that safe? how is that appropriate for someone like her? she was essentially on her own, and it felt like we were just setting her up for trouble.
-
-what really struck me was that in school she was actually fine. with clear boundaries and structure she behaved well, she knew what was expected and she responded to it. it really showed how much difference that kind of environment can make.
-
-and she wasn’t unusual, either. we had a lot of pupils like that, coming to us from mainstream schools. they’d usually been excluded from classrooms, shoved out because they were “difficult”, and they’d spent so long not really being in a learning environment that when they arrived with us they were genuinely surprised to be asked to do any work at all. it was like the whole idea of school as a place where you actually learn had just never been made real for them.
+Score (f4_pos): 3
+Loading words (f4_pos), N=3: fuck, god, like
+like there was this girl in our year who got like eleven A stars in her GCSEs and she were in the paper and everything, all over the local news, and everyone were like oh my god she's amazing and that, and now she just works in a nightclub and she just doesn't give a fuck, like she’s not bothered at all. and then there’s me who left school with no GCSEs ‘cause I were getting bullied that much I just stopped going, and now I’m at a redbrick uni doing really well. it just shows there’s a difference between having qualifications and actually doing well for yourself.

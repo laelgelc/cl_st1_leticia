@@ -1,8 +1,8 @@
-Text ID: t000450
+Text ID: t001383
 Group: human
 Model: human
-File:   corpus/05_human/t000450_human.txt
+File:   corpus/05_human/t001383_human.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: god
-no no no please let me finish that god is a thing that people can talk to and pray to by putting their hands together and somehow talking to him wherever he is and and he answers their prayers even though there's about seven billion people on the planet probably about two of those probably at least one billion are praying at that time I don't know not one billion praying at that very time but a lot so yes I don't think he is listen to all of those at the same time if he was real and like
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: minute, he
+so I took her to the cinema and we we got erm the bus back into town cos you had to go like twenty minutes out of town to the something called the where all the cinema complex were and stuff like that and I took her out we came back and we got dropped off in the middle of town and it were like a Friday night and we were walking up this street and my ex boyfriend came up to me and like swung for me cos er he were a violent shit and I'd

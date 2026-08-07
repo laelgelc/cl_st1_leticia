@@ -1,2 +1,2 @@
-variables loading on this pole = 4
-awful (1.05), single (.52), horrible (.48), pick (.31)
+variables loading on this pole = 12
+pound (.83), four (.77), hundred (.58), six (.57), month (.55), three (.51), ten (.48), two (.42), five (.36), (single (.32)), manage (.31), (minute (.30))

@@ -1,12 +1,8 @@
-Text ID: t002722
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001017_gpt.txt
+Text ID: t000108
+Group: human
+Model: human
+File:   corpus/05_human/t000108_human.txt
 
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: thinking, manage
-so yeah, this is the message he sent, right. He says he went next door, they offered him this legal herbal weed thing and he thought, oh yeah, that’s fine, it’s legal. Smoked it, and then suddenly he’s having this really horrible trip, can’t stand up, can’t talk, everyone just sitting around watching him fall to pieces. He’s describing how he’s lying there thinking he’s dying or something, totally out of it, and no one’s actually helping, they’re just sort of staring at him and chatting.
-
-Then eventually he manages to get himself home, staggers back, and as soon as he gets in he’s sick everywhere, proper vomiting, and then he texts saying how sorry he is and how angry he is with himself for being so stupid and taking it in the first place. Going on about how awful it was and how he never wants to touch anything like that again.
-
-And I’m reading this thinking, well, you could’ve texted me while this was actually happening, you know? Instead of waiting till after you’ve been sick and had your drama. I’m not your girlfriend or your wife, sitting around making you dinner and waiting for you to come back from getting off your face. It really annoys me being treated like that.
+Score (f3_pos): 8
+Loading words (f3_pos), N=8: erm, okay, cos, somebody, oh, you, know, say
+but chances are that somebody else will catch it from me and when we found out it was on a Friday afternoon we thought oh god okay I need to tell everybody there's going to be panic so I sent out an email to say we've had at that point here instances of this this is what it is this is a link to the NHS website about it have a look at it look out for symptoms I'm coming round with antibacterial wipes and we wiped every single surface in that building well in those two buildings entrance doors light bulbs taps the kettle handles every single thing fridge handles everything we could think of erm so we didn't have sick pay at that point but I I sat down with the finance director on Friday and I said look these people have had this you know we said to one of them that's fine we don't want you in we're telling you not to come in cos you're contagious so we'll pay you and she said now it'll be exactly the same for all four of them so yeah something like that like you say about passing things on

@@ -1,8 +1,8 @@
-Text ID: t001589
+Text ID: t000713
 Group: human
 Model: human
-File:   corpus/05_human/t001589_human.txt
+File:   corpus/05_human/t000713_human.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: month, pound
-all this started spiralling from so I I to be honest I don't really understand it so I'm just gonna write and say look I don't understand how this has happened I have come in and spoke to you about this before you can see I paid in a cheque of two hundred pounds two months ago to hopefully clear this and it hasn't it's just been eaten by more charges and I'm in the same position again I don't understand it can I have a meeting with you please and go through this account cos it's just gonna get out of control
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: alright
+and erm I said to him well this is where cos I then I thought if he hears that answerphone message come back and hears it he'll go and look for me down in old village which is where I where I was initially but no fortunately he had only just come in and he said well you don't need me then and I said no it's alright come to my rescue bless his heart and he was really good he went in got his machine out and just dislodged the battery and er and checked it all and put the machine on and that's it

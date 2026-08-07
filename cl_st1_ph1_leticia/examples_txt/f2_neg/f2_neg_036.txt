@@ -1,8 +1,8 @@
-Text ID: t003247
+Text ID: t001997
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t001542_gpt.txt
+File:   corpus/05_profiled_gpt/t000292_gpt.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: god
-oh my god you’ve bought a house? that’s amazing, good luck with it all, it must be so stressful sorting everything out. I’m all right, yeah, just glad to be back really – I’ll explain everything properly when we see each other. it’s mad though, those two years have gone so quickly. I’m twenty-eight now, getting old, aren’t I? how old are you now, twenty-seven? your birthday was in August, wasn’t it? I’m really sorry I missed it. did you have a good time, what did you get? I’m really looking forward to seeing you properly, in person, and catching up.
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+so in the end we all went up to the Co-op together with him in the pushchair, and he did actually nod off on the way there. But then he woke up again on the way back, and of course that’s when it started absolutely throwing it down, so we were running back to the house with him. As soon as we got in he went off to sleep again, so we were all creeping about, keeping really quiet while he was asleep. I said, well I’ll go then, and I left them to it. Later she sent me a photo of him – he’d only done about forty minutes. I said he’ll be ready for bed tonight.

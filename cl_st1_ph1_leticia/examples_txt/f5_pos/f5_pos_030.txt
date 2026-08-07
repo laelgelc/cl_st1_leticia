@@ -1,8 +1,8 @@
-Text ID: t004798
-Group: unprofiled_gpt
+Text ID: t001766
+Group: profiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001388_gpt.txt
+File:   corpus/05_profiled_gpt/t000061_gpt.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: awful, single
-we were all in that tight little circle after everyone had left the church, and I was just crying, properly breaking down, and people were kind of taking turns comforting me and hugging me. I remember talking about how we should meet up and how sad everything was, and it was all just really emotional. And the whole time, while I was being hugged and trying to talk through how awful it felt, they were just there, standing off a bit, staring at me in this really weird way. We didn’t say a single word to each other, not even a hello, nothing at all, just that strange, silent staring.
+Score (f5_pos): 4
+Loading words (f5_pos), N=4: month, three, two, manage
+She’ll be doing her two foundation years up in Staffordshire, and in each of those years she’ll rotate through three different jobs. In her first year she’s got three months at Burton hospital doing cardiology, then three months doing breast surgery, which she’s really pleased about. After that she’ll be at Tamworth hospital in psychiatry, which she’s not keen on at all. The one consolation is that it’s more of a nine-to-five clinic unit rather than a full-on hospital post, so with a bit of luck she might manage to avoid doing night shifts there.

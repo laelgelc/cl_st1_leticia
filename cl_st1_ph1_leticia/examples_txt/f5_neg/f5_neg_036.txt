@@ -1,8 +1,8 @@
-Text ID: t003396
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001691_gpt.txt
+Text ID: t000697
+Group: human
+Model: human
+File:   corpus/05_human/t000697_human.txt
 
 Score (f5_neg): -1
-Loading words (f5_neg), N=1: set
-we even went further than just the loose gunpowder, you know. There was a few of us, we made a sort of makeshift rifle out of a bit of short copper pipe. We sealed one end up, packed it with the gunpowder we’d made, then put some wadding in and a ball bearing down the end as the shot. Then we set the thing up on a fire, and we were hiding behind a tree, aiming it at this sapling, about six inches thick, and it actually blew a hole straight through it.
+Loading words (f5_neg), N=1: push
+Yeah You wanna get out of that habit oh it's really bad someone put a sign on the bike shed door and it's been corrected by so many people not for proof stuff just like um er s well someone corrected a tense in one of them and then somebody else somebody er they've put h hold your card in front of of the reader and it will open and they've put no no you put your har your card in front of the reader and then push it won't open by itself Huh just don't work in a pub don't put up notices in a publishing house

@@ -1,8 +1,8 @@
-Text ID: t003670
-Group: unprofiled_gpt
+Text ID: t002939
+Group: profiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000260_gpt.txt
+File:   corpus/05_profiled_gpt/t001234_gpt.txt
 
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: thinking, manage
-when you were little I used to discover, quite painfully, that carbohydrates really don’t agree with me. I’d make you your lunch, and if there was hot pasta left over I’d just finish it off without thinking. About twenty minutes later I’d be absolutely wiped out. I remember literally crawling from the kitchen into the living room, managing to get CBeebies on, and then just conking out on the floor. I’d sleep there for about half an hour, completely gone, because of all that pasta.
+Score (f3_pos): 5
+Loading words (f3_pos), N=5: somebody, oh, you, know, say
+so I’d said to him I’d got a meeting on the Friday, and then he started firing all these texts back at me, asking if I could change it, sort of pushing, you know, “what, you’ve arranged a meeting for a Friday afternoon?” and questioning whether it was even a real meeting. I just left most of them, didn’t answer, because I didn’t want to get drawn in. In the end I replied once, quite firmly, and said no, I wasn’t moving it, because somebody was coming up from Birmingham and it was potentially really important. Then he texted back saying it sounded too good to be true to be work, which I just thought, oh here we go, and I ignored that as well.

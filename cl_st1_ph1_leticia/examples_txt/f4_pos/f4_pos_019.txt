@@ -1,10 +1,8 @@
-Text ID: t002841
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001136_gpt.txt
+Text ID: t000955
+Group: human
+Model: human
+File:   corpus/05_human/t000955_human.txt
 
 Score (f4_pos): 3
-Loading words (f4_pos), N=3: stick, clear, make
-so yeah his ex was Hungarian, and then one night after work he literally followed me as I was leaving and asked if I wanted to go for a drink, just the two of us. I was like, this is so awkward because I was leaving in a month and I really wasn’t keen on starting anything that close to going home. I tried to make that clear but he still seemed really into the idea. 
-
-In the end I said yes, we could go out, but I kind of decided I’d make it obvious I wasn’t trying to impress him. So we arranged it for a Tuesday and I properly dressed down on purpose – no makeup at all, stuck my glasses on, just totally casual. I thought that would put him off a bit. But I still texted him to sort out where and when to meet, so we did actually plan it properly.
+Loading words (f4_pos), N=3: shit, sorry, like
+yeah I was fine and then suddenly it just hit me and I don't actually know how I even got home I don't know very much really erm but I called everybody like I was calling my par like I called everybody on my phone and I called him by accident and he must have picked up so I'm like he like and then the next day sent me a message like oh he was really worried about you like and I was like shit sorry I I don't remember I I called everybody I my phone it's ridiculous I had messages from everybody being like where are you? are you in hospital? like please get i please contact us like it was horrendous and he's like

@@ -33,141 +33,141 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac2	SD fac2
-group	human	1705	-0.15249267	0.45214143
-group	profiled_gpt	1705	0.09032258	0.36101897
-group	unprofiled_gpt	1705	0.06803519	0.33924446
+group	human	1705	0.23929619	1.37088418
+group	profiled_gpt	1705	0.66744868	1.81549852
+group	unprofiled_gpt	1705	0.63167155	1.74297546
 
 === FACTOR LOADINGS (f2_neg) ===
-variables loading on this pole = 6
-god (-.67), (fuck (-.66)), (pound (-.60)), (shit (-.46)), gonna (-.45), (single (-.41))
+variables loading on this pole = 8
+(shit (-.39)), (um (-.39)), (alright (-.38)), minute (-.36), he (-.34), him (-.31), (awful (-.30)), (oh (-.30))
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f2_neg_001.txt (text ID t001195) =====
-Text ID: t001195
+===== EXCERPT: f2_neg_001.txt (text ID t001327) =====
+Text ID: t001327
 Group: human
 Model: human
-File:   corpus/05_human/t001195_human.txt
+File:   corpus/05_human/t001327_human.txt
+
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+and it started it it star it he he was getting into it was like a life story you know and and then after I don't know about ten or fifteen minutes he said oh do you want a coffee or something? yeah thank you very much so I thought oh well I know it's a nice sunny day and I'm missing the sunshine but I've got nothing else to do so you know I'll chat with him and he was telling me about all what he used to do how he used to be a colonel in the army
+
+--- Loading words for this example (neg): minute, he, him
+
+
+===== EXCERPT: f2_neg_002.txt (text ID t001230) =====
+Text ID: t001230
+Group: human
+Model: human
+File:   corpus/05_human/t001230_human.txt
+
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+he has said as a result of all of this he's come to a new way of thinking so three weeks three Fridays ago I met him for a cup of tea at marina and erm because he's he'd got some stuff to discuss and I just thought you know I haven't been responding to him and in fairness I need to just hear him out he'd sent this letters to me and I have just ignored them not responded to them or anything erm I've started going swimming ten minutes later so I don't have to come
+
+--- Loading words for this example (neg): minute, he, him
+
+
+===== EXCERPT: f2_neg_003.txt (text ID t000625) =====
+Text ID: t000625
+Group: human
+Model: human
+File:   corpus/05_human/t000625_human.txt
+
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+yeah just not sure that anybody else is going to try and but I was saying to today at work the way the way he's being now I mean I don't believe for one minute that he's being malicious you know he just doesn't know me better and he just needs to grow up and learn that when he's got somebody to lean on who is going to come back in the pecking order and and say okay we'll do this and he's always going to have someone to do it for him and right now that someone has got to be me
+
+--- Loading words for this example (neg): minute, he, him
+
+
+===== EXCERPT: f2_neg_004.txt (text ID t000292) =====
+Text ID: t000292
+Group: human
+Model: human
+File:   corpus/05_human/t000292_human.txt
+
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+so erm we did we all went out we went up to the Co-op erm and he'd just started to fall asleep as we got to the Co-op so I took and carried on walking then he woke up again on the way back and then the heavens opened and it threw it down so we were running back to the house and he went to sleep so we got him in the house and he was asleep and nobody moved and nobody said anything so I said well I'll leave now but she sent me a photo of him in his bouncer forty minutes later so it was only a quick nap so he's gonna be ready for bed tonight because this morning he
+
+--- Loading words for this example (neg): minute, he, him
+
+
+===== EXCERPT: f2_neg_005.txt (text ID t000172) =====
+Text ID: t000172
+Group: human
+Model: human
+File:   corpus/05_human/t000172_human.txt
+
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+she'd be like that's but it mean yeah but never seriously if you when we you have never ask him a question because you ask him a especially if you're trying to get something done because if you ask him a question he will literally go on for about five minutes not even joking five minutes just chatting on about nothing literally in geography last year I'd asked him one thing I'd be like oh is the erm does A match up with four and he'd be like yeah so can you tell me why A matches up with four? and why the AlasAlas why Alaska is suffering from the ? blah blah blah blah blah blah blah blah blah blah blah I really like
+
+--- Loading words for this example (neg): minute, he, him
+
+
+===== EXCERPT: f2_neg_006.txt (text ID t000548) =====
+Text ID: t000548
+Group: human
+Model: human
+File:   corpus/05_human/t000548_human.txt
+
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+probably I don't know because basically I finish my antibiotics tomorrow like lunchtime and so I think it's alright to go out because there would have been like a whole like half day but then erm I haven't seen in in a while and he said he has news for me and so he asked if I wanted to go out with him on Wednesday and I don't really wanna do both days so I don't know which one to do at the minute or whether to just try it cos can't do tomorrow cos he's got cheerleading and then
+
+--- Loading words for this example (neg): minute, he, him
+
+
+===== EXCERPT: f2_neg_007.txt (text ID t000009) =====
+Text ID: t000009
+Group: human
+Model: human
+File:   corpus/05_human/t000009_human.txt
 
 Score (f2_neg): -2
-Loading words (f2_neg), N=2: god, gonna
-and then she said oh do you you wanna do you wanna come? goes do you wanna go for a flight in the Dakota? and I was saying cos he said something about the Dakota and I was saying ah hang on I know what that is I know what that is it was in a film it was in a film and he was going what and I said hang on hang on and I was going Driving Miss Daisy no no that wasn't that that was a car and I said Memphis Belle and he's like yeah that's right and 's going oh my god you're gonna get brownie points now you're gonna get a better time than me cos you actually knew what it was I didn't know what it was she said
+Loading words (f2_neg), N=2: he, him
+and I said well he he's up at half five when he's on mornings he's on shifts it's only once every three weeks so and he said you know if it gets if it is loud and if anybody's bothered by it he'll park it up the road a bit or round the corner a bit and so it'll only be an odd night an odd morning and I just said to him you need to get the thing stuck in the exhaust and only take it out when you're going off doing other stuff in the day
 
---- Loading words for this example (neg): god, gonna
+--- Loading words for this example (neg): he, him
 
 
-===== EXCERPT: f2_neg_002.txt (text ID t001258) =====
-Text ID: t001258
+===== EXCERPT: f2_neg_008.txt (text ID t000552) =====
+Text ID: t000552
 Group: human
 Model: human
-File:   corpus/05_human/t001258_human.txt
+File:   corpus/05_human/t000552_human.txt
 
 Score (f2_neg): -2
-Loading words (f2_neg), N=2: god, gonna
-so funny right? I went so er I went way too far right we were in shopping and erm oh my god and erm so we were in shopping and sh the the dad was looking for a Christmas er pudding Christmas cake and he said to mum oh you know I'm not gonna get it from here cos it's too expensive and then he went wandering off and she was like they'd already been it's not like arguing it was just bickering do you know what I mean? so they were a bit fed up with each other
+Loading words (f2_neg), N=2: he, him
+so then erm and stopped talking to me and then every time they were in kitchen why why and like every time I see them and smile at them and say hi they ignore me what've I done? oh I've said something and anyway it was about three months later that I found out and it were were hammered then one of the hockey lads dropped him off at my door and said you need to look after him cos we're going cos he's been sick so I looked after him put him to sleep got him some water and like all that sorta shit
 
---- Loading words for this example (neg): god, gonna
+--- Loading words for this example (neg): he, him
 
 
-===== EXCERPT: f2_neg_003.txt (text ID t001261) =====
-Text ID: t001261
+===== EXCERPT: f2_neg_009.txt (text ID t000551) =====
+Text ID: t000551
 Group: human
 Model: human
-File:   corpus/05_human/t001261_human.txt
+File:   corpus/05_human/t000551_human.txt
 
 Score (f2_neg): -2
-Loading words (f2_neg), N=2: god, gonna
-and so then and then so then she started so she was obviously like she texted me like fuming mate I'm fuming and I'm like oh god I know what this is gonna be about now and erm and so she was like yeah yyou won't y like can't see him Boxing Day cos of his mum or something and I was like I was like oh alright okay and then er and then a little while later she's like oh you know you know he said I couldn't see him Boxing Day? apparently he's he's he did that cos he wants to surprise me on Boxing Day and come round to my house and I was like oh that's good then at least you're seeing him and then a a couple of days later she was like pretty sure he just said that to shut me up and I was like what? I was like what?
+Loading words (f2_neg), N=2: he, him
+well he probably didn't want to teach either I know I know he was he was a wicked teacher I mean if anything went wrong his lesson he'd have you in front of him and he used to have what they this great big slipper like that it was a massive one and this boy who er he was he was a bit well he was sort of on the feminine side but he wasn't fe feminine at all he was you know he he'd do himself up and er he grabbed this boy and he tried to get him the in this cupboard where he could get his slipper and he woah that was it cos was like a dad
 
---- Loading words for this example (neg): god, gonna
+--- Loading words for this example (neg): he, him
 
 
-===== EXCERPT: f2_neg_004.txt (text ID t001351) =====
-Text ID: t001351
+===== EXCERPT: f2_neg_010.txt (text ID t001383) =====
+Text ID: t001383
 Group: human
 Model: human
-File:   corpus/05_human/t001351_human.txt
+File:   corpus/05_human/t001383_human.txt
 
 Score (f2_neg): -2
-Loading words (f2_neg), N=2: god, gonna
-oh my god when we were in I didn't see many couples I was so happy there was a lot of groups of friends in the erm nando's I went to I was so happy but then we went like it was early so we was like let's just go cinema and just watch something we are not watching Fifty Shades my sister's seventeen anyway she can't watch it so we was gonna watch erm the Kingsman right? cos you said it was good and my sister said her friend said it was good too so we are on our way there and had clocked that the movie was starting in was six minutes we was twenty minutes away
+Loading words (f2_neg), N=2: minute, he
+so I took her to the cinema and we we got erm the bus back into town cos you had to go like twenty minutes out of town to the something called the where all the cinema complex were and stuff like that and I took her out we came back and we got dropped off in the middle of town and it were like a Friday night and we were walking up this street and my ex boyfriend came up to me and like swung for me cos er he were a violent shit and I'd
 
---- Loading words for this example (neg): god, gonna
-
-
-===== EXCERPT: f2_neg_005.txt (text ID t001354) =====
-Text ID: t001354
-Group: human
-Model: human
-File:   corpus/05_human/t001354_human.txt
-
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: god, gonna
-erm yeah so I'd already been referred for my back and er then I ended up doing this stuff which drove me mad and erm then I got referred again and I missed two appointments so she was absolutely hopping mad with me so I went in there and I thought oh my god she's gonna be s she did give me such a hard time and erm actually I said look I'll be perfectly frank what I want is I want a set of exercises cos I am so stiff I don't know what to do with myself and I've got knee pain and back pain and actually she was really very switched on erm and she says yes I am extraordinarily erm stiff
-
---- Loading words for this example (neg): god, gonna
-
-
-===== EXCERPT: f2_neg_006.txt (text ID t001434) =====
-Text ID: t001434
-Group: human
-Model: human
-File:   corpus/05_human/t001434_human.txt
-
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: god, gonna
-he said I've got a workshop I've got an office down the bottom of my garden he said with electricity heating a toilet I work from there he said and er I've got everything I need the kids keep saying to me get out dad get out he said there are one or two families I said where are you gonna go? where are you not gonna get one or two families that are gonna spoil? he said I know he said so I'm quite happy and I said erm I said I said ring a bell? he went oh god yeah
-
---- Loading words for this example (neg): god, gonna
-
-
-===== EXCERPT: f2_neg_007.txt (text ID t000454) =====
-Text ID: t000454
-Group: human
-Model: human
-File:   corpus/05_human/t000454_human.txt
-
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: gonna
-I'm sorry like I don't have time to make them some of my problem like before even asking me like I hadn't even gotten back to France at that point when they had the booking for these people coming in saying yeah we are gonna like put us kids in school for a year and see how it goes in France and like naming the schools and stuff before I even knew that there was going to be that long term tenant before they even aske my mum even asked me if I was okay with it she sent a message to tthis woman like saying yeah will be help h will be happy to come over every night and give tutoring she'll give so much advice cos she's lived through all of this kind of stuff and I was just like no I'm sorry like not to sound selfish but when I moved over there there was no one there
-
---- Loading words for this example (neg): gonna
-
-
-===== EXCERPT: f2_neg_008.txt (text ID t000453) =====
-Text ID: t000453
-Group: human
-Model: human
-File:   corpus/05_human/t000453_human.txt
-
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: god
-over uni that is literally the only people that I have ever gossiped with like about my parents my mum god her life just sounds so fucking sad like she'll literally be like yeah so we were at book club and then said this and I was just well like I'm actually the one that's in like the cleaner business so why didn't she like refer this person to me I could do with the extra money and she knows that but no she went and gave it to some other person and I was like is your life actually that fucking sad that you are gossiping to me about book club?
-
---- Loading words for this example (neg): god
-
-
-===== EXCERPT: f2_neg_009.txt (text ID t000452) =====
-Text ID: t000452
-Group: human
-Model: human
-File:   corpus/05_human/t000452_human.txt
-
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: gonna
-and it turned into a massive argument and then my dad being the peacekeeper that he is would always come to me and be like you're not handling the situation appropriately go apologise to your mum and I would just be like what the fuck is actually happening can I not actually have an opinion in this house it's like you always just gonna be there so that you can just keep the peace regardless of what I'm feeling or whatever so I ended up having arguments with my dad about it just for my mum's benefit
-
---- Loading words for this example (neg): gonna
-
-
-===== EXCERPT: f2_neg_010.txt (text ID t000450) =====
-Text ID: t000450
-Group: human
-Model: human
-File:   corpus/05_human/t000450_human.txt
-
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: god
-no no no please let me finish that god is a thing that people can talk to and pray to by putting their hands together and somehow talking to him wherever he is and and he answers their prayers even though there's about seven billion people on the planet probably about two of those probably at least one billion are praying at that time I don't know not one billion praying at that very time but a lot so yes I don't think he is listen to all of those at the same time if he was real and like
-
---- Loading words for this example (neg): god
+--- Loading words for this example (neg): minute, he

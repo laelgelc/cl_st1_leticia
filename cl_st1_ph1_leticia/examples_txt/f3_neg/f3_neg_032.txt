@@ -1,8 +1,8 @@
-Text ID: t003289
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001584_gpt.txt
+Text ID: t000652
+Group: human
+Model: human
+File:   corpus/05_human/t000652_human.txt
 
 Score (f3_neg): -1
-Loading words (f3_neg), N=1: fact
-I mean, she does actually like him and she does respect him, you know. And she really rates the fact that there are certain things about himself he just won’t change, like she can’t get in there and fiddle with every little bit of his personality, and she kind of admires that. But the weird thing is, she used to sort of pretend to be this really manipulative, shallow, bossy type of girl, like it was a joke, a bit of an act. And now I honestly can’t tell if she’s still joking or not, because she’s turned into this total caricature of what she was pretending to be, and it feels like it’s properly real now.
+Loading words (f3_neg), N=1: huge
+yeah yeah it really was so em I found the most obvious place on the map after the last one had been diluted because eh version one point O came out em so I went to the coordinate zero zero and started building this town and there's this eh there's this one guy on the server that was a bit too keen just spent hours and hours and hours playing on it and I just sort of set up the basics and he made it look beautiful we had a communal mine as well which which was really nice and em to to keep the animals as well eh just wanted sort of little fence pens but this guy made a huge huge great barn

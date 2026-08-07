@@ -1,8 +1,8 @@
-Text ID: t001453
+Text ID: t001048
 Group: human
 Model: human
-File:   corpus/05_human/t001453_human.txt
+File:   corpus/05_human/t001048_human.txt
 
 Score (f6_pos): 1
-Loading words (f6_pos), N=1: pound
-yeah so that's what it's for but then the other problem is the pipe numbers are normally handwritten on so when they start in Turkey it's a six digit number usually maybe eight digits written on this pipe and then they go and get coated and that it's gone over so somebody has writ somebody's written it down it has gone into the coating plant and it's come out they've written it back on so you've got human error there because somebody somebody at paid five pound an hour is not gonna write the right number on then you've got the fact that the ones are done like that with the sevens
+Loading words (f6_pos), N=1: alright
+well I I might shshe drinks it out of the bottle top that'll do so long as it's an old bottle top it's alright we'll have to get a few little bits like that soon nearly time for her to start eating well let's just see how this this water has gone down alright she doesn't seem to have any problems with it so because it's so hot they c if she gets thirsty I told if she gets hiccups she can have a little bit of water but I said just one or two capfuls er she might give more but yeah she's not gonna give her a whole yeah you're on water aren't you? isn't it?

@@ -1,8 +1,10 @@
-Text ID: t001151
-Group: human
-Model: human
-File:   corpus/05_human/t001151_human.txt
+Text ID: t002144
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000439_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-ye the grammar's really bad religions youth and active citizenship EU integration and how joining the EU would be good or not lunch and then in the afternoon meet with volunteers in Zid and walking tour true through old part of Podgorica day two workshop on the freedom of journalism visit one newspaper or TV station in the afternoon interviews with some political analysis and journalists day three a democratic workshop topic on human rights introduction working in small groups planned visit of the guest we will do our best to provide the participants with an opportunity to talk with a guest either an MP or representative of the UK embassy in Montenegro about subtopics covered during the workshop each group will have ten to fifteen minutes to interview the guest or to discuss about subtopic visiting the parliament of Montenegro tour of the building er during the visit participants will have the opportunity to get familiar with the parliamentary democracy in Montenegro through interactive methods then presentation and evaluation free in the afternoon day four visit of the Catholic church discussion with people engaged in Don Bosko centre visit of an orthodox cathedral discussion with priest in cathedral er excursion visit the monastery out of city Ostrog day five visit the Madras Muslim school and cultural centre in Dinosa a village near Albanian border visit the gymnasium in Tuzi and mani municipality with majority of MMuslim and Catholic Albanians workshop with students joint lunch excursion for elderly part of group vine roads dinner on the lake day six excursion visit the seaside beach Budva and Kotor
+Score (f4_neg): -2
+Loading words (f4_neg), N=3: properly, chat, straight
+yeah we had it really similar when we went out to Florida, we just sort of turned up with nothing booked at all, no accommodation or anything, just figured we’d sort it when we got there. We ended up in a TGI Friday’s and got chatting to this Puerto Rican couple, and they were just ridiculously friendly, straight away. Next thing we know they’re like, “oh you haven’t got anywhere to stay? Come and stay with us, we’ll take you out,” that sort of thing. And it wasn’t just them either, loads of people we met out there were like that, really welcoming, really up for looking after you and showing you around.
+
+We hit this massive St Patrick’s Day street party while we were there as well, just huge, everything shut off and everyone out in the street drinking. The booze was insanely cheap, like properly cheap, so of course we just got absolutely hammered. Then later on in Miami, down on South Beach, Radio One were doing some big thing, loads of music and that, and we got really, really drunk there as well. I remember just ending up on the beach and properly projectile vomiting on the sand, it was that bad. One of those nights where you’re having a brilliant time but you’re in a right state by the end of it.

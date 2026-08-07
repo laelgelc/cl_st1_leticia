@@ -1,10 +1,8 @@
-Text ID: t003082
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001377_gpt.txt
+Text ID: t000254
+Group: human
+Model: human
+File:   corpus/05_human/t000254_human.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-Aye, that robin shot was actually without any zoom at all. I’d pulled into this wee snowy car park at the start of Loch Luneck, just north of Callander. I walked down to the waterfront to set the tripod up, getting ready to take a few landscape shots. While I was faffing about with the gear, this robin just appeared out of nowhere.
-
-It landed right beside me on the wall, practically next to my camera bag. I just stayed absolutely still, didn’t move a muscle, and it seemed quite happy to sit there in the snow. Because it was so close in, I didn’t need a zoom lens – just framed it carefully and fired off a couple of close‑up shots. After a wee minute or so it eventually flew off again, but it gave me enough time to get the photos you saw.
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: chat, straight
+I had a little chat with her last night when I and and said to her I'm a little bit worried about you I says because you're having a go at people for for no reason you you're upsetting people you're having a go at I said no you know can says things I says but you get upset with quite quickly you you're not thinking straight I says I'm just a little bit conc I'm concerned about you I'm worried about you I said I know that you're not enjoying the sixth form as such

@@ -1,2 +1,2 @@
-variables loading on this pole = 4
-shit (-.78), (horrible (-.42)), (bloke (-.41)), (minute (-.33))
+variables loading on this pole = 27
+bloke (-.47), stand (-.43), totally (-.43), absolutely (-.42), later (-.41), nothing (-.41), suddenly (-.41), bother (-.40), anyone (-.38), awful (-.38), completely (-.37), try (-.36), even (-.35), everything (-.35), head (-.35), just (-.35), expect (-.34), (alright (-.33)), (massive (-.33)), (normal (-.33)), carry (-.32), (clearly (-.32)), (thinking (-.32)), afterwards (-.31), (honestly (-.31)), proper (-.31), stick (-.30)

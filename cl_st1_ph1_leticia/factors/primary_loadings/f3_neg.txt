@@ -1,2 +1,2 @@
-variables loading on this pole = 4
-wanna (-.70), fact (-.61), okay (-.56), reason (-.54)
+variables loading on this pole = 3
+huge (-.70), massive (-.44), finally (-.39)

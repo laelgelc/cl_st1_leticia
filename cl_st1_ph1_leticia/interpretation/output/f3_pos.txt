@@ -1,131 +1,116 @@
-This pole is best interpreted as a **lexicalised discourse of scale and achievement**, strongly associated with profiled GPT turns.
+This pole is clearly driven by human conversational speech, and it encodes a highly interactive, disfluent, “on‑the‑fly” spoken discourse style.
 
 ### 1. Who drives this pole?
 
-Mean scores on f3:
+Mean scores:
+- Human: 3.38  
+- Profiled GPT: 1.41  
+- Unprofiled GPT: 1.39  
 
-- profiled_gpt: **+0.097**
-- unprofiled_gpt: +0.063  
-- human: **–0.195**
+Humans are substantially higher than both LLM conditions. So this pole is primarily a *human conversational* dimension, only weakly approximated by GPT output.
 
-So the positive pole is clearly **LLM‑driven**, especially by **profiled GPT** outputs. Human turns are, on average, on the opposite side of the factor.
+### 2. Linguistic profile of the pole
 
-### 2. Lexical loadings and what they encode
+Top loadings (all strongly speech‑like, informal, and interactional):
 
-High positive loadings:
+- Disfluencies / hesitation markers:  
+  - er (.73), erm (.69), wo (.57 – likely truncated “won’t/wouldn’t”), oh (.39)  
+- Informal spoken forms:  
+  - wanna (.70), cos (.42), gonna (.38), okay (.47), alright (.46)  
+- Interactive / addressee‑oriented items:  
+  - you (.37), know (.31), say (.31), yes (.41), somebody (.41), fact (.35)
 
-- **huge (.81), massive (.45)**  
-  → very strong, repeated **scalar evaluators of size/extent/intensity**  
-- **thinking (.77)**  
-  → metacognitive stance marker: “I’m thinking…”, “I’m just sat there thinking…”  
-- **manage (.35)**  
-  → achievement / successful coping: “they managed to construct…”, “I’d managed to fit it in…”, “he managed to get himself home…”  
-- **bloke (.43)**  
-  → colloquial British register, often used in narrative characterisation  
-- **single (.32)**  
-  → often part of scalar constructions (“every single thing”, “single day”), or status descriptors (“single bloke”), again evaluative.
+Taken together, these are classic markers of:
+- Real‑time planning and repair (er, erm, oh, wo)  
+- Casual, colloquial register (wanna, gonna, cos, okay, alright)  
+- Direct engagement with a hearer and co‑construction of meaning (you know, you see / I say, yes, somebody)
 
-Taken together, the loadings point to a **colloquial, evaluative narrative style** that:
+They point to spontaneous, informal, listener‑oriented talk.
 
-- foregrounds **bigness / extent** (huge, massive)
-- foregrounds **coping / accomplishment** (manage)
-- foregrounds **ongoing reflection** (thinking)
-- is **British‑colloquial in voice** (bloke, every single X)
+### 3. What the excerpts show
 
-### 3. Evidence from the high‑scoring excerpts
+All 10 high‑scoring texts are human turns. Across them we see:
 
-Across the examples, the loading items are not random; they cluster in a consistent discourse pattern.
+**a. Heavy disfluency and real‑time planning**
 
-#### a. Scale and magnitude as a framing device
+- “like oh erm dinner at for my birthday let me know if you can make it…”  
+- “er er er”  
+- “erm so we didn’t have sick pay at that point but I I sat down…”  
+- “I was like I was like oh alright okay and then er and then a little while later…”
 
-“huge” / “massive” are used to frame:
+Speakers are clearly thinking aloud, revising, and stalling. This is not pre‑planned narrative; it’s emergent talk.
 
-- **Quantities / datasets / spaces**  
-  - “this massive sifting process… from that huge pile of ordinary days” (t002630)  
-  - “this massive quantity of footage… this huge pile of material” (t002631)  
-  - “this massive room… these huge square storage units” (t002474)  
-  - “massive houses… huge Christmas tree” (t002358)  
-  - “massive box… both of them huge” (t002682)  
-  - “over such a huge area” (t002291)  
-  - “absolutely massive tower” (t002362)
+**b. Strong addressee orientation and co‑construction**
 
-- **Events / issues / reactions**  
-  - “It wasn’t even anything massive, just a day out, but she turned it into this big drama” (t002160)  
-  - “massive fry‑up… huge portions” (t002474, t001892)
+Frequent “you” and “you know” used not just referentially but as discourse devices:
 
-So “huge/massive” are doing **discourse work**: they scale up the situation, making it feel consequential, impressive, or excessive.
+- “do you know what I mean?”  
+- “you know they've got these fifteen sixteen divisions…”  
+- “you know what I mean?”  
+- “like you say about passing things on”  
+- “okay? so what's the outcome of talking to his lecturer…”
 
-#### b. Managing, coping, and achieving
+These invite alignment, check understanding, and build shared ground.
 
-“manage(d)” consistently encodes **successful navigation of difficulty**:
+**c. Storytelling and stance‑taking in everyday situations**
 
-- “they managed to construct a really powerful narrative” (t002630)  
-- “I’d managed to fit it in before everything got busy again” (t002160)  
-- “nobody had any idea how he’d managed to get up there” (t002474)  
-- “he manages to get himself home” (t002722)  
-- “the Incas managed to build and organise an empire across all of that” (t002291)  
-- “basically managed to flood the whole area” (t002362) – here, ironically, managing something *disastrous*
+The content is often anecdotal, evaluative, and interpersonal:
 
-This gives the pole a **problem–solution / challenge–outcome** flavour: narratives are structured around what people manage (or fail) to do in the face of large‑scale or tricky circumstances.
+- Complaining about a friend’s behaviour (Excerpt 1)  
+- Telling a bureaucratic/planning‑permission story (Excerpt 2)  
+- Explaining work roles and organisational problems (Excerpt 3)  
+- Narratives about illness at work, pay, holidays, ski trips, salary negotiations, etc.
 
-#### c. Ongoing reflection and stance (“thinking”)
+The discourse is not just transactional; it’s rich in stance, evaluation, and interpersonal positioning (“it’s really bad”, “oh god okay I need to tell everybody”, “I was just a disaster on the slopes”).
 
-“thinking” appears in first‑person stance frames:
+**d. Informal, collaborative, “chatty” organisation**
 
-- “I’m thinking back to those filmmaking projects…” (t002630)  
-- “What I’m thinking is that what we’re talking about is almost the reverse…” (t002631)  
-- “I’m just sat there thinking, what does she actually expect?” (t002160)  
-- “he’s lying there thinking he’s dying or something” (t002722)  
-- “I’m reading this thinking, well, you could’ve texted me…” (t002722)
+Markers like “okay”, “alright”, “oh”, “yes” punctuate the discourse, signalling:
 
-This is a **reflective, metacognitive narration**: speakers explicitly report their thought processes, often to evaluate others’ behaviour or to reframe the situation.
+- Turn management and topic shifts (“okay this case study may not come university but…”)  
+- Alignment and encouragement (“oh that's good then at least you're seeing him”)  
+- Back‑channel‑like agreement within monologic stretches (“yes yes labels yes…”)
 
-#### d. Colloquial, story‑telling voice
+Even when only one speaker is transcribed, the language simulates dialogic interaction.
 
-The excerpts are rich in:
+### 4. Integrating loadings and examples
 
-- **Colloquial British lexis and constructions**: bloke, mad, keen guy, big lads, properly, loads, got to go, had a go, reckon, stuff, bit boring, drama, off his face, chuffed, proper vomiting, etc.
-- **Narrative sequencing**: “then… then… and then… after that… eventually… so after that disaster…”
-- **Evaluation and stance**: “really powerful”, “quite chuffed”, “so ridiculous”, “it’s insane”, “I’m honestly so jealous”, “it really annoys me”.
+Loadings tell us this pole is defined by:
+- Disfluency + colloquial forms + second‑person engagement.
 
-The pole is therefore not just about “big things”; it is about **telling stories of big or intense situations in a strongly evaluative, reflective, colloquial way**.
+The examples confirm that these features cluster in:
+- Spontaneous, informal, highly interactive storytelling and explanation, where the speaker:
+  - Thinks aloud (er/erm, restarts, repairs),
+  - Directly orients to a hearer (you, you know, okay?, yes),
+  - Uses casual forms (wanna, gonna, cos, oh, alright).
 
-### 4. Discourse interpretation
-
-Putting the lexical and textual evidence together, this positive pole encodes a discourse style that:
-
-- **Foregrounds scale and intensity**: events, spaces, quantities, and problems are routinely framed as huge/massive, even when objectively mundane (a day out, a fry‑up, a Minecraft build).
-- **Narrativises coping and accomplishment**: “manage” structures the story around what people succeed (or fail) to do in the face of those scaled‑up circumstances.
-- **Makes thought processes explicit**: “thinking” introduces internal commentary, often evaluative or contrastive (“I’m thinking… what does she actually expect?”).
-- **Uses a colloquial, British‑inflected voice** to make these narratives feel conversational and personal.
-
-This is especially characteristic of **profiled GPT** outputs, which appear to amplify:
-
-- scalar adjectives (huge, massive),
-- explicit metacognition (I’m thinking…),
-- and achievement framing (managed to…),
-
-to produce a vivid, story‑like conversational style.
+This is not just “spoken vs written”; it’s specifically *chatty, co‑constructed, everyday spoken narrative/explanation*.
 
 ### 5. Possible labels for this pole
 
-Any label should capture: (i) **scale/intensity**, (ii) **coping/achievement**, and (iii) **reflective, colloquial narration**. Some plausible labels:
+Any label should capture:  
+– spontaneity and disfluency,  
+– informality/colloquialism,  
+– strong addressee orientation and interpersonal involvement,  
+– human‑driven conversational style.
 
-1. **“Colloquial Big‑Scale Narrative & Coping Discourse”**  
-   - highlights the everyday, chatty voice (“colloquial”), the pervasive use of huge/massive (“big‑scale”), and the manage‑based achievement framing (“coping”).
+Plausible labels:
 
-2. **“Evaluative Scale‑and‑Achievement Storytelling”**  
-   - foregrounds the evaluative use of scalar adjectives and the manage‑based achievement structure within narrative.
+1. **Spontaneous, Addressee‑Engaged Conversation**  
+   - Highlights real‑time production (“spontaneous”) and the centrality of “you/you know/okay/yes” as engagement devices.
 
-3. **“Reflective High‑Magnitude Personal Narration”**  
-   - “reflective” from thinking, “high‑magnitude” from huge/massive, “personal narration” from the first‑person, story‑telling style.
+2. **Disfluent, Colloquial Storytelling and Explanation**  
+   - Emphasises the heavy “er/erm/oh” profile plus the narrative/explanatory content in the excerpts.
 
-If I had to choose one concise label grounded in both loadings and examples, I would propose:
+3. **Interactive, Chatty Spoken Mode**  
+   - Captures the informal, “chatty” feel and the strong interactional orientation.
 
-> **Colloquial Big‑Scale Coping Narratives**
+If a single label is needed, I would propose:
 
-because it directly encodes:
-- **Colloquial**: bloke, loads, proper, etc.  
-- **Big‑Scale**: huge, massive, single (as intensifier)  
-- **Coping**: manage  
-- **Narratives**: the strongly story‑like, reflective use of thinking and sequential structure.
+> **“Spontaneous, Addressee‑Engaged Conversational Talk”**
+
+because it best integrates:
+- the disfluency and on‑the‑fly planning (spontaneous),
+- the direct orientation to the hearer (addressee‑engaged),
+- and the overall register (conversational talk),  
+and it aligns with the fact that this pole is strongly driven by human turns rather than GPT output.

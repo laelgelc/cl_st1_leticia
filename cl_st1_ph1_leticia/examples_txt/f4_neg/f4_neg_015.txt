@@ -1,8 +1,8 @@
-Text ID: t001221
-Group: human
-Model: human
-File:   corpus/05_human/t001221_human.txt
+Text ID: t001751
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000046_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-so I used to just go on Mondays and obviously not see him wait for the triathlon to finish get in do my swim now he's come back to it like he said to me he wrote on this letter or did he wrote a letter or text me? I can't remember and just said erm I know you want to see me because you're coming swimming on a Monday night and I was like I've swum for years on a Monday night I don't come to see you and he said well the fact that you were there waiting to get in when we get out he said you could easily have come five minutes later so the next week I went later
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: once, change
+I think this idea could work really well because it changes the whole dynamic of what people bring. Instead of just turning up with problems they want fixed, they’d be coming with experiences they’re keen to develop by sharing their stories. That feels much more positive and generative. Once those stories are out there, other people—because we’re social creatures—would naturally want to get involved, respond, and add their own layers. It becomes a kind of collaborative storytelling, where development happens organically through that shared process.

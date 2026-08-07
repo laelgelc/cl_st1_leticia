@@ -1,8 +1,8 @@
-Text ID: t002048
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000343_gpt.txt
+Text ID: t001151
+Group: human
+Model: human
+File:   corpus/05_human/t001151_human.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: single, pick
-So my boss sent this email round saying that after talking to the controller, apparently this new process and system are working really well, everyone’s on board, all that. And I’m just sitting there thinking, how? Because since they changed the roles we’ve ended up doing loads of extra admin, picking up bits that used to be someone else’s job. It doesn’t feel streamlined at all, it’s just more work. I honestly doubt she’s actually asked anyone if they’re happy with it, because I can’t think of a single person who is. It just feels completely out of touch.
+Score (f5_pos): 6
+Loading words (f5_pos), N=6: four, six, three, ten, two, five
+ye the grammar's really bad religions youth and active citizenship EU integration and how joining the EU would be good or not lunch and then in the afternoon meet with volunteers in Zid and walking tour true through old part of Podgorica day two workshop on the freedom of journalism visit one newspaper or TV station in the afternoon interviews with some political analysis and journalists day three a democratic workshop topic on human rights introduction working in small groups planned visit of the guest we will do our best to provide the participants with an opportunity to talk with a guest either an MP or representative of the UK embassy in Montenegro about subtopics covered during the workshop each group will have ten to fifteen minutes to interview the guest or to discuss about subtopic visiting the parliament of Montenegro tour of the building er during the visit participants will have the opportunity to get familiar with the parliamentary democracy in Montenegro through interactive methods then presentation and evaluation free in the afternoon day four visit of the Catholic church discussion with people engaged in Don Bosko centre visit of an orthodox cathedral discussion with priest in cathedral er excursion visit the monastery out of city Ostrog day five visit the Madras Muslim school and cultural centre in Dinosa a village near Albanian border visit the gymnasium in Tuzi and mani municipality with majority of MMuslim and Catholic Albanians workshop with students joint lunch excursion for elderly part of group vine roads dinner on the lake day six excursion visit the seaside beach Budva and Kotor

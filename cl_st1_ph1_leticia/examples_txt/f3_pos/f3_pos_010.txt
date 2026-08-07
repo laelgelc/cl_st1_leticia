@@ -1,14 +1,8 @@
-Text ID: t002362
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000657_gpt.txt
+Text ID: t001417
+Group: human
+Model: human
+File:   corpus/05_human/t001417_human.txt
 
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: massive, manage
-yeah so when I did go back on the server after that break I’d had this idea in my head for ages about doing this absolutely massive tower, like really ambitious, just shooting up into the sky. But then I started thinking it’d be a bit boring if it was just me doing my own big solo thing again, so instead I started setting these little challenges for people, smaller projects that everyone could get involved in.
-
-we were working on one of those and we’d got quite a lot of the structure done when this bloke who reckons he’s an expert with TNT decided he was going to “help” with the digging. he blew out the walls a bit too enthusiastically and basically managed to flood the whole area we were working in. water everywhere, completely ruined what we’d already built.
-
-so after that disaster I just said, look, can we go into creative mode for this bit so we can fix it properly and carry on. they switched creative on and we repaired all the damage and finished what we were doing. and then, because they kind of forgot to turn creative off for me afterwards, I’ve just kept using it since.
-
-with creative mode still on I started putting together these little puzzle challenges, like self‑contained things people can try and solve. I’ve been taking screenshots and videos and sticking them up on Facebook, showing people what I’ve built and inviting them to come on and have a go. it’s turned into this way of using Minecraft less as just a game I play on my own and more as a way of bringing people together, getting friends involved in these creative projects and seeing what they come up with as well.
+Score (f3_pos): 8
+Loading words (f3_pos), N=8: wanna, erm, cos, yes, oh, you, know, say
+can't wait yeah do you know I bought erm my brother-in-law who is coming with us a voucher for the for his birthday September and another one for Christmas so and I you know with a note in his birthday one in September we'll go together to the in January and we'll get a a refresher lesson you know cos I was just a disaster on the slopes and I'd like to go to the and and have a lesson oh yes yes he said yeah great and then I said to the boys do you wanna go? and they said yes and we'll do something I said but theirs'll just be a cheaper version and it'll have to be at weekend whereas I could go in the week as could anyway so I'm all set looking at what there was on the internet he came after Christmas and it oh I've had a look on the internet at the I said yes said perfect he said there's an over-fifties erm morning three hours and it comes with a cup of tea

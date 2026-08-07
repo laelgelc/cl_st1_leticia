@@ -1,8 +1,8 @@
-Text ID: t002295
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000590_gpt.txt
+Text ID: t001113
+Group: human
+Model: human
+File:   corpus/05_human/t001113_human.txt
 
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: huge, massive
-we were in this sand oasis in peru right and we suddenly felt this really strong tremor go through everything and it was weird because you’re basically sitting in this massive bowl of sand with these huge dunes all around you and all i could picture was the whole lot just sort of giving way and collapsing in on us like the sides just sliding down and filling up the hole we were in it was a proper freaky moment actually because you’re just stuck there thinking if this keeps going there’s nowhere to run you’re literally at the bottom of a sandpit and that really scared me
+Score (f3_pos): 8
+Loading words (f3_pos), N=8: er, erm, cos, yes, oh, you, know, say
+erm yes another thing we were talking about last night we were talking about erm I can't remember it was something to do with sort of not rape culture exactly but it was sort of erm er sort of like victim shaming or educating gi oh no we were talking about having children and then we said I were so worried about erm if I had a daughter cos I'd just feel so protective all the time if she ever left the house I'd be worrying like what would happen to her er and you know well I sort of said but you know it's not her responsibility to learn how to sort of er protect herself it should be sort of the responsibility of or the education of young men saying

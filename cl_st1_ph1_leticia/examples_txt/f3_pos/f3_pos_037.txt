@@ -1,8 +1,8 @@
-Text ID: t000729
-Group: human
-Model: human
-File:   corpus/05_human/t000729_human.txt
+Text ID: t003717
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000307_gpt.txt
 
-Score (f3_pos): 1
-Loading words (f3_pos), N=1: massive
-and the principal well he'd gone with his money so but I know what happened they they had a massive new state-of-the-art building of one of the erm satellite centres in and I watched it being built cos was at college there erm and it you know oh I'm having this place just two little extensions you know whatever your budget you start with you can double it and that's closer on what it would be but theirs probably was more cost it went over a long time and erm like you know you get your buildings are in a they'll get them sorted but once you've done that you've got all the furnishings and the
+Score (f3_pos): 5
+Loading words (f3_pos), N=5: yes, oh, you, know, say
+and he was saying you know because he was really really good at badminton when he was younger he sort of pushes that a bit and says it’s actually really easy to get a high mark in badminton umpiring so that’s why he’s offering that as an option along with things like hockey and orienteering and all that and then on the inset day we got this email through about what they want for the tennis so we’ve got to video all of his tennis strokes and then also sort out a time for them to assess the coaching side of it and there was this whole back and forth about when he’s actually going to come and watch the coaching session and how that’s going to work and he’s gone through it all with him and said yes you can do it and told him what he needs to do and what they’re going to do and all the rest of it and then how stupid is this he’s asked him to get his teacher to send through his CRB form if he’s going to do it which I just think is ridiculous really I mean after all that organising and saying yes you can take it and explaining everything and then suddenly it’s oh we’ll need the CRB form sending through as well which just seems a bit over the top to me

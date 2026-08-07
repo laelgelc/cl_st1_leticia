@@ -1,8 +1,12 @@
-Text ID: t000730
-Group: human
-Model: human
-File:   corpus/05_human/t000730_human.txt
+Text ID: t003667
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000257_gpt.txt
 
-Score (f3_pos): 1
-Loading words (f3_pos), N=1: massive
-I was walking up the stairs shitting like bracing myself to like just cos he was like a massive jock like bracing myself for someone to just like come up and punch me round the head and I got to the top of the stairs and I was like and turned around and he was just like sat shivering in his seat and he he wasn't actually sat shivering in his seat but didn't chase me and then I walked out and was there screaming at a hot dog lady and we just like went on this rampage and
+Score (f3_pos): 5
+Loading words (f3_pos), N=5: okay, oh, you, know, say
+so like a few weeks ago I actually sent her this really nice message, just saying, you know, sorry if I'd come across a bit harsh and that I didn’t mean it like that, just trying to smooth things over a bit. And then I got absolutely nothing back, no reply at all. 
+
+Then the other day I was talking to someone else and they were like, oh yeah, she’s just been really busy, that’s why she hasn’t replied. And at first I was like, okay, fair enough, people get busy, I’ll give her the benefit of the doubt. 
+
+But then I started thinking about it, like, hang on, she’s clearly had time to text other people, and she’s almost definitely been on Facebook. So how is she too busy to just send me a quick message back? It just makes me wonder if that whole “too busy” thing is actually true.

@@ -1,10 +1,8 @@
-Text ID: t001828
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000123_gpt.txt
+Text ID: t000030
+Group: human
+Model: human
+File:   corpus/05_human/t000030_human.txt
 
-Score (f1_pos): 5
-Loading words (f1_pos), N=5: build, sense, change, own, different
-No, I don’t, not in that one‑place, one‑company sense. What appeals to me is having my own business, being able to move about a bit, change things up. Every time you shift location it’s like you get this jolt of new energy. You have to learn new stuff, see things differently, meet different people, and that forces you to keep growing.
-
-Staying in one place, one setup, yeah, you build really strong ties and a sense of community, and there’s something good in that. But it also feels like you’re closing off other paths. You lose the freedom to try different things, to test yourself in new environments, and that’s what I’m drawn to.
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): just
+no I said to her a few weeks ago me and me and her went to see and and I was like oh erm since you're not here for my birthday I was thinking maybe we just do like a joint thing together like some time in between our birthday so like I don't know do you fancy doing something like the first weekend in March? and she was like oh I'm actually not free until my birthday weekend and I was like oh what are you doing? and she's like oh well obviously we're away your birthday weekend and we're actually away the weekend after like same thing like we don't get back till the Sunday I was like oh right okay she was like yeah and and and 's taking us to see his gone his godmother the first weekend in March and I was like oh right and she's like yeah I was bit annoyed about that like just he just went and booked it and I was like oh right okay so she was like yeah so I'm only free on my birthday it's like

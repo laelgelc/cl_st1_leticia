@@ -1,8 +1,8 @@
-Text ID: t003392
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001687_gpt.txt
+Text ID: t000097
+Group: human
+Model: human
+File:   corpus/05_human/t000097_human.txt
 
 Score (f5_neg): -1
-Loading words (f5_neg), N=1: set
-after my bank account was hacked I had a lot of trouble with it all really it was quite a palaver but to be fair the bank were actually very good they were monitoring everything and they were blocking all these illegitimate payments and standing orders that were trying to go out they somehow managed to work out which ones were dodgy and they stopped them before any money went properly missing but then every week I was getting these letters through the post two or three at a time saying they needed my signature to authorise standing orders I’d never even set up or tried to set up so I was constantly having to deal with these forms and queries from them even though I hadn’t asked for any of it
+Loading words (f5_neg), N=1: normal
+no I completely agree with you I completely agree with you but what can happen is that erm what you wanna do so you normally have what is in it? so you've got time here and you've got act there okay? or if you wanted to do you can do time here which I'll guess is a bit normal and then here you can have the escalation of and you have to choose if you want to use the character arc about this man as a as the protagonist then you have to choose what really is the kernel of this person? what is the erm the reason why he keeps moving along this trajectory? what's the common sense of why he's going here?

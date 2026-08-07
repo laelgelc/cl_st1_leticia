@@ -1,8 +1,8 @@
-Text ID: t002682
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000977_gpt.txt
+Text ID: t001204
+Group: human
+Model: human
+File:   corpus/05_human/t001204_human.txt
 
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: huge, massive
-yeah it's not like it's heavy or anything, it's just this massive box, which makes it such a hassle to deal with. It kind of reminds me of our defence, actually. We've got these two big lads at the back, both of them huge, like one of them's about six foot two and looks properly middle-aged, and they're just so slow and rubbish. Then you've got this young wing back who's really skinny and physically weak, but somehow he's miles better than them. He's not strong at all, but he can actually play, which just shows how bad the other two are. For defenders, they're just nowhere near the level they should be.
+Score (f3_pos): 8
+Loading words (f3_pos), N=8: wanna, okay, cos, yes, oh, you, know, say
+and even if he turns around and says oh I can't offer you more at this point you say right okay well I wanna know that if I do X Y and Z I will get more money cos otherwise there's no incentive and they know that they can't say right this is what this is how we think you've fared over the last year your goals for the next twelve months are this and expect you to do it for no extra money that's not how it works yes? fighting face but yeah all the

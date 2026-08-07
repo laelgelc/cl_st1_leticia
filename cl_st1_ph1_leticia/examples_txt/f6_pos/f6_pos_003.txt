@@ -1,8 +1,8 @@
-Text ID: t001664
+Text ID: t000157
 Group: human
 Model: human
-File:   corpus/05_human/t001664_human.txt
+File:   corpus/05_human/t000157_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: month, least
-I remember really this is a really nice memory actually erm and I were like off and on through school and I always fancied him well ever since I moved school in year n year eight I would always have a crush on him and we used to get on really well although my friends were always popular girls they were all really skinny very athletic not stunningly pretty but like I would always be the least out of all of us and then like in year nine ten while we were away doing Trident when you do do like work experience and I was like fuck this and really dieted loads and lost about two stone in two and a half months mm
+Loading words (f6_pos), N=2: em, alright
+hi Alright well that's fine I've left it out in the hall for you so just come and get it whenever is convenient no she's still at work she working late this week I think she finishes about six but then she goes running after work she is keep fit yeah do you want me to get her to call you? Okay oh yeah okay so it's just whether that's a good day? So so they were going to do it during the day okay mm hm it's strangers okay and how long do you think it will take? Do you think? Half a day okay that's fine I'll let her know and I'll get her to call you I'll get I'm not sure she's got credit on the phone so if not I'll get her to call you on my phone oh okay I'll em I'll speak to her about it then and I'll let you know or she'll let you know alright thanks speak to you later bye

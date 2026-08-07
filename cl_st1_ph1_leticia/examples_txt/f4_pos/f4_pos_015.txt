@@ -1,8 +1,8 @@
-Text ID: t001785
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000080_gpt.txt
+Text ID: t000475
+Group: human
+Model: human
+File:   corpus/05_human/t000475_human.txt
 
 Score (f4_pos): 3
-Loading words (f4_pos), N=3: feel, stick, expect
-in schools it was almost impossible to get rid of a really poor teacher because of all the procedures you had to go through – endless observations, capability processes, unions involved, governors, everything. it meant people felt incredibly secure, so some of them behaved exactly as they liked, knowing nothing serious would happen. there was one case that really stuck with me: a teacher went off on maternity leave and didn’t leave any of the resources or proper information her replacement needed. the young cover teacher was left to struggle, and instead of helping, the one on maternity leave went on Facebook and posted really nasty, very personal comments about her, all in the public domain. and she still expected to come back and just walk into her job as if nothing had happened.
+Loading words (f4_pos), N=3: fuck, guy, like
+I saw this guy about a year ago I was stood in H and M and I was looking at this guy's tattoo and it was like em it was like a landscape really nothing special as in I don't know why the fuck he chose that but looking at it I was proper staring at it and I couldn't make out if it was a real tattoo or not cos it was just flawless it looked like it had been painted there was no outline or anything it had just been I couldn't believe it

@@ -1,138 +1,159 @@
-This pole is very sparse lexically (only two loading items), so the interpretation has to lean heavily on how those items pattern in the corpus and in the examples.
+Interpretation of Factor f4 (negative pole)
 
-## 1. What is lexically driving this pole?
+1. Which group drives this pole?
 
-Negative loadings:
-- **minute** (−.42)
-- **fact** (−.38)
+- Mean scores:
+  - Human: 0.88  
+  - Unprofiled GPT: 0.18  
+  - Profiled GPT: 0.10  
 
-In the 10 highest‑scoring texts on this negative pole, only **minute** appears as a loading word, and it is always used in its **time‑measurement** sense:
+The factor is named “f4_neg”, but numerically humans are strongly positive on f4, while both GPT conditions are close to zero. The high‑scoring texts at the *negative* pole are all from profiled_gpt. So:
 
-- “fifteen or twenty **minutes** on the bus”
-- “every five **minutes** she was calling her”
-- “thirty **minutes**”
-- “only be five **minutes** late”
-- “they can’t walk more than ten **minutes**”
-- “I’ve gotta get up in a **minute**”
-- “talk for about five **minutes**”
-- “waiting for her for fifteen **minutes**”
-- “five **minutes** later the email comes through”
-- “they lasted like fifteen **minutes**”
+- The *dimension* itself is anchored in human language use (humans are far from zero).
+- The *negative pole* specifically is exemplified and driven by profiled GPT outputs (the most negative scores we see are all profiled_gpt).
 
-So the lexical signal here is **fine‑grained, clock‑based time reference**: minutes, five minutes, fifteen minutes, thirty minutes, in a minute, etc.
+So this pole characterises a discourse style that GPT (especially with profiling) tends to produce more strongly than humans, relative to the rest of the corpus.
 
-We don’t see **fact** in these particular excerpts, but its co‑loading suggests that, across the full corpus, this pole also attracts uses of *fact* (likely in discourse‑organising or evidential functions: “in fact”, “the fact is”, “the fact that…”).
+2. Lexical loadings and what they suggest
 
-## 2. What kind of discourse do the examples instantiate?
+Negative loadings (strongest first):
 
-All 10 examples are:
+- odd (−.73)
+- sense (−.41)
+- plan (−.37)
+- properly (−.36)
+- chat (−.35)
+- once (−.34)
+- straight (−.33)
+- build (−.31)
+- change (−.30)
 
-- **Human** turns (no GPT examples among the top negatives).
-- **Narrative or anecdotal** stretches of talk.
-- Focused on **very specific, short time spans** and **micro‑sequencing of events**.
+These cluster semantically into:
 
-They share several discourse properties:
+a) Planning / sequencing / procedure
+- plan, once, straight, build, change, properly  
+  → talk about steps, ordering, getting things “straight”, making or revising a plan, doing things “properly”, “building” something up.
 
-1. **Micro‑temporal structuring of experience**
+b) Evaluation of normality / appropriateness
+- odd, sense, properly, straight  
+  → metacommentary on whether things are normal, sensible, done correctly, or “odd”.
 
-Speakers repeatedly break events down into small, measured units:
+c) Interpersonal talk
+- chat, chat(ting)  
+  → explicit reference to conversational episodes (“had a proper little chat”, “carried on chatting”).
 
-- Commuting and lunch: “fifteen or twenty minutes on the bus… ten fifteen minutes… half an hour at home”
-- Phone calls: “every five minutes she was calling her”
-- Travel mishaps: “only be five minutes late”
-- Medical/functional limits: “they can’t walk more than ten minutes”
-- Waiting and coordination: “waiting for her for fifteen minutes… we missed each other for forty‑eight hours”
-- Service interactions: “five minutes later the email comes through”
-- Entertainment: “they lasted like fifteen minutes… everyone was waiting there for an hour or more just to see fifteen minutes”
+Overall, the loadings point to discourse that:
 
-The discourse is organised around **how long things take**, **how often they recur**, and **exact timing** of key moments.
+- narrates or explains *processes and plans* in a stepwise way,
+- includes *meta‑evaluation* of how things are done (properly / straight / odd / makes sense),
+- embeds this in *reported interaction* or “chat”.
 
-2. **Everyday, lived‑experience narratives**
+3. What the examples show
 
-The topics are mundane but consequential in everyday life:
+Across the 10 excerpts, the same discourse pattern recurs. Key features:
 
-- Work and commuting
-- School trips and parental behaviour
-- Medical treatment and disability
-- Relationship tensions
-- Training courses and presentations
-- Customer service complaints
-- Fireworks displays
+a) Stepwise, procedural or project‑oriented narration
 
-These are **personal stories** about “what happened to me / to someone I know”, not abstract discussion.
+- Ex. 001: organising a trip; sequence of tasks:
+  - “First I need to phone… Once I’ve got that straight, I’ll email her properly, and then this evening I’ll ring everyone…”
+- Ex. 003: designing an exhibition:
+  - “For the moment I’m just working on the plan on the computer, trying to get this up properly, maybe change some of the titles, and then open it all in Illustrator…”
+- Ex. 004: life‑course planning:
+  - “I’m planning to do a paid internship… Once I’ve done that… After the travelling, I’ll decide whether to go straight into a job or…”
+- Ex. 006: car bodywork repair:
+  - “He’ll start off by making a pattern… Then he gets his plasma cutter out… clamps a nice straight bit of metal… Once that’s gone, he uses the card pattern to cut a new piece…”
 
-3. **Temporal precision as stance and evaluation**
+These are not just narratives; they are *proceduralised* narratives: clear temporal and logical sequencing, with an emphasis on doing things in the right order and in the right way.
 
-The minute‑level detail is not just descriptive; it often carries **evaluation**:
+b) Concern with correctness, precision, and doing things “properly”
 
-- “seems crazy” (after describing the lunch‑break timings)
-- “it was just a nightmare”
-- “it is really… quite depressing”
-- “oh what a hassle”
-- “they lasted like fifteen minutes… they weren’t even… it was just a bit creepy”
+- “email her properly”
+- “get this up properly, maybe change some of the titles”
+- “he doesn’t just bodge it, he does it properly”
+- “nice straight bit of metal… perfectly straight edge”
+- “only three of us can really read music properly”
+- “trying to get it all straight in my head”
+- “told her straight I was worried… she didn’t seem to be thinking straight”
+- “once we’re absolutely sure what it is… we can add the details when we’ve got them properly”
 
-The precise timing helps **build a case**: that something was unreasonable, exhausting, depressing, or disappointing. Minute‑by‑minute narration functions as **evidence** for the speaker’s stance.
+This is a strong metadiscourse of *correctness, exactness, and clarity*—both in physical tasks and in thinking/talking.
 
-4. **Local sequencing of events**
+c) Planning, revision, and contingency
 
-The narratives are tightly sequenced:
+- “just in case she has changed her mind”
+- “everything’s a bit on hold in that sense”
+- “maybe change some of the titles”
+- “I’ll decide whether to go straight into a job or… I’m not totally sure yet”
+- “the whole plan hasn’t quite worked out as I imagined”
+- “working out the next steps and that”
+- “no point in guessing and then having to redo it”
 
-- “five seconds after I’d kicked off on the phone five minutes later the email comes through”
-- “she got the wrong ticket… she had to get a taxi… there was a lot of traffic… how she managed to only be five minutes late I still don’t know”
-- “I was like going in for a cuddle… I’ve gotta get up in a minute… he was just like oh just leave me alone… so I got up… so I’m leaving you alone”
+Speakers are explicitly *managing plans*, anticipating change, and reflecting on whether plans have worked.
 
-Time expressions anchor **event order** and **causal chains** in a very local, short‑span way.
+d) Evaluation of normality / oddness / sense
 
-## 3. Which group is driving this pole?
+- “as if nothing odd had happened at all”
+- “it is slightly odd not to have any kind of letter explaining what they’ve done”
+- “that actually makes sense from their point of view”
+- “the whole business is just mental when you think about it”
+- “she didn’t seem to be thinking straight”
 
-Mean scores on Factor 4:
+This is evaluative commentary about whether events and practices are normal, sensible, or anomalous.
 
-- Human: **0.33**
-- Unprofiled GPT: **0.80**
-- Profiled GPT: **0.83**
+e) Embedded interpersonal “chat”
 
-Higher mean = more positive on the factor; the **negative pole** is therefore **least characteristic of GPT** and **most characteristic of humans**.
+- “carried on chatting away with this bloke, going on and on”
+- “I did have a proper little chat with her last night”
+- “in with my tutor, chatting through what I’m doing and what the plan is”
 
-All 10 highest‑scoring negative texts are **human**. So:
+The “chat” is often where plans are negotiated or concerns are expressed; it’s not small talk but *task‑ or problem‑oriented conversation*.
 
-- The **negative pole** is **human‑driven**.
-- GPT outputs (both profiled and unprofiled) tend to be **pulled away from this pole**, i.e. they use **less minute‑level temporal detailing** and/or less of the co‑occurring “fact” pattern.
+4. Discourse function of this pole
 
-In other words, this pole captures a **style of human conversational storytelling** that GPT is comparatively less likely to reproduce.
+Balancing the loadings and examples, this pole encodes a discourse style that is:
 
-## 4. Interpreting the discourse dimension at this pole
+- **Procedural and project‑focused**: narrating tasks, projects, and life plans as sequences of steps.
+- **Meticulously evaluative**: frequent attention to whether things are done correctly, sensibly, or in an orderly way.
+- **Reflective and corrective**: monitoring when plans don’t work, revising them, and commenting on “odd” or suboptimal practices.
+- **Interpersonally mediated**: plans and concerns are often worked through in “chats” with others (tutors, family, staff).
 
-Putting the lexical and discourse evidence together:
+It is not simply “narrative” or “instructional”; it is *reflective procedural talk*—people (or GPT imitating people) thinking through and talking through how to do things properly, how to get things straight, and how to adjust when reality is “odd” or plans fail.
 
-- Lexically: dominated by **minute‑scale time reference**, with **fact** suggesting a broader evidential/argumentative flavour in the full corpus.
-- Discursively: **personal, anecdotal, micro‑temporal narratives** where speakers reconstruct short episodes in fine temporal detail, often to **justify an evaluation** or **make a complaint / express frustration**.
+5. Possible labels for this pole
 
-This is not just “narrative” in general; it is **narrative anchored in precise, clock‑time granularity**, used to **account for** or **argue about** everyday experiences.
+Any label should capture:
 
-### Possible labels for this negative pole
+- planning / sequencing,
+- correctness / straightness / properness,
+- reflective evaluation of sense/oddness,
+- conversational negotiation of these issues.
 
-Any of the following would be defensible; they foreground slightly different aspects of the same pattern:
+Plausible labels:
 
-1. **“Micro‑temporal, experience‑based narration”**  
-   - Captures the minute‑by‑minute structuring of lived events.
+1. **Reflective Planning and Procedure Talk**  
+   - Emphasises the stepwise, plan‑oriented narration plus the reflective commentary on doing things properly and revising plans.
 
-2. **“Minute‑by‑minute everyday storytelling”**  
-   - Emphasises the clock‑time granularity and the mundane, personal topics.
+2. **Orderly, ‘Doing‑It‑Properly’ Discourse**  
+   - Highlights the strong “properly / straight / sense / odd” evaluative frame around tasks and plans.
 
-3. **“Fine‑grained temporal accounting in personal talk”**  
-   - Highlights the use of precise time as a way of “accounting for” what happened (especially in complaints and justifications).
+3. **Process‑Focused, Evaluative Chat**  
+   - Brings in both the process orientation (plan, once, straight, build, change) and the interpersonal “chat” through which these processes are discussed and assessed.
 
-4. **“Human‑style micro‑chronicle discourse”**  
-   - Stresses that this is a human‑driven way of narrating: short episodes told as micro‑chronicles.
+Among these, for analytic clarity in LMDA terms, I would prioritise:
 
-If I had to choose one primary label for this pole, balancing clarity and coverage of both loadings and examples, I would propose:
+- **Reflective Planning and Procedure Talk**
 
-> **Micro‑temporal everyday storytelling**
+because it best integrates:
 
-Justification:
+- the *procedural/stepwise* nature of the discourse (plan, once, straight, build, change),
+- the *reflective/evaluative* stance (odd, sense, properly, straight),
+- and the conversational embedding (chat) without over‑narrowing to any single topic domain.
 
-- **Micro‑temporal**: grounded in the dominant loading *minute* and its use to segment time very finely.
-- **Everyday**: topics are ordinary, lived experiences (work, travel, relationships, health, services).
-- **Storytelling**: the excerpts are narrative, event‑sequencing accounts, not abstract exposition.
+6. Role of source groups
 
-This label also aligns with the source pattern: it describes a **distinctively human conversational mode** that GPT outputs, on average, do not reproduce to the same extent.
+- Humans overall are high on the *factor*, but the *negative pole* is most clearly realised in profiled GPT texts.
+- This suggests that when GPT is given socio‑demographic profiles, it tends to produce especially *orderly, reflective, plan‑and‑procedure talk* of the kind captured at this pole—perhaps over‑systematising everyday narratives into well‑structured, “properly” sequenced accounts.
+
+So, for this pole alone, a concise interpretation is:
+
+> f4 (negative pole) encodes a discourse dimension of **Reflective Planning and Procedure Talk**: conversational accounts that carefully sequence actions and plans, evaluate whether things are done “properly” or “straight”, and comment on oddities or needed changes, often negotiated through “chat” with others.

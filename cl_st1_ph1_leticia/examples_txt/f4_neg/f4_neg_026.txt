@@ -1,8 +1,8 @@
-Text ID: t004737
+Text ID: t004400
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001327_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000990_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-so he just started telling me his whole life story really, went on for about ten, fifteen minutes, you know, and he was so friendly he even offered me a coffee. we ended up deciding to stay and chat with him instead of going back out in the sunshine. he was saying how he used to be a colonel in the Jordanian army, then later on he got transferred to the air force, and at one point he actually had thirty-two thousand men under him.
+Score (f4_neg): -3
+Loading words (f4_neg), N=3: odd, properly, chat
+Well I was chatting to this lady at the wedding, she came up to me and said, “I don’t know anyone here,” so I said, “Well you know me now,” and we got talking. It turned out we both had sons getting married, so of course we started comparing all the arrangements and dates and everything. Then we realised we’d actually both tried to book the same church date, the fifth of September. She’d been told she couldn’t have it, but I’d managed to get it, which was a bit awkward really when we worked it out. We were laughing about it though, because it was just one of those odd coincidences you only discover when you start chatting properly.

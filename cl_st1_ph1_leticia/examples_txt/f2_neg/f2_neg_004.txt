@@ -1,8 +1,8 @@
-Text ID: t001351
+Text ID: t000292
 Group: human
 Model: human
-File:   corpus/05_human/t001351_human.txt
+File:   corpus/05_human/t000292_human.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: god, gonna
-oh my god when we were in I didn't see many couples I was so happy there was a lot of groups of friends in the erm nando's I went to I was so happy but then we went like it was early so we was like let's just go cinema and just watch something we are not watching Fifty Shades my sister's seventeen anyway she can't watch it so we was gonna watch erm the Kingsman right? cos you said it was good and my sister said her friend said it was good too so we are on our way there and had clocked that the movie was starting in was six minutes we was twenty minutes away
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+so erm we did we all went out we went up to the Co-op erm and he'd just started to fall asleep as we got to the Co-op so I took and carried on walking then he woke up again on the way back and then the heavens opened and it threw it down so we were running back to the house and he went to sleep so we got him in the house and he was asleep and nobody moved and nobody said anything so I said well I'll leave now but she sent me a photo of him in his bouncer forty minutes later so it was only a quick nap so he's gonna be ready for bed tonight because this morning he

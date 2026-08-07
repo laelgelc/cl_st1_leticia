@@ -1,8 +1,8 @@
-Text ID: t003109
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001404_gpt.txt
+Text ID: t000056
+Group: human
+Model: human
+File:   corpus/05_human/t000056_human.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-I'll just nip outside for a minute in my dressing gown and joggers, not even planning to go anywhere, just stepping out. And then you see these proper keen walkers go past, all in their shorts and that, dead enthusiastic. They’re like, “oh, can we have some water?” and they’re clearly all geared up for this massive walk. And I’m just stood there thinking, I’m a right fat bastard, I’m literally about to go back inside and eat. It’s such a contrast, them all raring to go and me just in my comfy stuff.
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: once, straight
+who honestly who ties a dog this size I'm going to put you outside cos you're just being a pain no come on who ties a dog that size to a table which is movable? It was It was windy and the erm the table and chairs were moving were actually it transpired we'd sort of been going round outside Pret in the high street and the chair fell over and he just took fright when the chair fell over and ran amazingly he didn't take all of the sort of erm surrounding stuff with him there's these sort of canvas sides outside there he went straight through the gap and straight across the high street amazing that he didn't catch anybody en route and came to a standstill with the once the table had smashed the Body Care shop window

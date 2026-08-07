@@ -1,10 +1,8 @@
-Text ID: t002874
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001169_gpt.txt
+Text ID: t000702
+Group: human
+Model: human
+File:   corpus/05_human/t000702_human.txt
 
 Score (f4_pos): 4
-Loading words (f4_pos), N=4: feel, stick, make, head
-It’s really been as I’ve got older that I’ve started to notice things changing. Physically, there’s the rheumatism and the joint pain, and I just can’t do those nights out one after another like I used to. I need more recovery time, and that’s a bit of a shock when you remember how you were before. 
-
-And then there’s the technology side of it. I find it harder and harder to understand and remember how to use certain things, and that really knocks my confidence. It’s not that I’m completely hopeless, but when something doesn’t make sense or won’t stick in my head, I feel different from the confident person I once was. All of that together makes me feel less sure of myself than I used to.
+Loading words (f4_pos), N=4: shit, sorry, gonna, like
+um but it was really good fun it was one of those silly drawing on face type sleep-overs and brought like midnight feasts round which consisted of like the entire contents of the Spa sweet shelves She just bought so much shit My mum was like fff you're not gonna have that after you've brushed your teeth I was like I might do hmm it was very fun and obviously my parents were asleep upstairs so occasionally you know every s few hours they'd come down and be like can you be quieter? I'm sorry

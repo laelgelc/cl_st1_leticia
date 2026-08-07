@@ -1,8 +1,8 @@
-Text ID: t004106
-Group: unprofiled_gpt
+Text ID: t003373
+Group: profiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000696_gpt.txt
+File:   corpus/05_profiled_gpt/t001668_gpt.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: single, horrible
-So on my way to work, just after that roundabout I was talking about, there’s this horrible bit where the road suddenly narrows right down to basically a single car width, like a funnel, and then after the pedestrian crossing it opens out again. Because of that, most drivers actually tend to hang back when they see a bike going into it, and they let you go through first. Then once you’re past the crossing and the road widens again, they’ll overtake you there instead, which is much safer and kind of how it’s meant to work really.
+Score (f5_pos): 4
+Loading words (f5_pos), N=4: hundred, month, three, two
+it came from the insurance payout when they had all that trouble with the pipes in the bungalow, you know when the pipe work was completely messed up and they couldn’t stay there. They had to move back into the Mexborough house for a bit, it was about two months or so they were there. The insurance company paid out on the basis of what the bungalow would have cost to rent, something like eight hundred quid a month, and then there was a bit extra on top of that as well, so they ended up with two or three grand.

@@ -33,141 +33,151 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac4	SD fac4
-group	human	1705	0.33372434	0.65770570
-group	profiled_gpt	1705	0.82639296	0.94216946
-group	unprofiled_gpt	1705	0.79648094	0.94334178
+group	human	1705	0.88093842	0.94161437
+group	profiled_gpt	1705	0.09677419	0.91896817
+group	unprofiled_gpt	1705	0.18005865	0.89590946
 
 === FACTOR LOADINGS (f4_neg) ===
-variables loading on this pole = 2
-minute (-.42), (fact (-.38))
+variables loading on this pole = 9
+odd (-.73), (sense (-.41)), plan (-.37), properly (-.36), chat (-.35), once (-.34), straight (-.33), (build (-.31)), change (-.30)
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f4_neg_001.txt (text ID t000019) =====
-Text ID: t000019
-Group: human
-Model: human
-File:   corpus/05_human/t000019_human.txt
+===== EXCERPT: f4_neg_001.txt (text ID t003391) =====
+Text ID: t003391
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001686_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-but it would be the same it was weird though like we only used to get an hour lunch break and it used to take me um on the bus it was like dunno fifteen or twenty minutes on the bus if you got if you got a bus straight away you could get home fifteen ten fifteen minutes probably but then you only have a half an hour at home and then you've gotta get the bus back But sometimes I used to do it but some I remember walking home sometimes and that would take like twenty-five minutes and then I'd get home for like ten minutes and walk back seems crazy
+Score (f4_neg): -4
+Loading words (f4_neg), N=4: properly, once, straight, change
+what I'll do is give her the option of going to the farm, just in case she has changed her mind. But really I ought to spend today chasing people about the Heidelberg trip. First I need to phone the usual organiser and get the contact details for that Italian woman – her email keeps bouncing because her name’s been misspelt. Once I’ve got that straight, I’ll email her properly, and then this evening I’ll ring everyone to see if they’re interested in coming. It’s going to be a bit of a slog, and I might get a bit snappy by the end of it.
 
---- Loading words for this example (neg): minute
-
-
-===== EXCERPT: f4_neg_002.txt (text ID t000075) =====
-Text ID: t000075
-Group: human
-Model: human
-File:   corpus/05_human/t000075_human.txt
-
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-and actually reality things like the Jeremy Kyle show they they would aspire to be on that being sort of having their private lives put under the spotlight cos they've got on to television you know actually it's irresponsible broadcasting actually erm and I was in the I'd taken a school trip away we'd had this girl with us and I'd I'd said I wanted to take her cos I thought she needed to get away from home actually it was a bit of a nightmare and mum was just I let the have their mobile phones in the coach on the way down but I said you know if there's any misuse any problem they we will I will collect them in and you will have them for an hour or so each day so that you can phone home let them know you're alright that would be it oh and this woman this girl's mum spent every five minutes she was calling her the mum was actually the one that was sort of was the problem and in the end we had various problems with phones so I took them all in at the end of the day and said right okay that's it you will be able to phone home tomorrow afternoon at this time well this mother it transpired the girl did phone her but I think maybe she couldn't get hold of her so she obviously didn't leave a message or anything cos they've never got any credit on their phones so it's sort of that home they don't have home they don't have landlines because they don't pay the bills so the landlines disappear so anyway I said to the parents categorically before we left that his I would do this if there's problems I'd also said we will call you if there are any problems so if you don't hear anything you know they're fine well I got back at the end of the few days it was a week actually
-
---- Loading words for this example (neg): minute
+--- Loading words for this example (neg): properly, once, straight, change
 
 
-===== EXCERPT: f4_neg_003.txt (text ID t001625) =====
-Text ID: t001625
-Group: human
-Model: human
-File:   corpus/05_human/t001625_human.txt
+===== EXCERPT: f4_neg_002.txt (text ID t001777) =====
+Text ID: t001777
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000072_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-no er go and have a cup of tea and get yourself back here in thirty minutes so she did she got to the restaurant absolutely packed got herself a cup of tea and erm a four bar Kit Kat which she loves sat down she sat down opposite erm an elderly gentleman and she put the the Kit Kat in the middle unwrapped and everything and she took it and had her first bite and then the elderly gentleman took it and took snapped a bar off and ate a bar of her Kit Kat
+Score (f4_neg): -3
+Loading words (f4_neg), N=3: odd, chat, once
+Once the headmaster let me in, nobody said a word about me having been left outside. It was as if nothing odd had happened at all. The Asian woman on the help desk just carried on chatting away with this bloke, going on and on about anything and everything, and still didn’t even pause to see if I needed help. I was just standing there, feeling increasingly anxious, watching the time and worrying I was going to be late, and then eventually the bell rang and it all kicked off.
 
---- Loading words for this example (neg): minute
-
-
-===== EXCERPT: f4_neg_004.txt (text ID t001632) =====
-Text ID: t001632
-Group: human
-Model: human
-File:   corpus/05_human/t001632_human.txt
-
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-that's why I was a bit late cos I was having I was hearing about the first day which is a horrendous start cos she ever she got to to Clapham South tube station to discover both the Northern and the Victoria lines were down and erm she had to run all the way to Wandsworth Common to pick up a train which she just missed the train that was in she got the wrong ticket oh it was just unbelievable the things but she got Victoria she had to get a taxi there was a lot of traffic I mean it was just a nightmare I how she managed to only be five minutes late I still don't know but anyway she a the gym manager and erm she looks so she manages this gym and she also does a lot of erm er sports therapy treatments and it looks like from tonight she's also side it looks like she's gonna be doing er Pilates you know Pilates class as well cos she's a trained Pilates teacher in a company calle an organisation called erm which is a gym which is on the side of a private club called the which is in it's all terribly posh she's
-
---- Loading words for this example (neg): minute
+--- Loading words for this example (neg): odd, chat, once
 
 
-===== EXCERPT: f4_neg_005.txt (text ID t001518) =====
-Text ID: t001518
-Group: human
-Model: human
-File:   corpus/05_human/t001518_human.txt
+===== EXCERPT: f4_neg_003.txt (text ID t002489) =====
+Text ID: t002489
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000784_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-no not in a working context and that's the thing and when I went to the when I talked to the specialist they were like what? you mean you've had no help? and I was like no the GP just said that you guys would sort me out with this they were like oh right at the end of the like you know the three appointment programme well we'll have to sit down and review what you're doing cos a lot of the people in the clinic it is really it's it is quite depressing in a way but they are all off work or chosen not to work or you know they they they can't walk more than ten minutes and I'm going you know it's terrible but like you know and some of them are bed bound and some of them go to a doctor's appointment and that's it they're laid up for a week and er you know it is quite extreme
+Score (f4_neg): -3
+Loading words (f4_neg), N=3: plan, properly, change
+No, it’s still quite a long way off, so I don’t think it’ll be the inauguration of the new space at all. They can’t really start borrowing anything until there’s a very clear idea of what the exhibition is actually about, so everything’s a bit on hold in that sense. For the moment I’m just working on the plan on the computer, trying to get this up properly, maybe change some of the titles, and then open it all in Illustrator so I can lay it out the way I want.
 
---- Loading words for this example (neg): minute
-
-
-===== EXCERPT: f4_neg_006.txt (text ID t001520) =====
-Text ID: t001520
-Group: human
-Model: human
-File:   corpus/05_human/t001520_human.txt
-
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-and then in the morning when he finally had got to sleep I had to get up obviously at six o'clock and I was like going in for a cuddle to like say well I've gotta get up in a minute and he was just like oh just leave me alone and obviously every girl knows that is a no no you do not say that because you take these things really personally so I got up and he was like oh where are you going? Oh well you told me to leave you alone so I'm leaving you alone and I had a bit of a strop on you know I was really tired six in the morning and I thought that
-
---- Loading words for this example (neg): minute
+--- Loading words for this example (neg): plan, properly, change
 
 
-===== EXCERPT: f4_neg_007.txt (text ID t001478) =====
-Text ID: t001478
-Group: human
-Model: human
-File:   corpus/05_human/t001478_human.txt
+===== EXCERPT: f4_neg_004.txt (text ID t002336) =====
+Text ID: t002336
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000631_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-that's why is insisting I go on this presentation skills workshop which is awful you have to give a presentation in the morning and she said when they'd confirmed my place and she sent me an email to say now you must remember that I did my presentation on Ladybird books and did hers on baking so you've got a really high standard to maintain here but a talk for about five minutes on whatever you fancy erm and then you do the workshop and then you have to give a presentation on your job at the end of the day but you should come prepared with some material and then you hone it during the day so so she said it was really useful I mean I'm dreading that there's gonna be role-play and
+Score (f4_neg): -3
+Loading words (f4_neg), N=3: plan, once, straight
+I’m planning to do a paid internship over the summer after I graduate, so I can earn and save up some money for a recording project. Once I’ve done that, I really want to go travelling for a bit. After the travelling, I’ll decide whether to go straight into a job or go on to do further study, I’m not totally sure yet. I’m hoping that if I stay positive about it all, it’ll keep me motivated to save more and actually make the whole plan happen.
 
---- Loading words for this example (neg): minute
-
-
-===== EXCERPT: f4_neg_008.txt (text ID t001441) =====
-Text ID: t001441
-Group: human
-Model: human
-File:   corpus/05_human/t001441_human.txt
-
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-yeah yeah and if you missed your friend that was a funny one I lost my phone years ago and Zara and I used to work in the same shopping centre meadow Hall so I'd f I'd not got my phone I told her to meet me I got my break I get my break at the same time as yours so I get my break and I'm sat waiting for her for fifteen minutes she never turns up I can't text her she can't text me what am I gonna do? So I go back she couldn't get the same break cos she changed hers so it was just we missed each other for forty-eight hours
-
---- Loading words for this example (neg): minute
+--- Loading words for this example (neg): plan, once, straight
 
 
-===== EXCERPT: f4_neg_009.txt (text ID t001415) =====
-Text ID: t001415
-Group: human
-Model: human
-File:   corpus/05_human/t001415_human.txt
+===== EXCERPT: f4_neg_005.txt (text ID t003045) =====
+Text ID: t003045
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001340_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-and you can't speak to the people in escalations they only deal with email I said well that's not really good enough so cos they're not responding to my emails anyway sure enough literally five seconds after I'd kicked off on the phone five minutes later the email comes through with their response exactly the same you can pay twenty-four pounds and we will have it re er or we will repair it or at this stage erm we can send it off to the manufacturer for refurbishment they were calling it now and erm we will deduct the cost of it from your eventual refund so I thou oh what a hassle so we got back onto Citizens Advice who were just said
+Score (f4_neg): -3
+Loading words (f4_neg), N=3: odd, plan, once
+I went out and bought myself this little recorder because I’m absolutely hopeless at identifying birdsong. The idea was that I’d go into the woods, record what I was hearing, then come back home and match the sounds up with this DVD I’ve got. In theory it sounded ideal, but in practice it’s been rather a flop. The minute I press “record” they all seem to go quiet, or else three or four of them start up at once and it’s just a muddle of noise. And, to be honest, on the odd occasions I have managed to get something recorded, I’ve never actually sat down and listened back to any of it. So the whole plan hasn’t quite worked out as I imagined.
 
---- Loading words for this example (neg): minute
+--- Loading words for this example (neg): odd, plan, once
 
 
-===== EXCERPT: f4_neg_010.txt (text ID t001381) =====
-Text ID: t001381
-Group: human
-Model: human
-File:   corpus/05_human/t001381_human.txt
+===== EXCERPT: f4_neg_006.txt (text ID t003127) =====
+Text ID: t003127
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001422_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-mm yeah we erm there was erm Sunday night I think the ones in were on they were due to start at six but there was problems and they had to get someone in from Luton to to take over or something so they didn't start until seven but we we've got like a single-storey extension out the back and we just sat on the roof of that and watched them and they lasted like fifteen minutes so everyone was obviously waiting there for an hour or more just to see fifteen minutes and they weren't even they tried to do it to music as well but it was just a bit creepy
+Score (f4_neg): -3
+Loading words (f4_neg), N=3: properly, once, straight
+what he does when he finds a rotten bit, he doesn’t just bodge it, he does it properly. He’ll start off by making a pattern out of really heavy card, you know, so it holds its shape. He cuts that to the exact size he needs and then lays it over the rusty section and marks all the way round it. Then he gets his plasma cutter out, and he doesn’t freehand it, he clamps a nice straight bit of metal along the line so he can run the cutter against that and get a perfectly straight edge as he takes the rusty section out. Once that’s gone, he uses the card pattern to cut a new piece of metal exactly the same shape, offers it up, rests it in place and then just goes round the holes, tacking it all the way round.
 
---- Loading words for this example (neg): minute
+--- Loading words for this example (neg): properly, once, straight
+
+
+===== EXCERPT: f4_neg_007.txt (text ID t002802) =====
+Text ID: t002802
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001097_gpt.txt
+
+Score (f4_neg): -3
+Loading words (f4_neg), N=3: properly, once, straight
+Only three of us can really read music properly, but we still have a lot of fun with it. The others manage with their colour‑marked notes, but it gets quite tricky once you’ve got loads of bells going, up to twelve at a time. All the notes are written in one straight line on a single clef, so when everyone’s ringing away it’s hard to pick out which note is yours. With that many bells sounding together, and everything crowded onto one line, finding your own bit can be a real challenge.
+
+--- Loading words for this example (neg): properly, once, straight
+
+
+===== EXCERPT: f4_neg_008.txt (text ID t002896) =====
+Text ID: t002896
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001191_gpt.txt
+
+Score (f4_neg): -3
+Loading words (f4_neg), N=3: odd, properly, once
+well the luggage labels have arrived and they’re quite smart really, they say “outward bound” on one side, so that’s all straightforward enough. there wasn’t any letter in with them at all though, no confirmation about the cabin upgrade, and certainly nothing about any extra cost, which is rather interesting. I can’t see that they’ve charged us anything more for it. as far as I can tell, there’s been no paperwork about it beyond these labels and the tickets.
+
+I was saying to him that it actually makes sense from their point of view. they upgrade us, and then they can resell our old cabin to somebody else, so they get the benefit of selling that twice over in effect. it’s no skin off their nose to move us up a grade if they can shift the original one again. but it is slightly odd not to have any kind of letter explaining what they’ve done, you’d think they’d want it all in writing.
+
+anyway, the journey up to London was very good, much better than I’d expected. the roads were really very clear, and the weather improved as we went along. it started off not so promising, but it got better and better on the way, so by the time we were getting in it was actually quite decent. there were crowds around Parliament and Downing Street, lots of people milling about there, so that bit was a bit busy, but otherwise it was fine, nothing problematic at all.
+
+so what I want you to do is just put the labels on the suitcase now, get that done, and then I’ll fill in the cabin number later on once we’re absolutely sure what it is and everything’s settled. no point in guessing and then having to redo it. just stick them on so they’re ready, and we can add the details when we’ve got them properly.
+
+oh, and I popped into Lidl and did a small shop, just a few bits and pieces, nothing major, but enough to keep us going. so that’s all sorted as well.
+
+--- Loading words for this example (neg): odd, properly, once
+
+
+===== EXCERPT: f4_neg_009.txt (text ID t002690) =====
+Text ID: t002690
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000985_gpt.txt
+
+Score (f4_neg): -3
+Loading words (f4_neg), N=4: plan, properly, chat, straight
+yeah so like you know that lad I know, he’s got that JVC thing coming up, doing the beauty products on the shopping channel. It’s like a grand a session, which is mad money for what it is, just standing there talking about moisturiser or whatever. And that’s just him – I keep thinking what someone properly famous must be on for the same sort of gig, it must be ridiculous, the whole business is just mental when you think about it. 
+
+Then Thursday I was in with my tutor, chatting through what I’m doing and what the plan is. We went over my ideas and where I’m heading, just trying to get it all straight in my head really, working out the next steps and that.
+
+--- Loading words for this example (neg): plan, properly, chat, straight
+
+
+===== EXCERPT: f4_neg_010.txt (text ID t001959) =====
+Text ID: t001959
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000254_gpt.txt
+
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: chat, straight
+I did have a proper little chat with her last night when I picked her up. I told her straight I was worried, because she’d been having a go at people for no reason and upsetting people, and then getting upset herself really quickly. I said she didn’t seem to be thinking straight, and that she wasn’t enjoying sixth form because of the workload. But I also made sure she knew she’s doing really well, and that what matters to me is her being happy, that’s what I’m concerned about.
+
+--- Loading words for this example (neg): chat, straight

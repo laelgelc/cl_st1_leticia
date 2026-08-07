@@ -1,8 +1,8 @@
-Text ID: t001712
+Text ID: t002966
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000007_gpt.txt
+File:   corpus/05_profiled_gpt/t001261_gpt.txt
 
 Score (f6_pos): 1
-Loading words (f6_pos), N=1: month
-It got to the point where my stomach was almost solid, you know, and it was really sticking out. Over a few months it just got bigger and bigger, and in the end I thought, this isn’t right, so I went to the doctor. She sent me for loads of tests, all sorts, and they did eventually find fibroids. But they said the fibroids weren’t actually causing the swelling, so that didn’t explain it. In the end she said it was probably IBS, and that it might well be brought on by stress.
+Loading words (f6_pos), N=1: alright
+she texted me and she was like absolutely fuming, proper angry, saying she wasn’t allowed to see him on Boxing Day cos of his mum. And I was sat there like what? what? what? Then later on she turns round and says, oh no, he’s said he’s not seeing me on Boxing Day because he wants to surprise me and come round to mine instead. And at first I was like oh right, that’s actually quite good then, that sounds alright. But then a couple of days later she messages again and she’s like, I’m pretty sure he only said that to shut me up. And I’m just there going, what? what? what? like I don’t even know what to say to her about it.

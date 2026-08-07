@@ -1,14 +1,8 @@
-Text ID: t002642
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000937_gpt.txt
+Text ID: t000007
+Group: human
+Model: human
+File:   corpus/05_human/t000007_human.txt
 
-Score (f1_pos): 5
-Loading words (f1_pos), N=5: become, idea, more, own, way
-I think to really get the story going we’d have to step back from just “academic integrity” and talk about integrity more broadly. If we frame it as integrity in general – how people act with integrity, how they teach it, how they deal with grey areas – it opens things up and makes it more interesting and relevant to more people.
-
-We’d also need to phrase it in a way that actively encourages people to invite others to be interviewed. So instead of it just being us approaching individuals, it becomes, “Who else do you know who’s grappled with this?” That way, each person feels they can nominate colleagues or friends, and the story naturally spreads through those invitations.
-
-I’d want to link it to a really concrete problem as well, something that’s already worrying people, like students using ghost writers. If we’re explicit about that sort of issue – not skirting around it but actually naming it – then people have something solid to respond to. Talking openly about those kinds of problems can actually be a way of generating solutions, because everyone brings their own experiences and ideas.
-
-So the overall theme would be framed around integrity, but grounded in these specific, real-world problems. That combination – broad principle plus concrete cases – would help people see why it matters and what they can contribute, and it would give the whole project a clear narrative thread.
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): just
+to literally er I mean er I know it's a little bit hit but it was like almost solsolid coming out and I went to the doctor after so many months and sort of said er s and she went oh yeah so they started doing loads of tests to see what they thought it was and this is when it turned out it was the fibroids but that wasn't what was doing the stomach erm swelling she sai and she thought it was just IBS and it may well've been just with the stress

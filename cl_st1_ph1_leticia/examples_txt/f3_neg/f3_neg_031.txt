@@ -1,12 +1,8 @@
-Text ID: t002020
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000315_gpt.txt
+Text ID: t000653
+Group: human
+Model: human
+File:   corpus/05_human/t000653_human.txt
 
 Score (f3_neg): -2
-Loading words (f3_neg), N=2: fact, okay
-yeah and I mean that’s exactly it, isn’t it, this idea that somehow some of us are “okay” immigrants and some of us aren’t. When I first came out here, and even before, I’d already heard people talking about Syrians, in particular, as if they were all rapists, and that really shocked me. One of my students actually came out with it this week – all these Syrian immigrants coming over here raping women – and it wasn’t said as a question, it was just stated like a fact.
-
-What strikes me is how long that’s been around. You’re saying you’ve felt it more strongly since the new government came in, but I remember hearing that kind of thing before I even moved to Poland, so it’s not new, it’s just become more acceptable to say out loud. And then you and I are here, both immigrants, both “foreign,” but somehow we’re not being lumped in with that stereotype because we’re white, or British, or teaching English, or whatever it is that makes us supposedly “good” for the economy.
-
-I find that really uncomfortable, because if a Syrian from a war zone isn’t welcome here, why on earth should I feel welcome? I’m as much an immigrant as they are, just with a different passport and skin colour.
+Loading words (f3_neg), N=2: huge, massive
+and eh yeah it it everyone really enjoyed it and they were still able to em sort of build their own little houses around it well quite massive houses but yeah they were able to em because all of the communal buildings were lined up on this street it it was quite a go do focal point for everyone else to build this stuff em and eh one of the things that em got a lot of attention and a lot of er creative input from people was on December the first I made a huge great naked Christmas tree and just posted the picture of this naked fi Christmas tree up onto Facebook and instantly people were on there sort of decorating and putting presents around the bottom and stuff and em and that was great and there was this eh there was one guy who built a castle a little distance away from it and he was inviting people to come and do a bit of player versus player with him and eh no one really went for it so yeah kind of kind of felt bad for him but then there was a little bit of vandalism and sort of stealing going on em

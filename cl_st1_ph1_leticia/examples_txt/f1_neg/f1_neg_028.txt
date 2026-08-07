@@ -1,8 +1,8 @@
-Text ID: t005108
+Text ID: t004620
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001698_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001210_gpt.txt
 
-Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-she was just really emotionally broken at the time, you know, it was a really bad time for everybody, but it’s sort of been repaired now, largely. things are okay between them these days. and his dad was always this very hard‑working, high‑profile doctor, so he did see them all the time, but he just wasn’t really present in that way. like, I remember asking him what was like as a child, and he just couldn’t answer, he kind of dodged it. and later on said, well, that’s because he just wasn’t there, really, when he was little. it’s that kind of thing, not some big dramatic explanation, just that his work and everything meant he wasn’t actually around enough to know.
+Score (f1_neg): -8
+Loading words (f1_neg), N=8: stand, absolutely, suddenly, awful, even, head, just, stick
+it was one of those moments where you suddenly realise just how close you’ve come to something absolutely horrific you know in nepal being only about twelve vehicles back from that landslide and just standing there looking at where the whole side of the mountain had just gone and there were just roofs sticking out and you knew there had been a village there and now there just wasn’t and you’re sort of counting the time in your head thinking if we’d left a bit earlier or gone a bit faster we could have been right in it and then there was that other time in nepal when we drove straight into this area that had just been flooded and we didn’t even realise at first it had turned into a refugee camp with all these aid tents everywhere dead buffalo floating in the water and the roads were just awful it took us something like twelve hours to get through all of that it was just grim

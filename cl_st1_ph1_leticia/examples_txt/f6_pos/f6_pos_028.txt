@@ -1,14 +1,8 @@
-Text ID: t005065
+Text ID: t004201
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001655_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000791_gpt.txt
 
 Score (f6_pos): 1
-Loading words (f6_pos), N=1: least
-so that whole sense of security I’d had about cancer was even more misplaced than I realised, because my grandmother almost certainly had a gynaecological cancer. She’d had a hysterectomy and radium rod treatment years and years ago, and that’s pretty clear evidence of what was going on. 
-
-But in the family it was completely denied. The story was always that there wasn’t any cancer in the family, that nobody had ever had cancer, and I’d kind of absorbed that. It gave me this feeling that somehow we were safe, that there wasn’t a genetic component for us. 
-
-It was only when I actually produced my grandmother’s diary from that year that the truth really became undeniable. In the diary she’d written about what happened, and once they saw it, they couldn’t just brush it aside any more. Until then, somehow it had just gone right over their heads, as if the whole episode hadn’t really happened, or at least not in the way it obviously had. 
-
-So that supposed “no cancer in our family” thing turned out to be built on sand, really, because the evidence was there all along in her own handwriting.
+Loading words (f6_pos), N=1: alright
+I don’t know what you were aiming at either, but it’s alright. Head down this way, keep walking forward a bit. Now use your E here, then move up a little and hit Q. You’ve got plenty of mana and your cooldowns are fine, so don’t worry, just keep casting. Nice, that was good. Now walk towards them again and press R, then back off a little. Yeah, that was really good, well done. Just focus on killing the minions first, clear those out before you go for the champions, and then back away to a safer distance.

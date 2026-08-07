@@ -1,8 +1,8 @@
-Text ID: t003523
-Group: unprofiled_gpt
+Text ID: t002999
+Group: profiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000113_gpt.txt
+File:   corpus/05_profiled_gpt/t001294_gpt.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: single, pick
-I just don’t get why they latch onto these really specific measures and act like they’re the magic answer. It’s like the recommended weekly units of alcohol – they pick a number and suddenly that’s the big guideline everyone’s meant to obsess over. Same with when they were going on about salt years ago. There was that whole thing about not eating too much salt, like it was the single big evil. I always remember that advert with Jenny Eclair, her going on about “don’t eat more than a bit of salt” and all that.
+Score (f5_pos): 4
+Loading words (f5_pos), N=4: hundred, six, ten, two
+it's it's almost like welding what they're doing on those pipes, you know, with the torches and the rubber, it sounds absolutely awful. He said the weather’s really nice up there, which almost makes it worse, because they’re stuck down on the docks instead of actually on site. And now the customer’s saying they want eight pipes next week, but they can’t even leave the docks yet. They’re not allowed to move anything until the customer pays the two hundred and thirty thousand in VAT on that first batch. And there’s still six more deliveries due in about ten days’ time, with just this tiny group of them on site trying to sort it all out.

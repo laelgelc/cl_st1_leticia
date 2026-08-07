@@ -1,8 +1,8 @@
-Text ID: t000454
+Text ID: t000009
 Group: human
 Model: human
-File:   corpus/05_human/t000454_human.txt
+File:   corpus/05_human/t000009_human.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: gonna
-I'm sorry like I don't have time to make them some of my problem like before even asking me like I hadn't even gotten back to France at that point when they had the booking for these people coming in saying yeah we are gonna like put us kids in school for a year and see how it goes in France and like naming the schools and stuff before I even knew that there was going to be that long term tenant before they even aske my mum even asked me if I was okay with it she sent a message to tthis woman like saying yeah will be help h will be happy to come over every night and give tutoring she'll give so much advice cos she's lived through all of this kind of stuff and I was just like no I'm sorry like not to sound selfish but when I moved over there there was no one there
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: he, him
+and I said well he he's up at half five when he's on mornings he's on shifts it's only once every three weeks so and he said you know if it gets if it is loud and if anybody's bothered by it he'll park it up the road a bit or round the corner a bit and so it'll only be an odd night an odd morning and I just said to him you need to get the thing stuck in the exhaust and only take it out when you're going off doing other stuff in the day

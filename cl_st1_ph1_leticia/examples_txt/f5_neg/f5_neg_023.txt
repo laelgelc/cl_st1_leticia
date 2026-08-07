@@ -1,8 +1,8 @@
-Text ID: t003825
-Group: unprofiled_gpt
+Text ID: t003293
+Group: profiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000415_gpt.txt
+File:   corpus/05_profiled_gpt/t001588_gpt.txt
 
-Score (f5_neg): -2
-Loading words (f5_neg), N=2: set, somebody
-the way it works at the moment is completely the other way round, isn’t it – education’s set up so that somebody else has already done all the thinking for you. The lecturer comes in having pre–selected the examples, pre–selected the arguments, and then just delivers the bits they’ve decided are interesting or important. But that doesn’t mean those are the bits that really matter to you or connect with what you care about. I think students ought to be much more active about that, actually pushing back a bit in lectures and saying, “okay, but how does this apply to my area, to the thing I’m interested in?” If people did that more, if there were more questions flying around in lectures, it wouldn’t just help the person asking – it would open things up and make it better for everyone in the room.
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: push
+So when I applied I thought, right, I’ve actually got loads of travel writing and copywriting experience I can push. I made sure I really highlighted my blogs and all the copywriting work I did in Peru, because it felt really relevant to what they were asking for. Anyway, they emailed me back and said they liked my CV, which was such a relief, and then they asked me to do this little test thing – research a specific hotel and write 250 words about it so they could see what my writing style’s like.

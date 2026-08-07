@@ -1,8 +1,12 @@
-Text ID: t002440
+Text ID: t003312
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000735_gpt.txt
+File:   corpus/05_profiled_gpt/t001607_gpt.txt
 
-Score (f6_neg): -3
-Loading words (f6_neg), N=3: anyone, guy, everyone
-Well they’re all busy, some of them have actually got jobs as well, so it’s a bit hard to get everyone together. Age-wise it’s quite mixed. There’s that half-Malaysian girl, she’s only twenty-one, and the American girl’s twenty-two. Then there’s that Dutch girl who’s really moody and doesn’t talk to anyone. There’s a Pakistani guy who’s about my age, and then the rest of them are sort of around twenty-five to thirty-five, somewhere in that range. So yeah, it’s definitely a mixed group.
+Score (f6_neg): -4
+Loading words (f6_neg), N=4: horrible, honestly, especially, yet
+So the author I was on about is Matt Haig – he randomly followed me on Twitter, so I just followed him back. I’ve not actually read any of his books yet, but I do want to at some point, especially because I see his tweets pop up quite a lot. Sometimes he tweets about dealing with depression, and lately he’s been talking loads about all the abuse he gets on Twitter. 
+
+What really got me was him saying some of it comes from people he actually knows in real life, which is just awful. It’s not just random trolls, it’s like people from his own life piling on as well. He’s been really open about how horrible it is, and it just makes you think about how intense it must be when everything you say online gets picked apart. 
+
+It must be horrible for people who’ve got that level of attention, where every tweet is scrutinised and twisted and thrown back at them. You can’t just say something offhand without worrying how it’s going to be received or who’s going to attack you for it. I honestly can’t imagine dealing with that kind of constant pressure on something as daft as Twitter.

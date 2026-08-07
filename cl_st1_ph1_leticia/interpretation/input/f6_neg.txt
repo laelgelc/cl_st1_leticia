@@ -33,155 +33,163 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac6	SD fac6
-group	human	1705	-0.03108504	0.49489915
-group	profiled_gpt	1705	-0.08973607	0.50888259
-group	unprofiled_gpt	1705	-0.08680352	0.52134772
+group	human	1705	0.00117302	0.41678237
+group	profiled_gpt	1705	-0.31906158	0.60146071
+group	unprofiled_gpt	1705	-0.30791789	0.60287998
 
 === FACTOR LOADINGS (f6_neg) ===
-variables loading on this pole = 5
-anyone (-.73), (massive (-.41)), guy (-.40), everyone (-.33), (shit (-.30))
+variables loading on this pole = 10
+horrible (-.64), somehow (-.54), single (-.50), honestly (-.45), thinking (-.41), (sorry (-.39)), clearly (-.38), especially (-.38), yet (-.36), (properly (-.32))
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f6_neg_001.txt (text ID t002440) =====
-Text ID: t002440
+===== EXCERPT: f6_neg_001.txt (text ID t003312) =====
+Text ID: t003312
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000735_gpt.txt
+File:   corpus/05_profiled_gpt/t001607_gpt.txt
+
+Score (f6_neg): -4
+Loading words (f6_neg), N=4: horrible, honestly, especially, yet
+So the author I was on about is Matt Haig – he randomly followed me on Twitter, so I just followed him back. I’ve not actually read any of his books yet, but I do want to at some point, especially because I see his tweets pop up quite a lot. Sometimes he tweets about dealing with depression, and lately he’s been talking loads about all the abuse he gets on Twitter. 
+
+What really got me was him saying some of it comes from people he actually knows in real life, which is just awful. It’s not just random trolls, it’s like people from his own life piling on as well. He’s been really open about how horrible it is, and it just makes you think about how intense it must be when everything you say online gets picked apart. 
+
+It must be horrible for people who’ve got that level of attention, where every tweet is scrutinised and twisted and thrown back at them. You can’t just say something offhand without worrying how it’s going to be received or who’s going to attack you for it. I honestly can’t imagine dealing with that kind of constant pressure on something as daft as Twitter.
+
+--- Loading words for this example (neg): horrible, honestly, especially, yet
+
+
+===== EXCERPT: f6_neg_002.txt (text ID t001903) =====
+Text ID: t001903
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000198_gpt.txt
 
 Score (f6_neg): -3
-Loading words (f6_neg), N=3: anyone, guy, everyone
-Well they’re all busy, some of them have actually got jobs as well, so it’s a bit hard to get everyone together. Age-wise it’s quite mixed. There’s that half-Malaysian girl, she’s only twenty-one, and the American girl’s twenty-two. Then there’s that Dutch girl who’s really moody and doesn’t talk to anyone. There’s a Pakistani guy who’s about my age, and then the rest of them are sort of around twenty-five to thirty-five, somewhere in that range. So yeah, it’s definitely a mixed group.
+Loading words (f6_neg), N=3: horrible, single, honestly
+There’s this group of people and their beliefs are honestly terrifying. They say that if their own child was instantly killed by a car, they would rejoice. They actually think every single event is a decision made by God, and because of that, everything has to be celebrated, even something as horrible as that. On top of that, they completely banish anyone who leaves their church, even if it’s their own daughter. If she decides to leave, they cut off all contact with her. They insist they’re not sad about it at all, because in their minds she’s now a sinner who’s going to hell, and they don’t want someone like that anywhere near their church or their community.
 
---- Loading words for this example (neg): anyone, guy, everyone
+--- Loading words for this example (neg): horrible, single, honestly
 
 
-===== EXCERPT: f6_neg_002.txt (text ID t001730) =====
-Text ID: t001730
+===== EXCERPT: f6_neg_003.txt (text ID t001904) =====
+Text ID: t001904
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000025_gpt.txt
+File:   corpus/05_profiled_gpt/t000199_gpt.txt
 
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: anyone, everyone
-yeah so the cottage itself is working out really pricey, it’s like a hundred quid plus each just for the three nights, and that’s before you even think about food or petrol or anything, and people are having to take time off work as well. For that amount of money you sort of expect there to be a bit more thought put into what we’re actually going to do while we’re there, but there hasn’t really been much planning around keeping everyone entertained.
+Score (f6_neg): -3
+Loading words (f6_neg), N=3: single, honestly, clearly
+It was honestly so bad it took us three hours just to fix her referencing. I basically said, we’re using my version in the report because otherwise there’s nothing that clearly shows what I’ve actually done. I made her sit with me and we went through every single reference one by one, fixing them all. For the end-of-text ones I just got her to copy and paste mine because they were actually right. One of hers was literally formatted as “add to alerts list” in italics as the reference – I just stared at it like, how can that even make sense to anyone?
 
-They did float this idea of going quad biking, which sounded fun, but that was going to be another fifty quid each on top, and loads of people straightaway were like, “no, that’s too much,” so that’s been dropped now. Since then, as people have tried to suggest other things we could do that are maybe cheaper or just a bit more organised, it’s started to get a bit tense.
-
-The girls who originally organised it are getting quite tetchy about it, because I think they feel like people are stepping on their toes and sort of taking over their plans. But it’s not really that – it’s more that when someone comes up with a decent idea, everyone else in the group gets behind it, and then it looks like the support is shifting towards that instead of what was first suggested. So yeah, it’s all a bit awkward at the moment, because you’ve got this expensive weekend, not much properly sorted to do, and then a bit of a power struggle going on whenever anyone tries to help by offering new ideas.
-
---- Loading words for this example (neg): anyone, everyone
+--- Loading words for this example (neg): single, honestly, clearly
 
 
-===== EXCERPT: f6_neg_003.txt (text ID t001740) =====
-Text ID: t001740
+===== EXCERPT: f6_neg_004.txt (text ID t002160) =====
+Text ID: t002160
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000035_gpt.txt
+File:   corpus/05_profiled_gpt/t000455_gpt.txt
 
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: anyone, everyone
-Sometimes it’s even just the little things, like when I’ve had a rubbish day at work and I just want to come home and stay in a bad mood for a bit. I want to stew on it, sit and be grumpy, and not have to put on a face for anyone. But when you’re living in someone else’s family home, in a house full of people, you can’t really do that. You can’t just sit and be, or be openly miserable, because you’re always kind of “on” around everyone.
+Score (f6_neg): -3
+Loading words (f6_neg), N=3: somehow, single, thinking
+So I finally got to go to this place I’d wanted to go to all summer, right, and I went with my boyfriend. We had a really nice time, just us, and I was actually quite chuffed I’d managed to fit it in before everything got busy again. Then my mum comes back, hears about it, and immediately starts having a go that we should’ve waited so it could be a “family outing.”  
 
---- Loading words for this example (neg): anyone, everyone
+She acted like I’d done something properly wrong, like I’d personally offended her by doing something as a couple without her there. It wasn’t even anything massive, just a day out, but she turned it into this big drama about being left out and how we’re supposed to do things together.  
+
+And I’m just sat there thinking, what does she actually expect? That every single thing I do with my boyfriend has to involve her somehow? Does she want an invite to absolutely everything, even the private, intimate bits of our relationship? It’s so ridiculous that I end up being sarcastic in my head, like, shall I pencil her in for when we’re in bed as well?
+
+--- Loading words for this example (neg): somehow, single, thinking
 
 
-===== EXCERPT: f6_neg_004.txt (text ID t001720) =====
-Text ID: t001720
+===== EXCERPT: f6_neg_005.txt (text ID t002294) =====
+Text ID: t002294
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000015_gpt.txt
+File:   corpus/05_profiled_gpt/t000589_gpt.txt
 
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: anyone, everyone
-I do think class and circumstances make a difference – they clearly do – but I still feel you’ve got to try and do what you believe is right, regardless. In an ideal world everyone would have the same opportunities, and that’s how it ought to be, even if it obviously isn’t like that now. I don’t think anyone should feel proud or ashamed of where they’ve ended up, or of things like their race or gender or where they were born. Those things shouldn’t matter in terms of your value as a person, even if society often acts as though they do.
+Score (f6_neg): -3
+Loading words (f6_neg), N=3: horrible, honestly, clearly
+so in the end we just said forget the guide and decided to go up the mountain on our own instead. we had to set off at something like three in the morning, when it was absolutely freezing, and we were already starting from about two and a half thousand metres, going up to around four and a half thousand. it was that horrible cold where you can see your breath and your fingers don’t really work properly, and it’s still basically night.
 
---- Loading words for this example (neg): anyone, everyone
+as we were going up in that sort of twilight – you know, where you can’t quite see properly and everything looks a bit dodgy – we were following this really indistinct path. you could just about make it out, but not clearly, and then we saw this animal on the trail ahead of us. we couldn’t tell exactly what it was, just this shape moving in the half-light. it might’ve been a leopard, or maybe just a really big dog, but we honestly didn’t know.
+
+the not knowing was the worst bit. from that moment I was completely on edge. every little sound put me on alert, and I just had that feeling that something was out there watching us while we were trying to get up this mountain in the dark.
+
+--- Loading words for this example (neg): horrible, honestly, clearly
 
 
-===== EXCERPT: f6_neg_005.txt (text ID t002048) =====
-Text ID: t002048
+===== EXCERPT: f6_neg_006.txt (text ID t001748) =====
+Text ID: t001748
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000343_gpt.txt
+File:   corpus/05_profiled_gpt/t000043_gpt.txt
 
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: anyone, everyone
-So my boss sent this email round saying that after talking to the controller, apparently this new process and system are working really well, everyone’s on board, all that. And I’m just sitting there thinking, how? Because since they changed the roles we’ve ended up doing loads of extra admin, picking up bits that used to be someone else’s job. It doesn’t feel streamlined at all, it’s just more work. I honestly doubt she’s actually asked anyone if they’re happy with it, because I can’t think of a single person who is. It just feels completely out of touch.
+Score (f6_neg): -3
+Loading words (f6_neg), N=3: horrible, somehow, clearly
+my old car was so clearly on its last legs, like the axle was definitely going or something, because every time I turned a corner it would make these horrible noises. I knew it was in a really bad state, so I wasn’t expecting much for it at all. that’s why I was genuinely really pleased when he somehow still managed to get nine hundred quid for it. after that he basically handed me over to another guy who dealt with all the final bits, like sorting the actual deal and doing the payment stuff.
 
---- Loading words for this example (neg): anyone, everyone
+--- Loading words for this example (neg): horrible, somehow, clearly
 
 
-===== EXCERPT: f6_neg_006.txt (text ID t002031) =====
-Text ID: t002031
+===== EXCERPT: f6_neg_007.txt (text ID t003303) =====
+Text ID: t003303
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000326_gpt.txt
+File:   corpus/05_profiled_gpt/t001598_gpt.txt
 
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: anyone, everyone
-right now I actually couldn’t work at a university in England, not in the way I was doing in Korea. Here, if you’ve just got an MA like me, you *can* sometimes teach English as a foreign language at a university, but that’s usually in the EFL or language‑centre type roles, and only if you’ve got loads of ESL teaching experience behind you. That’s quite different from linguistics: in linguistics departments, basically everyone who’s a lecturer has a PhD, it’s just expected.
+Score (f6_neg): -3
+Loading words (f6_neg), N=3: horrible, somehow, clearly
+well I I think it's a whole load of things going on with alcoholism you know it’s never just one simple cause there was that woman who stayed with that bloke who was horrible to women and you just think why on earth would you do that? but she clearly didn’t have much self-respect and somehow she clung on to him anyway and I can see a kind of parallel with drinking really because I know for myself I sometimes drank in this odd hope that it would make me feel better about myself, give me some sort of self-respect or confidence and of course it’s completely back to front because the more you drink the less respect you have for yourself in the end it strips it away from you doesn’t it?
 
-And the whole “professor” thing is completely different depending on the country. In England, “professor” is the top of a long ladder – you start as a lecturer, then senior lecturer, and it takes years and years before you’d ever get called professor. In America, though, anyone who teaches at a university is called a professor, so I was “Professor” there and in Korea, even though in England I definitely wouldn’t count as one.
-
---- Loading words for this example (neg): anyone, everyone
+--- Loading words for this example (neg): horrible, somehow, clearly
 
 
-===== EXCERPT: f6_neg_007.txt (text ID t001911) =====
-Text ID: t001911
+===== EXCERPT: f6_neg_008.txt (text ID t002735) =====
+Text ID: t002735
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000206_gpt.txt
+File:   corpus/05_profiled_gpt/t001030_gpt.txt
 
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: guy, everyone
-yeah it is complicated, like the way it’s told is really weird. It keeps switching between this guy called Lockwood and the servant, Nelly Dean. Lockwood’s the one who’s actually renting Thrushcross Grange, and he’s kind of the frame for everything. But Nelly grew up with Catherine and Hindley and works at one of the mansions, so she’s the one who really knows everyone. Technically you might not say she’s the official narrator, but she’s basically the one telling all the stories.
+Score (f6_neg): -3
+Loading words (f6_neg), N=3: somehow, thinking, especially
+I’ve been absolutely binging on “Sounds of the Seventies” on BBC iPlayer lately. I suddenly realised I’d somehow missed three weeks of it, so I’ve been catching up properly. I had it on while I was tidying up and cooking the other day and it was just perfect, really enjoyable. There was a Bowie special in there as well, which I loved.
 
---- Loading words for this example (neg): guy, everyone
+Music just moves me so much, especially all that seventies stuff – the rock, the disco, the ska, the reggae. It does something to me physically, I can feel it. If I’ve got that kind of music on while I’m walking for exercise, it almost doesn’t feel like effort at all, it’s like my body just goes with it and the time disappears.
+
+What’s funny is, I’ve noticed that when I put my iPod on random, I hardly ever get anything from the eighties. It’s all seventies, then a little bit of nineties, loads of noughties, and a bit of sixties. Somehow the eighties have almost vanished from it, which is strange because I do actually like eighties music. I keep thinking, where’s it all gone then? It’s as if my iPod’s decided I’m a seventies person and that’s that.
+
+--- Loading words for this example (neg): somehow, thinking, especially
 
 
-===== EXCERPT: f6_neg_008.txt (text ID t001853) =====
-Text ID: t001853
+===== EXCERPT: f6_neg_009.txt (text ID t003313) =====
+Text ID: t003313
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000148_gpt.txt
+File:   corpus/05_profiled_gpt/t001608_gpt.txt
 
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: anyone, everyone
-I was thinking about your dad actually, how he used to do that long commute down towards London. Even with working from home two days a week, going in three times must’ve been exhausting. And then when he was working near Coventry as well, that’s just another level. Leaving stupidly early in the morning before anyone else was even up, and then not getting back until a couple of hours after everyone in the evening… I honestly don’t know how he managed that routine, it sounds absolutely knackering.
+Score (f6_neg): -3
+Loading words (f6_neg), N=3: honestly, clearly, especially
+I honestly don’t get how he copes with all those interviews. I’ve seen him loads of times where he’s getting what I’d say are really sexist questions, and you can just tell he’s getting fed up. And then he gets slagged off online for reacting, which just seems really unfair when he’s clearly had enough. It’s like people are just waiting for him to slip so they can jump on him. I just think they should leave him alone a bit, especially when it’s obvious he’s getting properly fed up.
 
---- Loading words for this example (neg): anyone, everyone
+--- Loading words for this example (neg): honestly, clearly, especially
 
 
-===== EXCERPT: f6_neg_009.txt (text ID t002139) =====
-Text ID: t002139
+===== EXCERPT: f6_neg_010.txt (text ID t002685) =====
+Text ID: t002685
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000434_gpt.txt
+File:   corpus/05_profiled_gpt/t000980_gpt.txt
 
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: anyone, everyone
-No, what gets me is it only has to snow about half an inch now and everyone seizes on it as an excuse not to go to work. Any little dusting and suddenly it’s “oh, can’t possibly get in, roads are treacherous”, and they just give up and abandon their cars. You see them all over the place, just left there at the slightest sign of trouble.
+Score (f6_neg): -3
+Loading words (f6_neg), N=3: horrible, somehow, single
+our keeper right he looks terrifying like properly scary, covered in tattoos, big bloke, you’d look at him and think no one’s getting near his goal. Ball comes in and he just completely misses it, like goes to get it and somehow doesn’t, and they score again. And it’s the same sort of goal over and over, just balls in behind, our defence is that bad they just keep doing it and it keeps working.
 
-I mean, I remember one time when it really did snow properly, not this token stuff. I had to get to the office, it was miles away, and I still got in. Drove all that way in genuinely bad conditions, taking it slow, being careful, doing what you have to do. And when I finally arrived, the people who actually lived nearby hadn’t even bothered to turn up. They were right on the doorstep, practically walking distance compared to my journey, and they’d just decided “nah, can’t make it, too much snow”. That really annoyed me because I’d put the effort in, done the long, hard drive, and then the local lot hadn’t even tried.
+What makes it worse is me and one of the lads in midfield actually had good games. We’d gone with a proper five‑man midfield, really solid, keeping the ball, doing what we’re meant to do, but if every time they go forward they look like they’re gonna score it doesn’t matter. We lost four one in the end and we had to take every single chance we got, and we didn’t.
 
-And then there was that time years back with the really severe snow, when the roads just weren’t gritted at all. They knew it was coming, it wasn’t like it crept up on anyone. The forecasts were all saying it was going to be bad, but nothing was done. I remember the M11 in particular – people were stuck there for hours and hours. Some of them were out there for twenty‑four hours, just sitting in their cars, completely stranded. No grit, no proper preparation, nothing moving.
+There’s this one lad in our team who would be the perfect centre back, like exactly what we need, strong, can read the game, everything. But they won’t stick him there because he’s “too good going forward” so they want him up the pitch. And I’m just stood there thinking what’s the point? However well I play, or we play in midfield, we’re always gonna lose if the back lot are that bad.
 
-That was the thing that really stuck with me: they had plenty of warning, and still the authorities didn’t bother to get the gritters out or organise anything properly. It wasn’t as if they didn’t have time. They just seemed to hope it would all somehow be fine, and then when it hit, the whole system ground to a halt. You had lorries jack‑knifed, cars all over the place, and absolutely no sign that anyone had taken it seriously beforehand.
+It’s just this horrible feeling of knowing before you even start that you’re probably gonna lose no matter what you do. Proper frustrating and you just feel helpless with it. At least we’ve got a two‑week break now before the next game, so maybe everyone’ll calm down a bit and we can figure something out.
 
-So on the one hand you’ve got people using the tiniest bit of snow as an excuse to stay at home and abandon their cars, and on the other hand you’ve got this example where there really was a proper snowfall and the roads were a complete mess because no one had prepared. It just shows how badly it can go wrong when they don’t grit the roads and don’t plan ahead, especially when they’ve been told the bad weather’s on its way and still don’t do anything about it.
-
---- Loading words for this example (neg): anyone, everyone
-
-
-===== EXCERPT: f6_neg_010.txt (text ID t002269) =====
-Text ID: t002269
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000564_gpt.txt
-
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: anyone, everyone
-right so everyone have a look at your new loyalty card now, but don’t show it to anyone, it’s still secret. If you’ve just become a Cylon you’ve got two options: you can stay undercover and carry on pretending to help, or on your turn you can reveal yourself. If you reveal, you get a super crisis card and you can use your special Cylon ability, then you move over to the Cylon area on the board. If, like me, you’ve drawn this different sympathiser card, you have to reveal it straight away. That means you’re not actually a Cylon, you don’t get a super crisis card, and you can’t activate the Cylon fleet location. So I’m revealing my status now.
-
---- Loading words for this example (neg): anyone, everyone
+--- Loading words for this example (neg): horrible, somehow, single

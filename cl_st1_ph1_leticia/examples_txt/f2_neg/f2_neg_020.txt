@@ -1,8 +1,8 @@
-Text ID: t000511
+Text ID: t000049
 Group: human
 Model: human
-File:   corpus/05_human/t000511_human.txt
+File:   corpus/05_human/t000049_human.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: gonna
-erm and erm so the plan was and were gonna stop in and have a pizza delivered and all this and that so they come I'm sitting here I'd just literally finished work at ten to four cos I've got a new system now tell you about that so I was just sitting here with a cup of tea thinking oh be here three minutes even just three minutes' peace would be nice and they appeared and it was always wants to go down to 's tonight I said that's alright and er said oh will be okay on her own? I said yeah yeah she's fine as long as there's no candles other than what's safely in them pots lit
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: he, him
+and there's a bit of a lake there and he suddenly with the minibus ran off in the dark saying I'm not ready to go home he ran off so they all went looking for him in the dark and they were worried about this lake anyway at the end erm his er his partner's she said no I'm going home so they all had to get in the minibus and off they went so at three AM er his mother is looking after the child back at the house and er at three AM the partner says I'm a little bit worried about him so his mother goes off looking for him and an uncle had found him and and he was in a minibus he'd broken into a minibus or a or something there and was asleep in the morph suit and at three half past three in the morning he'd found himself with his feet in the lake absolutely frozen so he went to he nearly went in the lake clearly so er he broke into

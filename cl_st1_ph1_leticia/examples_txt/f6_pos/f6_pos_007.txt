@@ -1,8 +1,8 @@
-Text ID: t000324
+Text ID: t000467
 Group: human
 Model: human
-File:   corpus/05_human/t000324_human.txt
+File:   corpus/05_human/t000467_human.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: pound, least
-that's another bunch of years so you know what I mean? I to be able to fund a PhD I need to be able to have enough money to live on for four years that's a lot of time you know what I mean? and I would need to save at least thirty thousand pounds each so that's the plan we go back to the Middle East we save fifteen grand each and we travel Africa and do another qualification we do a Delta that would cover that year we go back and do two more years and save thirty grand each and that will be enough for us for us to do a PhD
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: alright
+oh it doesn't look as big as the like but it wasn't as posh but it was it was white an all-white Range Rover it was lovely he came here dropped stuff off here and he was he was only here a fortnight ago he had to go where way down to somewhere down the south right down south it took him three and a half hours to get there then you know so and er he went in that and the same thing they paid for the petrol so he said they're alright like at Fords if you've asked them you know?

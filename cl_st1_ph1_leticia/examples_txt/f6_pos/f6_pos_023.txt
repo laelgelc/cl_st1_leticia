@@ -1,8 +1,8 @@
-Text ID: t004273
+Text ID: t004117
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t000863_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000707_gpt.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: pound, least
-they're just notoriously unprofessional, these estate agents, they don't answer calls, they don't ring back, nothing, and I really think they ought to go to the ombudsman and at least register how negligent they've been, even if it doesn't actually come to very much in the end. they even tried to fob her off with three hundred pounds compensation, which she refused, because it's ridiculous given what happened. she actually came home thinking she'd been burgled, completely anxious and inconvenienced, you know, coming in and finding things not as she'd left them and feeling really unsettled by the whole thing.
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: alright
+hello? Yeah, hi Dad. Right, so you want to refresh the page, yeah? Okay, on the keyboard try pressing F5… no? Nothing happening? Okay, look at the top of the screen, where the web address is. Can you see a little circular arrow at the end of the address bar? Yeah, that one. Click on that. Has the page changed now? Yeah? That’s it, that’s refreshing it. So any time it gets stuck or doesn’t look right, just press F5 or click that little circle. Got it now? Okay, brilliant. Alright then, talk to you later, bye.

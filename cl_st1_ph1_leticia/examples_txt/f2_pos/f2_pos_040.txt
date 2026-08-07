@@ -1,8 +1,8 @@
-Text ID: t001571
+Text ID: t000319
 Group: human
 Model: human
-File:   corpus/05_human/t001571_human.txt
+File:   corpus/05_human/t000319_human.txt
 
-Score (f2_pos): 1
-Loading words (f2_pos), N=1: bloke
-mm so right we did that and we walked down there and we came to like there were some houses there but way back biggish old er and here was like some walls where there was a an outbuildings like a farm a dog had herded and he was going wild he was barking away and looking and er looking around there and I heard could hear the water running and I was looking and I had really found this place it it wasn't running but anyhow a a bloke appeared so I went over to him and asked him about it he he was he was quite and er he said well he said that used to be it but he said from down south there's some another mill and they were doing restoration work and that on it and they came up and they bought he said he should never have been sold bought some of the stuff out of there to do theirs up
+Score (f2_pos): 5
+Loading words (f2_pos), N=5: become, rather, than, more, own
+yeah I guess so I suppose there's sort of peaks of activity I just can't help but feel that there's a sort of a you know a world regime that's geared towards economic outcomes with the environment and society being sacrificed and that seems to be the theme of the moment and the theme of the last thirty years or more but when that collapses and that shifts I don't know it just seems like a momentous thing I do see humanity becoming more loving and more open and I wonder in a way if the refugee issue is getting people to address their own prejudices and to start thinking in terms of human as humans rather than religion

@@ -1,8 +1,8 @@
-Text ID: t000005
-Group: human
-Model: human
-File:   corpus/05_human/t000005_human.txt
+Text ID: t004828
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001418_gpt.txt
 
-Score (f5_neg): -2
-Loading words (f5_neg), N=2: somebody, great
-yes yeah well you know ththese bods are too actually and in fact they even organised the they found something something up there and and ththey organised a biopsy for it so I went up to the dental hospital and somebody did the biopsy on that erm and again if that had happened through the you know the the dentist that would have cost a heck of a lot that was quite funny because what happened with that I mean it turned out to be nothing the biopsy was absolutely fine but it my whole cheek swelled up er so that I had a completely uneven face you know this is was normal and this was like a great big balloon and as it coincided with the time when I was completely bald you know that was the only time when I thought I cannot
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: normal
+no no actually I’m telling it in the wrong order it didn’t start with the feet at all it started with a neck and back massage while you’re sitting on this little stool and they really work into your shoulders and upper back first and only after that do they move you so you’re lying down and then you get the proper foot massage bit and then right at the end they do this really unusual thing on your lower back sort of loosening everything up there you’d really like it it’s a completely different feeling from a normal massage

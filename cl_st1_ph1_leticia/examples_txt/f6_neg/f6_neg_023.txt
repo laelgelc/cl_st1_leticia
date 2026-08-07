@@ -1,12 +1,8 @@
-Text ID: t004916
+Text ID: t003453
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001506_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000043_gpt.txt
 
-Score (f6_neg): -2
-Loading words (f6_neg), N=2: anyone, everyone
-well one of the things that was absolutely crucial for us was just keeping ourselves up to date all the time you know you can’t sit in an office and imagine what employers want you’ve actually got to go out and talk to them so we’d be regularly visiting employers going round seeing what they were doing what they were looking for in graduates how their recruitment processes were changing and so on and then of course there were all the changes around things like the post study work visas so we’d be going on training for that as well because the rules seemed to change every five minutes and you had to be absolutely clear what you were telling students
-
-and we weren’t doing that in isolation there’s a very strong national organisation of university careers advisers and that was a huge support because we could pool all that information instead of each of us trying to reinvent the wheel so there were these regularly updated job studies being done nationally and fed into a central database and that was only really useful if everyone contributed properly which meant universities had to be prepared to release the copyright on what they’d produced so it could be shared
-
-the result of that was that students had access to hundreds of really detailed job profiles not just a handful that one university happened to have written I mean we’re talking seven or eight hundred of them and probably more like a thousand now and that meant if you were advising someone you could draw on this big shared body of up to date material rather than just your own experience it was a way of keeping the professional expertise current as well because you were constantly engaging with new studies new employer feedback new labour market information all in one place rather than scattered about in little local pockets which wouldn’t really have helped anyone very much
+Score (f6_neg): -3
+Loading words (f6_neg), N=3: horrible, honestly, clearly
+yeah like I knew it was in a really bad way, you could just tell something was wrong with the axle because every time I turned a corner it was making these horrible noises, like clearly not right at all. I was honestly expecting them to say it was worth basically nothing, so when he turned round and said they could give me nine hundred for it I was really pleased, like genuinely chuffed. and then after that he handed me over to this other guy who does all the final bits, you know, sorting the deal and taking the payment and everything.

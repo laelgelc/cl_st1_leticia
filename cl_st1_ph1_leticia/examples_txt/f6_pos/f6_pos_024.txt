@@ -1,8 +1,8 @@
-Text ID: t004555
+Text ID: t004810
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001145_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001400_gpt.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: pound, least
-yeah in Peru I didn't have to pay rent at all during my internship, which was good, and they covered my health insurance as well, so at least that side of things was sorted. But when you actually work it out, I was basically earning about a pound an hour. I was doing ten-hour days, five days a week, and for all of that I only got the equivalent of about two hundred pounds, paid in dollars. So it was a proper full-time job but for almost no money.
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: alright
+they just don't care though do they? I mean, when we had that sixteenth in Brighton at the hotel, we were all underage and we did sneak a bit of alcohol, but they shut the bar, no one was really drunk or anything. And her mum and dad kept coming down from upstairs to check on us, making sure everything was alright. That’s how it should be, really. If there are gonna be people there under eighteen, ultimately the parents have gotta be responsible.

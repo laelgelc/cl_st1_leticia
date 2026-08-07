@@ -1,8 +1,8 @@
-Text ID: t001625
-Group: human
-Model: human
-File:   corpus/05_human/t001625_human.txt
+Text ID: t002489
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000784_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-no er go and have a cup of tea and get yourself back here in thirty minutes so she did she got to the restaurant absolutely packed got herself a cup of tea and erm a four bar Kit Kat which she loves sat down she sat down opposite erm an elderly gentleman and she put the the Kit Kat in the middle unwrapped and everything and she took it and had her first bite and then the elderly gentleman took it and took snapped a bar off and ate a bar of her Kit Kat
+Score (f4_neg): -3
+Loading words (f4_neg), N=3: plan, properly, change
+No, it’s still quite a long way off, so I don’t think it’ll be the inauguration of the new space at all. They can’t really start borrowing anything until there’s a very clear idea of what the exhibition is actually about, so everything’s a bit on hold in that sense. For the moment I’m just working on the plan on the computer, trying to get this up properly, maybe change some of the titles, and then open it all in Illustrator so I can lay it out the way I want.

@@ -1,12 +1,8 @@
-Text ID: t002349
+Text ID: t001717
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000644_gpt.txt
+File:   corpus/05_profiled_gpt/t000012_gpt.txt
 
 Score (f6_neg): -2
-Loading words (f6_neg), N=2: anyone, everyone
-so instead of these massive, sprawling virtual cities you’d expect online, what actually happens is people sort of cluster into these tiny, close‑knit communities. You get these little pockets where everyone knows each other, and they just kind of stay there, even though technically they could go anywhere and talk to anyone. 
-
-My lecturer had this really funny idea connected to that, which really stuck with me. He was talking about taking something really small and local and kitschy, like a garden gnome, and then blowing it up to the size of the Statue of Liberty. So you’d have this ridiculous, gigantic gnome looming over everything, kind of poking fun at that “cyber provincialism” idea. 
-
-I ended up using that as the basis for my first art project, and then I also used it as the obsession theme for this creative education course I was doing.
+Loading words (f6_neg), N=2: single, honestly
+They were just incredible, honestly. They came in and completely reassessed everything, looked at what was going on and what we needed. They gave us all the contact numbers and clear instructions, so we knew exactly who to ring and when. Then they arranged for carers to come in several times a day, and the Macmillan nurses and district nurses as well, so there was always someone around or due. On top of that, they actually phoned every single day just to check how we were, how he was, and whether we had any worries or questions. It felt like they’d thought of everything and put it all in place for us.

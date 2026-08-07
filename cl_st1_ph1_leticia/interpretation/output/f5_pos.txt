@@ -1,95 +1,127 @@
-This pole is best interpreted as a **lexicalised stance of strong negative evaluation**, centred on the repeated use of a small set of high‑intensity evaluative adjectives.
+This factor pole is best interpreted as a **“quantified, time‑ and money‑anchored narration”** dimension, strongly associated with **human** speakers.
 
-### 1. What drives the pole?
+---
 
-- Mean scores:
-  - profiled_gpt: +0.057  
-  - unprofiled_gpt: +0.056  
-  - human: −0.122  
+## 1. Who drives this pole?
 
-So **LLM turns (both profiled and unprofiled) are slightly more positive on this factor than human turns**, and the *very* high‑scoring texts shown are all from **profiled_gpt**. Humans are, on average, lower on this dimension. That suggests the pole reflects a style that GPT (especially with profiling) tends to amplify.
+Mean scores:
 
-### 2. Loadings and their semantics
+- Human: **0.56**
+- Profiled GPT: **0.34**
+- Unprofiled GPT: **0.32**
 
-Positive loadings:
+Humans are clearly the main drivers of this pole; both GPT conditions pattern similarly and lower. So the discourse type here is characteristically human in this corpus.
 
-- **awful (1.05)** – very strong, prototypical negative evaluation
-- **horrible (.48)** – similarly strong negative evaluation
-- **single (.52)** – here not numerically literal, but often in collocations like “every single X”, i.e. intensifying focus
-- **pick (.31)** – appears in “pick it out”, “picking up bits”, “picked apart”, “picked me up”; often part of constructions that highlight difficulty, burden, or scrutiny
+---
 
-The core of the pole is clearly **awful/horrible**, with *single* and *pick* contributing a pattern of **intensification and focus on specific problematic items or experiences**.
+## 2. Linguistic profile of the pole
 
-### 3. Patterns in the high‑scoring excerpts
+High positive loadings:
 
-Across the examples, the loading words are used to:
+- Numbers: **pound (.83), four (.77), hundred (.58), six (.57), three (.51), ten (.48), two (.42), five (.36), single (.32), minute (.30)**
+- Time/money unit: **month (.55)**
+- Verb: **manage (.31)**
 
-- **Evaluate experiences or situations as strongly negative**:
-  - “which is just **awful**” (abuse from people you know)
-  - “it makes the whole story feel really **horrible** and properly dark”
-  - “sing the bass part … which is just **awful**”
-  - “the grammar in this thing is actually **awful**”
-  - “that **awful** hangover”
-  - “she’s always been **awful** with her, really manipulative, calling her **horrible** names”
-  - “something about Homs, we do register it as **horrible** … ‘God, that’s **awful**’”
+Key properties:
 
-- **Intensify or single out problematic elements**:
-  - “I can’t think of a **single** person who is [happy with it]”
-  - “every **single** day is crammed”
-  - “every **single** event is a decision made by God”
-  - “everything you say online gets **picked** apart”
-  - “I can’t **pick** it out properly”
-  - “driving in this **awful** weather”
-  - “picking up bits that used to be someone else’s job”
+1. **Dense use of specific numerals** (especially low integers: two, three, four, five, six, ten, hundred).
+2. **Monetary reference**: pound, hundred, often in combination (e.g. “two hundred pound”, “six hundred and thirty-two pounds”).
+3. **Temporal reference**: month, minute, and implicit time spans (hours, days, years) in the examples.
+4. **Quantification of events and resources**: money, time, frequency, duration, quantities of objects (pipes, wagons, notes, visits).
+5. **‘Manage’** suggests talk about coping with or handling these quantified constraints (though it doesn’t appear in the top 10 examples, its loading fits the pattern of resource management).
 
-- **Frame moral or emotional judgement**:
-  - Abuse from acquaintances on Twitter is “just **awful**”
-  - Religious group’s beliefs about child death are “as **horrible** as that”
-  - Cutting off a daughter is framed as morally shocking
-  - Indifference to distant suffering: “we do register it as **horrible** … ‘God, that’s **awful**’”
+This is not just “numbers in general”; it is **numbers as practical measures of time, money, and countable events**.
 
-The discourse function is not just describing bad states; it is **positioning the speaker affectively**: shocked, appalled, overwhelmed, burdened, or critical.
+---
 
-### 4. Discourse characteristics of this pole
+## 3. What the examples show
 
-Taken together, the loadings and examples point to a dimension of:
+Across the high‑scoring excerpts, the loading items are used to:
 
-- **High‑intensity negative stance**: frequent use of “awful”, “horrible” as stance markers.
-- **Affective evaluation of events and people**: abuse, horror stories, difficult exams, over‑full itineraries, manipulative parents, extreme religious beliefs, war coverage.
-- **Intensifying focus on totality or uniqueness**: “every single day”, “every single event”, “not a single person”, which heightens the sense of extremity or pervasiveness of the negative situation.
-- **Narratives of burden, pressure, or scrutiny**: “picked apart”, “picking up bits”, “can’t pick it out properly” – these verbs help construe situations as demanding or oppressive.
+### a. Talk about money and value
 
-The pole is therefore less about a specific topic (e.g. politics, religion, travel) and more about a **recurrent evaluative style**: narrating experiences through **strongly negative, often moral or emotional, judgements**.
+- Wages and hourly rates:
+  - “I was getting **two hundred pounds** … it worked out I was being paid **a pound an hour**” (t001145)
+- Bills, insurance, and compensation:
+  - “six hundred and thirty-**two pounds** … last year … **four hundred and eighty pounds** … over a **hundred and fifty pounds**” (t000100)
+  - “they would have rented out Mexborough for **eight hundred pound a month** gave them **two or three grand** plus compensation” (t001668)
+- Prices and savings:
+  - “for **nine ninety-nine a month** you get everything … that comes to erm that’s a **hundred two hundred pound**” (t000849)
+  - “if the car’s worth **six hundred quid** now I don’t wanna keep spending **two or three hundred pound** at a time to fix it” (t001202)
 
-### 5. Role of GPT vs humans
+Here, numbers are used to **evaluate, compare, and justify** financial decisions.
 
-- GPT (especially profiled) appears to **over‑supply high‑intensity evaluative adjectives** in conversational narrative, which pushes its texts up this factor.
-- Human speakers, on average, are lower, suggesting they either:
-  - use a wider range of evaluative resources, or
-  - are less prone to repeated “awful/horrible” as default stance markers.
+### b. Talk about time and duration
 
-So this pole is **LLM‑driven**, reflecting a somewhat stylised, emphatic negative stance that GPT adopts when dramatising problems or expressing sympathy.
+- Months and years:
+  - “this is **four years** ago … I’ve gone travelling for **three months**” (t000367)
+  - “every **three months** you’ve got to do him” (t000849)
+- Hours and days (even when not loading words, they co‑occur with the loaded numerals):
+  - “we were working **ten hours a day five days a week** … **fifty hours a week**” (t001145)
+  - “I would leave at **five** and would get there for **seven** … got to half past **ten** … it only took me **two hours** to get home” (t000434)
+- Minutes:
+  - “each group will have **ten to fifteen minutes** to interview the guest” (t001151)
 
-### 6. Possible labels for this pole
+Numbers here anchor **narratives in time**, giving precise durations and schedules.
 
-Any label should capture: (i) strong negative evaluation, (ii) affective/moral stance, (iii) intensification.
+### c. Count and quantify events, objects, and people
 
-Some plausible labels:
+- Game money and counting:
+  - “a **five pound** note … same as **five pounds** … one **two three four five six seven eight nine ten**” (t001480)
+- Workloads and logistics:
+  - “three or **four wagons** of pipe arriving a day … up to **six** arriving a day with **four pipes** on each that’s **twenty-four pipes** maximum” (t000164)
+- People and visits:
+  - “there’s **two** others so they’ve got **four vets**” (t000849)
+  - “he came up to Cambridge like **five times**” (t000367)
+- Programme days:
+  - “day **two** … day **three** … day **four** … day **five** … day **six**” (t001151)
 
-1. **Intensified Negative Evaluation**
-   - Highlights the repeated use of “awful”, “horrible”, “every single” to evaluate situations and people.
+Numbers are used to **structure accounts**: how many, how often, in what sequence.
 
-2. **Affective Complaint / Appalled Stance**
-   - Captures the discourse of being appalled, burdened, or put upon, often in narrative form.
+---
 
-3. **Emphatic Moral–Emotional Critique**
-   - Reflects that many targets are morally charged (abuse, extreme religion, parental cruelty, war), and the stance is both emotional and evaluative.
+## 4. Discourse function
 
-If a single label is needed, a concise option that fits both the loadings and examples is:
+Taken together, the loadings and examples point to a discourse style where speakers:
 
-> **“Intensified Negative Stance and Complaint”**
+- **Narrate personal experiences** (jobs, travel, relationships, weather events, games, logistics).
+- **Anchor those narratives in concrete, quantifiable details** of:
+  - money (wages, bills, compensation, prices),
+  - time (months, hours, minutes, years),
+  - counts (people, items, journeys, days in a programme).
 
-This foregrounds:
-- the **stance** (awful, horrible),
-- its **intensity** (every single, picked apart),
-- and its typical discourse function in these conversations: **complaining about or morally condemning situations and behaviours**.
+The numbers are not decorative; they are **doing discourse work**:
+
+- Justifying stances (“I’m not paying it”, “that’s jus ridiculous”).
+- Evaluating fairness or value (“I was being paid a pound an hour”, “far cheaper”).
+- Demonstrating effort or commitment (“I’ve driven a hundred miles and I’ve got there”).
+- Organising complex sequences (“day two … day three … day four … day five … day six”).
+
+This is a **resource‑accounting, experience‑anchoring** way of talking: speakers make their stories credible, vivid, and evaluable by tying them to specific quantities.
+
+---
+
+## 5. Possible labels for this pole
+
+Any label should capture:
+
+- Heavy **lexical quantification**,
+- Focus on **money and time**,
+- Use in **narrative and evaluative talk**,
+- Its being **human‑driven** in this corpus.
+
+Plausible labels:
+
+1. **Quantified Personal Accounting**
+   - Emphasises the use of numbers to “account for” experiences, especially in financial and temporal terms.
+
+2. **Time‑ and Money‑Anchored Narration**
+   - Highlights that narratives are anchored in concrete measures of time and money.
+
+3. **Everyday Resource Quantification**
+   - Focuses on everyday resources (hours, months, pounds, items) being quantified and evaluated.
+
+4. **Numerically Detailed Experience Talk**
+   - Stresses the numerically fine‑grained nature of personal experience narratives.
+
+Any of these would be defensible; if a single label is needed, **“Quantified Personal Accounting”** best captures both the lexical pattern (numbers, pound, month) and the discourse function (explaining, justifying, and evaluating lived experiences through precise quantities), with humans as the primary users of this style in the corpus.

@@ -1,113 +1,168 @@
-Interpretation of Factor f1 (negative pole)
+This pole is strongly driven by LLM turns, especially profiled_gpt (mean ≈ -2.57 vs human ≈ -1.27), so it primarily reflects how GPT reconstructs conversational narratives rather than a human‑only style.
 
-1. Which group is driving this pole?
+Below I integrate the loadings and the excerpts to characterise the discourse.
 
-- Mean scores (higher = more positive f1; lower = more negative f1):
-  - profiled_gpt: 1.04  
-  - unprofiled_gpt: 1.02  
-  - human: 0.57  
+---
 
-For the negative pole, we look at the *lowest* mean scores. Humans are clearly lowest, so **the negative pole is human‑driven**. GPT texts (both profiled and unprofiled) cluster much more towards the positive side of this factor.
+## 1. What is clustering at this pole?
 
-So this pole is picking out a discourse style that humans use much more than the LLMs.
+### 1.1. Source scores
 
-2. Linguistic loadings
+- All three groups are negative on f1, but:
+  - profiled_gpt: -2.57  
+  - unprofiled_gpt: -2.53  
+  - human: -1.27  
 
-Negative pole loadings (strongest first):
+So this pole is a *shared* conversational resource, but it is **amplified** in GPT output, especially when profiled. The examples are all profiled_gpt, which are the most extreme realisations of this style.
 
-- shit (−.78)
-- horrible (−.42)
-- bloke (−.41)
-- minute (−.33)
+### 1.2. Key lexical loadings
 
-Key points:
+High negative loadings (strongest indicators of this pole):
 
-- The dominant marker is **shit**, a high‑frequency, strongly evaluative swear word in colloquial British English.
-- **horrible** is another strongly negative evaluative adjective.
-- **bloke** is an informal, colloquial term for ‘man’, strongly associated with spoken British English and everyday talk.
-- **minute** in conversation often appears in expressions like “in a minute”, “wait a minute”, “give me a minute”, which are informal, interactional timing devices.
+- Intensifiers / maximisers:
+  - totally (-.43), absolutely (-.42), completely (-.37), proper (-.31), massive (-.33)
+- Negation / quantifiers:
+  - nothing (-.41), anyone (-.38), everything (-.35), even (-.35)
+- Temporal / event-structuring:
+  - later (-.41), suddenly (-.41), afterwards (-.31)
+- Stance / evaluation / complaint:
+  - bother (-.40), awful (-.38), expect (-.34), clearly (-.32), honestly (-.31)
+- Discourse scaffolding:
+  - just (-.35), try (-.36), carry (-.32), stick (-.30), thinking (-.32), head (-.35)
+- Colloquial / informal:
+  - bloke (-.47), alright (-.33), proper (-.31), massive (-.33)
 
-Taken together, the loadings point to:
+Taken together, these suggest:
 
-- **Colloquial, informal British conversational style**
-- **Strong negative evaluation and complaint**
-- **Emotionally charged, stance‑heavy talk about people and situations**
+- **Narrated events with clear temporal progression** (later, suddenly, afterwards).
+- **Strong subjective stance and evaluation**, often negative or frustrated (bother, awful, expect, clearly, honestly).
+- **Colloquial British English** (bloke, proper, alright).
+- **Intensified, polarised descriptions** (absolutely, totally, completely, nothing, everything).
+- **On‑the‑spot cognitive framing** (thinking, head, just) – narrators reporting their thoughts and reactions.
 
-3. What the examples show
+---
 
-All 10 high‑scoring texts are human, and all are anchored by **shit**. Across the excerpts, shit is used in several ways:
+## 2. What do the high‑scoring excerpts actually do?
 
-- As a general negative evaluation of a state/situation:
-  - “be in a shit mood”
-  - “it's just shit like rude in general”
-- As part of a dismissive/hostile stance:
-  - “all that sort of shit”
-  - “they just don't give a shit”
-  - “I were inviting this shit”
-- As an insult or negative label for a person:
-  - “he were a violent shit”
-  - “they're shit at people skills”
-- As a negative evaluation of someone’s behaviour/character:
-  - “it shit about my sister”
-  - “not give a shit”
+Across the 10 excerpts, the same discourse pattern recurs. Key features:
 
-Across the excerpts, the surrounding discourse consistently involves:
+### 2.1. Narrative of problematic or frustrating events
 
-- **Narratives of interpersonal conflict or frustration**  
-  – partners working too much, ex‑boyfriends being violent, landlords being rude, parents not caring, colleagues/managers being bad at people skills, social media drama, etc.
+Each excerpt recounts a **specific episode where things go wrong or are mishandled**:
 
-- **Strong stance‑taking and alignment**  
-  – speakers position themselves morally and emotionally: “I'm not that sort of person”, “they just don't give a shit”, “he were a violent shit”, “I'm so proud of you… it shit about my sister”.
+- Snow and transport chaos; people “can’t be bothered” to go to work; authorities “didn’t bother” to grit (t002139).
+- Unwanted sexual advance and awkward social dynamics in a night out (t002390).
+- Administrative incompetence at a muddy cross‑country event (t002892).
+- Minecraft building project ruined by a “bloke” misusing TNT (t002362).
+- Riot police turning up “out of nowhere” at a student party (t002755).
+- Football team with a “terrifying” keeper who “completely misses it” and a misused centre back (t002685).
+- Typhoon disrupting first day at a new school; no taxis, soaked walk, lack of support (t002288).
+- Ex‑employee “completely useless” who keeps turning up and trying to sue (t003013).
+- Business idea abandoned because he “couldn’t be bothered” (t001989).
+- Lost phone saga with no resolution yet (t002538).
 
-- **Highly informal, speech‑like style**  
-  – lots of discourse markers and fillers (“like”, “you know”, “sort of thing”, “cos”, “erm”), first‑person narratives, and unplanned spoken syntax.
+These are not neutral stories; they are **mini‑complaints or accounts of hassle, incompetence, or unfairness**.
 
-Crucially, the **loading word shit is doing the core discourse work**: it intensifies negative stance, marks emotional involvement, and indexes a casual, intimate register.
+### 2.2. Intensified, polarised evaluation
 
-4. Integrating loadings and examples
+The loading intensifiers and quantifiers are heavily used in context:
 
-Weighting loadings (whole corpus) and examples (top 10 texts) equally, the negative pole of f1 can be characterised as:
+- “absolutely no sign that anyone had taken it seriously”  
+- “completely stranded”, “completely ruined”, “completely drenched”  
+- “nothing was done”, “no grit, no proper preparation, nothing moving”  
+- “either nothing or everything with them”  
+- “properly awkward”, “proper five‑man midfield”, “proper little business”  
+- “totally vanished”, “absolutely useless”
 
-- **Register/style**: highly informal, colloquial, speech‑like, with British flavour (shit, bloke).
-- **Function**: expressing **strong negative evaluation**, complaint, and emotional reaction to people and events.
-- **Stance**: involved, subjective, often morally charged; the speaker is not neutral but clearly judging others’ behaviour or situations.
-- **Source**: overwhelmingly **human**; GPT outputs, even when profiled, are much less likely to use this kind of swearing and raw negative stance, hence their higher (more positive) mean scores.
+The **nothing/everything** pattern is especially salient (t002755, t002288, t003013, t002538): it encodes **all‑or‑nothing, extreme framing** of events and people.
 
-5. Possible labels for this pole
+### 2.3. Temporal and event‑boundary marking
 
-Focusing on this pole alone (no versus label), plausible discourse‑dimension labels include:
+Narratives are structured with clear sequencing:
 
-1. **“Colloquial Negative‑Stance Complaint Discourse”**  
-   - Captures:
-     - colloquial register (shit, bloke, minute as timing device)
-     - negative stance (shit, horrible)
-     - the dominant function of complaining about people/situations.
+- “then there was that time years back…”, “on the one hand… on the other hand…” (t002139)
+- “Then at one point… Later on… And then, out of nowhere…” (t002390)
+- “Eventually… so I think… We head back later on… Then it turns out…” (t002892)
+- “so after that disaster… afterwards…” (t002362)
+- “nothing happened at all for ages… Then about an hour later… suddenly turned up” (t002755)
 
-2. **“Emotionally Charged Interpersonal Evaluation”**  
-   - Emphasises:
-     - strong emotional involvement
-     - evaluation of others’ behaviour and relationships (partners, exes, landlords, managers, parents).
+Words like **suddenly, later, afterwards** mark **turning points** and **escalations**, often into something worse or more awkward.
 
-3. **“Informal Swearing‑Based Evaluation Style”**  
-   - Highlights:
-     - the central role of shit as a resource for evaluation and stance
-     - the specifically informal, taboo‑lexis‑based way of doing that evaluation.
+### 2.4. First‑person stance and mental commentary
 
-Any of these would be defensible. If a single label is needed, the most comprehensive, loadings‑ and example‑driven formulation is:
+Speakers foreground their own reactions and internal states:
 
-**Colloquial Negative‑Stance Complaint Discourse**
+- “what gets me is…”, “That really annoyed me” (t002139)
+- “I wasn’t having that”, “it was just really blatant and made the whole thing feel even more awkward” (t002390)
+- “I’m thinking, we’ve already done this” (t002892)
+- “I remember just thinking, this has got to be some kind of joke” (t002288)
+- “I’m just stood there thinking what’s the point?” (t002685)
+- “I was already really wound up” (t002288)
 
-This label reflects:
+This is **highly subjective, evaluative narration**, not just recounting events but **commenting on them as unfair, ridiculous, or exasperating**.
 
-- **Colloquial**: indexed by shit, bloke, minute and the spoken style in the excerpts.
-- **Negative‑Stance**: encoded lexically by shit, horrible and pragmatically by the narratives of frustration and conflict.
-- **Complaint Discourse**: the recurrent discourse function across the high‑scoring texts is to complain about, criticise, or vent about people and situations.
+### 2.5. Colloquial, conversational register
 
-6. Group driving the pole
+The excerpts are full of informal markers:
 
-- The **human group** is clearly driving this negative pole:
-  - They have the lowest mean f1 scores.
-  - All top negative‑pole examples are human.
-  - The key lexical marker (shit) is typical of unconstrained human conversation but strongly dispreferred in GPT outputs under standard safety and politeness constraints.
+- “yeah so we were out this one night”, “like really ambitious”, “loads of stupid shit”, “such a faff”
+- “this bloke”, “this one lad”, “our keeper right he looks terrifying like properly scary”
+- Frequent **just**, **like**, **yeah**, **you know**, and bare clause coordination.
 
-So, Factor f1 (negative pole) can be interpreted as a **human‑driven dimension of colloquial, emotionally involved complaint and negative evaluation, heavily realised through swearing and informal British conversational lexis.**
+This aligns with the loadings (bloke, alright, proper, just) and confirms that the dimension is about a **particular conversational storytelling style**, not formal exposition.
+
+---
+
+## 3. Which group drives this pole?
+
+- Mean scores show **GPT (both profiled and unprofiled) are more extreme** on this pole than humans.
+- All 10 top excerpts are **profiled_gpt**.
+- The style itself (colloquial complaint‑narrative) is clearly human‑like, but GPT **over‑produces and intensifies** it when reconstructing turns, especially with socio‑demographic profiles that encourage regionally marked items (bloke, proper) and strong stance.
+
+So this pole is **LLM‑amplified conversational grievance storytelling**, grounded in human conversational norms.
+
+---
+
+## 4. Interpreting the discourse dimension
+
+Bringing the evidence together:
+
+- **Functionally**: narrating problematic, frustrating, or unfair experiences; often mini‑rants or gripe stories.
+- **Attitudinally**: strongly evaluative, often negative; speakers highlight incompetence, lack of effort, or bad luck.
+- **Structurally**: temporally sequenced episodes with marked turning points (suddenly, later, afterwards).
+- **Lexically**: heavy use of intensifiers (absolutely, totally, completely, proper), polar quantifiers (nothing, everything, anyone, even), and stance markers (bother, awful, expect, honestly, clearly).
+- **Register**: informal, colloquial, often British English, with “bloke”, “proper”, “alright”, “yeah so…”.
+
+This is not just “narrative” in general; it is **narrative plus evaluative complaint**, with a strong sense of **things going wrong and people not doing what they should**.
+
+---
+
+## 5. Possible labels for this pole
+
+Here are several candidate labels that capture different facets of the same underlying dimension:
+
+1. **Intensified Colloquial Complaint Narration**  
+   - Highlights: colloquial register + narrative structure + strong negative evaluation.
+
+2. **Everyday Grievance Storytelling**  
+   - Emphasises the mundane, day‑to‑day nature of the episodes and their function as gripe stories.
+
+3. **Subjective Hassle Narratives**  
+   - Focuses on the speaker’s subjective stance and the framing of events as hassles or farces.
+
+4. **All‑or‑Nothing Evaluative Narratives**  
+   - Draws on the nothing/everything, absolutely/completely pattern of polarised evaluation.
+
+5. **Colloquial Problem‑Focused Stance**  
+   - A slightly more abstract label foregrounding stance and problem orientation.
+
+If I had to choose one primary label for this pole, balancing precision and generality, I would propose:
+
+> **“Intensified Everyday Grievance Narration”**
+
+- **Intensified**: captures absolutely, totally, completely, proper, massive, awful.
+- **Everyday**: these are ordinary life events (snow, parties, school, football, work, phones).
+- **Grievance**: encodes the complaint/annoyance orientation (bother, awful, couldn’t be bothered, useless, farce).
+- **Narration**: reflects the clear temporal sequencing and story‑like structure (later, suddenly, afterwards, stand, carry, stick).
+
+This label fits both the **lexical profile** (loadings) and the **discourse behaviour** in the excerpts, and it aligns with the fact that GPT, especially under profiled prompts, is the main driver of this pole by elaborating human‑style complaint stories into highly intensified, colloquial narratives.

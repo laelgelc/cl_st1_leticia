@@ -1,8 +1,8 @@
-Text ID: t000978
-Group: human
-Model: human
-File:   corpus/05_human/t000978_human.txt
+Text ID: t002971
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001266_gpt.txt
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-yeah he joked at me I think what it wa I can't remember what it was he's we're in a war we're er warming up before training of like before Christmas and he said summat about being embarrassed cos I knocked him off balance or something and I started laughing and literally just got me arm and just went like that and threw him and I was like are you having a laugh? cos he weighs nothing and I think he just thought that I was in the same boat as him but I'm light but I'm not wweak but erm yeah the I dunno who was right right wing back but yeah these guys the three slowest centre backs I've ever seen like is probably about as pacey as a regular centre back at this standard but he can't judge a ball and doesn't know what he's doing so this ball's coming down it's dropping I'm thinking right a proper centre back's just gonna head that away easy head it away or bring it down do something with it he goes to it and then goes shit no backs off
+Score (f1_neg): -7
+Loading words (f1_neg), N=7: totally, later, anyone, awful, completely, try, just
+yeah I already knew his brother, so it wasn’t like I was meeting him for the first time or anything. I’d actually wanted to go later, like just turn up for drinks at seven, but she made me go on time, so we got there dead early. The house was basically empty, just them as hosts, and it felt a bit awkward. Eventually a few more people turned up so it wasn’t awful, but they’d invited loads and hardly anyone actually came, which was a bit sad really. Then his brother arrived, and he was clearly trying to show off. Him and his brother just kept drinking and drinking, like way too much. By about half nine they were completely drunk, throwing up and totally out of it, and I was just sat there thinking, what the hell is going on?

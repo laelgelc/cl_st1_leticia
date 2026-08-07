@@ -1,8 +1,8 @@
-Text ID: t004507
-Group: unprofiled_gpt
+Text ID: t002889
+Group: profiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001097_gpt.txt
+File:   corpus/05_profiled_gpt/t001184_gpt.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: single, pick
-Even though only three of us can properly read music, we still have a lot of fun with it. The others manage with colour-marked notes, but it gets really tricky when there are loads of bells going at once, sometimes up to twelve. All the notes are written in a single straight line on one clef, so when everyone’s ringing together it’s hard to pick out which one is yours. With all that going on, just finding your own note in the middle of the line can be quite a challenge.
+Score (f5_pos): 5
+Loading words (f5_pos), N=5: pound, hundred, month, three, five
+I mean, nan’s basically running out of money to pay for that care home, and I’m starting to wonder what happens when her money’s gone – does it then fall to the next level of family to cover it? The staff there reckon she’s strong enough to go on to about a hundred and five, but she just can’t afford to stay there that long on her own funds. It’s eight, nine hundred pounds a week, something like three and a half thousand a month. She does get some kind of nursing grant, but even so, it’s a huge amount every year.

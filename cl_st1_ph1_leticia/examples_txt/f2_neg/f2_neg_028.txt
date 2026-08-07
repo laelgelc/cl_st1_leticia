@@ -1,8 +1,8 @@
-Text ID: t004844
+Text ID: t004425
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001434_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001015_gpt.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: god
-He was saying he’s got this workshop and office at the bottom of his garden, all kitted out with electricity, heating, even a toilet, and that’s where he works from. So he was like, “I’ve got everything I need,” even though his kids keep saying he should move because there are a few troublesome families around there now. I said something that should’ve rung a bell for him, and as soon as I did he just went, “Oh god yeah,” like he immediately recognised exactly what I was talking about.
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: he, him
+he was still really grouchy, you know, just sat in his pushchair in the kitchen while we were faffing about with the dishwasher, trying to get it sorted. I could see them coming up the drive – her as well – so I went and let them in and brought them through. I said straightaway, like, “he’s really grouchy, he hasn’t slept much,” just to warn them what he was like. Then I handed him over anyway and was like, “go on, have a cuddle,” trying to make it nice for them even though he was tired and a bit fed up.

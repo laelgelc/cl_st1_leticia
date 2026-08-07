@@ -1,8 +1,8 @@
-Text ID: t000774
-Group: human
-Model: human
-File:   corpus/05_human/t000774_human.txt
+Text ID: t004905
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001495_gpt.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: single, pick
-the devil incarnate he was absolutely terrible he just wouldn't do anything you'd say he just and he was one of these kids in the bunk he didn't bully them but he was just a lot bigger and just if you want something you just go and get it erm and he would never get up out of in bed in the mornings ever he'd be the last one up every single day you'd get him up at seven thirty and breakfast is at eight o'clock so you've got like twenty minutes to get them up and put clothes on and literally go out the door and put shoes on and that's it and he'd be the last one in bed every single time you'd walk out the door and he's still curled up in the bed and this was after you've taken all the covers off him and picked him out of the bed and dropped him on the hard floor and then gone get up and put some clothes on and he'd be no and he'd just scramble back into bed and there's nothing we could do
+Score (f5_pos): 5
+Loading words (f5_pos), N=5: pound, four, hundred, three, five
+well it really varied you know in the upper level classes there’d only be like three or four of us sometimes but the lower level ones could be huge like thirty people in a class and then for the big show rehearsals they were about five pounds an hour and we’d be there three hours a night four or five times a week and there were around a hundred people doing it so that’s actually quite a lot of money when you think about it and on top of that we had to buy our own costumes and we had to get a day off school every time we did a show

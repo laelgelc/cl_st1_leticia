@@ -1,8 +1,8 @@
-Text ID: t000051
-Group: human
-Model: human
-File:   corpus/05_human/t000051_human.txt
+Text ID: t003970
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000560_gpt.txt
 
-Score (f3_neg): -2
-Loading words (f3_neg), N=2: okay, reason
-that would be horrible yes so I'm we're gonna get the new car well new to us car on Monday okay? and then we have two weeks where I'm insured on both cars and I'm gonna want to run down the other car petrol wise cos for some reason I put loads of petrol in it well I know why it's cos I teach I'm going to teach in tomorrow which is quite a way away and on Tuesday and I need a lot of petrol for both of those but yeah I want to use up most of that petrol and then we've got to swap tyres over
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: massive
+when she's with her friends from uni it's like she just drinks like a complete fish, really goes for it, and then at other times she's almost the opposite, really restrained, barely touching anything. it makes her seem like this massive seething ball of nerves and neurosis underneath it all. with them she looks more relaxed, but I can't help thinking she might be pretending a bit, sort of putting on a front. with me she seems less worried than in some situations, but still kind of on edge, and in general she just comes across as tense most of the time.

@@ -1,8 +1,8 @@
-Text ID: t001381
-Group: human
-Model: human
-File:   corpus/05_human/t001381_human.txt
+Text ID: t001959
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000254_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-mm yeah we erm there was erm Sunday night I think the ones in were on they were due to start at six but there was problems and they had to get someone in from Luton to to take over or something so they didn't start until seven but we we've got like a single-storey extension out the back and we just sat on the roof of that and watched them and they lasted like fifteen minutes so everyone was obviously waiting there for an hour or more just to see fifteen minutes and they weren't even they tried to do it to music as well but it was just a bit creepy
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: chat, straight
+I did have a proper little chat with her last night when I picked her up. I told her straight I was worried, because she’d been having a go at people for no reason and upsetting people, and then getting upset herself really quickly. I said she didn’t seem to be thinking straight, and that she wasn’t enjoying sixth form because of the workload. But I also made sure she knew she’s doing really well, and that what matters to me is her being happy, that’s what I’m concerned about.

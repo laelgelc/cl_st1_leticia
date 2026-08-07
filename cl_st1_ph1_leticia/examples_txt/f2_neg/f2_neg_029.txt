@@ -1,8 +1,8 @@
-Text ID: t004880
+Text ID: t004422
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001470_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001012_gpt.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: god
-We’d literally spent the whole weekend together – Friday, Saturday, Sunday – and by the end of it I was just exhausted from nonstop socialising. Saturday night was the worst, though, because there was this absolutely awful Essex girl out with us. She had this really horrible accent, and she wasn’t even wearing a bra, so it was just like, oh my god. Later on, when we were talking to someone who hadn’t been out with us, we were trying to describe her, and it was so hard to convey quite how bad she actually was.
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: he, him
+Well, in Australia at that flat, there was a back gate that opened onto an alleyway. One day he decided he wanted to see where the gate went, so he opened it. Of course, the dog shot straight out, and he went running after it. He lost the dog, and I had to wake your dad up, even though he was jetlagged, so that I could take the car and drive around looking. I was going up and down the streets, and eventually I found him walking along, absolutely in tears, saying he couldn’t get the dog back.

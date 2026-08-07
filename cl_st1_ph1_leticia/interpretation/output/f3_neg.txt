@@ -1,121 +1,129 @@
-This pole is clearly human‑driven (humans have the lowest mean score on f3: −0.20 vs +0.06/+0.10 for both GPT conditions), so we are looking at a discourse style that humans use more than the LLMs.
+Interpretation of Factor f3 (negative pole)
 
-### 1. What the loadings tell us
+1. Which group drives this pole?
 
-High negative loadings:
+- Mean scores:
+  - Human: 3.38
+  - Profiled GPT: 1.41
+  - Unprofiled GPT: 1.39  
 
-- wanna (−.70)
-- fact (−.61)
-- okay (−.56)
-- reason (−.54)
-- (shit (−.48))
-- (bother (−.30))
+Because we are interpreting the *negative* pole, we look for the *lowest* mean scores. Both GPT conditions cluster low and very close together; humans are much higher. So:
 
-Two clusters stand out:
+- The negative pole is strongly driven by **LLM‑generated turns**, especially **unprofiled GPT** (all 10 high‑scoring examples are unprofiled GPT).
+- Human turns are comparatively *distant* from this pole.
 
-1. **Informal, interactional stance markers**
-   - wanna, okay, shit, bother  
-   → colloquial, speech‑like, evaluative, managing the interaction (“okay?”) and expressing attitude (“shit”, “bother”).
+So this dimension’s negative pole is characterising a style that is particularly typical of GPT outputs, not of human speakers.
 
-2. **Explanatory / justificatory metadiscourse**
-   - fact, reason  
-   → signalling explanation, justification, or argument structure (“the reason why…”, “in actual fact…”).
+2. Linguistic profile of the negative pole
 
-So lexically, this pole combines:
-- highly **spoken, informal, interpersonal** markers, with
-- a strong **explanatory / reasoning** orientation.
+Loadings on f3_neg:
 
-### 2. What the examples show
+- huge (-0.70)
+- (em (-0.50))  [likely a filled pause / discourse marker, but not visible in the examples]
+- massive (-0.44)
+- finally (-0.39)
+- (awful (-0.35))
 
-All top‑scoring texts are human. Across very different topics (relationships, pedagogy, entrepreneurship, gaming, politics, family finances), the same pattern recurs:
+Core lexical pattern:
 
-#### a) Ongoing explanation and justification
+- **Size/intensity boosters**: huge, massive
+- **Temporal culmination marker**: finally
+- **Evaluative negative adjective**: awful
+- Plus a probable spoken‑style hesitation marker (em).
 
-Speakers repeatedly frame what they’re doing as giving reasons, accounts, or clarifications:
+These are all **stance‑laden, colloquial, high‑impact items**. They do not describe specific domains (e.g. politics, technology) but rather a way of *framing* events and experiences: as big, intense, culminating, or strongly evaluated.
 
-- “there is one reason only and that's cos…” (t000687)
-- “the reason why a case study is useful is because…” (t000938)
-- “what you wanna do… okay? … what is the erm the reason why he keeps moving along this trajectory?” (t000097)
-- “these are the reasons why I'm going in this direction…” (t000124)
-- “in actual fact the money is is not really what you're chasing so I ask you the question why…” (t000193)
-- “for some reason they wouldn't do it…” (t000913)
+3. What the examples show
 
-Speakers are not just narrating events; they are **accounting for them**, probing motives, causes, and underlying “why”.
+All examples are conversational narratives or complaints, with a strong sense of:
 
-#### b) Interactive, listener‑oriented scaffolding
+- **Scale / magnitude** (huge, massive)
+- **Build‑up and release over time** (finally)
+- **Affective evaluation** (frustration, stress, jealousy, resentment)
 
-“okay” and “wanna” are used to manage the listener’s engagement and to soften directives:
+a. “huge / massive” as scalar and affective amplifiers
 
-- “okay actually this has got enough meat on it to become a case story… do you wanna co‑create a case study…?” (t000938)
-- “okay? … then you have to choose what really is the kernel of this person?” (t000097)
-- “well okay I can run with those things…” (t000124)
-- “okay this case study may not come university but the fact that you've putting it in your online course…” (t000942)
-- “yeah okay they're all nicely lined up… you got your R now wanna use that…” (t000791)
-- “on Monday okay? and then we have two weeks…” (t000051)
+Across the excerpts, huge/massive are used to:
 
-This is **highly interactive, didactic talk**: checking understanding, pacing the explanation, inviting participation (“do you wanna…?”).
+- Quantify **large amounts**:
+  - “these huge amounts of food”
+  - “a massive amount of administration”
+  - “a huge weekly wage”
+  - “this massive workload”
+- Emphasise **burden / responsibility / impact**:
+  - “we’re still the ones who carry most of the responsibility”
+  - “this massive deadline looming”
+  - “such a massive impact on everything”
+- Characterise **psychological states**:
+  - “this massive seething ball of nerves and neurosis”
 
-#### c) Informal, evaluative, and affective stance
+These are not neutral measurements; they are **subjective amplifiers** that dramatise the situation. The speaker is positioning events as overwhelming, excessive, or impressive.
 
-Even in serious or abstract topics, speakers use informal stance markers:
+b. “finally” as narrative culmination
 
-- “doesn't wanna bang me… not even fucking kissed me…” (t000687)
-- “warm touchy friendly feeling… you're selling a feeling… like Oxford and Cambridge where you used to go round for a cup of tea…” (t000942)
-- “you don't need another reason for Americans to dislike you… are you okay with that?” (t001619)
-- “oh my god somebody's come and asked me to go and have a coffee with them…” (t000942)
+In the “finally” excerpts, the word marks:
 
-Where “shit” and “bother” occur in the wider corpus, they will similarly mark **emotional reaction / irritation / evaluation**, reinforcing the stanceful, subjective flavour of this pole.
+- The **end of a long‑running desire or delay**:
+  - “So I finally got to go to this place I’d been wanting to go to all summer”
+- The **end of a difficult process / journey**:
+  - “once that second bus finally turned up”
+  - “by the time I finally walked in the door”
 
-#### d) Expository / advisory genres in spoken form
+“Finally” here is a **discourse‑organising device**: it signals the culmination of a narrative sequence and often coincides with emotional payoff (relief, frustration, resentment).
 
-Several excerpts are essentially **spoken mini‑lectures or coaching sessions**:
+c. Underlying discourse functions
 
-- Explaining case studies and course design (t000938, t000942)
-- Explaining narrative structure and character arcs (t000097)
-- Explaining entrepreneurial learning and career transitions (t000124, t000193)
-- Coaching in a game (“use your Q… you got your R now wanna use that…”) (t000791)
-- A long, rhetorically structured open letter about same‑sex marriage and Muslim identity (t001619)
+Across the examples, the negative pole is associated with:
 
-These are **expository and advisory**, but delivered in a **highly conversational, informal register**.
+- **Narrative elaboration of personal experience**:
+  - Work stress, travel hardship, family conflict, jealousy about body/food, financial fantasies.
+- **Subjective stance and evaluation**:
+  - Strong feelings: jealousy, anger, frustration, exhaustion, resentment.
+- **Dramatisation through scalar and temporal framing**:
+  - Big quantities, big burdens, big impacts, long waits, eventual outcomes.
 
-### 3. Who drives the pole?
+The language is **colloquial, affect‑rich, and story‑like**, with a clear sense of the speaker “telling you what it was like” and how big/long/intense it felt.
 
-- Humans: mean f3 = −0.195 (lowest)
-- Profiled GPT: +0.097
-- Unprofiled GPT: +0.063
+4. Integrating loadings and examples
 
-So this negative pole is **strongly human‑driven**. GPT outputs, even when profiled, are on the opposite side of the factor, suggesting they:
+Giving equal weight to loadings and examples:
 
-- use fewer of these colloquial markers (“wanna”, “okay”, “shit”, “bother”), and/or
-- structure explanation with more formal devices rather than “fact”, “reason” in this colloquial way.
+- The loadings point to a **lexical cluster of intensification and culmination** (huge, massive, finally, awful, em).
+- The examples show these items embedded in **first‑person, emotionally coloured narratives** about everyday life, often with a complaining or venting tone.
 
-In other words, this pole captures a **distinctively human conversational explanatory style** that the LLMs under both prompts approximate less.
+This suggests that the negative pole is not about a specific topic, but about a **discourse mode**:
 
-### 4. Interpreting the discourse dimension
+- **Experiential, narrative, and evaluative**, foregrounding:
+  - The *size* or *weight* of problems, tasks, or experiences.
+  - The *duration* and *eventual resolution* of difficult situations.
+  - The speaker’s *emotional stance* toward these experiences.
 
-Putting the lexical and textual evidence together, this pole encodes a discourse style that is:
+5. Possible labels for this pole
 
-- **Spoken and informal** (wanna, okay, shit, bother)
-- **Strongly explanatory / justificatory** (fact, reason)
-- **Interactive and listener‑oriented** (okay? do you wanna…?)
-- **Stanceful and affective**, often embedding evaluation and personal perspective within the explanation.
+Any label should capture:
 
-It is not just “informal speech” and not just “exposition”; it is **informal, interpersonal explanation and reasoning in conversation**.
+- Scalar amplification (huge, massive)
+- Temporal culmination (finally)
+- Evaluative / affective colouring (awful, plus the complaint/venting content)
+- Conversational narrative framing
 
-### 5. Possible labels for this pole
+Plausible labels:
 
-Any label should capture both the **explanatory/justificatory function** and the **informal, interactive, human‑conversational style**. Suitable options:
+1. **“Intensified Personal Experience Narration”**  
+   - Highlights that the discourse is narrative (“experience narration”) and that it is linguistically boosted (“intensified”) via huge, massive, finally, awful.
 
-1. **Conversational Explanation and Justification**
-   - Highlights the central role of “reason”, “fact”, and the pervasive giving of accounts, while signalling that this is done in a conversational, not formal, mode.
+2. **“Dramatised Everyday Complaint Discourse”**  
+   - Captures the recurrent complaining/venting function and the dramatising role of the scalar and temporal markers.
 
-2. **Informal Explanatory–Stance Discourse**
-   - Emphasises the mix of explanation (“fact”, “reason”) with stance and informality (“wanna”, “okay”, “shit”, “bother”).
+3. **“Colloquial Stance‑Intensifying Narrative Style”**  
+   - Emphasises the colloquial register and the stance‑intensifying function of the key loadings.
 
-3. **Interactive, Reason‑Giving Talk**
-   - Focuses on the interactional management (“okay?”, “do you wanna…?”) and the recurrent practice of offering reasons and justifications.
+Given the evidence, the most precise and portable label for this pole is:
 
-Of these, **“Conversational Explanation and Justification”** best captures what this negative pole represents in the corpus:
+> **Intensified Personal Experience Narration**
 
-- “Conversational” → human‑like, informal, with “wanna”, “okay”, mild expletives.
-- “Explanation and Justification” → the heavy use of “reason”, “fact” and the pervasive giving of accounts, advice, and rationales across topics.
+This label reflects:
+
+- The **narrative, first‑person, experiential** nature of the excerpts.
+- The **lexical intensification** of scale and culmination (huge, massive, finally, awful).
+- The fact that this style is particularly characteristic of **LLM‑generated conversational turns**, especially under the unprofiled prompt condition.

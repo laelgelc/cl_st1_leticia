@@ -1,8 +1,8 @@
-Text ID: t000724
-Group: human
-Model: human
-File:   corpus/05_human/t000724_human.txt
+Text ID: t004671
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001261_gpt.txt
 
-Score (f3_pos): 1
-Loading words (f3_pos), N=1: manage
-and then I can do less hours and still take home the same and that's what I did and I erm I took the opportunity was literally just on they were cha just about to change it to say twenty-five year you know to fifty-five so I I managed to get it and my birthday was in the July and they were gonna start it in the September and I so I went yes I'll have it panicked a bit but I didn't as I walked away I felt nothing it was really strange I mean I'd spent well if you think I was fifty I'd spent twenty-five years more time at work than at home don't you? when you're five days a week you're home two days so I I was I couldn't understand why I felt that when I went to erm and it was very much more a relaxed regime and erm and I didn't work many hours to begin with and I just got ended up getting dragged in more and more but I felt more when I left there erm because I left for a year and went to work at and that was the weirdest experience working in it was a strange and bizarre year and they my head of department erm got to know that I wasn't very settled it was I found it yeah I I met some of the staff at a competition and someone said to me how is it going how are you enjoying working at ? and I went don't ask and she said why isn't it good? I said well it's weird it's not right it's you know different and she went back and told my boss from and she sent a message I want to poach you back come back
+Score (f3_pos): 5
+Loading words (f3_pos), N=5: okay, oh, you, know, say
+so she texted me like properly fuming, saying she wasn’t allowed to see him on Boxing Day because of his mum, and I was just like what? and then later on she said he’d turned round and told her he was only doing that so he could surprise her by coming round to hers. and I was like oh right okay, that’s actually quite good then, you know, like that sounded dead nice at first. but then a couple of days later she messaged again and was like, no, I’m pretty sure he just said that to shut me up. and I was just sat there going what? what? what? like I honestly didn’t know what to say to her about it after that, it just sounded really off and confusing.

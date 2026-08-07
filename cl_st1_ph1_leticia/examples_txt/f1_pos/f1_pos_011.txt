@@ -1,8 +1,8 @@
-Text ID: t002852
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001147_gpt.txt
+Text ID: t000003
+Group: human
+Model: human
+File:   corpus/05_human/t000003_human.txt
 
-Score (f1_pos): 5
-Loading words (f1_pos), N=5: change, moment, more, different, way
-I'll have to look into it a lot more carefully, because what I'm doing now is only a stopgap, really, just a way of getting round it for the moment. AVG’s not showing anything at all, so I don’t think it’s some sort of attack or virus. That makes me think it’s more likely a glitch with one of the programmes that’s doing the downloading. I’m half thinking if I changed the browser, stopped using Internet Explorer and tried a different one instead, it might sort it.
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): everything
+and also being very efficient and fast and you know managing everything until she came along so she's taken a real burden of hi of work from him you know cos she does all of the organisational things for the retreat and she's really good at dealing with the students like she's very erm she's a very compassionate woman but she's also not worried to discipline people she was a policewoman after all so you know and sometimes that needs to happen and it's quite delicate inside that environment you know you don't want to create any discordance within people between people and it's not really appropriate to do so but you do people do have to follow certain rules and stuff so that it works for everyone

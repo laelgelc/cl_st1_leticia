@@ -1,2 +1,2 @@
-variables loading on this pole = 3
-anyone (-.73), guy (-.40), everyone (-.33)
+variables loading on this pole = 8
+horrible (-.64), somehow (-.54), single (-.50), honestly (-.45), thinking (-.41), clearly (-.38), especially (-.38), yet (-.36)

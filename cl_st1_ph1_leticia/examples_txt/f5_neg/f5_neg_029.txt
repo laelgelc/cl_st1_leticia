@@ -1,8 +1,8 @@
-Text ID: t004987
-Group: unprofiled_gpt
+Text ID: t003336
+Group: profiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001577_gpt.txt
+File:   corpus/05_profiled_gpt/t001631_gpt.txt
 
 Score (f5_neg): -1
-Loading words (f5_neg), N=1: great
-so when he wrote and said oh I must come and visit I wrote back and said well this is what I’m doing next year I’m gonna pack the job in get myself a little lodge somewhere do a house share for a bit then I’m off sailing down in the Bay of Biscay on this great big boat and I’m gonna take up hang gliding again and then cycle round Britain you know just sounded like your typical bloke in that situation really doesn’t it
+Loading words (f5_neg), N=1: push
+So I really had to make myself not get involved in his apprenticeship applications. It was probably one of the hardest things I’ve done, just stepping back. I said to him, “If you want help with interview practice or want me to look at your CV, I will,” but he wasn’t interested, and I didn’t push it at all. He just got on with it himself, applied, went through the process, and got the job entirely off his own bat. And he absolutely loves it, he’s really thriving – it’s clearly a role that suits him down to the ground.

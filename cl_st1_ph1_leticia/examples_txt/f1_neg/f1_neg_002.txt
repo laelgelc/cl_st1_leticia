@@ -1,8 +1,12 @@
-Text ID: t001663
-Group: human
-Model: human
-File:   corpus/05_human/t001663_human.txt
+Text ID: t002390
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000685_gpt.txt
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-so it's difficult cos like I can't say to him oh you're working too much cos he basically pays for the lifestyle that I have in the summer anyway like normally I pay for everything but in the summer he pays for the lifestyle I have and it's difficult I can't I don't want to shout at him I don't like shouting at anyone like especially my boyfriend or a guy or whoever it doesn't matter who it is I don't like shouting at anyone or making anyone feel bad and I'm not that sort of person I'm not one of these girls that like where the fuck were you? who have you been texting? all that sort of shit like if he wants to go out or any guy that I'm with if they want to go out with some girls or some guys it doesn't matter who it is I don't care okay have a good night I wanna go out with my friends sort of thing that's the sort of person that I am so er it's been hard lately
+Score (f1_neg): -10
+Loading words (f1_neg), N=10: bloke, stand, later, suddenly, bother, try, even, head, just, proper
+yeah so we were out this one night, me and my mate, and we ended up bumping into this group of lads. It was really weird ’cause they were way more like “alright, alright” with me when I was with her, like proper making a fuss, whereas normally they’re not that bothered. You could just tell the dynamic changed ’cause I was stood with her.
+
+Then at one point, this one lad just suddenly grabbed my face and tried to kiss me. I turned my head so he only got my cheek, like made it into a sort of cheek kiss instead, ’cause I wasn’t having that. Another bloke clocked the whole thing, saw exactly what happened. Later on, that same lad came back over to me and he was being really tactile – touching my face, leaning in and whispering in my ear, putting his hand on my waist and all that.
+
+And then, out of nowhere, he starts going on about this other girl, you know, saying he “knows what she’s like” in this really pointed way. It was so obvious he was basically saying he’d slept with her, like he wanted everyone to know. It was like he was wearing it as a badge of honour or something, bragging about it rather than just quietly saying, “oh by the way, I’ve been with your girlfriend” or whatever. It wasn’t even subtle, it was just really blatant and made the whole thing feel even more awkward.

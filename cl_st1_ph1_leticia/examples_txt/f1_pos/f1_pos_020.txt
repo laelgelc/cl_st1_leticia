@@ -1,16 +1,8 @@
-Text ID: t001899
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000194_gpt.txt
+Text ID: t000053
+Group: human
+Model: human
+File:   corpus/05_human/t000053_human.txt
 
-Score (f1_pos): 5
-Loading words (f1_pos), N=5: become, change, more, own, way
-I think there’s also something about the environment that men find themselves in, especially once you get up into those more male‑dominated management levels. You’ve talked about wanting freedom and wanting to be your own boss, but I’m looking at the kind of workplaces you’ve described in the past, and they sound pretty brutal. 
-
-Amongst men, you all seem to see very clearly what other men are doing in terms of power plays, who’s trying to be top dog, that whole alpha‑male thing. It’s quite explicit, isn’t it? The language, the posturing, the way people talk to each other. From the outside, it comes across as quite crude, quite aggressive, and really hostile if you’re not that sort of bloke or you don’t want to play that game.
-
-So I’m wondering if that’s actually a big part of the drive to change. Not just a positive pull towards “freedom” and “being your own man”, but also a push away from being in a place where another man can talk down to you, or dominate you, or constantly be asserting himself over you. If every day you’re surrounded by that, and you’re not naturally that way yourself, it must be exhausting.
-
-It seems to me that for some men, the key thing about leaving that kind of career and becoming your own boss is precisely that: no other man gets to speak to you like that anymore. You’re not under someone else’s thumb, you’re not having to swallow your pride or fit into that alpha hierarchy. You remove yourself from that whole pecking order. 
-
-So when I talk about the male psyche here, I’m thinking that maybe a lot of the drive is about not wanting to be dominated by other men, as much as it is about wanting independence and control over your own working life.
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): just
+yes erm but so I just don't know we'll s oh I sort of left it as well the other thing was he said I could fly to Rome but Perugia is nearer only of course that's a small airport and there are flights from Stansted well I don't want the you know Ryanair of something I don't want to drive down to Stansted in order to fly to Perugia but otherwise he would drive to Rome to pick me up and it's a something like a hundred and fifty kilometres well I don't really want to land him with doing that now so in er I didn't say much but at the time I was thinking oh that's making me feel awkward

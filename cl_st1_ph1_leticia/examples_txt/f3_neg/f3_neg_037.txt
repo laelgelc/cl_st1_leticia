@@ -1,12 +1,8 @@
-Text ID: t003360
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001655_gpt.txt
+Text ID: t000905
+Group: human
+Model: human
+File:   corpus/05_human/t000905_human.txt
 
-Score (f3_neg): -1
-Loading words (f3_neg), N=1: fact
-and in fact that whole sense of security I’d had about cancer was even more misplaced than I’d realised, because my grandmother almost certainly had a gynaecological cancer herself. She’d had a hysterectomy, and she’d had radium rods put in, all those years ago, and yet the family story was always, you know, “there isn’t cancer in our family, nobody’s ever had cancer.” It was as if that whole episode with her had just been wiped from the collective memory.
-
-I only really got to the bottom of it when I found her diary from that year. She’d written about going into hospital, about the hysterectomy, and about the radium treatment, quite plainly. When I showed it to the rest of the family it was like a revelation. Until they actually saw her own words in that diary, somehow it had just gone completely over their heads, or been smoothed over, or denied. 
-
-So there I was, going around with this sort of inherited assurance that we were a “cancer‑free” family, when in reality there’d been this very clear instance of gynaecological cancer right there in the previous generation. It made me realise just how powerful those family narratives are, and how they can give you a false sense of safety that isn’t borne out by the facts at all.
+Score (f3_neg): 1
+Loading words (f3_neg), N=1: f4 score: 2
+poorly thought through as well but talking of wearing high heels I forgot to tell you when I went to the Co-op just now for supper guys erm there was a couple of people at the till a man and a woman and the woman was dealing with the thing and the man was standing there and then there was a lady standing behind him and she was dressed quite unusually she had very high sparkly shoes on and a quite a short skirt and not much of a top like just a kind of midriff covering thing

@@ -1,10 +1,8 @@
-Text ID: t002063
+Text ID: t003145
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000358_gpt.txt
+File:   corpus/05_profiled_gpt/t001440_gpt.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: gonna
-so like when I were younger I remember asking my mum if I could go to this sleepover, and I were all excited telling her what we were gonna do and that, and as soon as I mentioned it she just absolutely flipped. Like she proper went mental, way more than she ever did about owt else. She were shouting and getting really angry, and she were actually scared as well, you could see it on her face. 
-
-She said if I ever did that, she’d kick me out and never speak to me again, like dead serious, not even joking. And it’s mad because she’s never been like that about stuff people usually go mental about, like smoking or drugs or sex or whatever. She’d be strict, but not like that. This were on another level, like it were the worst thing I could possibly do. It really stuck with me how extreme she were about it.
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: he, him
+he did really badly at school, just messed around, and then carried on in the same vein for a couple of years afterwards, not really settling to anything. then he decided to go down the apprenticeship route in engineering, which was a bit of a turnaround for him. he stuck at that, did his apprenticeship properly, and then went on and did a fourth year so he could get a higher qualification on top of it. once he’d got that under his belt he went off travelling for a while, really made the most of it, and eventually ended up in australia. he’s out there now and it looks like he’s probably going to settle there.

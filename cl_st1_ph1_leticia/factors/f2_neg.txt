@@ -1,2 +1,2 @@
-variables loading on this pole = 6
-god (-.67), (fuck (-.66)), (pound (-.60)), (shit (-.46)), gonna (-.45), (single (-.41))
+variables loading on this pole = 8
+(shit (-.39)), (um (-.39)), (alright (-.38)), minute (-.36), he (-.34), him (-.31), (awful (-.30)), (oh (-.30))

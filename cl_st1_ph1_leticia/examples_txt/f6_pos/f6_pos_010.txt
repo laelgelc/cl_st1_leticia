@@ -1,8 +1,8 @@
-Text ID: t000235
+Text ID: t001358
 Group: human
 Model: human
-File:   corpus/05_human/t000235_human.txt
+File:   corpus/05_human/t001358_human.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: month, least
-you kind of like like what was it? I saw what? a few months ago maybe in May and I was like we were in the car home I was like do you think you're gonna marry ? he was like mm yeah probably and then what? now he's just broke up with her? it was just like he just said they went to did they go to Majorca? or they went on holiday and he was just like it just didn't feel the same I was like well at least you dumped her you know at least you
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: alright
+and then collect her at eleven oh I don't know how we're gonna do it actually maybe we'll t collect her and then go into I don't know how we'll do it anyway something like that and then erm we'll do a walk possibly round the t if the weather's alright we could do a walk round the in the evening and erm there's some fantastic walks some really brilliant walks through the woods it's just spectacularly beautiful actually when we went last weekend very wet but it was lovely lovely and then on Sunday we would probably go down to the and have a walk erm and er er well we could go out out and about there's places to go there's but actually 's on a Saturday so we'd have to think about that work out what we do

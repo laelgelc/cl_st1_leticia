@@ -1,8 +1,8 @@
-Text ID: t004701
+Text ID: t005033
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001291_gpt.txt
+File:   corpus/05_unprofiled_gpt/t001623_gpt.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: god
-I really don’t like the word “god” because of that old patriarchal image of a man in the sky; it just doesn’t fit what I feel. For me it’s more like an all‑encompassing energy, source, something we’re all fragments of. So when I look at homeless people, I see them as other selves who’ve chosen an experience of lack to learn and grow from. That’s why just handing over money feels wrong to me; it creates an energetic imbalance unless there’s some exchange. I much prefer arrangements like doing a bit of gardening for help, like the example I mentioned earlier.
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+This bloke just turned up on the doorstep, said he’d been sent by Eon to change our meter. It wasn’t even booked or anything, he just said he often does extra ones if he’s nearby and it’s convenient, and that it’d only take him about fifteen minutes. So I’m stood there thinking about what I’m in the middle of, but he’s very matter-of-fact, like, “If it suits you I can just do it now, won’t take long.” The whole thing was completely unannounced, but he clearly makes a habit of squeezing in these extra jobs when he can.

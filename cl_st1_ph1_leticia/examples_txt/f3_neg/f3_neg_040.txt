@@ -1,8 +1,8 @@
-Text ID: t003351
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001646_gpt.txt
+Text ID: t000974
+Group: human
+Model: human
+File:   corpus/05_human/t000974_human.txt
 
-Score (f3_neg): -1
-Loading words (f3_neg), N=1: fact
-I was in hospital the other week for a check-up, and my husband came with me. They popped him behind the curtain while the doctors got on with it. They felt all my glands, then put a speculum up my vagina and had a good look round inside, and then I had a rectal examination as well. It was all very matter of fact, just what they do, you know, one thing after another. He was absolutely amazed, he’d never seen anything like it, just how quickly and routinely they go straight to those very intimate procedures with someone they’ve only just met. He couldn’t get over that that’s simply how it is, that this is normal practice for us.
+Score (f3_neg): 1
+Loading words (f3_neg), N=1: f4 score: -2
+the the fact that a teacher a as a teacher you need to be able to lay the foundations of a good class by planning it well and making sure that your resources are quality resources that are going to aid the learning process em and then once you've got that in place you can then focus on your teaching to help lea um students learn um that what is in front of them or what task that they have been asked to do so you can kind of free up your own time

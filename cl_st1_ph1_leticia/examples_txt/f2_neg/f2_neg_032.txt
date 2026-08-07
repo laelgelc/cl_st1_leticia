@@ -1,8 +1,8 @@
-Text ID: t002996
+Text ID: t003352
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t001291_gpt.txt
+File:   corpus/05_profiled_gpt/t001647_gpt.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: god
-I really don’t like the word “god” because of all the patriarchal, old-man-in-the-sky imagery attached to it. For me it’s much more about an all‑encompassing energy, source, or “all that is.” When I look at homeless people, I see them as other selves, choosing an experience of lack to learn and grow from. Because of that, simply handing over money feels like it creates an energetic imbalance if nothing flows back. I’m far more comfortable with some kind of exchange, like work for help, as in that gardening example earlier.
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+Well it absolutely opened his eyes. He was quite shocked, really, seeing what actually happens – the stirrups, the speculum, fingers up your bum, all of that. It suddenly dawned on him what women routinely put up with, all the smears and gynae stuff we just accept as normal. For him it was extraordinary that you could meet someone and five minutes later they’re poking about like that. And he’s the complete opposite – he won’t go near a doctor if he can help it, and the thought of anyone doing a rectal examination on him is just beyond the pale.

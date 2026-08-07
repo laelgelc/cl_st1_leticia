@@ -1,8 +1,8 @@
-Text ID: t000197
+Text ID: t001516
 Group: human
 Model: human
-File:   corpus/05_human/t000197_human.txt
+File:   corpus/05_human/t001516_human.txt
 
 Score (f6_pos): 2
-Loading words (f6_pos), N=2: month, pound
-mine was like three hundred pounds for three months over the summer and so it would have been about a hundred for just a month but my parents aren't bothering but they're gonna insure me when I come back in April they're gonna insure me for the rest of the insurance be for the rest of the year because my mum's insurance ends in October when I go back to uni so they'll just add me on for the rest of the licence or for the rest of the insurance before it expires over the summer
+Loading words (f6_pos), N=2: em, alright
+and and first of all I thought well that is goes back to our common sense cos that's kind of common sense but then I was listening to what people were were were ringing in with and there was such misogyny there was this idea that em well you know if you flaunt it what do you expect? And I thought oh I know okay okay so if a woman suggests that she might be em she might be interested in maybe meeting a man then it's alright for any man to just come and take her I mean that's absolutely ridiculous

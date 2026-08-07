@@ -1,8 +1,8 @@
-Text ID: t002302
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000597_gpt.txt
+Text ID: t000806
+Group: human
+Model: human
+File:   corpus/05_human/t000806_human.txt
 
-Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-yeah they had a bit of a rough patch after New Year to be honest. They've been together since about May, so it's not like it's brand new or anything, but he is just so laid‑back it almost comes across like he doesn't care. Like, he barely seems to make any effort, and it really bothers her. But at the same time, you can tell he does actually like her, it's obvious in the way he is with her, he just doesn't really show it in the way she'd probably want.
+Score (f1_neg): -5
+Loading words (f1_neg), N=5: bloke, totally, nothing, head, just
+I think that blokes are like that though like when you're in a relationship with them they're nothing but as sweet as pie and then as soon as it's over they're like right well I can just be totally selfish which in their head means act like a twat which is unfortunate I mean not all blokes let's not all generalise but I think in his head he's like right well that's it now you told me that I'm single and that I just s that you don't want to be with me anymore and so I can just do what I like

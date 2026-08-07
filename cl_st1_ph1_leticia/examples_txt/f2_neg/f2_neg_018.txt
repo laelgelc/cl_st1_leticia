@@ -1,8 +1,8 @@
-Text ID: t000360
+Text ID: t001256
 Group: human
 Model: human
-File:   corpus/05_human/t000360_human.txt
+File:   corpus/05_human/t001256_human.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: gonna
-yeah he said I was like I wouldn't have a gun you know how I'm I going to tackle you? He said what if what if you had a gun what would you do? I was like I'm not fucking Rambo I'm not what going to tackle you to the ground bloody hell and I was like I'll call the police and he was like there's no police I was like right so we're living in some sort of guerrilla state where there's no police or authority? He said yeah what are you gonna do? I said oh well I'll probably still run away I mean even if I had a gun because if we're talking about me as I am now I couldn't do it but I did qualify the statement with the uh if I did do with the idea that I did it I've never had anyone close to me hurt I've never
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: he, him
+that's great That's why I'm thinking my my other half will love it in Granada you just you order a drink and gain food my dad actually got to the point where he said eh how do you ask he phoned me up not bring Cos he my dad was great like that he'd just go off and go to places by himself and try and speak a little bit of the language cos I went to uni and em I phoned him oh dad I've finished where are you? I'm in the hairdresser

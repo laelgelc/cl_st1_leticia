@@ -1,8 +1,8 @@
-Text ID: t000479
+Text ID: t001432
 Group: human
 Model: human
-File:   corpus/05_human/t000479_human.txt
+File:   corpus/05_human/t001432_human.txt
 
-Score (f6_pos): 2
-Loading words (f6_pos), N=2: month, pound
-yeah I think so Yeah I think so I think 's having a bit of a hard time of it with I think she's coming to the point of there's always been quite a gap between them intelligence wise and so far they've kind of dealt with it as in doesn't know and said well actually I I like all the qualities that he has so I'm just ignoring that but she spent the last three to six months going through his divorce with him and basically doing his accounts and she's of and shit loads of money like thousands and thousands of pounds that his
+Score (f6_pos): 1
+Loading words (f6_pos), N=1: alright
+and I was walking the other day and she was watering some plants and I said oh hello how are you? as you do oh I'm alright she said well I knew she'd been in hospital but I didn't know why cos had said when she'd delivered her Avon she said oh I'm alright like you know she said I'm getting there but it's been a an horrific eighteen months I said well did mention you'd been in hospital I said but you know you don't like to come and knock on the door do you and say oh well 's told me you were in hospital

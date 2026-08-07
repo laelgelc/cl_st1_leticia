@@ -1,8 +1,8 @@
-Text ID: t001520
-Group: human
-Model: human
-File:   corpus/05_human/t001520_human.txt
+Text ID: t003127
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001422_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-and then in the morning when he finally had got to sleep I had to get up obviously at six o'clock and I was like going in for a cuddle to like say well I've gotta get up in a minute and he was just like oh just leave me alone and obviously every girl knows that is a no no you do not say that because you take these things really personally so I got up and he was like oh where are you going? Oh well you told me to leave you alone so I'm leaving you alone and I had a bit of a strop on you know I was really tired six in the morning and I thought that
+Score (f4_neg): -3
+Loading words (f4_neg), N=3: properly, once, straight
+what he does when he finds a rotten bit, he doesn’t just bodge it, he does it properly. He’ll start off by making a pattern out of really heavy card, you know, so it holds its shape. He cuts that to the exact size he needs and then lays it over the rusty section and marks all the way round it. Then he gets his plasma cutter out, and he doesn’t freehand it, he clamps a nice straight bit of metal along the line so he can run the cutter against that and get a perfectly straight edge as he takes the rusty section out. Once that’s gone, he uses the card pattern to cut a new piece of metal exactly the same shape, offers it up, rests it in place and then just goes round the holes, tacking it all the way round.

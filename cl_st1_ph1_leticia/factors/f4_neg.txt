@@ -1,2 +1,2 @@
-variables loading on this pole = 2
-minute (-.42), (fact (-.38))
+variables loading on this pole = 9
+odd (-.73), (sense (-.41)), plan (-.37), properly (-.36), chat (-.35), once (-.34), straight (-.33), (build (-.31)), change (-.30)

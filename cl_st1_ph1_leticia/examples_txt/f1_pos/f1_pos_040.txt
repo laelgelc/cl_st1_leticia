@@ -1,8 +1,8 @@
-Text ID: t001540
-Group: human
-Model: human
-File:   corpus/05_human/t001540_human.txt
+Text ID: t003397
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001692_gpt.txt
 
-Score (f1_pos): 4
-Loading words (f1_pos), N=4: build, change, more, way
-some do they're getting better they're definitely travelling more and travelling more is opening up their eyes to ways other people live and what's going on so the society I come back to England and I say oh they've built a new school or something but really England's changing very slowly it's not it's not really changing like is changing very very quickly and they like they don't leave any buildings to stand every time a building hits forty years old they knock it down and build something else so like nothing they can't understand when I say that I grew up in a house that was you know they just find that and like there's a church down the road that's like six hundred years old they just they can't believe it nothing in their country is older than forty years old
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): just
+I was only an apprentice at the time, but I came up with this little shortcut jig, a special tool for doing the bearing housings. Instead of doing them the long, standard way, I could turn them out ever so quick. Because of that jig I was producing loads of parts, and the bonus money just rolled in. My basic was about six and six an hour – thirty-odd pence – but the bonus was half a crown an hour on top, so it bumped it up no end. In the end I was on about ten bob an hour plus the half-crown bonus. I had to hide the tool every night so no one else would pinch the idea. Me and my cousin were making so much we’d stash the extra work, then go off fishing while the foreman clocked us in and out.

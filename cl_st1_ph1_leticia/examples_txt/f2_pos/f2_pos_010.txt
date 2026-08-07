@@ -1,10 +1,12 @@
-Text ID: t002955
+Text ID: t003268
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t001250_gpt.txt
+File:   corpus/05_profiled_gpt/t001563_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: chat, bloke
-I went to this CLIL talk that I actually found really interesting. It was by the same bloke who did that FCE talk before, but he was much better this time because he was presenting his own material rather than someone else’s. I also ended up chatting to someone who asked why I’d never worked at this particular place, which threw me a bit because I honestly didn’t know why – I’ve worked pretty much everywhere else. 
+Score (f2_pos): 6
+Loading words (f2_pos), N=6: become, far, more, almost, idea, lot
+Well, there’s the three of us, and we’ve kind of become a little team. I do all the texts and the graphics side, and then there’s the one who kicks everything off, has the ideas, and keeps an eye on quality, and then the other one who actually implements it all. It’s quite a neat setup because each of us has a clear role, but we work really closely together.
 
-It all felt a bit strange being at the conference, because there were several organisations I’m connected with there – Kaplan, Support for English, and so on. I even managed to discreetly watch this Kaplan woman from Salisbury, who I’m likely to have to deal with in the summer and who’s supposed to be notoriously difficult.
+When we first started with the retreats it was tiny, really – basically just one person holding it all together, doing almost everything. Now it’s turned into this much bigger programme, with loads of retreats and a huge amount of administration attached to it. There are far more people involved these days, on all sorts of bits and pieces.
+
+Even so, the three of us are still carrying a very large share of the work. It’s just ended up that way because we’re the ones who’ve been in it from the beginning and we know how everything fits together. So we’ve gone from this little one-person thing to quite a big operation, but our core trio is still doing a lot of the heavy lifting.

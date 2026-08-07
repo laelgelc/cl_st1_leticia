@@ -1,8 +1,8 @@
-Text ID: t003204
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001499_gpt.txt
+Text ID: t000675
+Group: human
+Model: human
+File:   corpus/05_human/t000675_human.txt
 
-Score (f5_neg): -2
-Loading words (f5_neg), N=2: set, great
-Yeah, it’s really a problem for me when it’s too warm. In my last place I didn’t have to pay any bills, which sounded great, but the heating was all centrally controlled and set ridiculously high. I had no way to turn it down. I actually much prefer cold air in the room and just being warm under the duvet, but instead I ended up having to sleep all winter with a fan on and only a sheet over me. It was just far too hot to sleep properly.
+Score (f5_neg): -1
+Loading words (f5_neg), N=1: explain
+and we he's written a letter which he's sent me a copy of which is a very nice letter and it says in it you know? has experienced really bad side effects so what I've done is and he's explained and he said I wanted to persevere on these drugs because there is some evidence that they are helping however erm he said I don't want her to continue if the side effects continue to this degree and and we may just have to go back to square one erm in the background though there are a lot of other things and I don't know whether this is also adding to it

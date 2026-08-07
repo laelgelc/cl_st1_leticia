@@ -1,8 +1,8 @@
-Text ID: t001027
-Group: human
-Model: human
-File:   corpus/05_human/t001027_human.txt
+Text ID: t002617
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000912_gpt.txt
 
-Score (f4_pos): 3
-Loading words (f4_pos), N=3: feel, carry, head
-yeah yeah I really struggled when we went bowling I felt so boring that's why I went home when you all went on to play pool in town but I realised that you know I think that was just where I was at at the time and part of the detox process possibly I'm quite capable of carrying a party head on dancing the night away and being stone-cold sober but in that moment I wasn't so I don't know I do wonder if a big bit of me kind of reaches the point where I think no I'm not really into this scene anymore you know at some point somebody always arrives with a tray of shots and that sometimes leads to another tray of shots and there have been times in my life when that's a fantastic thing keep it rolling let's go yeah yeah yeah but for the most part I kind of think actually no I don't want to be in that scene yeah it's not such fun I don't know I kind of think drugs are better from that viewpoint because you don't have a stinking hangover in the morning
+Score (f4_pos): 2
+Loading words (f4_pos), N=2: guy, like
+So the guy she was on a date with literally just ran the second her baby father started attacking her, like he just cut. On the show people were calling in with their opinions, and this one woman said her children’s father actually broke her nose in public and nobody did anything, they all just watched. A lot of people were saying you shouldn’t get involved, especially if it’s not your business or it’s just a first date, but I don’t agree with that. No one deserves to get beaten like that, even if they were cheating or whatever. So what would you lot actually do in that situation?

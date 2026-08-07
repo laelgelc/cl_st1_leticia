@@ -1,131 +1,171 @@
-Interpretation of Factor 6 (negative pole)
+This pole is strongly *negative* for both LLM groups and essentially neutral for humans:
 
-1. **Which group is driving this pole?**
+- Human mean: +0.00  
+- Unprofiled GPT: −0.31  
+- Profiled GPT: −0.32  
 
-- Mean scores are all slightly negative, but **profiled_gpt** is the lowest:
-  - human: −0.03  
-  - unprofiled_gpt: −0.09  
-  - profiled_gpt: −0.09 (slightly lower, and all 10 top texts here are profiled_gpt)
-- The **high‑scoring texts at this pole are exclusively profiled_gpt**. So this pole is clearly **LLM‑driven, especially under the profiled prompt**.
+So this is a discourse style that GPT (especially under the profiled prompt) produces much more than humans do. All 10 high‑scoring texts are profiled_gpt.
 
-2. **Linguistic profile of the pole**
+---
 
-Loadings (all negative, i.e. characteristic of this pole):
+## 1. Linguistic profile of the pole
 
-- anyone (−.73) – very strong
-- (massive) (−.41)
-- guy (−.40)
-- everyone (−.33)
-- (shit) (−.30)
+High negative loadings:
 
-Key observations from the loadings:
+- horrible (−.64)
+- somehow (−.54)
+- single (−.50)
+- honestly (−.45)
+- thinking (−.41)
+- (sorry (−.39))
+- clearly (−.38)
+- especially (−.38)
+- yet (−.36)
+- (properly (−.32))
 
-- **Indefinite / generic human reference**:
-  - anyone, everyone, guy
-- **Colloquial / informal register**:
-  - guy, shit, massive (as an intensifier)
-- **Mass/generalising stance**:
-  - everyone, anyone → sweeping reference to groups, norms, expectations
+These are not random content words; they cluster into two main functional sets:
 
-3. Evidence from the excerpts
+1. **Stance / evaluation / evidentiality**
+   - horrible, honestly, clearly, especially, sorry, yet  
+   → strong *evaluative* and *stance‑marking* items, often intensifying or framing a judgment.
 
-Across the 10 excerpts, the loading items are used in very consistent ways:
+2. **Cognitive / inferential / scalar framing**
+   - thinking, somehow, single, properly  
+   → items that:
+   - highlight *mental processing* (thinking)
+   - mark *unexpectedness or weak causality* (somehow)
+   - pick out *individual instances* for emphasis (single)
+   - mark *normative standards* (properly)
 
-a. **Generic and inclusive reference to groups**
+Taken together, the loadings point to a discourse that:
 
-- “hard to get **everyone** together” (f6_neg_001)
-- “keeping **everyone** entertained” (002)
-- “you’re always kind of ‘on’ around **everyone**” (003)
-- “in an ideal world **everyone** would have the same opportunities” (004)
-- “apparently this new process and system are working really well, **everyone’s** on board” (005)
-- “basically **everyone** who’s a lecturer has a PhD” (006)
-- “she’s the one who really knows **everyone**” (007)
-- “before **anyone** else was even up … after **everyone** in the evening” (008)
-- “it only has to snow about half an inch now and **everyone** seizes on it as an excuse” (009)
-- “right so **everyone** have a look at your new loyalty card now, but don’t show it to **anyone**” (010)
+- foregrounds **speaker stance** and **evaluation**
+- often orients to **problems, difficulties, or negative experiences**
+- highlights **surprise, frustration, or incredulity** (“somehow”, “honestly”, “horrible”)
+- zooms in on **specific instances** (“every single…”) to dramatise a point
+- uses **metadiscursive markers** (“clearly”, “especially”, “properly”) to guide the listener’s interpretation.
 
-These uses:
+---
 
-- Construct **collectives** (“everyone”, “loads of people”) and **open sets** (“anyone”).
-- Often frame **norms, expectations, or shared experience**:
-  - “basically everyone who’s a lecturer has a PhD”
-  - “I can’t think of a single person who is [happy with it]”
-  - “no one had prepared … it wasn’t as if they didn’t have time”
+## 2. What the examples show
 
-b. **Colloquial, conversational stance**
+All examples are conversational narratives or complaints with a strong evaluative overlay. The loading words are central to how the speaker positions themselves.
 
-- “there’s a Pakistani **guy** who’s about my age” (001)
-- “this **guy** called Lockwood” (007)
+### a) Intensified negative evaluation of events/people
 
-“guy” is a **casual, relational label** for a person, typical of informal spoken narrative.
+- “how horrible it is” (t003312, Twitter abuse)
+- “even something as horrible as that” (t001903, extreme religious beliefs)
+- “it was honestly so bad” (t001904, bad referencing)
+- “that horrible cold” (t002294, mountain climb)
+- “that bloke who was horrible to women” (t003303, abusive partner)
+- “it’s just this horrible feeling of knowing before you even start that you’re probably gonna lose” (t002685, football)
 
-Although “massive” and “shit” don’t appear in these particular 10 excerpts, their loadings suggest:
+These are not neutral descriptions; they are **emotionally loaded, judgmental accounts** of situations, often with moral or affective colouring.
 
-- **massive**: colloquial intensifier (“massive problem”, “massive difference”)
-- **shit**: informal / mildly taboo evaluation (“talking shit”, “no one gives a shit”)
+### b) Explicit stance and incredulity
 
-Together with “guy”, they point to a **colloquial, everyday‑speech lexicon**.
+- “I honestly can’t imagine dealing with that kind of constant pressure” (t003312)
+- “their beliefs are honestly terrifying” (t001903)
+- “It was honestly so bad…” (t001904)
+- “I honestly don’t get how he copes…” (t003313)
 
-c. **Discourse functions visible in the examples**
+“Honestly” here is a **stance marker**: it foregrounds the speaker’s subjective reaction, often of disbelief, shock, or strong feeling.
 
-The high‑scoring texts repeatedly:
+“Somehow” similarly marks **puzzlement or weakly explained causality**:
 
-- **Generalise from individual to group**:
-  - “loads of people straightaway were like, ‘no, that’s too much’”
-  - “basically everyone who’s a lecturer has a PhD”
-  - “people using the tiniest bit of snow as an excuse”
-- **Construct shared norms and expectations**:
-  - “for that amount of money you sort of expect there to be a bit more thought”
-  - “in an ideal world everyone would have the same opportunities”
-  - “it just shows how badly it can go wrong when they don’t grit the roads”
-- **Position the speaker relative to ‘everyone/anyone’**:
-  - “I don’t think anyone should feel proud or ashamed of where they’ve ended up”
-  - “I honestly doubt she’s actually asked anyone if they’re happy with it”
-  - “you can’t just sit and be, or be openly miserable, because you’re always kind of ‘on’ around everyone”
+- “he somehow still managed to get nine hundred quid for it” (t001748)
+- “somehow she clung on to him anyway” (t003303)
+- “I’d somehow missed three weeks of it” (t002735)
+- “somehow doesn’t [get the ball]” (t002685)
 
-So the pole is not about technical vocabulary or narrative vs. expository structure; it is about **how people are referred to and grouped**, and the **stance** taken toward those groups.
+These uses present events as **unexpected, hard to rationalise**, reinforcing a tone of “this really shouldn’t have happened / doesn’t make sense”.
 
-4. Discourse characterisation
+### c) Focusing on individual instances for rhetorical effect
 
-Putting the loadings and examples together, this pole encodes:
+“Single” is almost always in **scalar emphatic** uses:
 
-- **High use of generic human reference**:
-  - “anyone”, “everyone”, “guy” → people as **types** or **members of a group**, not as named individuals.
-- **Colloquial, conversational style**:
-  - “guy”, “massive”, “shit” → informal, spoken‑like register.
-- **Normative and evaluative generalisation**:
-  - Frequent talk about what “everyone” does, what “anyone” should/shouldn’t feel, how “people” behave.
-  - Used to **evaluate** situations (work systems, snow response, social justice, weekend planning).
+- “every single event is a decision made by God” (t001903)
+- “every single reference one by one” (t001904)
+- “every single thing I do with my boyfriend” (t002160)
+- “we had to take every single chance we got” (t002685)
 
-This looks like a dimension of **informal, people‑centred, generalising talk**: speakers (here, LLMs emulating speakers) use broad, inclusive pronouns and colloquial person labels to:
+This pattern is typical of **complaints and rants**: zooming in on “every single X” to underscore how pervasive or exhausting the problem is.
 
-- Construct **social groups and shared experience**.
-- Make **sweeping claims** about behaviour, norms, or fairness.
-- Position themselves against or within those collectives.
+### d) Metadiscourse and normativity
 
-5. Possible labels for this pole
+- “what I’ve actually done… clearly shows” (t001904)
+- “my old car was so clearly on its last legs” (t001748)
+- “she clearly didn’t have much self-respect” (t003303)
+- “when it’s obvious he’s getting properly fed up” (t003313)
 
-Focusing on this pole alone, and reflecting both the lexical loadings and the discourse functions, plausible labels include:
+“Clearly”, “obvious”, “properly” present the speaker’s interpretation as **self‑evident** or **normatively correct**, inviting alignment and sometimes moral judgment.
 
-1. **“Colloquial Generic‑People Reference”**  
-   - Captures the informal register (“guy”, “shit”, “massive”) and the heavy use of “anyone/everyone” to talk about people in general.
+“Especially” often highlights **salient, emotionally charged aspects**:
 
-2. **“Informal Collective‑Norm Talk”**  
-   - Emphasises that “everyone/anyone” are used to construct collectives and to talk about norms, expectations, and shared behaviour.
+- “especially because I see his tweets pop up quite a lot” (t003312)
+- “especially all that seventies stuff” (t002735)
+- “especially when it’s obvious he’s getting properly fed up” (t003313)
 
-3. **“Everyday Generalisations about People”**  
-   - Highlights the discourse function: broad, everyday generalisations about what people do, feel, or should do, expressed in a conversational style.
+### e) Cognitive processing and internal commentary
 
-Any of these would be defensible. If a single label is needed, I would choose:
+“Thinking” is used to report **inner commentary**:
 
-> **Informal Collective‑Norm Talk**
+- “it just makes you think about how intense it must be” (t003312)
+- “I’m just sat there thinking, what does she actually expect?” (t002160)
+- “I keep thinking, where’s it all gone then?” (t002735)
+- “I’m just stood there thinking what’s the point?” (t002685)
 
-because it integrates:
-- **Informal**: “guy”, “massive”, “shit”
-- **Collective**: “everyone”, “anyone”
-- **Norm Talk**: the recurrent use of these forms to state or contest social norms, expectations, and shared behaviours.
+This foregrounds **reflective, evaluative cognition** about problematic situations.
 
-6. Role of the prompting regime
+---
 
-- The fact that **profiled_gpt** dominates this pole suggests that when the LLM is given socio‑demographic profiles, it tends to **lean into colloquial, people‑generalising language** (“everyone”, “anyone”, “guy”) to sound like a plausible conversational persona.
-- Humans and unprofiled_gpt are closer to zero on this factor, so this **informal, collective‑norm style is particularly amplified by the profiled prompting**.
+## 3. Discourse function of the pole
+
+Putting the loadings and examples together, this pole encodes a discourse style that is:
+
+- **Highly evaluative**: frequent explicit judgments (horrible, terrifying, awful, properly wrong).
+- **Subjectively stance‑rich**: “honestly”, “clearly”, “especially”, “sorry” frame the speaker’s attitude.
+- **Problem‑oriented**: many texts revolve around **complaints, frustrations, or troubling stories** (abuse, religious extremism, family conflict, poor team performance, fear on a mountain).
+- **Emotionally and morally charged**: not just “bad” but “horrible”, “terrifying”, “awful”, with moral overtones (self‑respect, cruelty, unfairness).
+- **Cognitively reflective**: explicit references to thinking, imagining, not understanding, puzzlement.
+- **Rhetorically intensified**: “every single…”, “properly”, “honestly”, “clearly” used to dramatise and persuade.
+
+Crucially, this is not just “negative sentiment”; it is **narrated evaluation**: speakers recount experiences or third‑party stories and actively interpret them, inviting the listener to share their stance.
+
+The fact that GPT, especially when “profiled”, drives this pole suggests that the model, when given socio‑demographic cues, tends to **over‑produce explicit stance markers and evaluative intensifiers** to sound conversational and engaged.
+
+---
+
+## 4. Possible labels for this pole
+
+Any label should capture:
+
+- the **evaluative, stance‑heavy** nature of the discourse
+- the focus on **problematic / troubling experiences**
+- the **reflective, interpretive** commentary on those experiences.
+
+Plausible labels:
+
+1. **Evaluative Complaint and Problem‑Narrative Discourse**  
+   - Highlights that texts are often complaints or accounts of difficulties, framed through strong evaluation.
+
+2. **Subjective Stance and Affective Problem‑Talk**  
+   - Emphasises the dense use of stance markers (“honestly”, “clearly”, “especially”) and the emotional orientation to problems.
+
+3. **Reflective, Morally Charged Evaluation**  
+   - Captures the introspective “thinking” plus the moral/affective judgments (“horrible”, “self‑respect”, unfairness).
+
+4. **Intensified Negative Experience Framing**  
+   - Focuses on how events are framed as especially bad, puzzling, or unfair, using intensifiers and scalar emphasis (“every single”, “properly”, “honestly”).
+
+If I had to choose one primary label for this pole:
+
+> **Intensified Evaluative Problem‑Talk**
+
+Justification:
+
+- **Intensified**: via “horrible”, “every single”, “properly”, “honestly”, “clearly”.
+- **Evaluative**: the core loadings are stance/evaluation markers.
+- **Problem‑Talk**: the examples are dominated by complaints, troubling stories, and accounts of difficulty, framed through reflection and judgment.
+
+This label reflects both the lexical loadings (stance and intensification items) and the discourse pattern in the excerpts (narrated problems with strong subjective evaluation), and it aligns with the fact that profiled GPT is the main driver of this style.

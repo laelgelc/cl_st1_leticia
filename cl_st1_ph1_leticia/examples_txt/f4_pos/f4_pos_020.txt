@@ -1,12 +1,8 @@
-Text ID: t003360
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001655_gpt.txt
+Text ID: t000684
+Group: human
+Model: human
+File:   corpus/05_human/t000684_human.txt
 
 Score (f4_pos): 3
-Loading words (f4_pos), N=3: clear, make, head
-and in fact that whole sense of security I’d had about cancer was even more misplaced than I’d realised, because my grandmother almost certainly had a gynaecological cancer herself. She’d had a hysterectomy, and she’d had radium rods put in, all those years ago, and yet the family story was always, you know, “there isn’t cancer in our family, nobody’s ever had cancer.” It was as if that whole episode with her had just been wiped from the collective memory.
-
-I only really got to the bottom of it when I found her diary from that year. She’d written about going into hospital, about the hysterectomy, and about the radium treatment, quite plainly. When I showed it to the rest of the family it was like a revelation. Until they actually saw her own words in that diary, somehow it had just gone completely over their heads, or been smoothed over, or denied. 
-
-So there I was, going around with this sort of inherited assurance that we were a “cancer‑free” family, when in reality there’d been this very clear instance of gynaecological cancer right there in the previous generation. It made me realise just how powerful those family narratives are, and how they can give you a false sense of safety that isn’t borne out by the facts at all.
+Loading words (f4_pos), N=3: sorry, gonna, like
+erm see if I can find it so I put the last message I put to erm thingamabobs I told him about the party and he put hi been sorry we're erm super busy lately this was like erm ten days after I text him super busy erm I will come for a drink at yours but won't be coming out as I'm really we're er really tight with money this month plus trying to save how have you been? and then I didn't write anything cos I was pissed off that he'd taken that long to message me and then I put on the twenty-ninth erm like is is coming is your girlfriend coming question mark cos I thought maybe he'd bring his girlfriend only cos I said that and he kind of goes I don't know about I've not seen him and no I don't think she is and I was like right obviously you've not even told her have you like if you were saying that you're gonna pop for a drink like

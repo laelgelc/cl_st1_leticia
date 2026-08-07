@@ -1,8 +1,12 @@
-Text ID: t004978
-Group: unprofiled_gpt
+Text ID: t003302
+Group: profiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001568_gpt.txt
+File:   corpus/05_profiled_gpt/t001597_gpt.txt
 
 Score (f5_neg): -1
-Loading words (f5_neg), N=1: somebody
-so I says to her, I says, now then, in the morning you’ll see a plumber’s van outside our house, he’s coming to look at our toilet. And I says, I can do it myself, you know, I’m quite capable, but I’m not going to. I says, I’ve done enough of that sort of thing, and if I do it and it goes wrong, it’s on my head, so we’re paying a plumber this time. Then I says to her, have a look over there, all that stuff coming over from next door’s garden. I says, I can cut some of it back, but that big conifer, I’m not touching that, and I don’t think he can manage it either. So I says, we’ll have to get somebody in to do it proper. Then he turns round and says, do you know anybody who could do it? And I says, well, you already have that bloke who comes to cut your hedge, don’t you?
+Loading words (f5_neg), N=1: push
+yeah I mean I used to do that thing of drinking on my own, just to get drunk, and it was absolutely miserable really, very insular, you shut yourself off from everyone and everything. I don’t do that now, I’ve stopped that side of it, and these days I only very rarely get really drunk, you know, properly out of it. 
+
+I do think there’s something in what you were saying about it being in your DNA – some people clearly are more prone to it than others, you can see that in families and so on. But I don’t think it’s just that, I can’t believe it’s only genetic. There are all the psychological reasons wrapped round it as well, why people pick up a drink in the first place and then keep going back to it. 
+
+So yes, there’s that genetic tendency, but there’s also what’s going on in your head, in your life, the way you feel about yourself. It’s not just one thing, is it, it’s a mixture of things that push you into that pattern of drinking, and keep you there, until you decide you’ve had enough of being that miserable, shut‑in drunk.

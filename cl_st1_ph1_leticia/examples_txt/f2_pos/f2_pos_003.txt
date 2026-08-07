@@ -1,14 +1,10 @@
-Text ID: t001739
+Text ID: t002643
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000034_gpt.txt
+File:   corpus/05_profiled_gpt/t000938_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: odd, chat
-yeah she never she never actually came back and told me what happened with that chat, she just sort of briefly said they’d spoken about it. But even then, his story just didn’t add up – the timings were off, and he was adamant he’d never even been in contact with this other girl. He kept saying stuff like, “Oh my mates would’ve told you if anything had happened,” which I just don’t buy, because he’s got a lot of people who’d cover for him.
+Score (f2_pos): 9
+Loading words (f2_pos), N=9: build, fact, rather, than, far, more, real, almost, idea
+well my initial idea, the one I was trying to explain before you went off on the other thing, was to actually build proper, real-life case studies rather than us just chatting and leaving it at that. I was thinking in terms of characters, situations, problems that unfold over time and need to be managed or solved, almost like following people through a process. And instead of it being a dry written case in a textbook, it would be co-created with the people involved, so they’re part of shaping it, and we’re capturing it as moving images.
 
-In the end she just chose to believe him, and that was that. Within like two weeks she’d moved in with him, which just made me feel even more uneasy about the whole thing. She’s even admitted she’s checked his phone a couple of times, secretly, to see if there were any messages between him and this girl.
-
-But that almost makes it worse, because there was nothing there at all. I actually find that more suspicious than if there’d been the odd casual message, because I know they’re usually in semi-regular contact. It’s like it’s been wiped clean, which just feels off to me.
-
-So I’m stuck in this weird place where I still really don’t trust him, and I feel bad for feeling like that. I know she’s happy and I am happy for her, but I can’t shake the reservations I’ve got about him and the whole situation.
+So you’d have these rich, authentic stories, filmed and structured, that show how issues develop and how people respond, rather than something made up after the fact. The moving image part is really important – not just a video stuck on top of some text, but the core of the case study itself, with all the messiness and detail of real life. Then those could be turned into proper educational resources, rather than just free content floating around, and they’d have far more value because they’re grounded in actual experience.

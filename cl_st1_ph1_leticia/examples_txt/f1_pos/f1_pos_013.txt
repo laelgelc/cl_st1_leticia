@@ -1,12 +1,8 @@
-Text ID: t002120
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000415_gpt.txt
+Text ID: t000036
+Group: human
+Model: human
+File:   corpus/05_human/t000036_human.txt
 
-Score (f1_pos): 5
-Loading words (f1_pos), N=5: moment, more, own, different, way
-and that’s what I mean about the way education’s set up at the moment – it’s a totally different learning mechanism. Instead of you working things out from your own perspective, you’ve got lecturers standing there who’ve already pre–selected all the examples and the bits they think are interesting. They’ve done all the working out and then just feed you the edited highlights.
-
-What I’d really like is for students to push back a bit more and actually question that. Sit there in a lecture and say, “Right, how does this apply to my area? How does this fit with what I’m interested in?” rather than just passively taking it all in.
-
-If more people did that – properly questioned the material and the lecturer – I honestly think it would make the whole lecture better for everyone in the room.
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): just
+I always find I always find like new jobs or or or I wonder if do you wanna do this? or well or I was thinking about this and 's just like stop it and I'm thinking I've not like it like since we've moved in I've not finished a room so I've like been kind of like doing like little odd bits here and there and then I'll start something else and I look around and I think oh yeah I know what I want there but I can't buy that because I've started on this other room or I wanna do that in there

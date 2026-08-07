@@ -1,8 +1,12 @@
-Text ID: t002427
+Text ID: t002959
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000722_gpt.txt
+File:   corpus/05_profiled_gpt/t001254_gpt.txt
 
-Score (f2_pos): 1
-Loading words (f2_pos), N=1: odd
-We always said, didn’t we, that when I finally retired we’d spend our days pottering around churches and that sort of thing, nice little day trips. But somehow it never happened – there were always the grandchildren to help with, bits of work still on the go, and in truth I never really stopped properly. This is the first time I’ve actually felt as if I’m not half in, half out. It’s such a relief not to have lessons, groups, observations, tests or all that student tracking hanging over me anymore. It’s a very odd feeling though. Did it feel like that for you when you finished?
+Score (f2_pos): 6
+Loading words (f2_pos), N=6: rather, than, set, more, own, idea
+yeah and the other thing I really liked about it was the way it gives the director of studies this really clear, standard picture of what’s going on in every class. So if a student comes and says, you know, “I don’t like this teacher, they’re not doing X or Y,” the DoS can actually look at the system and say, “well, this is what should be happening in every lesson,” and respond properly, rather than it just being one teacher doing their own random thing. 
+
+The way they set it up originally was all negotiated with the permanent teachers, so everyone had a say in how it would work and what they were willing to do, and then they agreed on it together. I really like that idea in principle, but for a summer school it’s just not realistic to have that kind of long negotiation process with people who are only there for a few weeks. 
+
+So I was thinking I might just try and implement it more top-down in the summer school context, just say, “this is how we do it here,” and see how it goes. I’m not totally convinced it’ll actually happen though, especially with the staff who come down from the London school – I can’t really see them all suddenly deciding to follow it properly.

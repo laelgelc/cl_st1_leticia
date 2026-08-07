@@ -1,8 +1,8 @@
-Text ID: t003310
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001605_gpt.txt
+Text ID: t000649
+Group: human
+Model: human
+File:   corpus/05_human/t000649_human.txt
 
 Score (f3_neg): -1
-Loading words (f3_neg), N=1: okay
-I just kept saying to her, like, I’m not lying, we genuinely didn’t talk about you at all. I don’t talk about her at uni anyway, and I definitely don’t when she’s actually in the house, because she’ll just sit there listening at the door or at the top of the stairs. That’s why, when the argument happened, I waited until she’d gone before I went to check on the other one, just to see if she was okay. We only talked about how she was feeling, nothing about her. I was really clear about that, but she just wouldn’t let it go, kept asking what had been said. It’s got to the point now where I just don’t talk about her in the house at all – it feels way too dangerous.
+Loading words (f3_neg), N=2: huge, massive
+and close it off so that the sunlight didn't get on it so these monsters would spawn in this arena and you could just go and fight them and there'd be enough lighting that you'd see and the light the floor would light up as they were these monsters were walking around on it and em people really got behind that and it was a really simple design it was em it was just a dome so it was quite easy to figure out how to do it and the floor was just a circle of red stone so loads of people were really keen to to help out and help me make this and it was fairly close to where everyone was doing their business and building their things and it also from a distance it just looked bloody huge eh I called it the desert dome because there's just this massive sandy desert and then in the middle there's this stone dome just standing there

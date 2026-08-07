@@ -1,8 +1,8 @@
-Text ID: t000431
-Group: human
-Model: human
-File:   corpus/05_human/t000431_human.txt
+Text ID: t003779
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000369_gpt.txt
 
-Score (f5_pos): 1
-Loading words (f5_pos), N=1: horrible
-well I can remember when I was a kid being taken round to the kid that had chicken pox or the measles or whoever so that you'd catch it you know? But now it's all about you know keeping them all in a little cotton wool cocoon and not exposing them to it and then you see guys when they get into their thirties you know twenties or thirties or forties getting something that when you're that age it you know like chicken pox and things like measles especially it can do horrible stiff to you when you're older
+Score (f5_pos): 4
+Loading words (f5_pos), N=4: pound, three, ten, five
+I came out of it with about eight thousand pounds of debt, because I took out a career development loan to do my master’s after I’d been travelling. Altogether I borrowed around ten thousand pounds: about five thousand went straight on the tuition fees, and another three thousand was meant for living costs while I was studying. After that, I basically had to work just to be able to afford food. It wasn’t like there was any extra for going out or anything, it was literally just covering the basics so I could get through the course.

@@ -1,10 +1,8 @@
-Text ID: t003067
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001362_gpt.txt
+Text ID: t000699
+Group: human
+Model: human
+File:   corpus/05_human/t000699_human.txt
 
-Score (f4_pos): 4
-Loading words (f4_pos), N=4: feel, stick, carry, make
-I just feel a bit stuck with where I am now, teaching‑wise. Like, I know I could easily get another job in a different school, and if I did the Delta, that three‑month diploma, I could technically move up a bit. But even with that, it only really opens up two paths: carry on as a teacher, or become a manager in a language school. That’s kind of the ceiling, really. 
-
-It’s not that it’s a bad thing – the Delta’s a really tough qualification and the jobs can be good money, proper decent work. But knowing that’s basically all I can do with it makes me feel a bit boxed in. It’s like, is that it for my career? That’s why I’m thinking I might need to try something else for a while.
+Score (f4_pos): 3
+Loading words (f4_pos), N=3: sorry, gonna, like
+well it's it's yeah it's just that it was more a kind of I'm not gonna do that rather than I know I said I'd do this but this other thing's also come up and you know and and I'd really like to I'm sorry and you know rather than being like that I guess I don't mind in principle him seeing fr he hasn't seen for a while in London that's not the issue it's just more the how it was phrased like he didn't tell us and he wasn't gonna text me tonight I texted him you know it would just be nice if he was a bit more proactive about the whole thing and er and not taking it for granted that he could just do whatever he wanted slash that we'd pick him up

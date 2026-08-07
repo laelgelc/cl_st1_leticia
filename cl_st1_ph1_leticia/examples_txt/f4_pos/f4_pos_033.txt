@@ -1,8 +1,8 @@
-Text ID: t000284
-Group: human
-Model: human
-File:   corpus/05_human/t000284_human.txt
+Text ID: t002441
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000736_gpt.txt
 
-Score (f4_pos): 3
-Loading words (f4_pos), N=3: bother, feel, make
-yeah and er he had this business idea and he'd got it all drawn out all the and it was erm something to do with smashing the you know and you can witness it being done and all this that and the other you can witness the hard drive being made made irre irr unusable and er he was he had it all graphic all these graphics to put up on hi on the website you know and then he felt oh I can't be arsed he couldn't be bothered and when you think about it you know okay you'd get a few but that wouldn't be worth doing would it?
+Score (f4_pos): 2
+Loading words (f4_pos), N=2: guy, like
+the second bit’s in New York, like early nineties Manhattan, and there’s this Black guy trying to get a cab to Brooklyn and literally no taxi will stop for him. he’s just stuck there, no one’ll pick him up at all. then finally this one cab pulls over, and it turns out the driver’s this totally clueless ex‑clown who’s just arrived from Dresden and doesn’t really know what he’s doing. it gets so ridiculous that in the end the passenger basically insists on driving the cab himself.

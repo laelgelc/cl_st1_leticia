@@ -1,8 +1,8 @@
-Text ID: t003330
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001625_gpt.txt
+Text ID: t001684
+Group: human
+Model: human
+File:   corpus/05_human/t001684_human.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-she was told it was going to be half an hour, so they said go away and come back in thirty minutes, so off she went to this absolutely packed restaurant. she just bought herself a cup of tea and a four–bar Kit Kat, nowhere else to sit, so she ended up opposite this elderly man. she unwrapped the Kit Kat, put it in the middle of the table, like you do, then snapped off one bar and had a bite. and then, right in front of her, he calmly snapped off a bar himself and ate it.
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: plan, once
+mm when the kids were younger erm two actually two pieces of advice one was childcare don't worry about it only worry a year in advance because in the next the following year they would have thought they would have grown up and neneed something different cos I used to I must have had a conversation with you where I was planning well once I've done that and then they can go onto this and I remember turn don't worry about it it'll work out and actually I didn't after I just took one year and so that was a very valuable piece of advice

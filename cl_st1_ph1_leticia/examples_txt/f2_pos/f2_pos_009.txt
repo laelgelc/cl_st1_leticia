@@ -1,8 +1,10 @@
-Text ID: t001883
+Text ID: t002639
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000178_gpt.txt
+File:   corpus/05_profiled_gpt/t000934_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: odd, chat
-I’d never actually met her before, but she acted like we already knew each other. She was all, “how are you?”, “when are you back to work?”, “did you have a nice summer break?”, that sort of thing. It was really odd, because the only connection she had was my email address, which I’d written down to go on this group email about baked goods. Just from seeing that, she started chatting away as if we were old friends, and I really didn’t like it at all.
+Score (f2_pos): 7
+Loading words (f2_pos), N=7: build, become, rather, than, more, idea, lot
+So the whole idea is really about breaking relationships down into explicit, visible steps, rather than treating them as this mysterious thing that just “happens”. For example, imagine an ambitious seventeen- or eighteen-year-old who wants to meet Richard Branson. On the face of it, that sounds impossible. But if they can actually see that someone just one year above them already has a connection with Virgin, and that Virgin is connected to Richard Branson, suddenly it becomes a lot more realistic.
+
+By mapping that out, you’re showing them: here’s how that meeting could happen, here are the links in the chain. It’s about demonstrating that relationships are built piece by piece, and that even people very close to you in age or experience can be crucial mentors because of the connections they already have.

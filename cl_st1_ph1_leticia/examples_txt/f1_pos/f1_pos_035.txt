@@ -1,8 +1,8 @@
-Text ID: t000123
-Group: human
-Model: human
-File:   corpus/05_human/t000123_human.txt
+Text ID: t002076
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000371_gpt.txt
 
-Score (f1_pos): 5
-Loading words (f1_pos), N=5: become, idea, more, own, different
-well no not from my point of view cos I've always kind of thought well well part part of it is if I was doing my own thing my own business like I've said erm it was about the location thing I always liked the idea of moving around because that kind of reinvigorates you it's new stuff you learn new stuff it forces you to look at thing differently you try different stuff just because you're doing that when you're based in one place sure you get to know the community you become better known in the community you know more people there but you're there and that's it you know? erm you don't necessarily get the freedom to go and have a look around and look at other stuff and
+Score (f1_pos): -1
+Loading words (f1_pos), N=1: f1 neg words (N=1): just
+In interviews when they ask why you want to work for them, you just sort of come out with the usual stuff, don’t you. I normally say I’ve researched the company, and then pick something off their website that sounds vaguely worthy or interesting. Quite often it’ll be something like their employee volunteering scheme, or some initiative they’ve got going on, and I’ll act like that’s really what drew me in. It’s all a bit generic and made up on the day, really, just to have an answer.

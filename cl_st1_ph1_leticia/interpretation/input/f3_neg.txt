@@ -33,141 +33,151 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac3	SD fac3
-group	human	1705	-0.19530792	0.57427361
-group	profiled_gpt	1705	0.09736070	0.46587676
-group	unprofiled_gpt	1705	0.06275660	0.47980645
+group	human	1705	3.38181818	1.61609357
+group	profiled_gpt	1705	1.41407625	1.16825734
+group	unprofiled_gpt	1705	1.39237537	1.19528143
 
 === FACTOR LOADINGS (f3_neg) ===
-variables loading on this pole = 6
-wanna (-.70), fact (-.61), okay (-.56), reason (-.54), (shit (-.48)), (bother (-.30))
+variables loading on this pole = 5
+huge (-.70), (em (-.50)), massive (-.44), finally (-.39), (awful (-.35))
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f3_neg_001.txt (text ID t000687) =====
-Text ID: t000687
-Group: human
-Model: human
-File:   corpus/05_human/t000687_human.txt
-
-Score (f3_neg): -3
-Loading words (f3_neg), N=3: wanna, okay, reason
-like but everyone goes everyone says to me literally says to me how come you get how come will like come up to you and be like talk to you for like a long extended period of time and like how he'll like give you a hug and how he won't be a dick I said there is one reason only and that's cos doesn't wanna bang me and doesn't has never ever wanted to bang me and 's never got with me not even fucking kissed me or anything that is why me and are okay but if you're an object of like he thinks that he he's fancied you at some point whatever it may be
-
---- Loading words for this example (neg): wanna, okay, reason
-
-
-===== EXCERPT: f3_neg_002.txt (text ID t000938) =====
-Text ID: t000938
-Group: human
-Model: human
-File:   corpus/05_human/t000938_human.txt
-
-Score (f3_neg): -3
-Loading words (f3_neg), N=3: wanna, okay, reason
-erm Ula is to do the case studies so wh the reason why a case study is useful is because case files studies normally involve erm characters they use usually involve a situation that needs some managing or if there's some kind of problem that's arisen the characters need to organise themselves that they can start to align or something or group themselves so that they can resource something or they've been given a task where they have to solve a problem so the case study is always pitching up with something that needs to be done and then you take this characters in the story from Monday to Friday and then you say okay actually this has got enough meat on it to become a case story a case study do you wanna co-create a case study which has also got moving images in the case study? so the case study is not just a boring old text with some answers to some questions at the end the case study is a a real life case study where they have agreed to co-create and act and be in this in this case study so it's not imaginary it's real
-
---- Loading words for this example (neg): wanna, okay, reason
-
-
-===== EXCERPT: f3_neg_003.txt (text ID t000097) =====
-Text ID: t000097
-Group: human
-Model: human
-File:   corpus/05_human/t000097_human.txt
-
-Score (f3_neg): -3
-Loading words (f3_neg), N=3: wanna, okay, reason
-no I completely agree with you I completely agree with you but what can happen is that erm what you wanna do so you normally have what is in it? so you've got time here and you've got act there okay? or if you wanted to do you can do time here which I'll guess is a bit normal and then here you can have the escalation of and you have to choose if you want to use the character arc about this man as a as the protagonist then you have to choose what really is the kernel of this person? what is the erm the reason why he keeps moving along this trajectory? what's the common sense of why he's going here?
-
---- Loading words for this example (neg): wanna, okay, reason
-
-
-===== EXCERPT: f3_neg_004.txt (text ID t000124) =====
-Text ID: t000124
-Group: human
-Model: human
-File:   corpus/05_human/t000124_human.txt
-
-Score (f3_neg): -3
-Loading words (f3_neg), N=3: wanna, okay, reason
-and they'll try and put me to point er well what do you think you're doing? and I well you know these are the reasons why I'm going in this direction why I've left that direction and I'm in a transition which is working towards this and creating something different you know and if you put it in context of the bigger picture which er could be like you were talking about the idea of of the way the education market is working et cetera that one way to learn about how to do something is to talk to people who have already done it or are doing it and if you come across enough of them you're gonna pick up little tit-bits of stuff and you're gonna see a common theme between them and you're gonna look at it and go well okay I can run with those things I don't like those bits but I'll run my way this way and that's the beauty about what entrepreneurialship stuff is that that people all are doing it by themselves they have a common thread that's why they make it work but the reality is is all of us could be ten of us could be doing all sorts of different stuff going in different directions and we will all meet at the same point at the end and that's the great thing about it that there's more one more than one way to skin a cat you know? so if I'm talking to these guys and they're like well why are you doing this? well because I admire what you do which is you're doing it I'm interested in that and I'm interested in more than just telling your story I wanna find out from you about the things that matter to you and how you've gone about it cos I expect to learn something from that and that there's v always value in learning something from anybody else so they might not get that they might not understand my perception of them or my perception of the bigger picture er that they're a part of but I certainly think by the time I get there I'll have a feeling for what that particular moment is about it might not be the bigger picture because one of the questions might be is there a bigger picture? to a certain extent or something like that well my extent will be shorter than what their extent is cos I've already travelled a longer journey
-
---- Loading words for this example (neg): wanna, okay, reason
-
-
-===== EXCERPT: f3_neg_005.txt (text ID t000193) =====
-Text ID: t000193
-Group: human
-Model: human
-File:   corpus/05_human/t000193_human.txt
-
-Score (f3_neg): -3
-Loading words (f3_neg), N=3: fact, okay, reason
-and now when we're thinking about having a family in actual fact the money is is not really what you're chasing so I ask you the question why generic okay general question why do you think a man this is where I think I need to understand the male psyche why does a man choose something that's running along quite well yeah in his twenties and thirties choose to shift for whatever reason into a different career? where I'm talking about psyche I'm not talking about oh cos I got made redundant I'm talking about where is that drive coming from?
-
---- Loading words for this example (neg): fact, okay, reason
-
-
-===== EXCERPT: f3_neg_006.txt (text ID t001619) =====
-Text ID: t001619
-Group: human
-Model: human
-File:   corpus/05_human/t001619_human.txt
-
-Score (f3_neg): -3
-Loading words (f3_neg), N=3: wanna, okay, reason
-I dunno if you wanna was after the American legalised same sex marriage to our fellow Americans just tell me if I'm getting boring hey there it's two of your it's two of your brothers who are writing to you about the Supreme Court decision to legalise gay marriage the good news is that a whopping forty-two percent of you muslims support marriage equality as do both of our Muslim elected officials in the United States Congress one even serves as vice chair of the LGBT equality caucus there are many faithful gay and lesbian Muslims in the US and we love and support all of them at the same time many of you are scandalised by the ruling we know because you keep tweeting about it many e more of you are equally perturbed but have chosen to keep it to yourself with all the rainbow flag waving and self congratulatory pats on the back this country is giving itself right now you don't need another reason for Americans to dislike you sure Rick Santorum and Mike Huckerby ccalled the Supreme Court decision the precursor to the end of days and final battle of Armageddon but if you try saying something like that on TV you may end up in Guantanamo so you're staying quiet you may not like the Supreme Court's decision but you're dealing choosing to tolerate it we understand when you're where you're coming from being a Muslim in America is not easy on the one hand you're a part of a mainstream con culture you're a Warriors fan you listen to Kanye you watch Game Of Thrones you even went to the office Christmas party and sang Silent Night on the other hand you want to stay true to the faith and traditions you go to the mosque and send your kids to Islamic school fast during ramanam and swap turkey bacon on your BLT all in an attempt to establish a firm Muslim identity in a non Muslim country but now that s now but now but now that same sex marriage is legal in America it's shaking up your faith you're afraid of the future and what this could mean for your kids you recognise this growing acceptance of gay rights but personally you just can't bring yourself to embrace the shift you may feel okay with having gay acquaintances or coworkers you may even agree that being gay doesn't qua disqualify you from being a Muslim but privately you still feel like the LGB community is a living contradiction to what you were brought up to d believe but here's the thing when you are an under represented minority where the Muslim African American female er democracy is an all or nothing business you fight for everyone's right and the operative word here is fight while you get none for yourself democracy isn't a buffet you can't pick and choose which civil liberties apply to which people either we are all equal or the whole thing is just a sham we Muslims are already a deeply marginalised people in mainstream American culture more than half or us Americans have a negative view of us one third of Americans that's one hundred million people want us to carry special IDs so that we can easily identify us as a Muslim we shouldn't be per we shouldn't be perpetuating our marginalisation by marginalising others rejecting the s right to same sex marriage but then expecting empathy for our community struggle is hypocritical think about the way er people look at your hijabi sisters what I said earlier or your bearded brother when they walk through the mall think about the grumbles and stares you get at airports think about the vitriol that that's spur spewed on you by your own elected political leaders that's how LGBT brothers and sisters feel every day of their lives are you okay with that? we don't know about you but our faith teaches us to care for the weak and the marginalised the poor the dispossessed those who are trampled under foot those who are persecuted no matter who they are no matter what they choose to believe no matter who they choose to love there's a Quran quote doesn't get any clear than clearer than that you may think LGBT rights is a new conversation something that's only recently come into contact with modern Islamic thought but er trust us it's not challenging the status quo for the betterment of society is one of the very foundations on which Islam was built no one is asking you to change beliefs if you still if your faith still tells you that homosexuality is haram fine we disagree with your interpretation but you're entitled to it erm yeah bottom line is standing up for marginalised communities even when you disagree with them is not just the right thing to do it's the Muslim thing to do remember that whole god is merciful and compassionate thing that extends to all people not just those who are straight celebrate don't tolerate love really does win yours truly Reza Aslan and Hasan Minhaj
-
---- Loading words for this example (neg): wanna, okay, reason
-
-
-===== EXCERPT: f3_neg_007.txt (text ID t000791) =====
-Text ID: t000791
-Group: human
-Model: human
-File:   corpus/05_human/t000791_human.txt
+===== EXCERPT: f3_neg_001.txt (text ID t003597) =====
+Text ID: t003597
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000187_gpt.txt
 
 Score (f3_neg): -2
-Loading words (f3_neg), N=2: wanna, okay
-no nor do I that's alright let me see if they're still down there walk over to them yeah okay they're all nicely lined up keep using your E you've got you've got mana free mana remember yeah use your Q cos they're walk er yeah they're walking in a line and then use your E on it yeah now keep going up remember you've got l apart from the cool downs you've got loads of mana so you can keep expanding your ability good stuff you got another Alistar yeah there he is okay yeah you got your R now wanna use that yeah he's stuck to the spot good stuff I'd kill the minions first back away
+Loading words (f3_neg), N=2: huge, massive
+Like, if I had a massive fry‑up as my main meal, I'd feel so guilty, like I’d totally overdone it. And then there’s her, just putting away these huge amounts of food and it’s like it doesn’t touch her. She’s got completely normal‑sized thighs, but she’s absolutely tiny on top, it’s mad. I honestly don’t get how she can eat that much and just not get any bigger at all. I’m so jealous, it just doesn’t seem fair that she can do that and stay that size.
 
---- Loading words for this example (neg): wanna, okay
-
-
-===== EXCERPT: f3_neg_008.txt (text ID t000942) =====
-Text ID: t000942
-Group: human
-Model: human
-File:   corpus/05_human/t000942_human.txt
-
-Score (f3_neg): -2
-Loading words (f3_neg), N=2: fact, okay
-erm no not only are you going to be able to provide some learning to fill some stuff that's gonna be difficult for you to fill otherwise but certainly it's also giving you that warm touchy friendly feeling because everybody wants to say oh we are a lovely university and we are so friendly with our students and they love us so you're trying to warm warm up the bed so to speak by giving people this expectation that okay this case study may not come university but the fact that you've putting it in your online course at university by association means that students might expect that they can do something similar themselves they cou they too could go to a lecturer and say well you know what I've had this great idea how about we go for a coffee and have a chat about it? and the lecturer was like oh my god somebody's come and asked me to go and have a coffee with them and they're an undergrad student I don't even talk to undergrads the you know what I mean? so there's this kind of like you're selling on a a feeling you're not selling just a product you're selling a feeling of the product too like a warmth to it bringing in this idea of like Oxford and Cambridge where you used to go round for a cup of tea with your you know your personal tutor and your personal tutor would ask you all sorts of questions about your life and what you want to do with your life and give you biscuits that idea you know? friendly warm helpful and the good thing about it is is that what you're what you're proving to others is that it's sustainable cos what they're saying is you can come if you want to you can come to our website you can have a look and preview at some of our case studies if you want to make a case study with us about something we are happy to do that but it needs to be done in a formatted way meaning we need you to come and do Monday and then get a person to come and do Tuesday and then Wednesday and Thursday it's not just come and ring on our door on our door and say hey and have got this fantastic idea for a case study you're like great but it's a format that we have to put that into
-
---- Loading words for this example (neg): fact, okay
+--- Loading words for this example (neg): huge, massive
 
 
-===== EXCERPT: f3_neg_009.txt (text ID t000913) =====
-Text ID: t000913
-Group: human
-Model: human
-File:   corpus/05_human/t000913_human.txt
+===== EXCERPT: f3_neg_002.txt (text ID t004973) =====
+Text ID: t004973
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001563_gpt.txt
 
 Score (f3_neg): -2
-Loading words (f3_neg), N=2: fact, reason
-so he he was really annoyed about it cos A he'd been living on his own working for a year so he wanted to go independently assessed and for some reason they wouldn't do it they had to assess one of his households and they his parents had just separated so he chose I think his mum and he he said recently you know they they examine both but I'm sure at the time he said he chose had to choose one but it wasn't a very good representation cos he said on either side my their partner's not helping me and my fact they his parents weren't helping him either
+Loading words (f3_neg), N=2: huge, massive
+well basically the way it works is there’s the three of us, and we’ve kind of got into a rhythm now. He’s the one who kicks things off and keeps an eye on the overall quality, and then I’m the one who does all the texts and graphics, so all the visual side and the wording, and then the other one actually implements it all. So between us we take things from the first idea right through to the finished thing.
 
---- Loading words for this example (neg): fact, reason
+It started out really small, almost like a one-man band, with pretty much everything being run by one person and just a few little retreats. But over time it’s grown and grown into this really big programme, with loads of different retreats and a massive amount of administration to keep it all going.
+
+Now there are lots of people involved in different bits of it, but even so, the three of us are still doing a huge share of the work. We’re still the ones who carry most of the responsibility for getting things done and keeping it all running smoothly.
+
+--- Loading words for this example (neg): huge, massive
 
 
-===== EXCERPT: f3_neg_010.txt (text ID t000051) =====
-Text ID: t000051
-Group: human
-Model: human
-File:   corpus/05_human/t000051_human.txt
+===== EXCERPT: f3_neg_003.txt (text ID t004394) =====
+Text ID: t004394
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000984_gpt.txt
 
 Score (f3_neg): -2
-Loading words (f3_neg), N=2: okay, reason
-that would be horrible yes so I'm we're gonna get the new car well new to us car on Monday okay? and then we have two weeks where I'm insured on both cars and I'm gonna want to run down the other car petrol wise cos for some reason I put loads of petrol in it well I know why it's cos I teach I'm going to teach in tomorrow which is quite a way away and on Tuesday and I need a lot of petrol for both of those but yeah I want to use up most of that petrol and then we've got to swap tyres over
+Loading words (f3_neg), N=2: huge, massive
+I mean, yeah, those people do still have some money pressures, but if I had that kind of money I wouldn’t go mad with it. I’d just get a really good house, but nothing ridiculous, not some massive mansion just for the sake of it. I’d sort everything out so I’d literally never have to worry about money again. And I wouldn’t be blowing almost all of a huge weekly wage every week either. I’d keep a big chunk back every time, so there’s always loads left over.
 
---- Loading words for this example (neg): okay, reason
+--- Loading words for this example (neg): huge, massive
+
+
+===== EXCERPT: f3_neg_004.txt (text ID t003630) =====
+Text ID: t003630
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000220_gpt.txt
+
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: massive
+It just falls at such a low point in the year for me, when I already feel a bit down and tired, and then on top of that the weather’s cold and miserable. I’m trying to work out where I’m supposed to find this extra energy from, because there’s no time off afterwards at all. I’ve got this massive deadline looming, a load of really important meetings, and on top of that I’ve still got two Bible studies to write. So I’m fully expecting to come out of the weekend just completely exhausted.
+
+--- Loading words for this example (neg): massive
+
+
+===== EXCERPT: f3_neg_005.txt (text ID t003865) =====
+Text ID: t003865
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000455_gpt.txt
+
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: finally
+So I finally got to go to this place I’d been wanting to go to all summer, right, and I went with my boyfriend. It was just us, something we’d been meaning to do for ages. Then my mum comes back, hears about it, and instantly kicks off that we should’ve waited so we could all go “as a family.” She acted like I’d somehow wronged her personally by going without her, like she was actually offended that I’d done something as a couple.
+
+It’s like she can’t stand the idea that I have my own life with him that doesn’t automatically include her. She reacts as if every single thing we do should be opened up into some big family outing. And it makes me think, what exactly does she expect? Is she supposed to be invited along to everything we do together? Even our private, intimate moments? The way she behaves, it’s as if she’d be put out if we didn’t. It just feels completely over the top and suffocating.
+
+--- Loading words for this example (neg): finally
+
+
+===== EXCERPT: f3_neg_006.txt (text ID t003880) =====
+Text ID: t003880
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000470_gpt.txt
+
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: massive
+Barr Ellison have actually got an office in the hospital, so I’m just going to go straight there tomorrow and get it all sorted through them. I’m so angry that some random, careless person can have such a massive impact on everything, just by not doing their job properly. I’ve been desperately trying to find a way around it all, going over it in my head, but it just feels like there’s nothing I can do about it, which is really frustrating.
+
+--- Loading words for this example (neg): massive
+
+
+===== EXCERPT: f3_neg_007.txt (text ID t003809) =====
+Text ID: t003809
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000399_gpt.txt
+
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: finally
+when I used to go to work I’d have to leave the house at about five to seven in the morning, so around six fifty‑five, and it was always in the dark and freezing cold, usually with snow about as well. I’d get the seven o’clock bus, and then after that I’d be stuck waiting for the next one for about half an hour, just standing there in something like minus eight degrees. once that second bus finally turned up and got me near work, I still had a ten to fifteen minute walk, all uphill, from the bus stop to actually get to the place.
+
+--- Loading words for this example (neg): finally
+
+
+===== EXCERPT: f3_neg_008.txt (text ID t003810) =====
+Text ID: t003810
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000400_gpt.txt
+
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: finally
+yeah it did suck it was really hard work because I’d finish at eight o’clock at night and then I’d have to walk about three miles from the care home just to get to the bus stop and then once I got there I’d be standing around for about twenty minutes hoping the bus actually turned up on time and then of course there was the bus journey itself to get home so by the time I finally walked in the door the whole thing had taken about an hour in the evenings
+
+--- Loading words for this example (neg): finally
+
+
+===== EXCERPT: f3_neg_009.txt (text ID t003568) =====
+Text ID: t003568
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000158_gpt.txt
+
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: massive
+I really needed that beer after this afternoon; it’s been so stressful. For the first time I actually didn’t want to go to work, which is weird because I usually like it. It’s just so insanely busy at the moment. I feel like it’s basically just me and my boss, and he’s in New York, so I’m kind of on my own here.
+
+I’m still quite new, and there are just so many projects on the go that I keep worrying something important is going to get missed. It’s not that anyone’s done anything wrong, it’s just that there’s way too much work and not nearly enough people to do it.
+
+What makes it worse is that the two people on six‑month contracts aren’t getting extended. So once they go, we’re going to be even more short‑staffed than we already are. It feels like we’re heading into this massive workload with fewer and fewer people, and I’m stuck in the middle of it, trying not to drop anything.
+
+--- Loading words for this example (neg): massive
+
+
+===== EXCERPT: f3_neg_010.txt (text ID t003970) =====
+Text ID: t003970
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000560_gpt.txt
+
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: massive
+when she's with her friends from uni it's like she just drinks like a complete fish, really goes for it, and then at other times she's almost the opposite, really restrained, barely touching anything. it makes her seem like this massive seething ball of nerves and neurosis underneath it all. with them she looks more relaxed, but I can't help thinking she might be pretending a bit, sort of putting on a front. with me she seems less worried than in some situations, but still kind of on edge, and in general she just comes across as tense most of the time.
+
+--- Loading words for this example (neg): massive

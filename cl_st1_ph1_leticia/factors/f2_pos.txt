@@ -1,2 +1,2 @@
-variables loading on this pole = 4
-odd (1.21), chat (.63), bloke (.44), (sense (.34))
+variables loading on this pole = 18
+build (.63), themselves (.62), become (.57), (huge (.47)), different (.44), sense (.44), fact (.43), rather (.43), than (.43), set (.37), far (.36), more (.36), real (.36), also (.34), own (.33), almost (.32), idea (.31), lot (.31)

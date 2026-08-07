@@ -1,8 +1,8 @@
-Text ID: t001434
+Text ID: t000548
 Group: human
 Model: human
-File:   corpus/05_human/t001434_human.txt
+File:   corpus/05_human/t000548_human.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: god, gonna
-he said I've got a workshop I've got an office down the bottom of my garden he said with electricity heating a toilet I work from there he said and er I've got everything I need the kids keep saying to me get out dad get out he said there are one or two families I said where are you gonna go? where are you not gonna get one or two families that are gonna spoil? he said I know he said so I'm quite happy and I said erm I said I said ring a bell? he went oh god yeah
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: minute, he, him
+probably I don't know because basically I finish my antibiotics tomorrow like lunchtime and so I think it's alright to go out because there would have been like a whole like half day but then erm I haven't seen in in a while and he said he has news for me and so he asked if I wanted to go out with him on Wednesday and I don't really wanna do both days so I don't know which one to do at the minute or whether to just try it cos can't do tomorrow cos he's got cheerleading and then

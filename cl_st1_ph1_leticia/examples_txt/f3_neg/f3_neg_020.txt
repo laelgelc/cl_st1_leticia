@@ -1,8 +1,10 @@
-Text ID: t000390
-Group: human
-Model: human
-File:   corpus/05_human/t000390_human.txt
+Text ID: t004974
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t001564_gpt.txt
 
-Score (f3_neg): -2
-Loading words (f3_neg), N=2: okay, reason
-yeah that's how I started the day now I can explain all of that the sleep I did sleep better and er like is said it was because I was reassured that you were okay that that was the big reason why I felt like shit because I knew that the impact that I had on your emotions not not not mm mm you know not out of spite but because of what I'd decdecided was was in our in in both of our interests even though you know obviously it was unilateral and in f in your view we didn't discuss it we you
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: huge
+It's become this really long-term thing in India, more like a community than just a project, and there’s just a huge amount of admin around it. On top of that, I’ve still got all my own stuff – the books, the website, writing texts, sorting out videos, and all the other information materials. It’s all kind of grown very organically over time, so now there are loads of people involved in different ways. 
+
+But even with that, it’s still really the three of us at the core who carry most of the workload. We’re the ones who keep everything running and hold it all together. That’s why we’re trying now to bring other people in more, so that the work is shared out better and doesn’t all land on the same few shoulders.

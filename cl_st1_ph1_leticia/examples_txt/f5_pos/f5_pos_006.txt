@@ -1,12 +1,8 @@
-Text ID: t002732
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001027_gpt.txt
+Text ID: t000164
+Group: human
+Model: human
+File:   corpus/05_human/t000164_human.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: awful, horrible
-I had that really stark moment with it all when we went bowling and then on to play pool. I just felt utterly boring, like I had nothing to offer, and I ended up leaving early. At the time it felt horrible, but I can see now it was probably part of the whole detox thing, my system and my head just adjusting.
-
-I know I *can* enjoy parties sober – I’ve done it before, I’ve had good nights without drinking – but in that particular moment I just couldn’t. It was like there was a wall between me and everyone else.
-
-More and more, I’m just not interested in the whole drinking scene anyway, especially when it ramps up into those trays of shots. That escalation feels really off-putting now. In a strange way, drugs almost seem better on that front, because at least you don’t wake up with that awful hangover the next day.
+Score (f5_pos): 5
+Loading words (f5_pos), N=5: four, six, three, two, five
+it won't be ten-hour days because for a start it's too dark to offload at the moment after well say for because it's still gonna be five o'clock in Scotland they're not going to offload anything else you get there at eight in the morning and it's not gonna be any longer than that because you t you tend to have maybe three or four wagons of pipe arriving a day they might have up to six arriving a day with four pipes on each that's twenty-four pipes maximum you have to right I mean cos it takes two hours generally to offload those four pipes

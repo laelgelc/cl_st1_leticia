@@ -33,141 +33,181 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac1	SD fac1
-group	human	1705	0.57008798	0.84887197
-group	profiled_gpt	1705	1.04105572	1.15904437
-group	unprofiled_gpt	1705	1.01994135	1.15808091
+group	human	1705	-1.26979472	1.05647301
+group	profiled_gpt	1705	-2.57243402	1.52123166
+group	unprofiled_gpt	1705	-2.52727273	1.54148079
 
 === FACTOR LOADINGS (f1_neg) ===
-variables loading on this pole = 4
-shit (-.78), (horrible (-.42)), (bloke (-.41)), (minute (-.33))
+variables loading on this pole = 27
+bloke (-.47), stand (-.43), totally (-.43), absolutely (-.42), later (-.41), nothing (-.41), suddenly (-.41), bother (-.40), anyone (-.38), awful (-.38), completely (-.37), try (-.36), even (-.35), everything (-.35), head (-.35), just (-.35), expect (-.34), (alright (-.33)), (massive (-.33)), (normal (-.33)), carry (-.32), (clearly (-.32)), (thinking (-.32)), afterwards (-.31), (honestly (-.31)), proper (-.31), stick (-.30)
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f1_neg_001.txt (text ID t000035) =====
-Text ID: t000035
-Group: human
-Model: human
-File:   corpus/05_human/t000035_human.txt
+===== EXCERPT: f1_neg_001.txt (text ID t002139) =====
+Text ID: t002139
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000434_gpt.txt
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-it's also it's it's like the silliest little things as well like you know like sometimes you know when you're in a bad mood? sometimes you just wanna be in a bad mood and when you're in front of somebody else's family you can't just be in a shit mood like sometimes I I come home from work and I'm not necessarily a bitch to but I literally just think I a I just wanna be in a bad mood like just let me be in a bad mood and let me just stew let me just
+Score (f1_neg): -11
+Loading words (f1_neg), N=11: absolutely, nothing, suddenly, bother, anyone, completely, try, even, just, proper, stick
+No, what gets me is it only has to snow about half an inch now and everyone seizes on it as an excuse not to go to work. Any little dusting and suddenly it’s “oh, can’t possibly get in, roads are treacherous”, and they just give up and abandon their cars. You see them all over the place, just left there at the slightest sign of trouble.
 
---- Loading words for this example (neg): shit
+I mean, I remember one time when it really did snow properly, not this token stuff. I had to get to the office, it was miles away, and I still got in. Drove all that way in genuinely bad conditions, taking it slow, being careful, doing what you have to do. And when I finally arrived, the people who actually lived nearby hadn’t even bothered to turn up. They were right on the doorstep, practically walking distance compared to my journey, and they’d just decided “nah, can’t make it, too much snow”. That really annoyed me because I’d put the effort in, done the long, hard drive, and then the local lot hadn’t even tried.
 
+And then there was that time years back with the really severe snow, when the roads just weren’t gritted at all. They knew it was coming, it wasn’t like it crept up on anyone. The forecasts were all saying it was going to be bad, but nothing was done. I remember the M11 in particular – people were stuck there for hours and hours. Some of them were out there for twenty‑four hours, just sitting in their cars, completely stranded. No grit, no proper preparation, nothing moving.
 
-===== EXCERPT: f1_neg_002.txt (text ID t001663) =====
-Text ID: t001663
-Group: human
-Model: human
-File:   corpus/05_human/t001663_human.txt
+That was the thing that really stuck with me: they had plenty of warning, and still the authorities didn’t bother to get the gritters out or organise anything properly. It wasn’t as if they didn’t have time. They just seemed to hope it would all somehow be fine, and then when it hit, the whole system ground to a halt. You had lorries jack‑knifed, cars all over the place, and absolutely no sign that anyone had taken it seriously beforehand.
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-so it's difficult cos like I can't say to him oh you're working too much cos he basically pays for the lifestyle that I have in the summer anyway like normally I pay for everything but in the summer he pays for the lifestyle I have and it's difficult I can't I don't want to shout at him I don't like shouting at anyone like especially my boyfriend or a guy or whoever it doesn't matter who it is I don't like shouting at anyone or making anyone feel bad and I'm not that sort of person I'm not one of these girls that like where the fuck were you? who have you been texting? all that sort of shit like if he wants to go out or any guy that I'm with if they want to go out with some girls or some guys it doesn't matter who it is I don't care okay have a good night I wanna go out with my friends sort of thing that's the sort of person that I am so er it's been hard lately
+So on the one hand you’ve got people using the tiniest bit of snow as an excuse to stay at home and abandon their cars, and on the other hand you’ve got this example where there really was a proper snowfall and the roads were a complete mess because no one had prepared. It just shows how badly it can go wrong when they don’t grit the roads and don’t plan ahead, especially when they’ve been told the bad weather’s on its way and still don’t do anything about it.
 
---- Loading words for this example (neg): shit
+--- Loading words for this example (neg): absolutely, nothing, suddenly, bother, anyone, completely, try, even, just, proper, stick
 
 
-===== EXCERPT: f1_neg_003.txt (text ID t001583) =====
-Text ID: t001583
-Group: human
-Model: human
-File:   corpus/05_human/t001583_human.txt
+===== EXCERPT: f1_neg_002.txt (text ID t002390) =====
+Text ID: t002390
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000685_gpt.txt
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-and they're like no no no you owe us loads of money so he was working really hard doing loads of like campaigns and shit to the trade farers and then like when I got back from which li this was like a year ago he was like went to me he was like okay he was like finally cleared the hundred and fifty grand loan he was he went to them and was like really expecting they'd be like okay cool like champagne like you know and that and they're like no no no like in the mean in that time you vo you've owe us another like seventeen thousand pounds they spent money on his behalf you know?
+Score (f1_neg): -10
+Loading words (f1_neg), N=10: bloke, stand, later, suddenly, bother, try, even, head, just, proper
+yeah so we were out this one night, me and my mate, and we ended up bumping into this group of lads. It was really weird ’cause they were way more like “alright, alright” with me when I was with her, like proper making a fuss, whereas normally they’re not that bothered. You could just tell the dynamic changed ’cause I was stood with her.
 
---- Loading words for this example (neg): shit
+Then at one point, this one lad just suddenly grabbed my face and tried to kiss me. I turned my head so he only got my cheek, like made it into a sort of cheek kiss instead, ’cause I wasn’t having that. Another bloke clocked the whole thing, saw exactly what happened. Later on, that same lad came back over to me and he was being really tactile – touching my face, leaning in and whispering in my ear, putting his hand on my waist and all that.
 
+And then, out of nowhere, he starts going on about this other girl, you know, saying he “knows what she’s like” in this really pointed way. It was so obvious he was basically saying he’d slept with her, like he wanted everyone to know. It was like he was wearing it as a badge of honour or something, bragging about it rather than just quietly saying, “oh by the way, I’ve been with your girlfriend” or whatever. It wasn’t even subtle, it was just really blatant and made the whole thing feel even more awkward.
 
-===== EXCERPT: f1_neg_004.txt (text ID t001420) =====
-Text ID: t001420
-Group: human
-Model: human
-File:   corpus/05_human/t001420_human.txt
-
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-and that you know you'll go you'll go much further than you know what she's like trying to get by on her Trying to get by on her looks and her a laugh and a smile and you know er you know that there is that doesn't last you know I'm so proud of you and you'll go really far and she was like um and then I and I was like oo that you know that's really nice of her to say it shit about my sister but at the time we just knew
-
---- Loading words for this example (neg): shit
+--- Loading words for this example (neg): bloke, stand, later, suddenly, bother, try, even, head, just, proper
 
 
-===== EXCERPT: f1_neg_005.txt (text ID t001400) =====
-Text ID: t001400
-Group: human
-Model: human
-File:   corpus/05_human/t001400_human.txt
+===== EXCERPT: f1_neg_003.txt (text ID t002892) =====
+Text ID: t002892
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001187_gpt.txt
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-they just don't give a shit that I remember when we had a sixteenth birthday party and my friend had one and hotel in Brighton and obviously we were sixteen so none of us should've been drinking so the bar wasn't even open there was no one on the bar and her parents were upstairs in the hotel the entire time and they came down and were checking on us and obviously we were sort of sneaking a bit of stuff in and whatever but generally speaking you weren't no one was taking the piss I mean
+Score (f1_neg): -10
+Loading words (f1_neg), N=10: stand, absolutely, later, nothing, bother, try, even, head, just, expect
+So there we are, absolutely soaked, mud everywhere, and we don’t know a soul. I’m just trying to get this Year Nine lad registered for his cross-country. I keep going up to different people with clipboards, asking where I’m supposed to sign him in. Every time they’re checking their lists, and his name’s not there, his school’s not there, nothing. Properly awkward. 
 
---- Loading words for this example (neg): shit
+Eventually one of them says, “Oh yes, it’s fine, he’s in the one o’clock race, just come back about quarter past two,” so I think, right, at least we’re sorted. Because it’s chucking it down and the mud is ridiculous, we decide not to bother walking the course like everyone else seems to be doing. Instead I go back, move the car a bit closer so we don’t have to trek miles in that weather.
 
+We head back to the tents later on to collect his race bib, expecting it all to be straightforward now. I give them his details again and they look down the list and say, “No, his school’s not on here.” And I’m thinking, we’ve already done this, we’ve already been told he’s in the race. Then it turns out we’re at the wrong team’s tent altogether. We’ve been standing there, in the rain, talking to the wrong people.
 
-===== EXCERPT: f1_neg_006.txt (text ID t001383) =====
-Text ID: t001383
-Group: human
-Model: human
-File:   corpus/05_human/t001383_human.txt
+So all that faffing about, all that trudging through the mud, and we’re not even in the right place. At that point I’m just trying to get him to the correct tent and sorted, but it’s all a bit of a farce, really.
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-so I took her to the cinema and we we got erm the bus back into town cos you had to go like twenty minutes out of town to the something called the where all the cinema complex were and stuff like that and I took her out we came back and we got dropped off in the middle of town and it were like a Friday night and we were walking up this street and my ex boyfriend came up to me and like swung for me cos er he were a violent shit and I'd
-
---- Loading words for this example (neg): shit
+--- Loading words for this example (neg): stand, absolutely, later, nothing, bother, try, even, head, just, expect
 
 
-===== EXCERPT: f1_neg_007.txt (text ID t001370) =====
-Text ID: t001370
-Group: human
-Model: human
-File:   corpus/05_human/t001370_human.txt
+===== EXCERPT: f1_neg_004.txt (text ID t002362) =====
+Text ID: t002362
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000657_gpt.txt
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-she just it's just shit like rude in general like she doesn't I just sort of said oh erm me and have decided that perhaps we're gonna er move out at the end of our tenancy she was like right and I was like well I think our tenancy runs out in January she was like yep and I was like erm okay so I don't really know so then she was sort of like I thought well I don't really know what happened with that and she was like well I need it in writing I was like okay well do I just email that to you? and she was like yep email it to me I was like okay
+Score (f1_neg): -9
+Loading words (f1_neg), N=9: bloke, absolutely, completely, try, head, just, carry, afterwards, stick
+yeah so when I did go back on the server after that break I’d had this idea in my head for ages about doing this absolutely massive tower, like really ambitious, just shooting up into the sky. But then I started thinking it’d be a bit boring if it was just me doing my own big solo thing again, so instead I started setting these little challenges for people, smaller projects that everyone could get involved in.
 
---- Loading words for this example (neg): shit
+we were working on one of those and we’d got quite a lot of the structure done when this bloke who reckons he’s an expert with TNT decided he was going to “help” with the digging. he blew out the walls a bit too enthusiastically and basically managed to flood the whole area we were working in. water everywhere, completely ruined what we’d already built.
 
+so after that disaster I just said, look, can we go into creative mode for this bit so we can fix it properly and carry on. they switched creative on and we repaired all the damage and finished what we were doing. and then, because they kind of forgot to turn creative off for me afterwards, I’ve just kept using it since.
 
-===== EXCERPT: f1_neg_008.txt (text ID t001318) =====
-Text ID: t001318
-Group: human
-Model: human
-File:   corpus/05_human/t001318_human.txt
+with creative mode still on I started putting together these little puzzle challenges, like self‑contained things people can try and solve. I’ve been taking screenshots and videos and sticking them up on Facebook, showing people what I’ve built and inviting them to come on and have a go. it’s turned into this way of using Minecraft less as just a game I play on my own and more as a way of bringing people together, getting friends involved in these creative projects and seeing what they come up with as well.
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-bloody hell I mean you see it all the time people who are good at their er one aspect of their job so they might be good at making sales or whatever it is that gets them promoted in their area but they're shit at people skills so er lots of our like publishers who are sort of three or four rungs up the ladder they might be quite good at commissioning authors and making sales whatever but they're terrible line managers and if you want to progress you have to be a line manager
-
---- Loading words for this example (neg): shit
+--- Loading words for this example (neg): bloke, absolutely, completely, try, head, just, carry, afterwards, stick
 
 
-===== EXCERPT: f1_neg_009.txt (text ID t001115) =====
-Text ID: t001115
-Group: human
-Model: human
-File:   corpus/05_human/t001115_human.txt
+===== EXCERPT: f1_neg_005.txt (text ID t002755) =====
+Text ID: t002755
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001050_gpt.txt
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-well no if you if you don't value education you won't accept it and that's another problem with the whole system is that you can't force an education on someone you can give them the opportunity but if they don't achieve not in terms of well a significant proportion of the time it will be down to them not accepting it and you can't do anything about that well I've seen some fairly non-academic people achieve a lot for them and on the other hand I've seen people who probably are reasonably intelligent not give a shit and so part is the government's fault no I'm sorry you do just people won't you know if you grow up in a council estate and neither your parents will work you will not achieve in life and that's not the government's fault that's you should have
+Score (f1_neg): -8
+Loading words (f1_neg), N=8: stand, absolutely, later, nothing, suddenly, everything, just, carry
+yeah it’s either nothing or everything with them, isn’t it. When I was working at Disneyland Paris I saw exactly that sort of thing. We were having this big Fourth of July party in the university residence, loads of American students there, music blaring, everyone really drunk and loud. People kept saying, “Oh the police will turn up in a minute,” but nothing happened at all for ages. No sirens, no normal patrols, absolutely nothing, so everyone just carried on drinking and getting rowdier. Then about an hour later this CRS riot squad suddenly turned up, full gear, shields, helmets, the lot. They didn’t come storming in or say anything, they just took up positions and stood there watching us, which was really unnerving. Nobody stopped the party, they just sort of carried on as if it was normal, drinking and shouting with this line of riot police just waiting and not doing anything.
 
---- Loading words for this example (neg): shit
+--- Loading words for this example (neg): stand, absolutely, later, nothing, suddenly, everything, just, carry
 
 
-===== EXCERPT: f1_neg_010.txt (text ID t001077) =====
-Text ID: t001077
-Group: human
-Model: human
-File:   corpus/05_human/t001077_human.txt
+===== EXCERPT: f1_neg_006.txt (text ID t002685) =====
+Text ID: t002685
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000980_gpt.txt
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-and so did you we both lived through it together and let's face it I didn't fucking help myself when I put that Facebook status like I was just as much to blame as they were when I put that and yet I apologised and yet it went too far after that but before that as soon as I put that status I were inviting this shit I were inviting the fact that I didn't like them and they didn't like me we made it known by me putting that status you know? and it doesn't matter what you said or it didn't say they were always gonna do what they were gonna do whether I put that status or not or whether you said something or if I said something
+Score (f1_neg): -8
+Loading words (f1_neg), N=8: bloke, stand, completely, even, everything, just, proper, stick
+our keeper right he looks terrifying like properly scary, covered in tattoos, big bloke, you’d look at him and think no one’s getting near his goal. Ball comes in and he just completely misses it, like goes to get it and somehow doesn’t, and they score again. And it’s the same sort of goal over and over, just balls in behind, our defence is that bad they just keep doing it and it keeps working.
 
---- Loading words for this example (neg): shit
+What makes it worse is me and one of the lads in midfield actually had good games. We’d gone with a proper five‑man midfield, really solid, keeping the ball, doing what we’re meant to do, but if every time they go forward they look like they’re gonna score it doesn’t matter. We lost four one in the end and we had to take every single chance we got, and we didn’t.
+
+There’s this one lad in our team who would be the perfect centre back, like exactly what we need, strong, can read the game, everything. But they won’t stick him there because he’s “too good going forward” so they want him up the pitch. And I’m just stood there thinking what’s the point? However well I play, or we play in midfield, we’re always gonna lose if the back lot are that bad.
+
+It’s just this horrible feeling of knowing before you even start that you’re probably gonna lose no matter what you do. Proper frustrating and you just feel helpless with it. At least we’ve got a two‑week break now before the next game, so maybe everyone’ll calm down a bit and we can figure something out.
+
+--- Loading words for this example (neg): bloke, stand, completely, even, everything, just, proper, stick
+
+
+===== EXCERPT: f1_neg_007.txt (text ID t002288) =====
+Text ID: t002288
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000583_gpt.txt
+
+Score (f1_neg): -8
+Loading words (f1_neg), N=8: absolutely, nothing, completely, try, even, everything, just, proper
+yeah it was actually a bit dangerous, to be honest, and I was already really wound up from that first typhoon. Then the following week, my first proper day at the new school, another one hits – Typhoon Tembin this time. I remember just thinking, this has got to be some kind of joke.
+
+I tried to get a taxi because the weather was just insane again, but there were none at all, nothing running. So I had to walk it, about half an hour in that really heavy wind and rain, just getting absolutely battered the whole way. I didn’t even properly know where I was going, so I kept having to stop random people in the street, asking for directions, shouting over the wind.
+
+By the time I finally got to the school I was completely drenched, like soaked right through everything. I was kind of hoping they’d take one look at me and be like, “Right, let’s get you some dry clothes or something,” you know, just a bit of help after that walk.
+
+--- Loading words for this example (neg): absolutely, nothing, completely, try, even, everything, just, proper
+
+
+===== EXCERPT: f1_neg_008.txt (text ID t003013) =====
+Text ID: t003013
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001308_gpt.txt
+
+Score (f1_neg): -8
+Loading words (f1_neg), N=8: bloke, nothing, suddenly, completely, try, even, everything, just
+so while we were in Mexico he was like massively stressed out the whole time because of this guy he used to work with. they’d basically decided ages ago that this bloke was completely useless, like a total liability in the business, so they fired him. but then after getting fired he suddenly starts trying to sue for a chunk of the business, or demanding to be bought out or something along those lines. and even though he’d been sacked he kept turning up to work anyway, acting like nothing had happened, still giving everyone these instructions that nobody was listening to, and just doing loads of stupid shit around the place, making everything worse.
+
+--- Loading words for this example (neg): bloke, nothing, suddenly, completely, try, even, everything, just
+
+
+===== EXCERPT: f1_neg_009.txt (text ID t001989) =====
+Text ID: t001989
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000284_gpt.txt
+
+Score (f1_neg): -7
+Loading words (f1_neg), N=7: stand, absolutely, bother, everything, just, carry, proper
+well he had this idea all mapped out at one point, you know, a proper little business. People would bring their old computers in and actually stand there and watch while he smashed the hard drives up, so they were absolutely useless. He was going to make quite a thing of it, have all the graphics done for a website and everything, show how it was all destroyed so no one could get anything off it. But in the end he just couldn’t be bothered to carry on with it, and I don’t think it would’ve been worth it really.
+
+--- Loading words for this example (neg): stand, absolutely, bother, everything, just, carry, proper
+
+
+===== EXCERPT: f1_neg_010.txt (text ID t002538) =====
+Text ID: t002538
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000833_gpt.txt
+
+Score (f1_neg): -7
+Loading words (f1_neg), N=7: totally, nothing, try, even, everything, just, proper
+so yeah it was such a faff, like, I only realised it was gone when I got out the taxi and I was just like, where’s my phone, checked all my pockets and my bag and everything and it just wasn’t there. I rang the taxi firm straightaway and the driver actually came back and we both proper searched the taxi, like under all the seats and everything, but there was just nothing, it had totally vanished.
+
+I rang my mum and told her what’d happened, and we tried ringing my phone loads of times, but it just went straight to voicemail every time, even though I knew it still had battery on it, so that was a bit dodgy. I got my SIM blocked so no one could use it, and then I went on Find My iPhone and put that lost-phone message on it with my number and that, but I hadn’t got the tracking turned on before, so I couldn’t actually see where it was.
+
+No one’s tried to contact me off it or anything, which makes me think whoever’s got it’s just ignoring the message. I checked with Apple as well, and they said they can’t get into it or anything without doing a full factory reset, so all my stuff on it should be safe, it’s just the phone that’s gone.
+
+Now I’m just waiting around for the insurance people to ring me back and sort it out, ‘cause I can’t really do anything else till they decide what they’re doing. I’ve done everything I can, like blocking the SIM and that lost mode thing, so it’s just a case of seeing if they’ll pay out and then I can actually get a replacement sorted.
+
+--- Loading words for this example (neg): totally, nothing, try, even, everything, just, proper

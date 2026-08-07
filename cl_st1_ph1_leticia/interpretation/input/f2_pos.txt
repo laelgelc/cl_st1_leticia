@@ -33,149 +33,183 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac2	SD fac2
-group	human	1705	-0.15249267	0.45214143
-group	profiled_gpt	1705	0.09032258	0.36101897
-group	unprofiled_gpt	1705	0.06803519	0.33924446
+group	human	1705	0.23929619	1.37088418
+group	profiled_gpt	1705	0.66744868	1.81549852
+group	unprofiled_gpt	1705	0.63167155	1.74297546
 
 === FACTOR LOADINGS (f2_pos) ===
-variables loading on this pole = 4
-odd (1.21), chat (.63), bloke (.44), (sense (.34))
+variables loading on this pole = 18
+build (.63), themselves (.62), become (.57), (huge (.47)), different (.44), sense (.44), fact (.43), rather (.43), than (.43), set (.37), far (.36), more (.36), real (.36), also (.34), own (.33), almost (.32), idea (.31), lot (.31)
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f2_pos_001.txt (text ID t001777) =====
-Text ID: t001777
+===== EXCERPT: f2_pos_001.txt (text ID t003206) =====
+Text ID: t003206
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000072_gpt.txt
+File:   corpus/05_profiled_gpt/t001501_gpt.txt
 
-Score (f2_pos): 3
-Loading words (f2_pos), N=3: odd, chat, bloke
-Once the headmaster let me in, nobody said a word about me having been left outside. It was as if nothing odd had happened at all. The Asian woman on the help desk just carried on chatting away with this bloke, going on and on about anything and everything, and still didn’t even pause to see if I needed help. I was just standing there, feeling increasingly anxious, watching the time and worrying I was going to be late, and then eventually the bell rang and it all kicked off.
+Score (f2_pos): 11
+Loading words (f2_pos), N=11: build, become, different, sense, rather, than, far, more, also, almost, lot
+well when the children were about six and seven we moved again, and that was when I went to another university and settled into what became quite a long stretch there. By that stage I’d done a few different institutions, so I had a fairly clear sense of how a careers service could be organised, and I went back into a more standard careers adviser role before I ended up managing the whole thing.
 
---- Loading words for this example (pos): odd, chat, bloke
+In that set‑up, each of us as advisers had what we called a portfolio of academic departments. So you didn’t just sit in a central office waiting for random students to turn up; you were linked to, say, engineering or history or whatever it might be, and you were expected to get to know that world. You built relationships with the academic staff in those departments, talked to them about what their students were like, what employers tended to be interested in them, and what particular issues cropped up. Over time you became “their” careers person, which made it easier for students to see you as part of their course rather than some bolt‑on.
+
+In some departments that relationship went quite a long way. They would actually fund us to deliver taught careers modules that were formally assessed as part of the degree. So you might have a second‑year module on employability or professional development, timetabled like any other class, with assignments and marks that counted. In other departments it didn’t go that far, but we were still expected to provide a programme of support.
+
+Whatever the arrangement, there were always two main strands to what we did. One was individual guidance – one‑to‑one appointments where a student could come and talk about their plans, get feedback on applications, practise interviews and so on. The other was group sessions, which we ran within the departments or centrally, covering the core topics that almost everyone needs.
+
+Those core topics were things like how to market yourself effectively – so CVs, covering letters, application forms – and how to find employers and opportunities in the first place. We did a lot on interviews and on the various selection tests that employers use, and we spent time on networking, because who you know and how you approach people can make quite a difference. We also tried to encourage what we called creative job hunting, getting students to think beyond the obvious big graduate schemes and to look at smaller organisations or less traditional paths.
+
+On top of that core, we were always adding extra sessions in response to what was happening in the job market at the time. If there was a shift in how employers were recruiting, or new kinds of tests, or a sector that was suddenly expanding or contracting, we’d put something on to address it. So the work was a mixture of having a standard offer and then tweaking it constantly as the outside world changed.
+
+--- Loading words for this example (pos): build, become, different, sense, rather, than, far, more, also, almost, lot
 
 
-===== EXCERPT: f2_pos_002.txt (text ID t002508) =====
-Text ID: t002508
+===== EXCERPT: f2_pos_002.txt (text ID t002237) =====
+Text ID: t002237
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000803_gpt.txt
+File:   corpus/05_profiled_gpt/t000532_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: odd, chat
-well it will affect her reference I mean I can't pretend it was all fine when she told me on the very last day, that's just unprofessional and people do ask why someone left and when, so I’ll have to be honest about the timing. but then it was really odd, I went into the kitchen at work not long after and there was this woman who’s on a temporary contract in the building, who I already knew and really liked, and we just started chatting and I said look my administrator’s just resigned, would you be interested in the job, and she said yes straightaway, so that was the whole staffing problem sorted in one go.
+Score (f2_pos): 9
+Loading words (f2_pos), N=9: different, sense, rather, than, far, more, real, own, almost
+I think if you give students really big, knotty historical topics, like the suffragettes or the world wars, you’ve got far more chance of actually catching their curiosity. There are so many different angles for them to hook into – the politics, the personalities, the military strategy, the social changes – that almost everyone can find something that genuinely interests them. It’s richer, more three‑dimensional, and it invites you to ask questions and make connections.
 
---- Loading words for this example (pos): odd, chat
+My own experience of history at school was nothing like that. It was all chopped up into these very narrow, self‑contained little slices, and we were marched through them one by one. There wasn’t that sense of a big picture you could wander around in and explore from different directions. Because of that, it never really lit that spark of curiosity for me; it just felt like a series of disconnected topics.
+
+The way it was taught, I mostly ended up just copying things off the board, rather than actually thinking about them or analysing what they meant. I’ve never been particularly good at straight memorisation, and no one ever really taught us how to memorise effectively either – it was just assumed you could do it. Looking back, that feels like a real shame, especially considering how much that education cost.
+
+--- Loading words for this example (pos): different, sense, rather, than, far, more, real, own, almost
 
 
-===== EXCERPT: f2_pos_003.txt (text ID t001739) =====
-Text ID: t001739
+===== EXCERPT: f2_pos_003.txt (text ID t002643) =====
+Text ID: t002643
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000034_gpt.txt
+File:   corpus/05_profiled_gpt/t000938_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: odd, chat
-yeah she never she never actually came back and told me what happened with that chat, she just sort of briefly said they’d spoken about it. But even then, his story just didn’t add up – the timings were off, and he was adamant he’d never even been in contact with this other girl. He kept saying stuff like, “Oh my mates would’ve told you if anything had happened,” which I just don’t buy, because he’s got a lot of people who’d cover for him.
+Score (f2_pos): 9
+Loading words (f2_pos), N=9: build, fact, rather, than, far, more, real, almost, idea
+well my initial idea, the one I was trying to explain before you went off on the other thing, was to actually build proper, real-life case studies rather than us just chatting and leaving it at that. I was thinking in terms of characters, situations, problems that unfold over time and need to be managed or solved, almost like following people through a process. And instead of it being a dry written case in a textbook, it would be co-created with the people involved, so they’re part of shaping it, and we’re capturing it as moving images.
 
-In the end she just chose to believe him, and that was that. Within like two weeks she’d moved in with him, which just made me feel even more uneasy about the whole thing. She’s even admitted she’s checked his phone a couple of times, secretly, to see if there were any messages between him and this girl.
+So you’d have these rich, authentic stories, filmed and structured, that show how issues develop and how people respond, rather than something made up after the fact. The moving image part is really important – not just a video stuck on top of some text, but the core of the case study itself, with all the messiness and detail of real life. Then those could be turned into proper educational resources, rather than just free content floating around, and they’d have far more value because they’re grounded in actual experience.
 
-But that almost makes it worse, because there was nothing there at all. I actually find that more suspicious than if there’d been the odd casual message, because I know they’re usually in semi-regular contact. It’s like it’s been wiped clean, which just feels off to me.
-
-So I’m stuck in this weird place where I still really don’t trust him, and I feel bad for feeling like that. I know she’s happy and I am happy for her, but I can’t shake the reservations I’ve got about him and the whole situation.
-
---- Loading words for this example (pos): odd, chat
+--- Loading words for this example (pos): build, fact, rather, than, far, more, real, almost, idea
 
 
-===== EXCERPT: f2_pos_004.txt (text ID t003265) =====
-Text ID: t003265
+===== EXCERPT: f2_pos_004.txt (text ID t002629) =====
+Text ID: t002629
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t001560_gpt.txt
+File:   corpus/05_profiled_gpt/t000924_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: odd, bloke
-Yeah, that trip just wasn’t as much fun as the first time we went, really. The doorman at the Comedy Store was so unwelcoming it sort of killed it for us, so we didn’t bother staying. We just wandered round Leicester Square for a bit instead, not really knowing what to do next. Then this bloke came up selling tickets and asked if we fancied a comedy night at a hotel. It sounded a bit odd, and the venue was quite strange when we got there, but actually it turned out to be really funny in the end.
+Score (f2_pos): 8
+Loading words (f2_pos), N=8: build, themselves, become, different, set, more, real, own
+well it is a bit like Chinese whispers, isn’t it, but with pictures and people instead of just a sentence going round a circle. I’m imagining it very simply, Monday to Friday, you start with one person on the Monday, and then on the Tuesday you talk to someone they’re connected to. Then Wednesday’s person is connected to Tuesday’s, and so on through the week. Each step along, you’re only ever one person away from the last interview, so the chain builds quite naturally.
 
---- Loading words for this example (pos): odd, bloke
+Those connections could come through social media – Facebook friends, Twitter followers, LinkedIn contacts – or just people they know in real life and actually meet. As you go, you’d start to see that they’re not just randomly connected: they’ve got shared problems, similar interests, similar concerns that keep popping up in slightly different forms.
+
+By the time you’ve done all five, the set of videos themselves becomes a kind of narrative. You can watch them back and see this thread that runs from the original Monday person, through each link, right to the Friday person. Each interview doesn’t just sit on its own; it pushes the story forward, adds a bit more to that picture of what connects them all, and in the end everything sort of loops back conceptually to where you began.
+
+--- Loading words for this example (pos): build, themselves, become, different, set, more, real, own
 
 
-===== EXCERPT: f2_pos_005.txt (text ID t003343) =====
-Text ID: t003343
+===== EXCERPT: f2_pos_005.txt (text ID t002636) =====
+Text ID: t002636
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t001638_gpt.txt
+File:   corpus/05_profiled_gpt/t000931_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: odd, bloke
-Yeah, I was thinking a bag’ll probably turn up somewhere, so I’m not too worried. It reminds me of when I went into a criminal court once and sat up in the public gallery. There was just me, a lawyer – I think she was a woman – a male solicitor, and this bloke who immediately smiled and looked straight at me as I came in. It felt a bit odd, him focusing on me like that, especially in such a quiet room with so few people around.
+Score (f2_pos): 8
+Loading words (f2_pos), N=8: themselves, become, set, more, also, own, idea, lot
+I think what’s really powerful about this idea is that it shows investors a clear journey: here’s the raw starting point, and here’s how it can be developed and improved. It’s not just a finished glossy product, it’s a process they can actually see, which makes the whole project feel more grounded and practical.
 
---- Loading words for this example (pos): odd, bloke
+The Creative Commons side of it is crucial. If we set it up so people can log in to the website and only access the parts of the interview where they themselves appear, they can download and edit those clips for their own digital CVs. That way, they’re not just listing skills, they’re actually showing how they think, how they respond to questions, how they communicate under a bit of pressure. It becomes evidence of their own articulated responses.
+
+But the value of those interviews really hangs on two things: the quality of the questioning, and the quality of the answers. The interviewer has to ask sharp, thoughtful questions, and the interviewees need to be coherent, concise and articulate. A lot of academics and teachers say students are losing that ability to articulate themselves clearly. If that concern is even partly true, then this project isn’t just a CV tool; it’s also a way of practising and showcasing precisely those communication skills that people are worried are disappearing.
+
+--- Loading words for this example (pos): themselves, become, set, more, also, own, idea, lot
 
 
-===== EXCERPT: f2_pos_006.txt (text ID t003303) =====
-Text ID: t003303
+===== EXCERPT: f2_pos_006.txt (text ID t003333) =====
+Text ID: t003333
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t001598_gpt.txt
+File:   corpus/05_profiled_gpt/t001628_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: odd, bloke
-well I I think it's a whole load of things going on with alcoholism you know it’s never just one simple cause there was that woman who stayed with that bloke who was horrible to women and you just think why on earth would you do that? but she clearly didn’t have much self-respect and somehow she clung on to him anyway and I can see a kind of parallel with drinking really because I know for myself I sometimes drank in this odd hope that it would make me feel better about myself, give me some sort of self-respect or confidence and of course it’s completely back to front because the more you drink the less respect you have for yourself in the end it strips it away from you doesn’t it?
+Score (f2_pos): 7
+Loading words (f2_pos), N=7: build, different, rather, than, also, own, lot
+well officially I’m responsible for all the education liaison for the company, so anything that touches schools or universities really comes under my umbrella now. A big driver for it is this whole UK shortage of engineers, so my brief is very much about trying to help address that – getting young people interested in engineering, making sure we’re visible in the right places, that sort of thing.
 
---- Loading words for this example (pos): odd, bloke
+So I spend a lot of time working with schools and colleges, universities, careers events, all those kinds of things, and then also with government where it overlaps – policy stuff, initiatives around STEM, that sort of area. What was happening before was that lots of different bits of the company were doing their own thing in isolation, completely uncoordinated. Every division had its own pet schools, its own little projects, and nobody really knew what anyone else was up to.
+
+My job is to pull all of that together so it actually looks like a coherent programme rather than a series of random acts of kindness. So I’m across the whole group, trying to join the dots between the various silos and make sure we’re not duplicating effort or missing obvious opportunities.
+
+It’s quite a new thing for them – this role never existed before I came in. I’ve literally built it from scratch, there wasn’t a predecessor or a template to follow. So it’s been a case of defining what “education liaison” means for us as a company and then putting the structure and relationships in place to make it work.
+
+--- Loading words for this example (pos): build, different, rather, than, also, own, lot
 
 
-===== EXCERPT: f2_pos_007.txt (text ID t002455) =====
-Text ID: t002455
+===== EXCERPT: f2_pos_007.txt (text ID t002716) =====
+Text ID: t002716
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000750_gpt.txt
+File:   corpus/05_profiled_gpt/t001011_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: chat, bloke
-on Linkedin you basically put your CV on there and all your sort of details, like what you do, what you’re looking for, your criteria, so that you can be headhunted or connect with other professionals. it’s not like Facebook, it’s meant to be totally professional. anyway this young woman lawyer had a profile on there, and she got this message from this middle‑aged bloke who’s a partner in a law firm in London. instead of talking about her work or anything, he just wrote to say she looked absolutely beautiful in her profile picture. it was really flirtatious, like he was chatting her up, even though it’s supposed to be a work thing.
+Score (f2_pos): 7
+Loading words (f2_pos), N=7: build, themselves, rather, than, set, own, idea
+well when I was out there with them I didn’t do this hovering thing, I just tried to get them going and then leave them to it. I set them up with potato printing and leaf printing, showed them how to make patterns with stuff from the kitchen, and in the sandpit I got them to build these long meeting tunnels in the damp sand and then let them carry on. And they really did, once they’d got the idea they just disappeared into their own little world. Afterwards they apparently went back and said that auntie and uncle were better at playing than granny and grandad, which rather proved my point. If you’re constantly doing everything with children, they never get the chance to use their own imagination or work things out. You give them a few ideas, a bit of a start, and then you should step back and let them do it themselves.
 
---- Loading words for this example (pos): chat, bloke
+--- Loading words for this example (pos): build, themselves, rather, than, set, own, idea
 
 
-===== EXCERPT: f2_pos_008.txt (text ID t002559) =====
-Text ID: t002559
+===== EXCERPT: f2_pos_008.txt (text ID t002039) =====
+Text ID: t002039
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000854_gpt.txt
+File:   corpus/05_profiled_gpt/t000334_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: chat, bloke
-there’s this bloke on the internet called stinson hunter, right, and what he does is he gets these girls who look really young to make fake dating profiles and that, and then when some lad starts talking to them he’ll tell them he’s only fourteen. if they still keep chatting and trying it on after that, he basically takes that as them being paedophiles. then he sets them up and traps them, and there’s actually a proper documentary about him doing it all, showing how he catches them and that.
+Score (f2_pos): 7
+Loading words (f2_pos), N=7: build, become, different, sense, more, real, lot
+well I I think a lot of what you’ve been saying is right, really. It does feel as if those natural freedoms we took for granted are being chipped away bit by bit. You see it everywhere now – all this surveillance, all the government snooping, and it’s not just here. The Americans are at it, we’re at it in the UK, and then there’s the whole business with CCTV cameras on every corner. You can’t move without feeling you’re being watched or recorded by somebody, somewhere.
 
---- Loading words for this example (pos): chat, bloke
+At the same time, though, for all that, we’re still relatively lucky compared with some parts of the world. If you look at somewhere like China, for instance, the level of control there is on a completely different scale. They don’t just watch you, they really clamp down on what people can actually do in public. You can’t just have a big public gathering there in the way you could here; they’re very tightly restricted, monitored, broken up if they’re not approved. The state keeps such a firm grip on people’s movements and on any sign of dissent.
+
+What makes it interesting, and a bit unpredictable, is that in China people’s expectations of freedom are starting to rise. As more people see what life is like elsewhere, and as they become more aware, they begin to want more say, more space to speak and to assemble. That sort of rising expectation can’t be bottled up forever. It’s the kind of thing that, over time, can lead to real upheaval – even revolution – if it goes on long enough without any outlet.
+
+But at the moment, the government there still has extremely tight control. They’ve built a whole system designed to keep a lid on those pressures – surveillance, restrictions on gatherings, all of that. So you’ve got this tension: on the one hand, a population whose sense of what freedom ought to look like is slowly expanding, and on the other, a state that’s determined to keep everything firmly in hand. How that plays out in the long run is hard to say, but it does underline how, for all our complaints about being watched here, there are places where the screws are turned much harder.
+
+--- Loading words for this example (pos): build, become, different, sense, more, real, lot
 
 
-===== EXCERPT: f2_pos_009.txt (text ID t001883) =====
-Text ID: t001883
+===== EXCERPT: f2_pos_009.txt (text ID t002639) =====
+Text ID: t002639
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000178_gpt.txt
+File:   corpus/05_profiled_gpt/t000934_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: odd, chat
-I’d never actually met her before, but she acted like we already knew each other. She was all, “how are you?”, “when are you back to work?”, “did you have a nice summer break?”, that sort of thing. It was really odd, because the only connection she had was my email address, which I’d written down to go on this group email about baked goods. Just from seeing that, she started chatting away as if we were old friends, and I really didn’t like it at all.
+Score (f2_pos): 7
+Loading words (f2_pos), N=7: build, become, rather, than, more, idea, lot
+So the whole idea is really about breaking relationships down into explicit, visible steps, rather than treating them as this mysterious thing that just “happens”. For example, imagine an ambitious seventeen- or eighteen-year-old who wants to meet Richard Branson. On the face of it, that sounds impossible. But if they can actually see that someone just one year above them already has a connection with Virgin, and that Virgin is connected to Richard Branson, suddenly it becomes a lot more realistic.
 
---- Loading words for this example (pos): odd, chat
+By mapping that out, you’re showing them: here’s how that meeting could happen, here are the links in the chain. It’s about demonstrating that relationships are built piece by piece, and that even people very close to you in age or experience can be crucial mentors because of the connections they already have.
+
+--- Loading words for this example (pos): build, become, rather, than, more, idea, lot
 
 
-===== EXCERPT: f2_pos_010.txt (text ID t002955) =====
-Text ID: t002955
+===== EXCERPT: f2_pos_010.txt (text ID t003268) =====
+Text ID: t003268
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t001250_gpt.txt
+File:   corpus/05_profiled_gpt/t001563_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: chat, bloke
-I went to this CLIL talk that I actually found really interesting. It was by the same bloke who did that FCE talk before, but he was much better this time because he was presenting his own material rather than someone else’s. I also ended up chatting to someone who asked why I’d never worked at this particular place, which threw me a bit because I honestly didn’t know why – I’ve worked pretty much everywhere else. 
+Score (f2_pos): 6
+Loading words (f2_pos), N=6: become, far, more, almost, idea, lot
+Well, there’s the three of us, and we’ve kind of become a little team. I do all the texts and the graphics side, and then there’s the one who kicks everything off, has the ideas, and keeps an eye on quality, and then the other one who actually implements it all. It’s quite a neat setup because each of us has a clear role, but we work really closely together.
 
-It all felt a bit strange being at the conference, because there were several organisations I’m connected with there – Kaplan, Support for English, and so on. I even managed to discreetly watch this Kaplan woman from Salisbury, who I’m likely to have to deal with in the summer and who’s supposed to be notoriously difficult.
+When we first started with the retreats it was tiny, really – basically just one person holding it all together, doing almost everything. Now it’s turned into this much bigger programme, with loads of retreats and a huge amount of administration attached to it. There are far more people involved these days, on all sorts of bits and pieces.
 
---- Loading words for this example (pos): chat, bloke
+Even so, the three of us are still carrying a very large share of the work. It’s just ended up that way because we’re the ones who’ve been in it from the beginning and we know how everything fits together. So we’ve gone from this little one-person thing to quite a big operation, but our core trio is still doing a lot of the heavy lifting.
+
+--- Loading words for this example (pos): become, far, more, almost, idea, lot

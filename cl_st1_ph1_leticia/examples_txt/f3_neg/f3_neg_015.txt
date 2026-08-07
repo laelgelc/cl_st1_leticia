@@ -1,8 +1,8 @@
-Text ID: t001002
-Group: human
-Model: human
-File:   corpus/05_human/t001002_human.txt
+Text ID: t003615
+Group: unprofiled_gpt
+Model: gpt
+File:   corpus/05_unprofiled_gpt/t000205_gpt.txt
 
-Score (f3_neg): -2
-Loading words (f3_neg), N=2: fact, okay
-and she said your you might need to come in for a scan but I said erm she said you need to come in when it's hurting and I was like well okay well the problem is that it comes and goes and the problem is that I have to book an appointment in advance so if it's hurting and then I book an appointment and then it comes and it's not hurting er what? it's just crap I have no faith in them whatsoever none they're most doctors and my friend's a nurse I've got a couple of nurse friends now and it's a well-known fact that they're basically sign-offs for drug companies
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: finally
+after Heathcliff finally gets control of Wuthering Heights, he decides he wants the other estate as well, so he basically goes after that too. his wife dies, and their son gets brought back, but Heathcliff really doesn’t like him at all. the boy’s really sickly and weak, and Heathcliff just uses him as part of his plan. he forces him to marry Catherine’s daughter, so it’s not romantic or anything, it’s just to secure the property. after that, Heathcliff keeps Catherine and his son at Wuthering Heights like they’re prisoners. they can walk around the house, but they’re basically trapped there and can’t really leave or live their own lives.

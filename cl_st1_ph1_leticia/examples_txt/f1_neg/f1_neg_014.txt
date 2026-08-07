@@ -1,8 +1,8 @@
-Text ID: t000992
-Group: human
-Model: human
-File:   corpus/05_human/t000992_human.txt
+Text ID: t002723
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t001018_gpt.txt
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=1: shit
-no on top of your private pension erm like I said your mum should be okay erm 's pension'll be shit cos it's private you've gotta put a shitload of money in and the return is not very good if he'd put and I doubt this very much that he's con he's he's got a pension pot where he's put about a hundred and twenty thousand into a pension pot that'll buy him a pension of about six thousand pound a year it won't be index-linked I doubt very much that he's saved a hundred and twenty thousand into a pension scheme
+Score (f1_neg): -7
+Loading words (f1_neg), N=7: totally, anyone, completely, try, even, head, just
+I sprang awake with this horrible burning sensation and, for a second, I couldn’t work out what was going on. Then I realised it was my hair that was actually on fire. Instead of anyone helping, they were all just laughing at me, like it was some big joke, which made it even more frightening. I completely panicked and bolted out into the street, trying desperately to put the flames out as I went, not really thinking straight at all. I just kept running, heading towards home, half trying to beat the fire and half trying to get somewhere safe. In absolute hysterics, I rang my mum, convinced that someone had deliberately set me alight, and she just came back at me, totally baffled, swearing and not understanding what on earth I was talking about.

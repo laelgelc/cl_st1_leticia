@@ -33,163 +33,141 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac3	SD fac3
-group	human	1705	-0.19530792	0.57427361
-group	profiled_gpt	1705	0.09736070	0.46587676
-group	unprofiled_gpt	1705	0.06275660	0.47980645
+group	human	1705	3.38181818	1.61609357
+group	profiled_gpt	1705	1.41407625	1.16825734
+group	unprofiled_gpt	1705	1.39237537	1.19528143
 
 === FACTOR LOADINGS (f3_pos) ===
-variables loading on this pole = 6
-huge (.81), thinking (.77), massive (.45), (bloke (.43)), manage (.35), (single (.32))
+variables loading on this pole = 15
+er (.73), wanna (.70), erm (.69), wo (.57), okay (.47), (alright (.46)), cos (.42), somebody (.41), yes (.41), oh (.39), (gonna (.38)), you (.37), (fact (.35)), know (.31), say (.31)
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f3_pos_001.txt (text ID t002630) =====
-Text ID: t002630
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000925_gpt.txt
+===== EXCERPT: f3_pos_001.txt (text ID t000031) =====
+Text ID: t000031
+Group: human
+Model: human
+File:   corpus/05_human/t000031_human.txt
 
-Score (f3_pos): 3
-Loading words (f3_pos), N=3: huge, massive, manage
-I’m thinking back to those filmmaking projects in the nineties, I’m pretty sure Ridley Scott was involved, where they got people all over the UK, and then across the world, to film a “day in the life.” Everyone just went off and shot their own everyday stuff and then sent the footage in. Then there was this massive sifting process, going through all that material to pull out the most compelling bits. From that huge pile of ordinary days, they managed to construct a really powerful narrative, just by choosing and arranging what people had submitted. It’s that idea of lots of different lives, all captured separately, then woven together afterwards into something that feels coherent and meaningful, even though none of the contributors were coordinating with each other at the time.
+Score (f3_pos): 9
+Loading words (f3_pos), N=9: wanna, erm, wo, cos, yes, oh, you, know, say
+like it's awkwar it's really awkward and I'm like stuck in the middle of it because they always ask me about like even last night like she hadn't bothered telling anybody else that she wasn't coming so like I basically said on the girl's group like oh erm dinner at for my birthday let me know if you can make it and everybody else said yes and like just like rather than cos she doesn't wanna look bad she won't say like oh I can't make it so she just won't say anything but then it's even more noticeable so like erm today was just like question mark like asking like cos she said like oh what are you doing for your birthday? and then nobody replied and then she put question mark like to say like oh she's away and apparently had to like like text her to say like are you coming tonight? do I need to play like lay an extra place? because she just doesn't say anything and then it just makes yourself it I dunno that's what makes her a target do you know what I mean? it's really bad
 
---- Loading words for this example (pos): huge, massive, manage
-
-
-===== EXCERPT: f3_pos_002.txt (text ID t002631) =====
-Text ID: t002631
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000926_gpt.txt
-
-Score (f3_pos): 3
-Loading words (f3_pos), N=3: huge, thinking, massive
-What I’m thinking is that what we’re talking about is almost the reverse of what Ridley Scott did. With his projects, they started with this massive quantity of footage – loads of people all over the place filming “a day in the life” – and then the team sifted through it all afterwards and carved out a really powerful narrative from this huge pile of material.
-
-What I’m imagining here is starting with just one really high‑quality “day in the life of”, something quite focused and thoughtful, and then letting it grow outwards from there. So instead of big quantity narrowing down to quality, it’s one strong piece that gradually expands as other connected people add their own days, their conversations, their goals, their needs.
-
-As it scales, you’d hope it still keeps that sense of quality, but now you’re also seeing, much more clearly, what resources people actually require along the way.
-
---- Loading words for this example (pos): huge, thinking, massive
+--- Loading words for this example (pos): wanna, erm, wo, cos, yes, oh, you, know, say
 
 
-===== EXCERPT: f3_pos_003.txt (text ID t002160) =====
-Text ID: t002160
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000455_gpt.txt
+===== EXCERPT: f3_pos_002.txt (text ID t001192) =====
+Text ID: t001192
+Group: human
+Model: human
+File:   corpus/05_human/t001192_human.txt
 
-Score (f3_pos): 3
-Loading words (f3_pos), N=3: thinking, massive, manage
-So I finally got to go to this place I’d wanted to go to all summer, right, and I went with my boyfriend. We had a really nice time, just us, and I was actually quite chuffed I’d managed to fit it in before everything got busy again. Then my mum comes back, hears about it, and immediately starts having a go that we should’ve waited so it could be a “family outing.”  
+Score (f3_pos): 9
+Loading words (f3_pos), N=9: er, erm, okay, cos, somebody, yes, you, know, say
+we put in but then wi somebody was er saying actually you know you ought to put in cos if they find out and you er okay yeah we'll put in if we do need to so we put in for planning permission and then the woman came round to look at the garden look at the area and I'm thinking this was half-built do you know what I mean? and we're still putting in for planning permission so I was saying ah yes erm and she said I'll meet you round the back and she started walking round the bungalow I'm going through the house thinking what do I do what do I do? and I can't ring cos there's nothing he can do he's away and er er er
 
-She acted like I’d done something properly wrong, like I’d personally offended her by doing something as a couple without her there. It wasn’t even anything massive, just a day out, but she turned it into this big drama about being left out and how we’re supposed to do things together.  
-
-And I’m just sat there thinking, what does she actually expect? That every single thing I do with my boyfriend has to involve her somehow? Does she want an invite to absolutely everything, even the private, intimate bits of our relationship? It’s so ridiculous that I end up being sarcastic in my head, like, shall I pencil her in for when we’re in bed as well?
-
---- Loading words for this example (pos): thinking, massive, manage
+--- Loading words for this example (pos): er, erm, okay, cos, somebody, yes, you, know, say
 
 
-===== EXCERPT: f3_pos_004.txt (text ID t002474) =====
-Text ID: t002474
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000769_gpt.txt
+===== EXCERPT: f3_pos_003.txt (text ID t001628) =====
+Text ID: t001628
+Group: human
+Model: human
+File:   corpus/05_human/t001628_human.txt
 
-Score (f3_pos): 3
-Loading words (f3_pos), N=3: huge, massive, manage
-it was quite entertaining really, they were absolutely mad. there’s this picture I remember, of one of them in this massive room where the whole back wall was just covered in these huge square storage units. they filled the whole space, stacked up to like ten or twelve feet high, all meant for the kids to stick their clothes and belongings in. they had this big rule that kids weren’t allowed to climb them at all. and then at one point, they came back in and there was this one child just sitting alone right on the top, and nobody had any idea how he’d managed to get up there.
+Score (f3_pos): 8
+Loading words (f3_pos), N=8: erm, cos, somebody, yes, oh, you, know, say
+so I am responsible for all the education liaison that the company does so at the moment there is an enormous erm shortage of engineers in the UK so my role is to work with schools universities put events on and increasingly work with er at government level on this issue around shortage of of erm engineers so it's sort of divided into quarters really erm in those four areas so it's because realise that they had to do something there was always bits that went on but nobody was coordinating it and nobody was actually giving a strategy to it nobody just knows what the other person was doing cos it's a company that works very much in silos you know they've got these fifteen sixteen divisions that all work in silos and don't very often cross fertilise so er all the education stuff that they were doing nobody knew what was happening either so it was a bit ridiculous so you'd be in contact with and have a conversation and somebody'd say oh yes somebody from your company rang last week and we've done this this and this and you think oh well I want you to do this this and this and nobody does repeat so you know so they were all getting irritated and there's no particular cucohesion and strategy with erm with schools either so that's sort of really what I do and I've just built I started absolutely nothing completely blank nobody had ever done the job before
 
---- Loading words for this example (pos): huge, massive, manage
-
-
-===== EXCERPT: f3_pos_005.txt (text ID t002722) =====
-Text ID: t002722
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001017_gpt.txt
-
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: thinking, manage
-so yeah, this is the message he sent, right. He says he went next door, they offered him this legal herbal weed thing and he thought, oh yeah, that’s fine, it’s legal. Smoked it, and then suddenly he’s having this really horrible trip, can’t stand up, can’t talk, everyone just sitting around watching him fall to pieces. He’s describing how he’s lying there thinking he’s dying or something, totally out of it, and no one’s actually helping, they’re just sort of staring at him and chatting.
-
-Then eventually he manages to get himself home, staggers back, and as soon as he gets in he’s sick everywhere, proper vomiting, and then he texts saying how sorry he is and how angry he is with himself for being so stupid and taking it in the first place. Going on about how awful it was and how he never wants to touch anything like that again.
-
-And I’m reading this thinking, well, you could’ve texted me while this was actually happening, you know? Instead of waiting till after you’ve been sick and had your drama. I’m not your girlfriend or your wife, sitting around making you dinner and waiting for you to come back from getting off your face. It really annoys me being treated like that.
-
---- Loading words for this example (pos): thinking, manage
+--- Loading words for this example (pos): erm, cos, somebody, yes, oh, you, know, say
 
 
-===== EXCERPT: f3_pos_006.txt (text ID t002358) =====
-Text ID: t002358
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000653_gpt.txt
+===== EXCERPT: f3_pos_004.txt (text ID t000942) =====
+Text ID: t000942
+Group: human
+Model: human
+File:   corpus/05_human/t000942_human.txt
 
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: huge, massive
-yeah everyone properly got into that town in the end, it wasn’t just me and that one keen guy. People started putting up these massive houses all the way along this main street, and down the middle you had all the shared buildings – the forge, the brewery, all the communal stuff – so it felt like a proper little place rather than just random blocks everywhere.
+Score (f3_pos): 8
+Loading words (f3_pos), N=8: erm, okay, cos, somebody, oh, you, know, say
+erm no not only are you going to be able to provide some learning to fill some stuff that's gonna be difficult for you to fill otherwise but certainly it's also giving you that warm touchy friendly feeling because everybody wants to say oh we are a lovely university and we are so friendly with our students and they love us so you're trying to warm warm up the bed so to speak by giving people this expectation that okay this case study may not come university but the fact that you've putting it in your online course at university by association means that students might expect that they can do something similar themselves they cou they too could go to a lecturer and say well you know what I've had this great idea how about we go for a coffee and have a chat about it? and the lecturer was like oh my god somebody's come and asked me to go and have a coffee with them and they're an undergrad student I don't even talk to undergrads the you know what I mean? so there's this kind of like you're selling on a a feeling you're not selling just a product you're selling a feeling of the product too like a warmth to it bringing in this idea of like Oxford and Cambridge where you used to go round for a cup of tea with your you know your personal tutor and your personal tutor would ask you all sorts of questions about your life and what you want to do with your life and give you biscuits that idea you know? friendly warm helpful and the good thing about it is is that what you're what you're proving to others is that it's sustainable cos what they're saying is you can come if you want to you can come to our website you can have a look and preview at some of our case studies if you want to make a case study with us about something we are happy to do that but it needs to be done in a formatted way meaning we need you to come and do Monday and then get a person to come and do Tuesday and then Wednesday and Thursday it's not just come and ring on our door on our door and say hey and have got this fantastic idea for a case study you're like great but it's a format that we have to put that into
 
-then on the first of December we put up this huge Christmas tree in the middle, but we didn’t decorate it at all, just left it bare. and that actually worked really well, because everyone who logged on would add something – chuck a few decorations on, leave presents underneath it for other people – so it slowly turned into this really nice, collaborative thing.
-
-just off to the side there was this castle someone had built, and the bloke who owned it kept trying to stir up player versus player fights, but nobody was really biting, it never really took off the way he wanted. after a while, though, you did start to see a bit of vandalism creeping in again, and some stealing, which kind of spoiled the whole communal vibe we’d built up.
-
---- Loading words for this example (pos): huge, massive
+--- Loading words for this example (pos): erm, okay, cos, somebody, oh, you, know, say
 
 
-===== EXCERPT: f3_pos_007.txt (text ID t001892) =====
-Text ID: t001892
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000187_gpt.txt
+===== EXCERPT: f3_pos_005.txt (text ID t000108) =====
+Text ID: t000108
+Group: human
+Model: human
+File:   corpus/05_human/t000108_human.txt
 
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: huge, massive
-like when you think about it, if I had a massive fry-up as my main meal I'd feel like that was loads, but then you look at her and it's insane how much she can put away. she’ll eat these huge portions and just never seems to get any bigger. she’s got like totally normal-sized thighs but she’s absolutely tiny on top, it just doesn’t add up. I’m honestly so jealous, I can’t get my head round how she can eat that much and not put on any weight at all.
+Score (f3_pos): 8
+Loading words (f3_pos), N=8: erm, okay, cos, somebody, oh, you, know, say
+but chances are that somebody else will catch it from me and when we found out it was on a Friday afternoon we thought oh god okay I need to tell everybody there's going to be panic so I sent out an email to say we've had at that point here instances of this this is what it is this is a link to the NHS website about it have a look at it look out for symptoms I'm coming round with antibacterial wipes and we wiped every single surface in that building well in those two buildings entrance doors light bulbs taps the kettle handles every single thing fridge handles everything we could think of erm so we didn't have sick pay at that point but I I sat down with the finance director on Friday and I said look these people have had this you know we said to one of them that's fine we don't want you in we're telling you not to come in cos you're contagious so we'll pay you and she said now it'll be exactly the same for all four of them so yeah something like that like you say about passing things on
 
---- Loading words for this example (pos): huge, massive
-
-
-===== EXCERPT: f3_pos_008.txt (text ID t002682) =====
-Text ID: t002682
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000977_gpt.txt
-
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: huge, massive
-yeah it's not like it's heavy or anything, it's just this massive box, which makes it such a hassle to deal with. It kind of reminds me of our defence, actually. We've got these two big lads at the back, both of them huge, like one of them's about six foot two and looks properly middle-aged, and they're just so slow and rubbish. Then you've got this young wing back who's really skinny and physically weak, but somehow he's miles better than them. He's not strong at all, but he can actually play, which just shows how bad the other two are. For defenders, they're just nowhere near the level they should be.
-
---- Loading words for this example (pos): huge, massive
+--- Loading words for this example (pos): erm, okay, cos, somebody, oh, you, know, say
 
 
-===== EXCERPT: f3_pos_009.txt (text ID t002291) =====
-Text ID: t002291
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000586_gpt.txt
+===== EXCERPT: f3_pos_006.txt (text ID t001261) =====
+Text ID: t001261
+Group: human
+Model: human
+File:   corpus/05_human/t001261_human.txt
 
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: huge, manage
-So in loads of those Latin American countries – like Venezuela, Colombia, Ecuador, Peru, Bolivia – they've all basically got three zones. You’ve got this really dry coastal desert, then the big mountain range, and then on the other side you’ve got proper jungle. It’s mad to think the Incas managed to build and organise an empire across all of that, over such a huge area and such different landscapes. One of the coolest things from that time are the Nazca Lines – have you heard of them?
+Score (f3_pos): 8
+Loading words (f3_pos), N=8: erm, wo, okay, cos, oh, you, know, say
+and so then and then so then she started so she was obviously like she texted me like fuming mate I'm fuming and I'm like oh god I know what this is gonna be about now and erm and so she was like yeah yyou won't y like can't see him Boxing Day cos of his mum or something and I was like I was like oh alright okay and then er and then a little while later she's like oh you know you know he said I couldn't see him Boxing Day? apparently he's he's he did that cos he wants to surprise me on Boxing Day and come round to my house and I was like oh that's good then at least you're seeing him and then a a couple of days later she was like pretty sure he just said that to shut me up and I was like what? I was like what?
 
---- Loading words for this example (pos): huge, manage
+--- Loading words for this example (pos): erm, wo, okay, cos, oh, you, know, say
 
 
-===== EXCERPT: f3_pos_010.txt (text ID t002362) =====
-Text ID: t002362
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000657_gpt.txt
+===== EXCERPT: f3_pos_007.txt (text ID t000923) =====
+Text ID: t000923
+Group: human
+Model: human
+File:   corpus/05_human/t000923_human.txt
 
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: massive, manage
-yeah so when I did go back on the server after that break I’d had this idea in my head for ages about doing this absolutely massive tower, like really ambitious, just shooting up into the sky. But then I started thinking it’d be a bit boring if it was just me doing my own big solo thing again, so instead I started setting these little challenges for people, smaller projects that everyone could get involved in.
+Score (f3_pos): 8
+Loading words (f3_pos), N=8: wanna, okay, somebody, yes, oh, you, know, say
+yeah so you could like you could the first ever video you can video somebody and then you go right how do we know each other? we know each other because this is our connection point then you explore common interests and then somebody says oh and then my friend or my lecturer or my mum or my dad or something like this right? and then you go okay would you ask your friend person whoever if we can erm if they wanna be videoed and you go yeah alright okay so straight on yes or no then the person agrees or not and they come along and they're videoed and then they're talking about their connection points and then you've got this kind of little cluster which is about how people are actually forming networks either over the internet or in physical world or in a virtual world or whatever so when it comes to it the person who you originally started talking to was the person you were genuinely interested in their story but the backdrop story is how people actually help each other and what they're trying to achieve and how you've got this common interests with people so it's kind of like you've got the main character in a film but you've got these secondary characters and they are actually driving the story forward so it's kinda like you can have a little bubble thing where you've got this world of this is about 's social networks are these people and the way that these people are operating within this 's world is what's important to and that's how things get done okay? so what's the outcome of talking to his lecturer is his lecturer said you've got a fantastic idea I think this should be an undergraduate research project and then says oh if I hadn't had that lecturer and been able to talk to him physically I wouldn't have been able to get to the point that I needed to be at
 
-we were working on one of those and we’d got quite a lot of the structure done when this bloke who reckons he’s an expert with TNT decided he was going to “help” with the digging. he blew out the walls a bit too enthusiastically and basically managed to flood the whole area we were working in. water everywhere, completely ruined what we’d already built.
+--- Loading words for this example (pos): wanna, okay, somebody, yes, oh, you, know, say
 
-so after that disaster I just said, look, can we go into creative mode for this bit so we can fix it properly and carry on. they switched creative on and we repaired all the damage and finished what we were doing. and then, because they kind of forgot to turn creative off for me afterwards, I’ve just kept using it since.
 
-with creative mode still on I started putting together these little puzzle challenges, like self‑contained things people can try and solve. I’ve been taking screenshots and videos and sticking them up on Facebook, showing people what I’ve built and inviting them to come on and have a go. it’s turned into this way of using Minecraft less as just a game I play on my own and more as a way of bringing people together, getting friends involved in these creative projects and seeing what they come up with as well.
+===== EXCERPT: f3_pos_008.txt (text ID t001204) =====
+Text ID: t001204
+Group: human
+Model: human
+File:   corpus/05_human/t001204_human.txt
 
---- Loading words for this example (pos): massive, manage
+Score (f3_pos): 8
+Loading words (f3_pos), N=8: wanna, okay, cos, yes, oh, you, know, say
+and even if he turns around and says oh I can't offer you more at this point you say right okay well I wanna know that if I do X Y and Z I will get more money cos otherwise there's no incentive and they know that they can't say right this is what this is how we think you've fared over the last year your goals for the next twelve months are this and expect you to do it for no extra money that's not how it works yes? fighting face but yeah all the
+
+--- Loading words for this example (pos): wanna, okay, cos, yes, oh, you, know, say
+
+
+===== EXCERPT: f3_pos_009.txt (text ID t001191) =====
+Text ID: t001191
+Group: human
+Model: human
+File:   corpus/05_human/t001191_human.txt
+
+Score (f3_pos): 8
+Loading words (f3_pos), N=8: erm, okay, cos, yes, oh, you, know, say
+yes yes labels yes well on the other side they say outward bound but on the other side they say outward bound yes yes yes oh right so it's just right ah yeah that's yeah that's right actually and I've already got the cabin number which is which I know is a is a berth that is yes yes but there's no letter with it? no letter sort of saying we are pleased to upgrade you? no letter saying we are pleased to upgrade you et cetera et cetera? yeah yes interesting yes good good right so just put them on the suitcase and then I'll have them all all ready actually I was sort of looking forward to a letter which did confirm that we are not expected to pay extra but I mean no way you know they would have said there and then that this this you know an upgrade is going to cost you X pounds but as says if they've got s cabins left they are more likely to sell an ordinary cabin which they can sell at a cheaper rate you know than a top quality cabin which they wouldn't want to drop the price so they're it's a sort of double gain er you know they are benefitting from two very pleased passengers of you and I and they might well manage to sell our old cabin er no unbelievably good the roads were qui yes really? yeah well then I'm I arrived just minutes after that in that case cos I'd actually said to them I would probably arrive at about two yeah and I got there at one I mean London was as clear as a bell yeah I mean if you'd been a pedestrian quite a different matter they must the world and his wife was in erm Parliament square and Downing street but has it? well you know it it it's not very good at the minute now but in fact during the day it was absolutely fine not gloriously sunny but it rained until I got onto the M3 and then it actually stopped raining and it's only just started to rain really heavily now I mean it there's obviously a bit of a storm coming across well obviously coming across from the west and from where you are yeah yes right okay darling well just put the tabs I know what nu oh god yes I I know what number of cabin we've got to put on it erm so I'll fill I'll fill all that in when we come right dear? right we've erm we did a we did a little shop in Lidl and amazi you know those enormous great er l oh oh
+
+--- Loading words for this example (pos): erm, okay, cos, yes, oh, you, know, say
+
+
+===== EXCERPT: f3_pos_010.txt (text ID t001417) =====
+Text ID: t001417
+Group: human
+Model: human
+File:   corpus/05_human/t001417_human.txt
+
+Score (f3_pos): 8
+Loading words (f3_pos), N=8: wanna, erm, cos, yes, oh, you, know, say
+can't wait yeah do you know I bought erm my brother-in-law who is coming with us a voucher for the for his birthday September and another one for Christmas so and I you know with a note in his birthday one in September we'll go together to the in January and we'll get a a refresher lesson you know cos I was just a disaster on the slopes and I'd like to go to the and and have a lesson oh yes yes he said yeah great and then I said to the boys do you wanna go? and they said yes and we'll do something I said but theirs'll just be a cheaper version and it'll have to be at weekend whereas I could go in the week as could anyway so I'm all set looking at what there was on the internet he came after Christmas and it oh I've had a look on the internet at the I said yes said perfect he said there's an over-fifties erm morning three hours and it comes with a cup of tea
+
+--- Loading words for this example (pos): wanna, erm, cos, yes, oh, you, know, say

@@ -1,8 +1,12 @@
-Text ID: t004970
+Text ID: t004334
 Group: unprofiled_gpt
 Model: gpt
-File:   corpus/05_unprofiled_gpt/t001560_gpt.txt
+File:   corpus/05_unprofiled_gpt/t000924_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: odd, bloke
-yeah well this time it just wasn't as fun as when we'd been before, you know, because the doorman was so unwelcoming, really miserable, so we just thought oh forget it and wandered off round Leicester Square instead. We were just sort of walking about and then this bloke came up, one of those ticket seller types, and he was like do you fancy a comedy night at this hotel round the corner. It sounded a bit odd, really, a hotel of all places, but we went along anyway, and it was actually really funny in the end, just a really strange little venue.
+Score (f2_pos): 8
+Loading words (f2_pos), N=8: themselves, become, sense, set, more, real, own, almost
+well yeah what I was thinking was it’s almost like Chinese whispers, but not in a negative way – more that sense of a story passing along a chain of people. So you start on the Monday with one person, and then on the Tuesday you talk to someone they’re connected to, and then Wednesday it’s someone connected to *that* person, and so on through to Friday. Each new interviewee comes out of the previous one.
+
+Those connections could be anything – maybe they know each other on Facebook or Twitter, maybe they’ve actually worked together or met at an event – but the point is that there’s a real link, not just a random pick. As you go along, what starts to come out are the things they share: similar problems, overlapping interests, common concerns. You’d begin to see patterns in what they’re worried about or excited by.
+
+And the nice thing is that the videos themselves become the thing that ties it all together. Each one doesn’t just sit on its own; it refers back to the earlier person and sets up the next one, so you get this kind of narrative chain. By the end of the week you’ve got a little story arc that leads all the way back to the original person, and at the same time keeps pushing the story forward through each new connection.

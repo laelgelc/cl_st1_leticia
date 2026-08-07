@@ -1,8 +1,8 @@
-Text ID: t002060
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000355_gpt.txt
+Text ID: t000815
+Group: human
+Model: human
+File:   corpus/05_human/t000815_human.txt
 
-Score (f5_pos): 2
-Loading words (f5_pos), N=2: awful, horrible
-yeah he did turn up but it was just so awkward, you know? his sister only found out on Facebook and then everything kind of fell apart around that time. she was really badly affected by it all, it must have been awful for her, but she’s fine now, she’s okay. and I’ve had a really hard time myself as well, with work and all sorts of other things, so I do understand. but I really feel like we’re here to go through these horrible bits and then come out the other side stronger.
+Score (f5_pos): 4
+Loading words (f5_pos), N=4: pound, three, ten, two
+and I was like hold the phone Michael what the hell? Two sausages beans and two eggs and he was like three pound twenty-four and I was like are you sure that's right Michael? And he said are you doubting me? And I said well I w I wouldn't dare Michael I wouldn't dare but it is quite early in the morning I just wonder whether you accidentally slipped on the button for sausage and pressed it ten times rather than two times because that's a bit obscene Em and I said if you're gonna recalculate it as more I wanna just have that price please eh and he did it again and it came out at two pounds and I was like right so how did we get the three pounds twenty-four? and he was like yeah I n I'm so sorry about that such a piss take if he didn't I think he does it on purpose because obviously he's the manager so he just overcharges everybody

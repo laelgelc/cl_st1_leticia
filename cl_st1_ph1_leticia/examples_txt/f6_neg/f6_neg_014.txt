@@ -1,8 +1,8 @@
-Text ID: t002357
+Text ID: t001855
 Group: profiled_gpt
 Model: gpt
-File:   corpus/05_profiled_gpt/t000652_gpt.txt
+File:   corpus/05_profiled_gpt/t000150_gpt.txt
 
 Score (f6_neg): -2
-Loading words (f6_neg), N=2: guy, everyone
-Yeah, it was kind of like a virtual communist state, actually. What I did was I went to the central co-ordinates of the map and I built this town, so you’d have all the communal facilities there and a big mine underneath that everyone could use. And then there was this one guy who was really, really dedicated, and he just made the place look incredible – he went round improving all the buildings and then he built this absolutely huge barn for all the animals. After that it really became this proper focal point on the map, and people started building all their stuff around it.
+Loading words (f6_neg), N=2: horrible, thinking
+Sometimes when I’m sat there in traffic having this really stressful internal monologue, I’m like, if I had something really important to do, if my job really mattered, then I could sort of justify it. Like, if I had loads of responsibility, proper meetings to get to, people relying on me, then yeah, maybe the horrible commute would feel worth it. But instead I’m just sat there thinking, realistically, it probably doesn’t even really matter if I get to work that day or not, and that just makes the whole thing feel even more pointless.

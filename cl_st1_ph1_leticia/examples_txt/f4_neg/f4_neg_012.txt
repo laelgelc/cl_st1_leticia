@@ -1,8 +1,8 @@
-Text ID: t001351
-Group: human
-Model: human
-File:   corpus/05_human/t001351_human.txt
+Text ID: t001940
+Group: profiled_gpt
+Model: gpt
+File:   corpus/05_profiled_gpt/t000235_gpt.txt
 
-Score (f4_neg): -1
-Loading words (f4_neg), N=1: minute
-oh my god when we were in I didn't see many couples I was so happy there was a lot of groups of friends in the erm nando's I went to I was so happy but then we went like it was early so we was like let's just go cinema and just watch something we are not watching Fifty Shades my sister's seventeen anyway she can't watch it so we was gonna watch erm the Kingsman right? cos you said it was good and my sister said her friend said it was good too so we are on our way there and had clocked that the movie was starting in was six minutes we was twenty minutes away
+Score (f4_neg): -2
+Loading words (f4_neg), N=2: straight, change
+I was saying, I actually asked him a few months ago, when we were in the car, if he thought he’d end up marrying her, and he just went, “yeah, probably.” And now they’ve literally just broken up, straight after that holiday – I think it was Majorca or something – because he said it just “didn’t feel the same” anymore. So it’s all changed really quickly. But at least he actually made the decision to end it, rather than just dragging it out when they’d been together that long.

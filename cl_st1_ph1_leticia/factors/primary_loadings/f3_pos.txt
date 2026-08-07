@@ -1,2 +1,2 @@
-variables loading on this pole = 4
-huge (.81), thinking (.77), massive (.45), manage (.35)
+variables loading on this pole = 12
+er (.73), wanna (.70), erm (.69), wo (.57), okay (.47), cos (.42), somebody (.41), yes (.41), oh (.39), you (.37), know (.31), say (.31)

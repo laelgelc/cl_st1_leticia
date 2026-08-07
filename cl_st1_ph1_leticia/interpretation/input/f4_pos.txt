@@ -33,171 +33,141 @@ whereas the excerpts are only 10 high-scoring samples.
 
 === MEAN SOURCE SCORES ===
 Effect	group	N	Mean fac4	SD fac4
-group	human	1705	0.33372434	0.65770570
-group	profiled_gpt	1705	0.82639296	0.94216946
-group	unprofiled_gpt	1705	0.79648094	0.94334178
+group	human	1705	0.88093842	0.94161437
+group	profiled_gpt	1705	0.09677419	0.91896817
+group	unprofiled_gpt	1705	0.18005865	0.89590946
 
 === FACTOR LOADINGS (f4_pos) ===
-variables loading on this pole = 13
-push (.53), (least (.47)), bother (.45), feel (.39), stick (.37), clear (.35), carry (.34), (more (.34)), (way (.34)), expect (.32), make (.32), (everyone (.31)), head (.30)
+variables loading on this pole = 8
+shit (1.07), fuck (.75), god (.53), sorry (.40), gonna (.39), guy (.38), like (.35), (cos (.31))
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f4_pos_001.txt (text ID t002025) =====
-Text ID: t002025
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000320_gpt.txt
+===== EXCERPT: f4_pos_001.txt (text ID t000194) =====
+Text ID: t000194
+Group: human
+Model: human
+File:   corpus/05_human/t000194_human.txt
+
+Score (f4_pos): 6
+Loading words (f4_pos), N=6: shit, fuck, sorry, gonna, guy, like
+so can I can I add my two pennies worth? okay with men they clearly I think men are very very good at distinguishing erm what other men are trying to achieve yeah? they're pretty clear I think in the cut in when you get to be a manager you start to wield some power yeah you either like it or you don't hopefully you do like it yeah otherwise you wouldn't do it but from the guys as as you call it you know the types of words you'd use when you were talking about engineers with senior engineers or or management in engineering companies swing their dicks around suck my cock you know the way you would actually describe these people you were working with you know or in meetings with it sounded horrendous it sounded really like too fucking much in many ways yeah and what I didn't like about it was it was so male dominated it was so much male talk it was so much like I'm an alpha male you're not you're be you're a whatever so you're gonna have to follow me because basically I've got the power shut up fuck off and you'll do what I say yeah? and that male dominated world I'm sorry if you don't fit into it it's shit it's crap it's it's gotta be one of the worst places to be if you're if you wanna be your own man yeah like most men want to be their own men who wants to actually just roll over and go yeah fuck off I just wanna be erm dominated by another man no you don't what what man really wants to be dominated by another man? I mean really I don't want to be fucking dominated by another woman so my idea of this psyche the driver is that actually sometimes it gets to the point where I'm not management I'm fucking off I'm gonna be my own fucking boss because no fucking man is going to fucking talk to me like that
+
+--- Loading words for this example (pos): shit, fuck, sorry, gonna, guy, like
+
+
+===== EXCERPT: f4_pos_002.txt (text ID t001017) =====
+Text ID: t001017
+Group: human
+Model: human
+File:   corpus/05_human/t001017_human.txt
 
 Score (f4_pos): 5
-Loading words (f4_pos), N=5: feel, stick, clear, carry, make
-well what I tend to do is a tiny bit of planning, but really just to have something in my back pocket. I’ve got the “English File Upper Intermediate” PDFs on the laptop, and at the beginning with this student we actually went through the book because that’s what she wanted. Over time, though, we’ve drifted away from following it page by page, and now I mostly use it as a source of topic ideas or the odd exercise if it fits. The lesson itself is really led by whatever she wants to talk about on the day.
+Loading words (f4_pos), N=5: shit, fuck, sorry, gonna, like
+what the fuck is the matter with this kid? Look I'm not kidding I just got money and saw neighbour he invited me in and I thought what the hell? Five minutes we sat down and he offered me a smoke on some herbal weed legal high well I had a bad one and had a bad trip for ages and couldn't talk or stand up four people watched me by the way as I ended up looking like I need sectioning so when so so when I got home I was going to text you and threw up a lot I've been back and told him that that shit is dangerous I'm so sorry for this I'm so pissed off for trying it I thought it would do nothing at all yes I would like to as soon as I sort myself out a bit if that's okay all of the above is the truth this kid is fucked in the head genuinely genuinely fucked in the head so he's gone next door had a bit of pot it's affected him really badly so he's gone home been sick hasn't thought to text me during any of this it fucks me off cos I'm not his girlfriend I'm not his wife I'm not gonna sit around making him dinner
 
-The only real “system” I stick to is my A4 sheet. I always divide it into three sections before the lesson starts. One section is for error corrections that I want to come back to at the end, so I’m not constantly interrupting her flow. Another section is for new vocabulary, often idioms, and I’ll jot down the phrase and a quick meaning so she’s got a clear record. The third section is for pronunciation notes.
-
-With the pronunciation, I don’t force phonetics on them unless it actually means something to that particular student. If they’re comfortable with phonetic symbols I’ll use them, but quite often I just write things in a way that I know they’ll remember and understand. The idea is that the sheet makes sense to them, not that it’s technically perfect.
-
-She takes that A4 sheet away with her at the end of the lesson, so it becomes a little personalised record of what we did. During the lesson I’m doing on‑the‑spot correction when it feels appropriate, and if it doesn’t, I just note it down for later and carry on. It’s very straightforward, and with that structure in place it really is easy money.
-
---- Loading words for this example (pos): feel, stick, clear, carry, make
+--- Loading words for this example (pos): shit, fuck, sorry, gonna, like
 
 
-===== EXCERPT: f4_pos_002.txt (text ID t002681) =====
-Text ID: t002681
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000976_gpt.txt
-
-Score (f4_pos): 5
-Loading words (f4_pos), N=5: feel, clear, carry, expect, make
-no they really didn’t, and that’s exactly what I was trying to get across to her. I just don’t connect with the way I’m expected to teach at the moment. There aren’t those really engaging, visually attractive, step‑by‑step materials that guide the students through and make the learning objectives clear and motivating. Instead, I end up feeling a bit lost, as if everything depends on me improvising and carrying them. I don’t think it should be like that; the responsibility should sit more with the learners. I see myself more like a film director, shaping things, not doing absolutely everything.
-
---- Loading words for this example (pos): feel, clear, carry, expect, make
-
-
-===== EXCERPT: f4_pos_003.txt (text ID t003368) =====
-Text ID: t003368
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001663_gpt.txt
+===== EXCERPT: f4_pos_003.txt (text ID t001663) =====
+Text ID: t001663
+Group: human
+Model: human
+File:   corpus/05_human/t001663_human.txt
 
 Score (f4_pos): 4
-Loading words (f4_pos), N=4: feel, stick, make, head
-like I know it sounds awful but it’s really hard to complain when he’s working loads, because that’s literally what’s paying for my summer. I’m just swanning about and he’s knackered at work, so I feel like I’ve got no right to kick off about not seeing him. And I hate shouting, I hate making anyone feel bad, especially him. I’m not that kind of girlfriend at all – I’m really laid-back, I don’t get jealous, I don’t sit there going “where are you, who are you with?” or checking up on him. He can go where he wants, see who he wants, and I’m fine with it. That’s why this is doing my head in a bit, because it’s actually really hard for me to say I’m unhappy with it, when I’m usually so chilled about everything. It’s like I’m stuck between not wanting to be a cow and actually wanting a bit more from him.
+Loading words (f4_pos), N=4: shit, fuck, guy, like
+so it's difficult cos like I can't say to him oh you're working too much cos he basically pays for the lifestyle that I have in the summer anyway like normally I pay for everything but in the summer he pays for the lifestyle I have and it's difficult I can't I don't want to shout at him I don't like shouting at anyone like especially my boyfriend or a guy or whoever it doesn't matter who it is I don't like shouting at anyone or making anyone feel bad and I'm not that sort of person I'm not one of these girls that like where the fuck were you? who have you been texting? all that sort of shit like if he wants to go out or any guy that I'm with if they want to go out with some girls or some guys it doesn't matter who it is I don't care okay have a good night I wanna go out with my friends sort of thing that's the sort of person that I am so er it's been hard lately
 
---- Loading words for this example (pos): feel, stick, make, head
-
-
-===== EXCERPT: f4_pos_004.txt (text ID t002096) =====
-Text ID: t002096
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000391_gpt.txt
-
-Score (f4_pos): 4
-Loading words (f4_pos), N=4: feel, clear, carry, head
-when I said I’d had a good night’s sleep, what I’m trying to explain is that it wasn’t because everything was suddenly sorted in my head or because I’d had some great revelation about us. It was really because, after seeing you on Saturday evening and realising you were alright and your life was going on, a lot of the guilt I’d been carrying eased off. Earlier in the day I’d felt a bit buoyed and took that as a sign I was just feeling better, but actually it was the guilt lifting. And that’s the thing – the improvement was more about reduced guilt than a strong, clear desire to come back, which is what my reason and feelings really should be pointing to.
-
---- Loading words for this example (pos): feel, clear, carry, head
+--- Loading words for this example (pos): shit, fuck, guy, like
 
 
-===== EXCERPT: f4_pos_005.txt (text ID t001979) =====
-Text ID: t001979
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000274_gpt.txt
+===== EXCERPT: f4_pos_004.txt (text ID t000147) =====
+Text ID: t000147
+Group: human
+Model: human
+File:   corpus/05_human/t000147_human.txt
 
 Score (f4_pos): 4
-Loading words (f4_pos), N=4: push, bother, clear, make
-With a new top set of first years, that first week I wouldn’t bother with maths at all. I’d tell them straight, “You’re not doing maths this week, we’re doing behaviour.” I made it clear I was only interested in how they behaved in my lessons. What they did elsewhere, that was between them and whoever was teaching them, but in my room it was my rules.
+Loading words (f4_pos), N=4: shit, fuck, gonna, like
+like it's so frustrating the worst it's the worst it's taken me is two it's taken me two and a half and a half hours to get to work before and annoyingly it happened on the same day I had a really shit journey into work so left at half eight got in at eleven and then they said oh don't worry about working your time back cos that's the thing then you owe them time you're already having a fucking shit and they're like oh you owe us time great so I got in at eleven and they were like oh don't worry about paying back your time today otherwise it's just gonna be a really long day like head off as normal so then I head off I li left at half five I think and it took me two hours to get home as well eleven hour day and I only had like six hours at work great
 
-I’d get them talking, saying, “You know how to behave, don’t you? And you know how to muck about as well.” And they’d admit it, of course. Once they’d said it themselves, I’d push them: “Right then, if you know the difference, you don’t play up for me, agreed?” And they’d agree, because they’d more or less talked themselves into it.
-
-Doing that in the first week set the pattern. I used to say to them, “If we get this sorted now, this is how it’ll be for the next five years.” And it generally was.
-
---- Loading words for this example (pos): push, bother, clear, make
+--- Loading words for this example (pos): shit, fuck, gonna, like
 
 
-===== EXCERPT: f4_pos_006.txt (text ID t001839) =====
-Text ID: t001839
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000134_gpt.txt
+===== EXCERPT: f4_pos_005.txt (text ID t001181) =====
+Text ID: t001181
+Group: human
+Model: human
+File:   corpus/05_human/t001181_human.txt
 
 Score (f4_pos): 4
-Loading words (f4_pos), N=4: feel, stick, make, head
-well I only ended up going on my own because the girl I’d gone out there with had gone off to meet some of her friends, they were doing a road trip or something, so I suddenly had this random free night before my tour actually started. I was just sat there thinking, I really don’t want to be stuck in some New York hotel room on a Friday night, like what a waste, so I thought sod it, I’ll find something to do.
+Loading words (f4_pos), N=4: shit, gonna, guy, like
+you might recognise him if you saw him erm we were gonna go to Paris where does her marathon but she's decided that well her parents had already booked it's really weird like her parents had booked a hote two hotel rooms one for them and one for and if he wanted to go but they'd sort of said oh if you decide you'd rather go with your friends like you can just take our bookings or whatever so at first was like oh I'm not really that fussed about my parents coming like if you guys come we can have a trip make a trip of it or whatever and then like things went quiet for a couple of weeks and I was like oh so what's the situation with Paris? so like oh well my parents have decided to come and you know like I'm stressing about everything a little bit so like I'd rather stay in a hotel with them and 'll probably stay with me but I really want you guys to come but you'll just have to make your own arrangements and we were just a bit like mm that sounds a bit shit like that's really awkward then like
 
-I saw there were cheap tickets for a Yankees game and just bought one without really thinking it through, it was more like, oh that’ll be cool, rather than actually planning it properly. It was only afterwards that it hit me I’d have to get myself up to the Bronx on my own, on the subway, and then walk from this really rough-looking station to the stadium. 
-
-On the way there I was already a bit on edge, and then this really salacious bloke stopped me and started being creepy, which just made me feel even more exposed. By the time I was heading back I was honestly really scared, like properly aware of how stupid it was, just me on my own in that area at that time of night, all because I hadn’t wanted to be bored in my room.
-
---- Loading words for this example (pos): feel, stick, make, head
+--- Loading words for this example (pos): shit, gonna, guy, like
 
 
-===== EXCERPT: f4_pos_007.txt (text ID t002099) =====
-Text ID: t002099
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000394_gpt.txt
+===== EXCERPT: f4_pos_006.txt (text ID t000473) =====
+Text ID: t000473
+Group: human
+Model: human
+File:   corpus/05_human/t000473_human.txt
 
 Score (f4_pos): 4
-Loading words (f4_pos), N=4: feel, stick, make, head
-whether it’s “me” or “us”, I don’t think there’s any point trying to pin blame on either of us. You haven’t done anything wrong, and I really don’t want you sitting there feeling guilty or beating yourself up about it, because that’s just not what this is about.
+Loading words (f4_pos), N=4: shit, fuck, god, like
+like they are rough as fuck I'm in my killer heels hooker heels people going to work in them you know tottering along the girls with like their boobs hanging out of their work shirts and dr like skirts up here full works for the office I was like holy fuck bleach blond hair like breaking off cos it's that shit I was like oh my god like you look horrendous but where I grew up it was like that I my friends that I've left at home would think that was acceptable so I've moved here and I've been here for three years now and I've kind of got a bit got a bit soft in my own age thinking that the people that live here are are general standard no they're not the farther north you go peterborough is the standard that I should be used to so I think is quite safe and then you hear and you're like what the fuck because no matter how rough the people are and I mean I've told you about people sending for fighter from you would never see that never
 
-What’s happened between us hasn’t been about you doing some specific bad thing, or me doing some specific bad thing. It’s the way our characters have interacted over the last two years, the way we fit – or don’t fit – together. That’s what’s led us here, not some single action you should feel ashamed of or held responsible for.
-
-I know you might not see it that way, but from my side I’ve been absolutely eaten up by guilt about ending it. I’ve gone over and over it in my head, feeling awful about hurting you and about not being able to make it work. So if anyone’s been drowning in guilt, it’s me.
-
-And that’s exactly why I’m saying this: the whole guilt thing, for both of us, it just doesn’t help. It keeps us stuck. If you’re going to move on – and if I’m going to move on – we both have to drop this idea that someone has to be “at fault”. There doesn’t have to be a villain here. It’s just the way things have turned out between two people over time, and the only way either of us gets any peace is by letting go of the guilt and that way of thinking.
-
---- Loading words for this example (pos): feel, stick, make, head
+--- Loading words for this example (pos): shit, fuck, god, like
 
 
-===== EXCERPT: f4_pos_008.txt (text ID t002874) =====
-Text ID: t002874
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001169_gpt.txt
+===== EXCERPT: f4_pos_007.txt (text ID t001028) =====
+Text ID: t001028
+Group: human
+Model: human
+File:   corpus/05_human/t001028_human.txt
 
 Score (f4_pos): 4
-Loading words (f4_pos), N=4: feel, stick, make, head
-It’s really been as I’ve got older that I’ve started to notice things changing. Physically, there’s the rheumatism and the joint pain, and I just can’t do those nights out one after another like I used to. I need more recovery time, and that’s a bit of a shock when you remember how you were before. 
+Loading words (f4_pos), N=4: shit, fuck, god, like
+oh shit I've done that before oh that was just after New Year when I was back and I walked into town and was waiting for this bus back and it was like minus seventeen or something ridiculous and I had been at this bus stop and I thought oh thank god only five minutes to the bus and I waited and waited and waited and waited and then I realised fuck it's Saturday and it was more than half an hour oh no I'm never ever doing that again so I'm quite yeah remember to look what day it is
 
-And then there’s the technology side of it. I find it harder and harder to understand and remember how to use certain things, and that really knocks my confidence. It’s not that I’m completely hopeless, but when something doesn’t make sense or won’t stick in my head, I feel different from the confident person I once was. All of that together makes me feel less sure of myself than I used to.
-
---- Loading words for this example (pos): feel, stick, make, head
+--- Loading words for this example (pos): shit, fuck, god, like
 
 
-===== EXCERPT: f4_pos_009.txt (text ID t002930) =====
-Text ID: t002930
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t001225_gpt.txt
+===== EXCERPT: f4_pos_008.txt (text ID t000702) =====
+Text ID: t000702
+Group: human
+Model: human
+File:   corpus/05_human/t000702_human.txt
 
 Score (f4_pos): 4
-Loading words (f4_pos), N=4: feel, clear, carry, make
-when he asks me for a lift home, I want to be able to just say yes, like it’s no big deal, because that’s what I’d always hoped we could do – just be normal and get past all the awkwardness. I honestly thought if we just sat down and talked, we could clear the air and then carry on as friends, especially with the boys being on the same team and all that. 
+Loading words (f4_pos), N=4: shit, sorry, gonna, like
+um but it was really good fun it was one of those silly drawing on face type sleep-overs and brought like midnight feasts round which consisted of like the entire contents of the Spa sweet shelves She just bought so much shit My mum was like fff you're not gonna have that after you've brushed your teeth I was like I might do hmm it was very fun and obviously my parents were asleep upstairs so occasionally you know every s few hours they'd come down and be like can you be quieter? I'm sorry
 
-But when we actually had that conversation, he came out with it and said he loved me. I was completely taken aback, because that is not the impression I’ve ever had from him. If anything, it’s been the opposite. He’s always laughing at me, criticising me, making fun of me, teasing me, and half the time he talks in these riddles so I can’t tell what he really means. 
-
-All of that has always made me feel like he thought I was a bit over the top or ridiculous, not someone he actually cared about in that way. So hearing him suddenly say he loved me, after all that, just didn’t match up with how he’s behaved towards me for so long, and it really threw me.
-
---- Loading words for this example (pos): feel, clear, carry, make
+--- Loading words for this example (pos): shit, sorry, gonna, like
 
 
-===== EXCERPT: f4_pos_010.txt (text ID t001779) =====
-Text ID: t001779
-Group: profiled_gpt
-Model: gpt
-File:   corpus/05_profiled_gpt/t000074_gpt.txt
+===== EXCERPT: f4_pos_009.txt (text ID t001077) =====
+Text ID: t001077
+Group: human
+Model: human
+File:   corpus/05_human/t001077_human.txt
 
 Score (f4_pos): 4
-Loading words (f4_pos), N=4: feel, clear, expect, make
-there was this one girl we had, she was barely sixteen and had quite significant special needs, and her gran had been looking after her. then her grandmother just couldn't cope any more, so the council stepped in. instead of finding some sort of supported placement, they actually gave this girl her own flat. I just thought, how on earth is that safe? she was so vulnerable, and it felt completely inappropriate to expect her to manage on her own like that.
+Loading words (f4_pos), N=4: shit, fuck, gonna, like
+and so did you we both lived through it together and let's face it I didn't fucking help myself when I put that Facebook status like I was just as much to blame as they were when I put that and yet I apologised and yet it went too far after that but before that as soon as I put that status I were inviting this shit I were inviting the fact that I didn't like them and they didn't like me we made it known by me putting that status you know? and it doesn't matter what you said or it didn't say they were always gonna do what they were gonna do whether I put that status or not or whether you said something or if I said something
 
-what made it more frustrating was that in school she was absolutely fine. as long as you gave her clear boundaries and routines she responded really well, she knew what was expected and she could cope. it really showed that with the right structure she didn’t need to be left in that risky situation.
+--- Loading words for this example (pos): shit, fuck, gonna, like
 
-and she wasn’t unique. we had a lot of pupils coming to us from mainstream schools who’d been excluded from classrooms. by the time they arrived they were totally unused to any sort of learning environment. some of them were genuinely surprised to be asked to do any work at all. they’d spent so long out of proper lessons that the idea of sitting down and learning was almost alien to them.
 
---- Loading words for this example (pos): feel, clear, expect, make
+===== EXCERPT: f4_pos_010.txt (text ID t000978) =====
+Text ID: t000978
+Group: human
+Model: human
+File:   corpus/05_human/t000978_human.txt
+
+Score (f4_pos): 4
+Loading words (f4_pos), N=4: shit, gonna, guy, like
+yeah he joked at me I think what it wa I can't remember what it was he's we're in a war we're er warming up before training of like before Christmas and he said summat about being embarrassed cos I knocked him off balance or something and I started laughing and literally just got me arm and just went like that and threw him and I was like are you having a laugh? cos he weighs nothing and I think he just thought that I was in the same boat as him but I'm light but I'm not wweak but erm yeah the I dunno who was right right wing back but yeah these guys the three slowest centre backs I've ever seen like is probably about as pacey as a regular centre back at this standard but he can't judge a ball and doesn't know what he's doing so this ball's coming down it's dropping I'm thinking right a proper centre back's just gonna head that away easy head it away or bring it down do something with it he goes to it and then goes shit no backs off
+
+--- Loading words for this example (pos): shit, gonna, guy, like
